@@ -1,0 +1,38 @@
+{{Speciesbox
+|name=Nicobar parakeet
+|image=PalaeornisCanicepsGould.jpg
+|status=NT
+|status_system=IUCN3.1
+|status_ref=<ref name="IUCN">{{IUCN|id=22685508|title=''Psittacula caniceps''|assessor=BirdLife International|assessorlink=BirdLife International|version=2013.2|year=2012|accessdate=26 November 2013}}</ref>
+|genus=Psittacula
+|species=caniceps
+|authority=([[Edward Blyth|Blyth]], 1846)
+}}
+The '''Nicobar parakeet''' (''Psittacula caniceps''), also known as the '''Blyth's parakeet''', is a [[parrot]] in the [[genus]] ''[[Psittacula]]'',  [[endemism|endemic]] to the [[Nicobar Islands]] of the [[Indian Ocean]]. It is one of the largest parakeets, measuring 56 to 60 cm from the top of the head to the tip of the tail and weighing about 224 g.<ref name="HBW">{{Cite book|title=[[HBW and BirdLife International Illustrated Checklist of the Birds of the World]]|last=del Hoyo|first=Josep|last2=Nigel J.|first2=Collar|last3=David A.|first3=Christie|last4=Andrew|first4=Elliot|last5=and Lincoln D.C.|first5=Fishpool|publisher=[[Lynx Edicions]]|year=2014|isbn=8496553949|volume=Volume 1: Non-passerines|location=Barcelona|pages=}}</ref>
+== Description ==
+It is predominantly green with a yellowish-grey head and prominent black facial markings. It has a black stripe from the forehead to the eyes and a broad black band extending from the lower mandible to the sides of the neck. The upper mandible is red in males and black in females, while the lower mandible is black in both sexes.<ref name="HBW"/><ref name="PoTW">{{Cite book|title=Parrots of the World|last=Forshaw|first=Joseph M.|authorlink=Joseph Forshaw|last2=Knight|first2=Frank|authorlink2=Frank Knight|publisher=[[CSIRO Publishing]]|year=2010|isbn=0643100571}}</ref>
+
+It is listed as near threatened by the [[International Union for Conservation of Nature]] (IUCN). Very little is known about its ecology.<ref name="IUCN"/>
+
+==References==
+{{Reflist}}<!-- Forktail13:17. -->
+
+== External links ==
+* [http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&sid=1541&m=0 BirdLife Species Factsheet]
+
+{{Psittaculini}}
+
+{{Taxonbar|from=Q1270794}}
+
+{{DEFAULTSORT:parakeet, Nicobar}}
+
+
+
+
+
+
+
+
+
+
+{{parrot-stub}}

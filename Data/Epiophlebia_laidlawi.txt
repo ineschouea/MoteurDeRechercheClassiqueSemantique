@@ -1,0 +1,54 @@
+{{Use dmy dates|date=January 2013}}
+{{Taxobox
+| image = EpiophlebiaLarva 2.jpg 
+| image_caption = [[Naiad]]
+| status = NT
+| status_system = IUCN3.1
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Odonata]]
+| subordo = [[Epiprocta]]
+| infraordo = [[Epiophlebioptera]]
+| familia = [[Epiophlebiidae]]
+| genus = ''[[Epiophlebia]]''
+| species = '''''E. laidlawi'''''
+| binomial = ''Epiophlebia laidlawi''
+| binomial_authority = [[Robin John Tillyard|Tillyard]], 1921
+}}
+
+The '''Himalayan relict dragonfly''' (''Epiophlebia laidlawi'') is one of four species of [[Epiprocta]] in the family [[Epiophlebiidae]]. They have at one time been [[Taxonomic classification|classified]] as a suborder [[Anisozygoptera]], considered as intermediate between the dragonflies and the damselflies, partly because the hind wings and fore wings are very similar in size and shape, and partly because the insect at rest holds them back over the body as [[damselflies]] do. These attributes now are known to be misleading however; the genus ''[[Epiophlebia]]'' shares a more recent ancestor with [[dragonflies]] and became separated from other Anisoptera in and around the uplifting Himalayas.<ref name=rim>{{cite journal|author=Tillyard R J |year=1921| title=On an Anisozygopterous Larva from the Himalayas (Order Odonata)|pages= 93–107|volume=22|issue= 2|journal= Records of the Indian Museum|url=https://archive.org/stream/recordsofindianm22indi#page/93/mode/1up/}}</ref><ref name=fbi>{{cite book|url=https://archive.org/stream/FraserOdonata2/odonata2#page/n174/mode/1up/search/Epiophlebia|page=151|title=Fauna of British India. Odonata. Volume 2|author=Fraser FC|year=1934|publisher=Taylor & Francis}}</ref>
+
+The species was first [[Species description|described]] from a larva collected in June 1918 by [[Stanley Wells Kemp|Stanley Kemp]] in a stream just above [[Sonada]] in the vicinity of [[Darjeeling]]. It was identified as an ''Epiophlebia'' by Dr. [[Frank Fortescue Laidlaw|F. F. Laidlaw]] of Devon who dissected the wing sheaths of the specimen and his identification was endorsed by R.J. Tillyard, who described and gave it the commemorative name.<ref>{{cite journal|journal= The Journal of the Darjeeling Natural History Society|title= A missing link|pages=56–59|author=Fraser, F.C.|volume=10|issue=2|year=1935}}</ref>
+
+This species has been found in several locations along the [[Himalayas]] including Chittrey, Mt. [[Shivapuri Nagarjun National Park|Shivapuri]], [[Kathmandu]] area, Solokhumbu region, all in [[Nepal]], where it breeds in streams between 6,000 and 11,500&nbsp;ft (1,800–3,500m). The only other extant species described, ''[[Epiophlebia superstes]]'', is found in [[Japan]]. The two species have a similar physical appearance, black body with bright yellow stripes on the thorax and abdomen.<ref name=fbi/> In 2015, the range proved to include [[Bhutan]] when nymphs were found at several locations.<ref>{{cite journal| author=Dorji, T. |year=2015| title=New distribution records of Epiophlebia laidlawi Tillyard, 1921 (Insecta: Odonata) in Bhutan| journal=Journal of Threatened Taxa | volume=7| issue=10| pages=7668–7675| doi=10.11609/JoTT.o4092.7668-75}}</ref>
+
+''E. laidlawi'' flies at 3000 to 3650 m and has few predators. Alan Davies suggested in 1992 that they bred in waterfalls at 2000 m with the adults flying higher later. Breeding sites at lower altitudes were discovered later. Peter Northcott mentioned 1860-2380m in 1988 but Stephen Butler discovered larvae on Shivapuri at 1800m.
+[[File:EpiophlebiaSuperstesTillyard.jpg|thumb|left|Venation of ''E. superstes'']]
+The larvae grow for five to six years, which is believed to be the longest for any odonate. Specimens may emerge after nine years in many cases. Stephen Butler notes that the larvae stridulate when disturbed. The larvae appear like those of the Anisoptera but are unable to use the Anisopteran jet-propulsion mode of escape; instead they must walk.
+[[File:EpiophlebiaVenation.jpg|thumb|Venation of ''E. laidlawi'']]
+The adult flight is slow and rather uncoordinated. The [[Insect wing|discoidal cell]] in the forewing is uncrossed and four sided and in the hindwing the crossvein is long making the cell distally wide. The [[Glossary of entomology terms#A .E2.80.93 C|arculus]] is situated between the primary antenodals.
+
+In mating, the male grasps the female behind the head as in the Anisoptera.
+
+The female is not accompanied during egg laying. She lays eggs into plant tissue while sitting on the stem of a waterside plant. The eggs are laid from bottom to top in a regular zig-zag pattern. The preferred plants are usually bryophytes.<ref>Silby, Jill (2001) Dragonflies of the world. The Natural History Museum. London.</ref>
+
+==Cited references==
+{{Reflist}}
+
+==References==
+* Butler, Stephen G. 1997. Notes on the collection and transportation of live ''Epiophlebia laidlawi'' Tillyard larvae (Anisozygoptera: Epiophlebiidae). Notul. odonatol. 4(9): 147–148.
+* Sharma, S. and Ofenböck, T. 1996. New discoveries of ''Epiophlebia laidlawi'' Tillyard, 1921 in the Nepal Himalaya (Odonata, Anisozygoptera: Epiophlebiidae). Opusc. zool. flumin. 150: 1–11
+* Svihla, A. 1962. Records of the larvae of ''Epiophlebia laidlawi'' Tillyard from the Darjeeling area (Odonata: Anisozygoptera). Ent. News lxxiii: 5–7.
+* Svihla, A. 1964. Another record of the larva of ''Epiophlebia laidlawi'' Tillyard (Odonata: Anisozygoptera). Ent. News lxxii: 66–67.
+* Tani, K. and Miyatake, Y. 1979. The discovery of ''Epiophlebia laidlawi'' Tillyard, 1921 in the Kathmandu Valley, Nepal (Anisozygoptera: Epiophlebiidae). Odonatologica 8(4): 329–332
+
+==External links==
+* {{IUCN2008|assessor=Clausnitzer, V.|year=2008|id=7896|title=Epiphlebia laidlawi|downloaded=8 October 2009}}
+
+{{Taxonbar|from=Q583939}}
+
+
+
+
+

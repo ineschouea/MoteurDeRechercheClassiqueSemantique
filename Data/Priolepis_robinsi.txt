@@ -1,0 +1,26 @@
+{{italic title}}
+{{Speciesbox 
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name = IUCN>{{cite journal | author1 = Acero, A. | author2 = Larson, H.C. | author3 = Starnes, W.C. | author4 = Van Tassell, J. | last-author-amp = yes | year = 2010 | title = ''Priolepis robinsi'' (errata version published in 2017) | journal = [[The IUCN Red List of Threatened Species]] | volume = 2010 | page = e.T18145A115142344 | doi = 10.2305/IUCN.UK.2010-4.RLTS.T18145A7671016.en }}</ref>
+| taxon = Priolepis robinsi
+| authority = [[Jaime Garzón-Ferreira|Garzón]] & [[Arturo Acero Pizarro|Acero P.]], 1991
+}}
+
+'''''Priolepis robinsi''''' is a [[species]] of [[goby]] native to the [[Atlantic Ocean]] off of [[Santa Marta]], [[Colombia]].<ref>{{FishBase |genus= Priolepis|species= robinsi| month = June | year = 2013}}</ref> The [[Specific name (zoology)|specific name]] honours the [[United States|American]] [[Ichthyology|ichthyologist]] C. Richard Robins (b. 1928) who was at the [[University of Miami]] where he studies neotropical gobies.<ref name = ETYFish>{{cite web | url = http://www.etyfish.org/gobiiformes6/ | title = Order GOBIIFORMES: Family GOBIIDAE (i-p) | accessdate= 14 September 2018 | author1 = Christopher Scharpf | author2 = Kenneth J. Lazara | last-author-amp = yes | work = The ETYFish Project Fish Name Etymology Database | publisher = Christopher Scharpf and Kenneth J. Lazara | date = 14 July 2018}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q2237351}}
+
+{{DEFAULTSORT:Priolepis Robinsi}}
+
+
+
+
+
+
+
+
+{{Gobiidae-stub}}

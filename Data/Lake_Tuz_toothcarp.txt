@@ -1,0 +1,6 @@
+#REDIRECT [[Aphanius anatoliae]]
+
+{{Redirect category shell|1=
+{{R from move}}
+{{R to scientific name|fish}}
+}}

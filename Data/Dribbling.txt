@@ -1,0 +1,338 @@
+{{for|the medical problem|post-void dribbling}}
+
+In [[sport]]s, '''dribbling''' is maneuvering a ball by one player while moving in a given direction, avoiding defenders' attempts to intercept the ball. A player can dribble with their legs (in [[association football]], for example), hands ([[basketball]] and [[handball]]), stick ([[bandy]], [[field hockey]], and [[ice hockey]]) or swimming strokes ([[water polo]]). A successful dribble will bring the ball past defenders legally and create opportunities to score.
+
+==Association football==
+{{see also|Dummy (football)}}
+{{multiple image
+ | align     = right
+ | direction = horizontal
+ | header    = 
+ | header_align = left/right/center
+ | header_background = 
+ | footer    = Left: [[Lionel Messi]] gets past two players in a match for [[Argentina national football team|Argentina]] vs. [[Bolivia national football team|Bolivia]]; Center: [[Daniel Sturridge]] dribbles on the [[Glossary of association football terms#B|break]] in a match for [[Liverpool F.C.|Liverpool]]; Right: [[Eden Hazard]] taking on opposition players during a dribble for [[Chelsea F.C.|Chelsea]]
+ | footer_align = left/right/center
+ | footer_background = 
+ | width     =
+| image1    =Messi_Copa_America_2011.jpg
+| width1    = 150
+| alt1      = 
+| caption1  =
+
+| image2    = Sturridge v Swansea.jpg
+| width2    = {{#expr: (99 * 750 / 536) round 0}}
+| alt2      = 
+| caption2  =
+
+| image3    = Chelsea 6 Maribor 0 Champions League (15599549805).jpg
+| width3    = 200
+| alt3      = 
+| caption3  = 
+}}
+
+In [[association football]], a dribble is one of the most difficult ball skills to master and one of the most useful attacking moves. In typical game play, players attempt to propel the ball toward their opponents' goal through individual control of the ball, such as by dribbling (the usage of technical maneuvers). In order to go past an opponent, dribbling can involve a wide variety of manipulative tricks and [[Dummy (football)#Association football|feints]]; [[Ronaldinho]] would often employ elaborate [[Association football tactics and skills|skills]] and feints, such as the ''[[Flip flap (association football)|elastico]]'', in order to beat defenders.<ref>{{cite web|url=http://arxiu.fcbarcelona.cat/web/english/futbol/temporada_06-07/plantilla/jugadors/ronaldinho.html|title=Ronaldo de Assis Moreira|website=fcbarcelona.cat|publisher=FC Barcelona|accessdate=9 April 2015}}</ref>
+
+Dribbling is often invaluable especially in the third part of a pitch or at the wings, where most attacks take place. Dribbling creates space in tight situations where the dribbler is marked (closely guarded by a defender), and the dribbler can either score or create scoring chances after a successful dribble.  However, dribbling, if poorly mastered and used, may result in the loss of possession either when the ball is intercepted or [[Sliding tackle|tackle]]d by a [[Defender (football)|defender]]. Some players prefer getting past players with speed and physicality, such as the winger [[Gareth Bale]],<ref>{{cite news|url=https://www.theguardian.com/football/2011/jan/27/gareth-bale-inter-bid-40m|title=Gareth Bale: why Inter are going to bid £40m for Tottenham star|publisher= Guardian News and Media|work=guardian.co.uk|date=27 January 2011|accessdate=27 January 2011}}</ref><ref>{{cite web|url=http://www.football-espana.net/45965/gareth-bale-far-done-madrid|title=Gareth Bale far from done at Madrid|publisher=Football España|date=7 October 2014|accessdate=4 January 2018}}</ref><ref>{{cite web|url=https://www.independent.co.uk/sport/football/news-and-comment/strength-skill-stamina-speed-how-do-you-stop-gareth-bale-2124475.html|title=Strength, skill, stamina, speed. How do you stop Gareth Bale?|publisher=The Independent|author1=Mark Fleming|date=4 November 2010|accessdate=4 January 2018}}</ref><ref>{{cite web|url=https://www.fourfourtwo.com/features/fourfourtwos-best-100-football-players-world-2016-6-gareth-bale|title=FourFourTwo’s Best 100 Football Players in the World 2016: No.6 – Gareth Bale|publisher=FourFourTwo|author1=David Cartlidge|date=2 December 2016|accessdate=4 January 2018}}</ref> some players go straight at opponents and look to go past them directly with a [[nutmeg (football)|nutmeg]] (kicking the ball through their legs), such as [[Luis Suárez]],<ref>{{cite news|url=http://www1.skysports.com/football/news/11945/9807385/watch-luis-suarez-nutmegs-david-luiz-twice-in-barcelonas-win-at-psg|title=WATCH: Luis Suarez nutmeg David Luiz twice in Barcelona's win at PSG|agency=Sky Sports|date=16 April 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20150527190240/http://www1.skysports.com/football/news/11945/9807385/watch-luis-suarez-nutmegs-david-luiz-twice-in-barcelonas-win-at-psg|archivedate=27 May 2015|df=}}</ref> whereas others may use feints, control, agility, and acceleration to evade tackles, such as [[Lionel Messi]].<ref>{{cite web|url=http://archiviostorico.corriere.it/2010/aprile/08/Controllo_corsa_tocco_palla_Perche_co_9_100408088.shtml |title=Controllo, corsa, tocco di palla Perché nel calcio piccolo è bello|website=corriere.it|publisher=Il Corriere della Sera|language=Italian|author1=Fabio Monti|date=8 April 2010|accessdate=9 April 2015}}</ref><ref>{{cite web|url=https://www.telegraph.co.uk/sport/football/players/lionel-messi/10487181/Lionel-Messis-improbable-progression-from-struggling-youngster-to-world-super-star.html|title=Lionel Messi's improbable progression from struggling youngster to world super star|website=telegraph.co.uk|publisher=The Telegraph|author1=Guillem Balague|date=2 December 2013|accessdate=9 April 2015}}</ref>
+
+[[File:Garrincha 1962.jpg|thumb|upright|left|[[Garrincha]] (left), Brazilian winger and [[1962 FIFA World Cup|1962 World Cup]] star, is regarded as one of the greatest dribblers of all time.<ref>{{cite web|url=http://www.ifhof.com/hof/garrincha.asp|title=Hall of Fame: Garrincha|publisher=ifhof.com|accessdate=7 July 2015}}</ref>]]
+A skilful dribbler is often hard to dispossess; unsuccessful tackles (which do not reach the ball) may result in a useful [[Direct free kick|free kick]] situation and a reprimand for the offender in the form of a [[penalty card]]. At the [[2018 FIFA World Cup]], Belgium playmaker [[Eden Hazard]], renowned for being difficult to dispossess, set a World Cup record for successful dribbles completed in any World Cup game since 1966, with a 100% success rate in ten dribbles against Brazil.<ref>{{cite news |title=World Cup Stats Insider: Brazil’s Achilles heel, terrific individual performances behind Belgium’s win |url=https://www.foxsports.com.au/football/world-cup/world-cup-stats-insider-brazils-achilles-heel-terrific-individual-performances-behind-belgiums-win/news-story/a9d281a49854caba4b49ae2455a9abdd |date=9 July 2018 |agency=Fox Sports}}</ref>
+
+Early references to dribbling come from accounts of medieval football games in [[England]].  For example, [[Geoffrey Chaucer]] offered an allusion to such ball skills in fourteenth century England. In the ''[[Canterbury Tales]]'' (written some time after 1380) he uses the following line:  "rolleth under foot as doth a ball".<ref>{{Cite web |url=http://www.gutenberg.org/catalog/world/readfile?fk_files=541&pageno=69 |author=Chaucer, Geoffrey |title=The Knight's Tale |work=Canterbury Tales |publisher=Project Gutenberg}}</ref>  Similarly at the end of the 15th century comes a [[Latin]] account of a football game which was played at Cawston, [[Nottinghamshire]], England.  It is included in a manuscript collection of the miracles of King [[Henry VI of England]]. Although the precise date is uncertain it certainly comes from between 1481 and 1500. This is the first account of an exclusively "kicking game" and the first description of dribbling: "[t]he game at which they had met for common recreation is called by some the foot-ball game. It is one in which young men, in country sport, propel a huge ball not by throwing it into the air but by striking it and skilfully rolling it along the ground, and that not with their hands but with their feet... kicking in opposite directions".<ref>{{cite book |last1=Coulton |first1=George Gordon |title=Medieval Panorama |date=1949 |publisher=Cambridge University Press |page=83}}</ref> It is known that dribbling skills were a key part of many nineteenth-century football games at English public schools with the earliest reference to ball passing coming in 1863 rules of [[The Football Association]].<ref>{{Cite web|url = https://www.fifa.com/about-fifa/who-we-are/the-game/global-growth.html|title = History of Football - The Global Growth|date = 1994|accessdate = December 10, 2015|website = FIFA.com|publisher = |last = |first = }}</ref><ref>{{Cite web|url = http://www.thefa.com/about-football-association/history|title = The History of the FA|date = |accessdate = December 10, 2015|website = The Football Association|publisher = |last = |first = }}</ref>
+
+==Basketball==
+{{multiple image
+ | align     = right
+ | direction = horizontal
+ | header    = 
+ | header_align = left/right/center
+ | header_background = 
+ | footer    = Far left: [[Navy Midshipmen men's basketball|Navy]] player attempts to dribble past [[Army Black Knights men's basketball|Army]] defender; Left center: [[Demetri McCamey]] dribbles on the [[fast break]]; Right center: [[Collin Sexton]] dribbles between his legs; Far right: [[Trevon Duval]] dribbles behind his back.
+ | footer_align = left/right/center
+ | footer_background = 
+ | width     =
+
+ | image1    = Basketball game.jpg
+ | width1    = 138
+ | alt1      = 
+ | caption1  =
+
+ | image2    = 20091113 Demetri McCamey.jpg
+ | width2    = 125
+ | alt2      = 
+ | caption2  =
+
+ | image3    = 20170329 MCDAAG Collin Sexton dribbling between his legs.jpg
+ | width3    = 125
+ | alt3      = 
+ | caption3  = 
+
+ | image4    = 20170329 MCDAAG Trevon Duval dribbling on the wing (6).jpg
+ | width4    = 125
+ | alt4      = 
+ | caption4  = 
+}}
+
+In [[Basketball#Dribbling|basketball]], dribbling is the legal method of advancing the ball by oneself, as opposed to passing it to another player or shooting for the basket. It consists of bouncing the ball on the floor continuously with one hand while walking or running down the court.
+
+[[James Naismith]]'s original rules said nothing about dribbling, merely stating that passing the ball was the legal way of advancing it. Players soon developed the strategy of "passing to themselves", which Naismith himself both endorsed and admired for its ingenuity, and which evolved into the dribble as it is known today.  The first known team to dribble was [[Yale University]] in 1897.<ref>[http://digital-archives.ccny.cuny.edu/exhibits/holman/timeline.html “The Evolution Of Professional Basketball”]. Digital Archives </ref>
+
+The dribble allows for much faster advancement and thus more opportunities for scoring. It also provides an opportunity for a crafty player on the opposing team to "steal" the ball in mid-bounce. Once a player stops dribbling the ball and holds it, the player normally must either pass it to another player or take a shot; if the player dribbles and then holds the ball in any way (either grasping it with his hands or arms, or "palming" it, i.e. holding it too much toward its underside during the act of dribbling) then continues to dribble, then the referee stops the play, signals either "double dribble" or "carrying", and turns the ball over to the other team. A "double dribble" may also be called if the player tries to dribble with both hands at the same time.
+
+Dribbling should be done with finger pads and the fingers should be relaxed and spread, The wrist should be pushing the basketball, and the forearm should be moving up and down. Skilled ball handlers bounce the ball low to the ground, reducing the risk of a defender reaching in to steal the ball. Adept dribblers can dribble behind their backs, between their legs and change the speed of the dribble, making the player difficult to defend, and opening up options to pass, shoot or drive with the ball.
+
+The [[National Association of Basketball Coaches]] (NABC) was founded in 1927 to oppose a move to eliminate dribbling from the sport.<ref>{{cite web|url=http://www.nabc.org/about/index|title=What is the NABC and what does it do?|accessdate=31 March 2012}}</ref>
+
+==Water polo==
+[[Image:waterpolodribble.jpg|thumb|300px|Attacker (7) advances the ball by '''dribbling''']]
+In [[water polo]], dribbling is the technique of moving the ball while swimming forward. The ball is propelled ahead of the player with the [[wake]] created by alternating armstrokes, and often accompanied by occasional nudges using the nose or forehead. Since ball contact is minimal, this creates advantage for the ball carrier advancing the ball; the defender may not make contact unless the attacker is touching the ball. Using short, and rapid arm strokes with high elbows, the dribbling player is often able to shield the ball from tackling attempts by the opposing team, particularly those chasing from behind or approaching adjacently. This aggressive defensive technique ensures any tackling attempts, successful or not, risk potential injury as the turbulent elbow motion is considered legal by [[FINA]], and so a defending player must avoid contact in his attempts to steal the ball from the dribbler.
+
+==Related skills==
+The requirement that a player perform a specialist skill in order to be allowed to run with the ball is common and necessary in many sports. Introducing these skills prevents players from taking the ball in hand and running the length of the field unchallenged. In this way, the dribbling is related to:
+*the solo in [[Gaelic football]], kicking the ball to oneself while running
+*the bounce in Gaelic football, bouncing the ball on the ground and back to oneself while running
+*the [[running bounce]] in [[Australian rules football]], bouncing the ''ellipsoidal'' ball on the ground and back to oneself while running
+
+==See also==
+*[[Glossary of association football terms|Glossary of association football]]
+*[[Basketball moves]]
+*[[Glossary of water polo]]
+*[[Seal dribble]]
+*[[Step over]]
+
+==References==
+{{reflist}}
+
+{{Association football terminology}}
+{{basketball}}
+
+
+
+
+
+
+
+{{for|the medical problem|post-void dribbling}}
+
+In [[sport]]s, '''dribbling''' is maneuvering a ball by one player while moving in a given direction, avoiding defenders' attempts to intercept the ball. A player can dribble with their legs (in [[association football]], for example), hands ([[basketball]] and [[handball]]), stick ([[bandy]], [[field hockey]], and [[ice hockey]]) or swimming strokes ([[water polo]]). A successful dribble will bring the ball past defenders legally and create opportunities to score.
+
+==Association football==
+{{see also|Dummy (football)}}
+{{multiple image
+ | align     = right
+ | direction = horizontal
+ | header    = 
+ | header_align = left/right/center
+ | header_background = 
+ | footer    = Left: [[Lionel Messi]] gets past two players in a match for [[Argentina national football team|Argentina]] vs. [[Bolivia national football team|Bolivia]]; Center: [[Daniel Sturridge]] dribbles on the [[Glossary of association football terms#B|break]] in a match for [[Liverpool F.C.|Liverpool]]; Right: [[Eden Hazard]] taking on opposition players during a dribble for [[Chelsea F.C.|Chelsea]]
+ | footer_align = left/right/center
+ | footer_background = 
+ | width     =
+| image1    =Messi_Copa_America_2011.jpg
+| width1    = 150
+| alt1      = 
+| caption1  =
+
+| image2    = Sturridge v Swansea.jpg
+| width2    = {{#expr: (99 * 750 / 536) round 0}}
+| alt2      = 
+| caption2  =
+
+| image3    = Chelsea 6 Maribor 0 Champions League (15599549805).jpg
+| width3    = 200
+| alt3      = 
+| caption3  = 
+}}
+
+In [[association football]], a dribble is one of the most difficult ball skills to master and one of the most useful attacking moves. In typical game play, players attempt to propel the ball toward their opponents' goal through individual control of the ball, such as by dribbling (the usage of technical maneuvers). In order to go past an opponent, dribbling can involve a wide variety of manipulative tricks and [[Dummy (football)#Association football|feints]]; [[Ronaldinho]] would often employ elaborate [[Association football tactics and skills|skills]] and feints, such as the ''[[Flip flap (association football)|elastico]]'', in order to beat defenders.<ref>{{cite web|url=http://arxiu.fcbarcelona.cat/web/english/futbol/temporada_06-07/plantilla/jugadors/ronaldinho.html|title=Ronaldo de Assis Moreira|website=fcbarcelona.cat|publisher=FC Barcelona|accessdate=9 April 2015}}</ref>
+
+Dribbling is often invaluable especially in the third part of a pitch or at the wings, where most attacks take place. Dribbling creates space in tight situations where the dribbler is marked (closely guarded by a defender), and the dribbler can either score or create scoring chances after a successful dribble.  However, dribbling, if poorly mastered and used, may result in the loss of possession either when the ball is intercepted or [[Sliding tackle|tackle]]d by a [[Defender (football)|defender]]. Some players prefer getting past players with speed and physicality, such as the winger [[Gareth Bale]],<ref>{{cite news|url=https://www.theguardian.com/football/2011/jan/27/gareth-bale-inter-bid-40m|title=Gareth Bale: why Inter are going to bid £40m for Tottenham star|publisher= Guardian News and Media|work=guardian.co.uk|date=27 January 2011|accessdate=27 January 2011}}</ref><ref>{{cite web|url=http://www.football-espana.net/45965/gareth-bale-far-done-madrid|title=Gareth Bale far from done at Madrid|publisher=Football España|date=7 October 2014|accessdate=4 January 2018}}</ref><ref>{{cite web|url=https://www.independent.co.uk/sport/football/news-and-comment/strength-skill-stamina-speed-how-do-you-stop-gareth-bale-2124475.html|title=Strength, skill, stamina, speed. How do you stop Gareth Bale?|publisher=The Independent|author1=Mark Fleming|date=4 November 2010|accessdate=4 January 2018}}</ref><ref>{{cite web|url=https://www.fourfourtwo.com/features/fourfourtwos-best-100-football-players-world-2016-6-gareth-bale|title=FourFourTwo’s Best 100 Football Players in the World 2016: No.6 – Gareth Bale|publisher=FourFourTwo|author1=David Cartlidge|date=2 December 2016|accessdate=4 January 2018}}</ref> some players go straight at opponents and look to go past them directly with a [[nutmeg (football)|nutmeg]] (kicking the ball through their legs), such as [[Luis Suárez]],<ref>{{cite news|url=http://www1.skysports.com/football/news/11945/9807385/watch-luis-suarez-nutmegs-david-luiz-twice-in-barcelonas-win-at-psg|title=WATCH: Luis Suarez nutmeg David Luiz twice in Barcelona's win at PSG|agency=Sky Sports|date=16 April 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20150527190240/http://www1.skysports.com/football/news/11945/9807385/watch-luis-suarez-nutmegs-david-luiz-twice-in-barcelonas-win-at-psg|archivedate=27 May 2015|df=}}</ref> whereas others may use feints, control, agility, and acceleration to evade tackles, such as [[Lionel Messi]].<ref>{{cite web|url=http://archiviostorico.corriere.it/2010/aprile/08/Controllo_corsa_tocco_palla_Perche_co_9_100408088.shtml |title=Controllo, corsa, tocco di palla Perché nel calcio piccolo è bello|website=corriere.it|publisher=Il Corriere della Sera|language=Italian|author1=Fabio Monti|date=8 April 2010|accessdate=9 April 2015}}</ref><ref>{{cite web|url=https://www.telegraph.co.uk/sport/football/players/lionel-messi/10487181/Lionel-Messis-improbable-progression-from-struggling-youngster-to-world-super-star.html|title=Lionel Messi's improbable progression from struggling youngster to world super star|website=telegraph.co.uk|publisher=The Telegraph|author1=Guillem Balague|date=2 December 2013|accessdate=9 April 2015}}</ref>
+
+[[File:Garrincha 1962.jpg|thumb|upright|left|[[Garrincha]] (left), Brazilian winger and [[1962 FIFA World Cup|1962 World Cup]] star, is regarded as one of the greatest dribblers of all time.<ref>{{cite web|url=http://www.ifhof.com/hof/garrincha.asp|title=Hall of Fame: Garrincha|publisher=ifhof.com|accessdate=7 July 2015}}</ref>]]
+A skilful dribbler is often hard to dispossess; unsuccessful tackles (which do not reach the ball) may result in a useful [[Direct free kick|free kick]] situation and a reprimand for the offender in the form of a [[penalty card]]. At the [[2018 FIFA World Cup]], Belgium playmaker [[Eden Hazard]], renowned for being difficult to dispossess, set a World Cup record for successful dribbles completed in any World Cup game since 1966, with a 100% success rate in ten dribbles against Brazil.<ref>{{cite news |title=World Cup Stats Insider: Brazil’s Achilles heel, terrific individual performances behind Belgium’s win |url=https://www.foxsports.com.au/football/world-cup/world-cup-stats-insider-brazils-achilles-heel-terrific-individual-performances-behind-belgiums-win/news-story/a9d281a49854caba4b49ae2455a9abdd |date=9 July 2018 |agency=Fox Sports}}</ref>
+
+Early references to dribbling come from accounts of medieval football games in [[England]].  For example, [[Geoffrey Chaucer]] offered an allusion to such ball skills in fourteenth century England. In the ''[[Canterbury Tales]]'' (written some time after 1380) he uses the following line:  "rolleth under foot as doth a ball".<ref>{{Cite web |url=http://www.gutenberg.org/catalog/world/readfile?fk_files=541&pageno=69 |author=Chaucer, Geoffrey |title=The Knight's Tale |work=Canterbury Tales |publisher=Project Gutenberg}}</ref>  Similarly at the end of the 15th century comes a [[Latin]] account of a football game which was played at Cawston, [[Nottinghamshire]], England.  It is included in a manuscript collection of the miracles of King [[Henry VI of England]]. Although the precise date is uncertain it certainly comes from between 1481 and 1500. This is the first account of an exclusively "kicking game" and the first description of dribbling: "[t]he game at which they had met for common recreation is called by some the foot-ball game. It is one in which young men, in country sport, propel a huge ball not by throwing it into the air but by striking it and skilfully rolling it along the ground, and that not with their hands but with their feet... kicking in opposite directions".<ref>{{cite book |last1=Coulton |first1=George Gordon |title=Medieval Panorama |date=1949 |publisher=Cambridge University Press |page=83}}</ref> It is known that dribbling skills were a key part of many nineteenth-century football games at English public schools with the earliest reference to ball passing coming in 1863 rules of [[The Football Association]].<ref>{{Cite web|url = https://www.fifa.com/about-fifa/who-we-are/the-game/global-growth.html|title = History of Football - The Global Growth|date = 1994|accessdate = December 10, 2015|website = FIFA.com|publisher = |last = |first = }}</ref><ref>{{Cite web|url = http://www.thefa.com/about-football-association/history|title = The History of the FA|date = |accessdate = December 10, 2015|website = The Football Association|publisher = |last = |first = }}</ref>
+
+==Basketball==
+{{multiple image
+ | align     = right
+ | direction = horizontal
+ | header    = 
+ | header_align = left/right/center
+ | header_background = 
+ | footer    = Far left: [[Navy Midshipmen men's basketball|Navy]] player attempts to dribble past [[Army Black Knights men's basketball|Army]] defender; Left center: [[Demetri McCamey]] dribbles on the [[fast break]]; Right center: [[Collin Sexton]] dribbles between his legs; Far right: [[Trevon Duval]] dribbles behind his back.
+ | footer_align = left/right/center
+ | footer_background = 
+ | width     =
+
+ | image1    = Basketball game.jpg
+ | width1    = 138
+ | alt1      = 
+ | caption1  =
+
+ | image2    = 20091113 Demetri McCamey.jpg
+ | width2    = 125
+ | alt2      = 
+ | caption2  =
+
+ | image3    = 20170329 MCDAAG Collin Sexton dribbling between his legs.jpg
+ | width3    = 125
+ | alt3      = 
+ | caption3  = 
+
+ | image4    = 20170329 MCDAAG Trevon Duval dribbling on the wing (6).jpg
+ | width4    = 125
+ | alt4      = 
+ | caption4  = 
+}}
+
+In [[Basketball#Dribbling|basketball]], dribbling is the legal method of advancing the ball by oneself, as opposed to passing it to another player or shooting for the basket. It consists of bouncing the ball on the floor continuously with one hand while walking or running down the court.
+
+[[James Naismith]]'s original rules said nothing about dribbling, merely stating that passing the ball was the legal way of advancing it. Players soon developed the strategy of "passing to themselves", which Naismith himself both endorsed and admired for its ingenuity, and which evolved into the dribble as it is known today.  The first known team to dribble was [[Yale University]] in 1897.<ref>[http://digital-archives.ccny.cuny.edu/exhibits/holman/timeline.html “The Evolution Of Professional Basketball”]. Digital Archives </ref>
+
+The dribble allows for much faster advancement and thus more opportunities for scoring. It also provides an opportunity for a crafty player on the opposing team to "steal" the ball in mid-bounce. Once a player stops dribbling the ball and holds it, the player normally must either pass it to another player or take a shot; if the player dribbles and then holds the ball in any way (either grasping it with his hands or arms, or "palming" it, i.e. holding it too much toward its underside during the act of dribbling) then continues to dribble, then the referee stops the play, signals either "double dribble" or "carrying", and turns the ball over to the other team. A "double dribble" may also be called if the player tries to dribble with both hands at the same time.
+
+Dribbling should be done with finger pads and the fingers should be relaxed and spread, The wrist should be pushing the basketball, and the forearm should be moving up and down. Skilled ball handlers bounce the ball low to the ground, reducing the risk of a defender reaching in to steal the ball. Adept dribblers can dribble behind their backs, between their legs and change the speed of the dribble, making the player difficult to defend, and opening up options to pass, shoot or drive with the ball.
+
+The [[National Association of Basketball Coaches]] (NABC) was founded in 1927 to oppose a move to eliminate dribbling from the sport.<ref>{{cite web|url=http://www.nabc.org/about/index|title=What is the NABC and what does it do?|accessdate=31 March 2012}}</ref>
+
+==Water polo==
+[[Image:waterpolodribble.jpg|thumb|300px|Attacker (7) advances the ball by '''dribbling''']]
+In [[water polo]], dribbling is the technique of moving the ball while swimming forward. The ball is propelled ahead of the player with the [[wake]] created by alternating armstrokes, and often accompanied by occasional nudges using the nose or forehead. Since ball contact is minimal, this creates advantage for the ball carrier advancing the ball; the defender may not make contact unless the attacker is touching the ball. Using short, and rapid arm strokes with high elbows, the dribbling player is often able to shield the ball from tackling attempts by the opposing team, particularly those chasing from behind or approaching adjacently. This aggressive defensive technique ensures any tackling attempts, successful or not, risk potential injury as the turbulent elbow motion is considered legal by [[FINA]], and so a defending player must avoid contact in his attempts to steal the ball from the dribbler.
+
+==Related skills==
+The requirement that a player perform a specialist skill in order to be allowed to run with the ball is common and necessary in many sports. Introducing these skills prevents players from taking the ball in hand and running the length of the field unchallenged. In this way, the dribbling is related to:
+*the solo in [[Gaelic football]], kicking the ball to oneself while running
+*the bounce in Gaelic football, bouncing the ball on the ground and back to oneself while running
+*the [[running bounce]] in [[Australian rules football]], bouncing the ''ellipsoidal'' ball on the ground and back to oneself while running
+
+==See also==
+*[[Glossary of association football terms|Glossary of association football]]
+*[[Basketball moves]]
+*[[Glossary of water polo]]
+*[[Seal dribble]]
+*[[Step over]]
+
+==References==
+{{reflist}}
+
+{{Association football terminology}}
+{{basketball}}
+
+
+
+
+
+
+
+
+In [[sport]]s, '''dribbling''' is maneuvering a ball by one player while moving in a given direction, avoiding defenders' attempts to intercept the ball. A player can dribble with their legs (in [[association football]], for example), hands ([[basketball]] and [[handball]]), stick ([[bandy]], [[field hockey]], and [[ice hockey]]) or swimming strokes ([[water polo]]). A successful dribble will bring the ball past defenders legally and create opportunities to score.
+
+==Association football==
+{{see also|Dummy (football)}}
+{{multiple image
+ | align     = right
+ | direction = horizontal
+ | header    = 
+ | header_align = left/right/center
+ | header_background = 
+ | footer    = Left: [[Lionel Messi]] gets past two players in a match for [[Argentina national football team|Argentina]] vs. [[Bolivia national football team|Bolivia]]; Center: [[Daniel Sturridge]] dribbles on the [[Glossary of association football terms#B|break]] in a match for [[Liverpool F.C.|Liverpool]]; Right: [[Eden Hazard]] taking on opposition players during a dribble for [[Chelsea F.C.|Chelsea]]
+ | footer_align = left/right/center
+ | footer_background = 
+ | width     =
+| image1    =Messi_Copa_America_2011.jpg
+| width1    = 150
+| alt1      = 
+| caption1  =
+
+| image2    = Sturridge v Swansea.jpg
+| width2    = {{#expr: (99 * 750 / 536) round 0}}
+| alt2      = 
+| caption2  =
+
+| image3    = Chelsea 6 Maribor 0 Champions League (15599549805).jpg
+| width3    = 200
+| alt3      = 
+| caption3  = 
+}}
+
+In [[association football]], a dribble is one of the most difficult ball skills to master and one of the most useful attacking moves. In typical game play, players attempt to propel the ball toward their opponents' goal through individual control of the ball, such as by dribbling (the usage of technical maneuvers). In order to go past an opponent, dribbling can involve a wide variety of manipulative tricks and [[Dummy (football)#Association football|feints]]; [[Ronaldinho]] would often employ elaborate [[Association football tactics and skills|skills]] and feints, such as the ''[[Flip flap (association football)|elastico]]'', in order to beat defenders.<ref>{{cite web|url=http://arxiu.fcbarcelona.cat/web/english/futbol/temporada_06-07/plantilla/jugadors/ronaldinho.html|title=Ronaldo de Assis Moreira|website=fcbarcelona.cat|publisher=FC Barcelona|accessdate=9 April 2015}}</ref>
+
+Dribbling is often invaluable especially in the third part of a pitch or at the wings, where most attacks take place. Dribbling creates space in tight situations where the dribbler is marked (closely guarded by a defender), and the dribbler can either score or create scoring chances after a successful dribble.  However, dribbling, if poorly mastered and used, may result in the loss of possession either when the ball is intercepted or [[Sliding tackle|tackle]]d by a [[Defender (football)|defender]]. Some players prefer getting past players with speed and physicality, such as the winger [[Gareth Bale]],<ref>{{cite news|url=https://www.theguardian.com/football/2011/jan/27/gareth-bale-inter-bid-40m|title=Gareth Bale: why Inter are going to bid £40m for Tottenham star|publisher= Guardian News and Media|work=guardian.co.uk|date=27 January 2011|accessdate=27 January 2011}}</ref><ref>{{cite web|url=http://www.football-espana.net/45965/gareth-bale-far-done-madrid|title=Gareth Bale far from done at Madrid|publisher=Football España|date=7 October 2014|accessdate=4 January 2018}}</ref><ref>{{cite web|url=https://www.independent.co.uk/sport/football/news-and-comment/strength-skill-stamina-speed-how-do-you-stop-gareth-bale-2124475.html|title=Strength, skill, stamina, speed. How do you stop Gareth Bale?|publisher=The Independent|author1=Mark Fleming|date=4 November 2010|accessdate=4 January 2018}}</ref><ref>{{cite web|url=https://www.fourfourtwo.com/features/fourfourtwos-best-100-football-players-world-2016-6-gareth-bale|title=FourFourTwo’s Best 100 Football Players in the World 2016: No.6 – Gareth Bale|publisher=FourFourTwo|author1=David Cartlidge|date=2 December 2016|accessdate=4 January 2018}}</ref> some players go straight at opponents and look to go past them directly with a [[nutmeg (football)|nutmeg]] (kicking the ball through their legs), such as [[Luis Suárez]],<ref>{{cite news|url=http://www1.skysports.com/football/news/11945/9807385/watch-luis-suarez-nutmegs-david-luiz-twice-in-barcelonas-win-at-psg|title=WATCH: Luis Suarez nutmeg David Luiz twice in Barcelona's win at PSG|agency=Sky Sports|date=16 April 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20150527190240/http://www1.skysports.com/football/news/11945/9807385/watch-luis-suarez-nutmegs-david-luiz-twice-in-barcelonas-win-at-psg|archivedate=27 May 2015|df=}}</ref> whereas others may use feints, control, agility, and acceleration to evade tackles, such as [[Lionel Messi]].<ref>{{cite web|url=http://archiviostorico.corriere.it/2010/aprile/08/Controllo_corsa_tocco_palla_Perche_co_9_100408088.shtml |title=Controllo, corsa, tocco di palla Perché nel calcio piccolo è bello|website=corriere.it|publisher=Il Corriere della Sera|language=Italian|author1=Fabio Monti|date=8 April 2010|accessdate=9 April 2015}}</ref><ref>{{cite web|url=https://www.telegraph.co.uk/sport/football/players/lionel-messi/10487181/Lionel-Messis-improbable-progression-from-struggling-youngster-to-world-super-star.html|title=Lionel Messi's improbable progression from struggling youngster to world super star|website=telegraph.co.uk|publisher=The Telegraph|author1=Guillem Balague|date=2 December 2013|accessdate=9 April 2015}}</ref>
+
+[[File:Garrincha 1962.jpg|thumb|upright|left|[[Garrincha]] (left), Brazilian winger and [[1962 FIFA World Cup|1962 World Cup]] star, is regarded as one of the greatest dribblers of all time.<ref>{{cite web|url=http://www.ifhof.com/hof/garrincha.asp|title=Hall of Fame: Garrincha|publisher=ifhof.com|accessdate=7 July 2015}}</ref>]]
+A skilful dribbler is often hard to dispossess; unsuccessful tackles (which do not reach the ball) may result in a useful [[Direct free kick|free kick]] situation and a reprimand for the offender in the form of a [[penalty card]]. At the [[2018 FIFA World Cup]], Belgium playmaker [[Eden Hazard]], renowned for being difficult to dispossess, set a World Cup record for successful dribbles completed in any World Cup game since 1966, with a 100% success rate in ten dribbles against Brazil.<ref>{{cite news |title=World Cup Stats Insider: Brazil’s Achilles heel, terrific individual performances behind Belgium’s win |url=https://www.foxsports.com.au/football/world-cup/world-cup-stats-insider-brazils-achilles-heel-terrific-individual-performances-behind-belgiums-win/news-story/a9d281a49854caba4b49ae2455a9abdd |date=9 July 2018 |agency=Fox Sports}}</ref>
+
+Early references to dribbling come from accounts of medieval football games in [[England]].  For example, [[Geoffrey Chaucer]] offered an allusion to such ball skills in fourteenth century England. In the ''[[Canterbury Tales]]'' (written some time after 1380) he uses the following line:  "rolleth under foot as doth a ball".<ref>{{Cite web |url=http://www.gutenberg.org/catalog/world/readfile?fk_files=541&pageno=69 |author=Chaucer, Geoffrey |title=The Knight's Tale |work=Canterbury Tales |publisher=Project Gutenberg}}</ref>  Similarly at the end of the 15th century comes a [[Latin]] account of a football game which was played at Cawston, [[Nottinghamshire]], England.  It is included in a manuscript collection of the miracles of King [[Henry VI of England]]. Although the precise date is uncertain it certainly comes from between 1481 and 1500. This is the first account of an exclusively "kicking game" and the first description of dribbling: "[t]he game at which they had met for common recreation is called by some the foot-ball game. It is one in which young men, in country sport, propel a huge ball not by throwing it into the air but by striking it and skilfully rolling it along the ground, and that not with their hands but with their feet... kicking in opposite directions".<ref>{{cite book |last1=Coulton |first1=George Gordon |title=Medieval Panorama |date=1949 |publisher=Cambridge University Press |page=83}}</ref> It is known that dribbling skills were a key part of many nineteenth-century football games at English public schools with the earliest reference to ball passing coming in 1863 rules of [[The Football Association]].<ref>{{Cite web|url = https://www.fifa.com/about-fifa/who-we-are/the-game/global-growth.html|title = History of Football - The Global Growth|date = 1994|accessdate = December 10, 2015|website = FIFA.com|publisher = |last = |first = }}</ref><ref>{{Cite web|url = http://www.thefa.com/about-football-association/history|title = The History of the FA|date = |accessdate = December 10, 2015|website = The Football Association|publisher = |last = |first = }}</ref>
+
+==Basketball==
+{{multiple image
+ | align     = right
+ | direction = horizontal
+ | header    = 
+ | header_align = left/right/center
+ | header_background = 
+ | footer    = Far left: [[Navy Midshipmen men's basketball|Navy]] player attempts to dribble past [[Army Black Knights men's basketball|Army]] defender; Left center: [[Demetri McCamey]] dribbles on the [[fast break]]; Right center: [[Collin Sexton]] dribbles between his legs; Far right: [[Trevon Duval]] dribbles behind his back.
+ | footer_align = left/right/center
+ | footer_background = 
+ | width     =
+
+ | image1    = Basketball game.jpg
+ | width1    = 138
+ | alt1      = 
+ | caption1  =
+
+ | image2    = 20091113 Demetri McCamey.jpg
+ | width2    = 125
+ | alt2      = 
+ | caption2  =
+
+ | image3    = 20170329 MCDAAG Collin Sexton dribbling between his legs.jpg
+ | width3    = 125
+ | alt3      = 
+ | caption3  = 
+
+ | image4    = 20170329 MCDAAG Trevon Duval dribbling on the wing (6).jpg
+ | width4    = 125
+ | alt4      = 
+ | caption4  = 
+}}
+
+In [[Basketball#Dribbling|basketball]], dribbling is the legal method of advancing the ball by oneself, as opposed to passing it to another player or shooting for the basket. It consists of bouncing the ball on the floor continuously with one hand while walking or running down the court.
+
+[[James Naismith]]'s original rules said nothing about dribbling, merely stating that passing the ball was the legal way of advancing it. Players soon developed the strategy of "passing to themselves", which Naismith himself both endorsed and admired for its ingenuity, and which evolved into the dribble as it is known today.  The first known team to dribble was [[Yale University]] in 1897.<ref>[http://digital-archives.ccny.cuny.edu/exhibits/holman/timeline.html “The Evolution Of Professional Basketball”]. Digital Archives </ref>
+
+The dribble allows for much faster advancement and thus more opportunities for scoring. It also provides an opportunity for a crafty player on the opposing team to "steal" the ball in mid-bounce. Once a player stops dribbling the ball and holds it, the player normally must either pass it to another player or take a shot; if the player dribbles and then holds the ball in any way (either grasping it with his hands or arms, or "palming" it, i.e. holding it too much toward its underside during the act of dribbling) then continues to dribble, then the referee stops the play, signals either "double dribble" or "carrying", and turns the ball over to the other team. A "double dribble" may also be called if the player tries to dribble with both hands at the same time.
+
+Dribbling should be done with finger pads and the fingers should be relaxed and spread, The wrist should be pushing the basketball, and the forearm should be moving up and down. Skilled ball handlers bounce the ball low to the ground, reducing the risk of a defender reaching in to steal the ball. Adept dribblers can dribble behind their backs, between their legs and change the speed of the dribble, making the player difficult to defend, and opening up options to pass, shoot or drive with the ball.
+
+The [[National Association of Basketball Coaches]] (NABC) was founded in 1927 to oppose a move to eliminate dribbling from the sport.<ref>{{cite web|url=http://www.nabc.org/about/index|title=What is the NABC and what does it do?|accessdate=31 March 2012}}</ref>
+
+==Water polo==
+[[Image:waterpolodribble.jpg|thumb|300px|Attacker (7) advances the ball by '''dribbling''']]
+In [[water polo]], dribbling is the technique of moving the ball while swimming forward. The ball is propelled ahead of the player with the [[wake]] created by alternating armstrokes, and often accompanied by occasional nudges using the nose or forehead. Since ball contact is minimal, this creates advantage for the ball carrier advancing the ball; the defender may not make contact unless the attacker is touching the ball. Using short, and rapid arm strokes with high elbows, the dribbling player is often able to shield the ball from tackling attempts by the opposing team, particularly those chasing from behind or approaching adjacently. This aggressive defensive technique ensures any tackling attempts, successful or not, risk potential injury as the turbulent elbow motion is considered legal by [[FINA]], and so a defending player must avoid contact in his attempts to steal the ball from the dribbler.
+
+==Related skills==
+The requirement that a player perform a specialist skill in order to be allowed to run with the ball is common and necessary in many sports. Introducing these skills prevents players from taking the ball in hand and running the length of the field unchallenged. In this way, the dribbling is related to:
+*the solo in [[Gaelic football]], kicking the ball to oneself while running
+*the bounce in Gaelic football, bouncing the ball on the ground and back to oneself while running
+*the [[running bounce]] in [[Australian rules football]], bouncing the ''ellipsoidal'' ball on the ground and back to oneself while running
+
+==See also==
+*[[Glossary of association football terms|Glossary of association football]]
+*[[Basketball moves]]
+*[[Glossary of water polo]]
+*[[Seal dribble]]
+*[[Step over]]
+
+==References==
+{{reflist}}
+
+{{Association football terminology}}
+{{basketball}}
+
+
+
+
+
+
+

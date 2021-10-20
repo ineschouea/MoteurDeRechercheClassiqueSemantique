@@ -1,0 +1,83 @@
+{{speciesbox
+| image = Calidris ferruginea, winter adult, Pak Thale.jpg
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22693431 |title=''Calidris ferruginea'' |assessor=BirdLife International |assessor-link=BirdLife International |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+
+| genus = Calidris
+| species = ferruginea
+| authority = ([[Erik Pontoppidan|Pontoppidan]], 1763)
+| synonyms =
+''Erolia ferruginea'' {{Taxobox_authority | author = [[Louis Jean Pierre Vieillot|Vieillot]] | date = 1816}}
+| range_map = Calidris ferruginea map.svg
+}}
+
+The '''curlew sandpiper''' (''Calidris ferruginea'') is a small [[wader]] that breeds on the [[tundra]] of [[Arctic]] [[Siberia]].<ref>{{cite news |work=The Guardian |url=https://www.theguardian.com/environment/2014/sep/21/birdwatch-migration-curlew-sandpiper |date=21 September 2014 |title=Birdwatch: Curlew sandpiper |author=Stephen Moss}}</ref> The genus name is from [[Ancient Greek]] ''kalidris'' or ''skalidris'', a term used by [[Aristotle]] for some grey-coloured waterside birds. The specific ''ferruginea'' is from [[Latin]] ''ferrugo, ferruginis'', "iron rust" referring to its colour in breeding plumage.<ref name=job>{{cite book | last= Jobling | first= James A | year= 2010| title= The Helm Dictionary of Scientific Bird Names | publisher=Christopher Helm | location = London | isbn = 978-1-4081-2501-4 | pages=84, 159}}</ref>
+
+It is strongly [[bird migration|migratory]], wintering mainly in [[Africa]], but also in south and southeast [[Asia]] and in [[Australia]] and [[New Zealand]].<ref>{{cite book |url=https://books.google.co.uk/books?id=_oE29KijRlAC&pg=PA61 |p=61 |title=Bird Migration |author=Thomas Alerstam |publisher=Cambridge University Press |year=1993}}</ref> It is a [[Vagrancy (biology)|vagrant]] to [[North America]].
+
+==Description==
+[[File:Curlew Sandpiper manly.ogg|thumbtime=3|thumb|left| With [[red-necked stint]], Manly Marina, SE Queensland, Australia]]
+[[File:Curlew sandpiper David Raju.jpg|thumb|From India]]
+[[File:Calidris ferruginea MHNT.jpg|thumb|'' Calidris ferruginea '' – [[MHNT]]]]
+These birds are small waders, similar to [[dunlin]]s,<ref>{{cite web |url=https://www.rspb.org.uk/birds-and-wildlife/wildlife-guides/bird-a-z/curlew-sandpiper/ |work=RSPB |title=Curlew sandpiper}}</ref> but differ in having a longer down-curved beak, longer neck and legs and a white rump. They have a length of {{convert|18|–|23|cm|in|abbr=on}} and wingspan of {{convert|38|–|41|cm|in|abbr=on}}. The breeding adult has patterned dark grey upperparts and brick-red underparts. In winter, this bird is pale grey above and white below, and shows an obvious white [[supercilium]]. Juveniles have a grey and brown back, a white belly and a peach-coloured breast.
+
+== Behaviour ==
+The male curlew sandpiper performs an aerial display during courtship. The clutch of 3–4 eggs are laid in ground scrape in the tundra and taiga, mostly in Siberia.
+
+It is extremely difficult to measure breeding success or population trends in their breeding grounds because nests are scattered over a vast region and their positions influenced by localised weather.
+
+Of all shorebird species, the curlew sandpiper has the smallest breeding range in relation to its non-breeding range. After breeding these birds migrate south to Africa, Australasia or India. South Africa is at the southern limit of the migration path from Siberia, {{convert|15000|km|mi|abbr=on}} or 130° of latitude away.
+
+This wader is highly gregarious, and will form flocks with other calidrid waders, particularly [[dunlin]]. Despite its easterly breeding range, this species is regular on passage in western Europe, presumably because of the southwesterly [[Bird migration|migration]] route.
+
+It [[forage]]s in soft mud on [[marsh]]es and the coast, mainly picking up food by sight. It mostly eats [[insect]]s and other small [[invertebrate]]s.
+
+The numbers of this species (and of [[little stint]]) depend on the population of [[lemming]]s. In poor lemming years, predatory species such as [[skua]]s and [[snowy owl]]s will take Arctic-breeding waders instead.
+
+Counts of the birds in South Africa, specifically at Langebaan Lagoon where they are most numerous, indicate a 40% decline in numbers between 1975 and 2009. A similar trend has been noted in Australia and may be linked to [[effects of global warming]] at the breeding grounds.<ref name=deVilliers2009/>
+
+This species occasionally [[Hybrid (biology)|hybridizes]] with the [[sharp-tailed sandpiper]] and the [[pectoral sandpiper]], producing the presumed "species" called "[[Hybridisation in shorebirds#Cooper's sandpiper|Cooper's sandpiper]]" (''"Calidris"'' × ''cooperi'') and "[[Cox's sandpiper]]" (''"Calidris"'' × ''paramelanotos''), respectively.
+
+==Taxonomy==
+This is a fairly unusual species, and has been proposed as [[type species]] of the genus ''Erolia'' but the [[DNA sequence]] data is currently insufficient to resolve its relationships.<ref name=Thomas2004/> This matter is of taxonomic relevance since, as the curlew sandpiper is the type species, a close relationship with the small "[[stint]]" sandpipers would preclude the use of ''Erolia'' for the present species.
+
+The curlew sandpiper is one of the species to which the ''Agreement on the Conservation of African-Eurasian Migratory Waterbirds'' ([[AEWA]]) applies.
+
+==References==
+<!-- Micronesica38:221,39:11. -->
+{{Reflist|refs=
+<ref name=deVilliers2009>{{cite book |editor-last=de Villiers |editor-first=M.S. |title=Birds and Environmental Change: building an early warning system in South Africa |year=2009 |publisher=SANBI |location=Pretoria |isbn=978-0-620-45305-9 |pages=12 |url=http://www.sanbi.org.za}}</ref>
+
+<ref name=Thomas2004>{{cite journal |last1=Thomas |first1=Gavin H. |last2=Wills |first2=Matthew A. |last3=Székely |first3=Tamás |doi=10.1186/1471-2148-4-28 |pmid=15329156 |pmc=515296 |year=2004 |journal=BMC Evolutionary Biology |volume=4 |pages=28 |title=A supertree approach to shorebird phylogeny}} [https://archive.is/20130802041856/http://www.pubmedcentral.org/articlerender.fcgi?artid=515296%23supplementary-material-sec#supplementary-material-sec Supplementary Material]</ref>
+}}
+{{refbegin}}
+
+==External links==
+{{Commons category|Calidris ferruginea}}
+{{Wikispecies|Calidris ferruginea}}
+* [http://sabap2.adu.org.za/docs/sabap1/272.pdf Curlew sandpiper species text in The Atlas of Southern African Birds]
+* [http://www.lintukuva.fi/lajikuvat/calfer Pictures of curlew sandpiper] at [http://www.lintukuva.fi Birdlife Finland]
+* [http://www.dublinbirding.ie/pages/features/Curlew%20Sand%20ID/getting_to_grips_with_curlew_san.htm Identification article on autumn curlew sandpipers]
+* [https://web.archive.org/web/20141202060859/http://aulaenred.ibercaja.es/wp-content/uploads/187_CurlewSandpiperCferruginea.pdf Ageing and sexing (PDF; 1.4 MB) by Javier Blasco-Zumeta & Gerd-Michael Heinze]
+* {{BirdLife|22693431|Calidris ferruginea}}
+* {{Avibase|name=Calidris ferruginea}}
+* {{InternetBirdCollection|curlew-sandpiper-calidris-ferruginea}}
+* {{VIREO|curlew+sandpiper}}
+* {{IUCN_Map|22693431|Calidris ferruginea}}
+* {{Xeno-canto species|Calidris|ferruginea|Curlew sandpiper}}
+* {{field guide birds of the world|Calidris ferruginea}}
+* {{ARKive}}
+
+{{Taxonbar|from=Q62345}}
+
+{{DEFAULTSORT:sandpiper, curlew}}
+
+
+
+
+
+
+
+
+

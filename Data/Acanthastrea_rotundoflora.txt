@@ -1,0 +1,27 @@
+{{Speciesbox
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name=iucn>{{Cite journal | author = Turak, E. | author2 = Sheppard, C. | author3 = Wood, E. | last-author-amp = yes | title = ''Acanthastrea rotundoflora'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2014 | page = e.T133386A54249756 | publisher = [[IUCN]] | date = 2014 | url = http://www.iucnredlist.org/details/133386/0 | doi = 10.2305/IUCN.UK.2014-1.RLTS.T133386A54249756.en | access-date = 5 January 2018}}</ref>
+| taxon = Acanthastrea rotundoflora
+| authority=Chevalier, 1975 <ref name=WoRMS>{{cite WoRMS |author =Hoeksema, Bert |year=2015 |title=''Acanthastrea rotundoflora'' Chevalier, 1975 |id=766904 |accessdate=2015-08-15|db=}}</ref>
+}}
+
+'''''Acanthastrea rotundoflora''''' is a species of [[coral]] found in [[Indo-Pacific]] waters from the [[Red Sea]] to Australia and the [[East China Sea]]. The species in uncommon throughout its range, and is threatened by the global loss of [[coral reef]] habitats.
+
+==Description==
+[[Colony (biology)|Colonies]] of ''Acanthastrea rotundoflora'' are either massive or encrusting. The [[corallite]]s are plocoid and rather widely separated, and in small colonies there is a conspicuous central corallite. The [[Septum (coral)|septa]] have long pointed teeth. The general colour of this coral is rusty-brown, dark brown or green.<ref>{{cite web |url=http://coral.aims.gov.au/factsheet.jsp?speciesCode=0384 |title=''Acanthastrea rotundoflora''|publisher=Australian Institute of Marine Science |accessdate=2015-08-15}}</ref>
+
+==Biology==
+''Acanthastrea rotundoflora'' is a [[Zooxanthellae|zooxanthellate]] species of coral.<ref name=WoRMS/> It obtains most of its nutritional needs from the [[Symbiosis|symbiotic]] [[dinoflagellate]]s that live inside its soft tissues. These [[Photosynthesis|photosynthetic]] organisms provide the coral with organic carbon and nitrogen, sometimes providing up to 90% of their host's energy needs for metabolism and growth. Its remaining needs are met by the [[plankton]]ic organisms caught by the tentacles of the polyps.<ref name=Ruppert>{{cite book |title=Invertebrate Zoology |edition=7th |last1=Ruppert |first1=Edward E. |last2=Fox |first2=Richard, S. |last3=Barnes |first3=Robert D. |year=2004 |publisher=Cengage Learning |isbn=978-81-315-0104-7 |page=122 }}</ref>
+
+==Status==
+This coral has a wide range and is moderately common. It is less susceptible to [[coral bleaching]] than some related species because it occurs in deeper water. The population trend for this species is unclear, but the main threats faced by corals in general are related to [[climate change]] and the mechanical destruction of their coral reef habitats; increasing damage from extreme weather events, rising sea water temperatures and [[ocean acidification]]. The [[International Union for Conservation of Nature]] has assessed the conservation status of this species as being a "[[near-threatened species]]". All corals receive protection by being listed on [[CITES Appendix II]].<ref name=iucn/>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q16481212}}
+
+
+
+

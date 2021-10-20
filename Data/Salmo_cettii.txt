@@ -1,0 +1,32 @@
+{{Italic title}}
+{{Use dmy dates|date=June 2013}}
+{{Taxobox
+| name = ''Salmo cettii''
+| image = Salmo cettii.jpg
+| regnum = [[Animal]]ia
+| phylum = [[Chordata]]
+| classis = [[Actinopterygii]]
+| ordo = [[Salmoniformes]]
+| familia = [[Salmonidae]]
+| genus = ''[[Salmo]]''
+| species = '''''S. cettii'''''
+| binomial = ''Salmo cettii''
+| binomial_authority = [[Constantine Samuel Rafinesque|Rafinesque]], 1810
+}}
+
+'''''Salmo cettii''''', or the '''Mediterranean trout''', is a species of [[trout]], a freshwater fish in the [[Salmonidae]] family.<ref>{{cite web|url=http://www.fishbase.gr/Summary/SpeciesSummary.php?id=49461|title=Salmo cettii|publisher=Fishbase|accessdate=2009-03-31}}</ref> It lives in the Mediterranean region in [[Corsica]], [[Sardinia]], [[Sicily]], and on the Italian mainland in the [[Magra]] drainage and further south. It is a nonmigratory fish which lives in streams and in [[karst]]ic resurgences.<ref name=IUCN>Freyhof, J. & Kottelat, M. 2008. [http://www.iucnredlist.org/apps/redlist/details/135528/0 Salmo cettii.] In:  [[IUCN Red List of Threatened Species]]. Version 2015.1. Downloaded on 5 May 2015.</ref> It is smaller than {{convert|40|cm|in|abbr=on}} in length. It is sometimes referred to ''[[Salmo trutta macrostigma]]'', which depending on concept is either a more widespread Mediterranean taxon, or a taxon endemic to [[Algeria]].<ref name=IUCN/>
+
+==References==
+{{Reflist}}
+
+{{Trouts}}
+{{Taxonbar|from=Q472832}}
+
+
+
+
+
+
+
+
+{{Salmoniformes-stub}}

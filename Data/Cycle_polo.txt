@@ -1,0 +1,160 @@
+{{short description|Team sport originated in Ireland, related to polo but played on bicycles}}
+{{distinguish|Cycle ball}}
+{{Use dmy dates|date=March 2019}}
+{{infobox sport 
+| image      = Bike Polo AUT-HUN.jpg
+| imagesize  = 250px
+| caption    = Bike polo match in [[Budapest]]
+| union      = [[International Bicycle Polo Federation]], [[North American Bike Polo Association]], [[European Hardcourt Bike Polo Association]]
+| nickname   = 
+| first      = October 1891 - [[County Wicklow]], Ireland. (Rathclaren Rovers V Ohne Hast Cycling Club)
+| team       = Five or Three
+| mgender    = 
+| category   = [[Team sport]]
+| equipment  = [[Bicycle]], [[Mallet]], [[Ball]]
+| venue      = 
+| olympic    = London, 1908. (Demonstration Game – Ireland 3-v-1 Germany)
+}}
+'''Cycle polo''' is a [[team sport]], similar to traditional [[polo]], except that [[bicycle]]s are used instead of horses. There are two versions of the sport: grass and [[Hardcourt Bike Polo]]. The hardcourt game saw a sharp spike in interest in the first decade of the 21st century<ref name="punk">{{cite web | url=http://news.bbc.co.uk/2/hi/uk_news/8177668.stm | title=Polo's young punk cousin | publisher=BBC | date=31 July 2009 | accessdate=10 June 2015}}</ref> and new teams are sprouting up across the world, in China, Canada, Ireland, Switzerland, France, India, Germany, Pakistan, Malaysia, Sri Lanka, Indonesia, Hungary, Australia, New Zealand, Sweden, England, Scotland, Argentina, Italy, Spain, USA, Poland, Croatia, Slovenia, Lithuania, Nepal, Brazil and Cuba.
+
+== The Traditional game ==
+
+Traditional cycle polo is played in a rectangular grass field, {{Convert|150x100|metres||abbr=}} officially, unofficially whatever field is big enough. Moreover, official dimensions can vary between {{Convert|120x150|metres||abbr=}} in length on {{Convert|80x100|metres||abbr=}} in width. The ball used approximately {{Convert|2.5|in||abbr=}} in diameter and the mallet is of length {{Convert|1|metre||abbr=}}.
+
+There are six members (seven in France) in a team of which four (five in France) are on field at any one time. The other two are used as substitutes. International matches are played for a duration of 30 minutes divided into periods of 7.5 minutes each called as a ''chukkar''. Extra time can be used to determine the winner in case the scores are tied at normal time.
+
+If a deliberate foul is committed at the vicinity of the goal, the team that is fouled is automatically given a goal. Less severe fouls are awarded 15-metre and 25-metre free hits. In the event of deliberate fouls or dangerous fouls, the umpire can issue a yellow card (warning) and in case of repeated or severe fouls a red card (ejection). The ejected player can be replaced by a substitute after the end of the current ''chukkar'' if the umpire allows it.
+
+== The Hardcourt game ==
+[[File:Bike polo.ogv|thumb|320px|Video of cycle polo]]
+{{main article|Hardcourt Bike Polo}}
+
+In recent years, an alternate form of the game known as "[[Hardcourt Bike Polo]]" has grown in popularity.<ref name="punk"/>  In this variation, teams composed of three players compete on tennis courts, street hockey rinks, or whatever other surfaces are available.  The rules vary slightly by city.
+
+Generally this is a faster game with three members on a team and no substitutions, and with all members on the court at all times. A [[street hockey]] ball is used and matches are played until one team scores five points or time has expired, without playing chukkars. During tournament play, a time limit, such as 10 minutes, may be used to maximise the number of tournament rounds possible during the day.
+
+There are three core rules of play:
+
+In the case of a 'foot down' or 'dab' (touching the ground with one's foot) the player must "tap out" by riding to mid-court and hitting a designated area with their mallet. There is usually a tap-out located on either side of the court.
+
+In order to score, the offensive player must hit the ball across the goal line using the narrow end of the mallet, called a "shot" or "hit." Hitting the ball across the goal line with the wide end of the mallet is called a "shuffle".
+
+When a team scores a goal, the opposing team must retreat to their half and wait for the other team (player or ball, whichever comes first) to cross the halfway line before engaging in play again.
+
+The [[North American Hardcourt Bike Polo Association]] has created an official ruleset,<ref>[http://www.nahardcourt.com/rules Official North American ruleset]</ref> which has helped standardise rules across the globe.
+
+== History ==
+The game was invented in County Wicklow, Ireland, in 1891 by retired champion cyclist [[Richard J. Mecredy]], editor of ''The Irish Cyclist'' magazine.<ref>{{cite news | url=http://news.bbc.co.uk/local/london/hi/people_and_places/2012/newsid_8845000/8845620.stm | title=Could a lost Olympic sport find its way back to London? | publisher=BBC | date=23 July 2010 | first1=Arun | last1=Mahey | first2=Jessica | last2=Brand | accessdate=5 March 2019 }}</ref> In October of that year the first cycle polo match was played at the Scalp (County Wicklow) between ''Rathclaren Rovers'' and the ''Ohne Hast Cycling Club''.<ref name=velo>{{cite web|author=polovelo |url=http://www.polo-velo.net/english/history/history.htm |title=Cycle polo story |publisher=Polo-velo.net |date= |accessdate=2010-10-01}}</ref>
+Towards the end of the 19th century the game reached Great Britain, France, and the United States where the [[American Star Bicycle]] was a popular mount.<ref>{{cite book
+| last = Herlihy
+| first = David V.
+| title = Bicycle, The History
+| publisher = Yale University Press
+| year = 2004
+| pages = 372
+| isbn = 0-300-10418-9}}</ref> The first international match was played between Ireland and England in 1901. Cycle polo was a demonstration sport at the [[1908 Olympics|1908 London Olympics]] with Ireland winning, beating Germany.<ref name=velo/><ref>{{cite web|url=http://www.rediff.com/sports/ath041908.htm |title=Welcome to rediff.com : Sports - Athens 2004 History |publisher=Rediff.com |date= |accessdate=2010-10-01}}</ref><ref>{{cite web|url=http://news.bbc.co.uk/sport1/hi/olympics_2004/history/3054406.stm |title=BBC SPORT &#124; Olympics 2004 &#124; History &#124; London 1908 |publisher=BBC News |date=2004-07-09 |accessdate=2010-10-01}}</ref>
+
+The sport reached its peak of popularity in Great Britain during the 1930s with the introduction of the regional leagues. Cycle polo also flourished in France during this period with the establishment of the French league. Internationals between France and Great Britain were held regularly. However the Second World War marked the beginning of the demise of cycle polo in Britain. The sport remained in France though, with league championships held regularly until today.
+
+The 1980s saw the rise of two new powers in cycle polo, India and the United States. The Bicycle Polo Association of America was created in 1994. International cycle polo matches staged a comeback in the 1990s with the first world championship organized in 1996 in the USA. Today there is organized cycle polo being played in Brazil, Argentina, Australia, Canada, France, Germany, Great Britain, India, Ireland, Malaysia, New Zealand, Pakistan, South Africa, Sri Lanka, Sweden, Switzerland and USA. Cycle polo was officially recognized by the [[Union Cycliste Internationale]] in 2001.
+
+== Cycle Polo in India ==
+[[File:Cycle Polo 18 3.jpg|thumb|A Traditional Cycle Polo game in [[Calcutta Cricket and Football Club | CC&FC]], [[ Kolkata]]]]
+The Cycle Polo Association of India was officially created in 1966 it has its office in [[Jaipur]], [[Rajasthan]]. The first men's nationals were played in 1970 in [[New Delhi]], with the team from Rajasthan emerging victorious.
+
+In the 2016–17 season, the men's nationals were held in [[Jodhpur]], [[Rajasthan]] from 13–16 January 2017. [[Indian Air Force]] was the champion and the Indian Army the runners-up. The 2016-17 women's nationals were held at [[Dundlod]], [[Rajasthan]] from 21–24 February 2017. [[Chhattisgarh]] defeated [[Karnataka]] in the finals.<ref>{{cite web|last1=Cycle Polo Federation of India|title=Official Website|url=http://www.cyclepolo.com/achivements%20of%20cycle%20polo1.html|accessdate=6 April 2018}}</ref>
+
+The [[Calcutta Cricket and Football Club|Calcutta Cricket & Football Club]] hosted the first Merchant’s Cup Cycle Polo tournament in 1973. In 2012, the [[Calcutta Cricket and Football Club|CC&FC]] had organised a Cycle Polo Legend's Tournament where great players of yesteryear such as Vijai Singh, Lakshman Singh and Bikram Das participated. <ref>{{cite news|last1=Dey|first1=Sreyoshi|title=The wheels of a royal sport were a turnin’ at CC&fc|url=https://www.telegraphindia.com/1120612/jsp/entertainment/story_15597503.jsp|accessdate=16 March 2018|agency=ABP|issue=The Telegraph|date=12 June 2012}}</ref> Currently, the [[Calcutta Cricket and Football Club|CC&FC]] plays host to the March Mug, the Swaroop Bhanjdeo Memorial Tournament and the CC&FC Trophy. Since 2015 onwards, [[Calcutta Cricket and Football Club|CC&FC]] has been hosting the CC&FC All India Invitation Cycle Polo Cup which is organised jointly by the CC&FC along with the Cycle Polo Association of Bengal.
+
+In 2017, the '''CC&FC All India Invitation Cycle Polo Cup''' had seven teams in the men's section and five in the women's section. Territorial Army were the eventual champions in the men's section. They defeated [[Indian Air Force]] 14:6 in the final. In the women section [[Chhattisgarh]] defeating in [[West Bengal|Bengal]] in the final. 15:3 was the score line. <ref>{{cite news|last1=Sarkar|first1=Brinda|title=A power-packed cycle polo tourney at CC&FC|url=https://www.telegraphindia.com/1170601/jsp/t2/story_154432.jsp|accessdate=6 April 2018|agency=ABP|issue=The Telegraph|date=1 June 2017}}</ref>
+
+In 2018, in the men's section, the defending champions Territorial Army successfully defended their title by defeating [[West Bengal|Bengal]] 12:10 in the final. In the women's section, [[West Bengal|Bengal]] easily overcame their opponents [[Uttar Pradesh]] 15:0 in the final.
+
+== International Bicycle Polo Championships ==
+
+{| class="toccolours" border="1" cellpadding="2" style="border-collapse: collapse; text-align: center; width: 80%; margin: 0 auto;"
+|- style="background: #efefef;"
+!width=10%|Year
+!width=18%|Host
+!  style="width:24%; background:gold;"|Gold
+!  style="width:24%; background:silver;"|Silver
+!  style="width:24%; background:#c96;"|Bronze
+|- style="background:#f5faff;"
+|'''1996'''
+|{{flagicon|USA}}<br>[[Richland, Washington|Richland]],<br>United States
+|{{flagicon|IND}}<br>'''India'''
+|{{flagicon|USA}}<br>United States
+|{{flagicon|CAN}}<br>Canada
+|- style="background:#d0e7ff;"
+|'''1999'''
+|{{flagicon|CAN}}<br>[[Vancouver]],<br>Canada
+|{{flagicon|IND}}<br>'''India'''
+|{{flagicon|USA}}<br>United States
+|{{flagicon|CAN}}<br>Canada
+|- style="background:#f5faff;"
+|'''2000'''
+|{{flagicon|IND}}<br>[[New Delhi]],<br>India
+|{{flagicon|IND}}<br>'''India'''
+|{{flagicon|CAN}}<br>Canada
+|{{flagicon|USA}}<br>United States
+|- style="background:#d0e7ff;"
+|'''2001'''
+|{{flagicon|UK}}<br>[[London]],<br>United Kingdom
+|{{flagicon|IND}}<br>'''India'''
+|{{flagicon|CAN}}<br>Canada
+|{{flagicon|FRA}}<br>France
+|- style="background:#f5faff;"
+|'''2002'''
+|{{flagicon|FRA}}<br>[[Paris]],<br>France
+|{{flagicon|CAN}}<br>'''Canada'''
+|{{flagicon|FRA}}<br>France
+|{{flagicon|IND}}<br>India
+|- style="background:#d0e7ff;"
+|'''2003'''
+|{{flagicon|USA}}<br>[[Vero Beach]],<br>United States
+|{{flagicon|CAN}}<br>'''Canada'''
+|{{flagicon|USA}}<br>United States
+|{{flagicon|FRA}}<br>France
+|- style="background:#f5faff;"
+|'''2004'''
+|{{flagicon|CAN}}<br>[[Vancouver]],<br>Canada
+|{{flagicon|USA}}<br>'''United States'''
+|{{flagicon|FRA}}<br>France
+|{{flagicon|IND}}<br>India
+|- style="background:#d0e7ff;"
+|'''2006'''
+|{{flagicon|USA}}<br>[[Kennewick]],<br>United States
+|{{flagicon|CAN}}<br>'''Canada'''
+|{{flagicon|USA}}<br>United States
+|{{flagicon|FRA}}<br>France
+|}
+
+The UK based [http://www.pukkachukkas.com/bike%20polo.html Pukka Chukkas] won the 2012 Acumen Energy Bicycle Polo Cup held at Tiger Tops Karnali on the fringes of the Bardia National Park in Nepal, beating EFG Switzerland in a thrilling final in front of a crowd of over 5,000. The bicycles used in the tournament were donated to local schools and social clubs, and money was raised for the prevention and cure of elephant tuberculosis.
+
+== European Championships ==
+The European Championships is an annual Bicycle Polo competition for European club teams. It is held over three legs each year in France, Ireland and Britain. The competition began in 2007 following the compromise between French and British/Irish traditional rules. V.C. Frileuse-Sanvic of France were crowned champions of the inaugural competition.
+* 2007 Won by V.C. Frileuse-Sanvic, France
+* 2008 Won by St-Pierre de Varengeville, France
+
+== See also ==
+* [[Cycle ball]]
+* [[Hardcourt Bike Polo]]
+* [[Polo]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.worldbicyclepolo.com/ International Bicycle Polo Federation]
+* [http://www.polo-velo.net/english/history/history.htm Timeline of Bike Polo History]
+* [https://archive.org/details/BikePoloInGalwayIrelandInThe1930s Hardcourt polo in the 1930s in Galway, Ireland (interview)]
+
+{{Team Sport}}
+
+{{DEFAULTSORT:Cycle Polo}}
+
+
+
+
+
+

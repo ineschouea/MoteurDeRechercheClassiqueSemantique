@@ -1,0 +1,41 @@
+{{Italic title}}
+{{Taxobox
+| name = ''Bufo pageoti''
+| image = 
+| status = NT 
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{Cite journal | author = van Dijk, P.P. | author2 = Wogan, G. | author3 = Ohler, A. | author4 = Lu Shunqing | author5 = Yang Datong | title = ''Bufo pageoti'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2004 | page = e.T54722A11193472 | publisher = [[IUCN]] | date = 2004 | url = http://www.iucnredlist.org/details/54722/0 | doi = 10.2305/IUCN.UK.2004.RLTS.T54722A11193472.en | access-date = 13 January 2018}}</ref>
+| regnum = [[Animal]]ia
+| phylum = [[Chordata]]
+| classis = [[Amphibia]]
+| ordo = [[Frog|Anura]]
+| familia = [[Bufonidae]]
+| genus = ''[[Bufo]]''
+| species = '''''B. pageoti'''''
+| binomial = ''Bufo pageoti''
+| binomial_authority = [[René Léon Bourret|Bourret]], 1937
+| synonyms = 
+''Bufo burmanus'' <small>Andersson, 1939</small><br />
+''Torrentophryne tuberospinia'' <small>Yang, Liu & Rao, 1996</small>
+}}
+
+The '''Tonkin toad''' ('''''Bufo pageoti''''') is a species of [[toad]] in the family [[Bufonidae]].
+It is found in southern [[China]] (Yunnan), north-east and western [[Myanmar]], and northern [[Vietnam]].
+Its natural [[habitat]]s are [[subtropical]] or [[tropical]] moist [[montane forest]]s, [[river]]s, and [[arable land]].
+It is threatened by [[habitat loss]] and local abuse. It is a medium-sized toad, with males measuring about {{convert|64|mm|abbr=on}} and females about {{convert|67|mm|abbr=on}} in length.<ref>{{cite book |title=Atlas of Amphibians of China |last=Fei |first=L. |year=1999 |publisher=Henan Press of Science and Technology |location=Zhengzhou | language = Chinese |isbn=7-5349-1835-9 |page=126}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q935533}}
+
+
+
+
+
+
+
+
+
+
+{{Bufonidae-stub}}

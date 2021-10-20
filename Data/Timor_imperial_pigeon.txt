@@ -1,0 +1,34 @@
+{{speciesbox
+| name = Timor imperial pigeon
+| image = Carpophaga cineracea - 1700-1880 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ15600113.tif
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22691794 |title=''Ducula cineracea'' |assessor=BirdLife International |assessor-link=BirdLife International |version=2015 |year=2015 |accessdate=24 January 2016}}</ref>
+| genus = Ducula
+| species = cineracea
+| authority = ([[Coenraad Jacob Temminck|Temminck]], 1835)
+| synonyms = 
+}}
+
+The '''Timor imperial pigeon''' (''Ducula cineracea'') is a species of [[bird]] in the family [[Columbidae]]. It is found in [[Timor]] and [[Wetar]]. Its natural [[habitat]]s are subtropical or tropical dry [[forest]]s and subtropical or tropical moist [[montane forest]]s. It is threatened by [[habitat loss]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&sid=2742&m=0 BirdLife Species Factsheet: ''Ducula cineracea'' (Timor imperial pigeon)]
+
+{{Taxonbar|from=Q729421}}
+
+{{DEFAULTSORT:pigeon, imperial, Timor}}
+
+
+
+
+
+
+
+
+
+
+{{Columbiformes-stub}}

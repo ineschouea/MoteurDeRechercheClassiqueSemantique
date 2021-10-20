@@ -1,0 +1,29 @@
+{{Speciesbox
+| image = 
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{Cite journal | author = Jacoby, D. | author2 = Gollock, M. | last-author-amp = yes | title = ''Anguilla celebesensis'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2014 | page = e.T195503A2382716 | publisher = [[IUCN]] | date = 2014 | url = http://www.iucnredlist.org/details/195503/0 | doi = 10.2305/IUCN.UK.2014-1.RLTS.T195503A2382716.en | access-date = 5 January 2018}}</ref>
+| taxon = Anguilla celebesensis
+| authority = Kaup, 1856
+| synonyms_ref = <ref>[http://fishbase.mnhn.fr/Nomenclature/SynonymsList.php?ID=11521&SynCode=34672&GenusName=Anguilla&SpeciesName=celebesensis Synonyms of ''Anguilla celebesensis''] at www.fishbase.org.</ref>
+| synonyms = 
+* ''Anguilla amboinensis'' <small>Peters, 1866</small>
+* ''Anguilla ancestralis'' <small>Ege, 1939</small>
+* ''Anguilla celebensis'' <small>Kaup, 1856</small> 
+* ''Anguilla cellebesensis'' <small>Kaup, 1856</small> 
+}}
+The '''Celebes longfin eel'''<ref>[http://fishbase.mnhn.fr/comnames/CommonNamesList.php?ID=11521&GenusName=Anguilla&SpeciesName=celebesensis&StockCode=11847 Common names for ''Anguilla celebesensis''] at www.fishbase.org.</ref> (''Anguilla celebesensis'') is an [[eel]] in the family [[Anguillidae]].<ref name="Fishbase">[https://archive.is/20130217135324/http://fishbase.mnhn.fr/summary/Anguilla-celebesensis.html ''Anguilla celebesensis''] at www.fishbase.org.</ref> It was described by [[Johann Jakob Kaup]] in 1856.<ref name="Kaup, 1856">Kaup, J. J., 1856 [ref. 2573] ''Catalogue of the apodal fish in the collection of the British Museum. London.'' 1-163, Pls. 1-19.</ref> It is a [[tropical]] eel known from [[freshwater]]s in the [[Western Pacific Ocean|Western Pacific]], including [[Indonesia]], the [[Philippines]], [[New Guinea]], and [[Western Samoa|Western]] and [[American Samoa]]. The eels spend most of their lives in freshwater but [[Catadromous|migrate to the ocean to breed]]. Males can reach a maximum [[total length]] of 150 centimetres.<ref name="Fishbase"/>
+
+The Celebes longfin eel is minorly commercial in [[fisheries]].<ref name="Fishbase"/>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q2848653}}
+
+
+
+
+
+
+{{Anguilliformes-stub}}

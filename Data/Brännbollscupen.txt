@@ -1,0 +1,24 @@
+[[File:Brännbollscupen.jpg|thumb|300px|Brännbollscupen 2011]]
+'''Brännbollscupen''' is an annual competition in [[brännboll]] in [[Umeå]], [[Sweden]], organised by [[IKSU]]. Brännboll is a Scandinavian game similar to [[baseball]].<ref name=historik />
+
+Brännbollscupen was first arranged in 1974 with 44 participating teams. Throughout the years the tournament has grown to over 1000 participating teams. Since 1997, the contest has World Cup status.<ref name=historik />
+
+Brännbollscupen is always played the last weekend of May. When the sun sets and it is too dark to play brännboll, the festival [[Brännbollsyran]] takes place.
+
+==References==
+{{reflist|refs=
+<ref name=historik>{{cite web |url=http://www.brännbollscupen.se/?page_id=40 |title=Historik |publisher=IKSU |language=Swedish |accessdate=25 May 2011}}</ref>
+}}
+
+==External links==
+* {{sv icon}} {{official website|https://www.brannbollsyran.com/}}
+* {{sv icon}} [http://blogg.vk.se/Brannbollsbloggen Brännbollsbloggen] by [[Västerbottens-Kuriren]]
+
+{{DEFAULTSORT:Brannbollscupen}}
+
+
+
+
+
+{{Umeå}}
+{{baseball-stub}}

@@ -1,0 +1,43 @@
+{{Speciesbox
+| image = Acropora millepora Maldives.jpg
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name=iucn>{{Cite journal | author = Richards, Z.T. | author2 = Delbeek, J.T. | author3 = Lovell, E.R. | author4 = Bass, D. | author5 = Aeby, G. | author6 = Reboton, C. | last-author-amp = yes | title = ''Acropora millepora'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2014 | page = e.T133666A54304631 | publisher = [[IUCN]] | date = 2014 | url = http://www.iucnredlist.org/details/133666/0 | doi = 10.2305/IUCN.UK.2014-1.RLTS.T133666A54304631.en | access-date = 5 January 2018}}</ref>
+| taxon = Acropora millepora
+| authority = (Ehrenberg, 1834)<ref name=WoRMS>{{cite WoRMS|author =Hoeksema, Bert |year=2013 |title=''Acropora millepora'' (Ehrenberg, 1834) |id=207023 |accessdate=2014-01-12}}</ref>
+| synonyms = {{hidden begin|title = List}} 
+* ''Acropora convexa'' <small>(Dana, 1846)</small>
+* ''Acropora librata''<small> Nemenzo, 1967</small>
+* ''Acropora prostrata'' <small>(Dana, 1846)</small>
+* ''Acropora singularis''<small> Nemenzo, 1967</small>
+* ''Heteropora millepora''<small> Ehrenberg, 1834</small>
+* ''Madrepora convexa''<small> Dana, 1846</small>
+* ''Madrepora prostrata''<small> Dana, 1846</small>
+* ''Madrepora rubra''<small> Studer, 1878</small>
+* ''Madrepora squamosa''<small> Brook, 1892</small>
+{{hidden end}}
+| synonyms_ref = <ref name=WoRMS/>
+}}
+[[File:Acropora millepora Ehrenberg, 1834 (AM MA143258-5).jpg|thumb]]
+'''''Acropora millepora''''' is a [[species]] of branching [[Scleractinia|stony]] [[coral]] native to the western Indo-Pacific where it is found in shallow water from the east coast of Africa to the coasts of Japan and Australia.
+
+==Description==
+''Acropora millepora'' is a small [[Colony (biology)|colonial]] coral that grows in clumps. The short branches are cylindrical. The radial [[corallite]]s are all the same size and have projecting lower rims, giving them a scale-like appearance. The colour is variable and may be green with orange tipped branches, or pale pink, orange, plain green or blue.<ref name=WoRMS/>
+
+==Distribution and habitat==
+''Acropora millepora'' is a common species and is found in the western and central Indo-Pacific. Its range extends from the Red Sea, Kenya and South Africa to India, Malaysia, Japan, Indonesia and Australia. This coral grows in shallow water, between two and twelve metres (six and forty feet) deep, mostly on reef flats, but also on upper reef slopes and in lagoons.<ref name=iucn/>
+
+==Ecology==
+''Acropora millepora'' is a [[zooxanthella]]te species of coral and harbours [[Symbiosis|symbiotic]] [[dinoflagellate]]s in its tissues. The larvae of ''Acropora millepora'' preferentially settle on vertical surfaces and on encrusting [[coralline alga]]e. It has been found that at lower temperatures ({{convert|22.5|°C}}) the larvae were less specific as to their choice of settlement sites and that their survival rates were lower. Surprisingly, the choice of [[Substrate (biology)|substrate]] for settlement was modified by the strain of symbiont present in the locality even though it had not yet infected the tissues.<ref>{{cite journal |last1=Winkler |first1=Natalia |last2=Pandolfi |first2=John|last3=Sampayo |first3=Eugenia |title=Symbiodinium identity alters the temperature-dependent settlement behaviour of ''Acropora millepora'' coral larvae before the onset of symbiosis |journal=Proceedings of the Royal Society B: Biological Sciences|date= February 2015 |volume=282 |issue=1801 |pages= |doi=10.1098/rspb.2014.2260|pmc=4308998}}</ref>
+
+==Status==
+The main threat affecting ''Acropora millepora'' is the destruction of the coral reefs where it lives. Although relatively common it is a shallow water species and susceptible to [[Coral bleaching|bleaching]] and coral diseases. It is also collected for the [[reef aquarium]] trade. Corals in general are expected to be impacted by rising sea temperatures and [[ocean acidification]]. For these reasons, the [[IUCN]] has listed ''Acropora millepora'' as being "[[Near Threatened]]".<ref name=iucn/>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q3945068}}
+
+
+
+

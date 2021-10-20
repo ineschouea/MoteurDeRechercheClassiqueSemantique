@@ -1,0 +1,24 @@
+{{Speciesbox
+| image = 
+| status = LR/nt | status_system = IUCN2.3
+| genus = Orestias
+| species = laucaensis
+| authority = [[María Gloria Eliana Arratia Fuentes|Arratia]], 1982
+| synonyms = 
+}}
+
+'''''Orestias laucaensis''''' is a species of [[fish]] in the family [[Cyprinodontidae]]. It is [[Endemism|endemic]] to [[Chile]].
+
+==Sources==
+* {{Cite journal | author = World Conservation Monitoring Centre | title = ''Orestias laucaensis'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 1996 | page = e.T15493A4670694 | publisher = [[IUCN]] | date = 1996 | url = http://www.iucnredlist.org/details/15493/0 | doi = 10.2305/IUCN.UK.1996.RLTS.T15493A4670694.en | access-date = 16 December 2017}}
+
+{{Taxonbar|from=Q3236415}}
+
+
+
+
+
+
+
+
+{{Cyprinodontiformes-stub}}

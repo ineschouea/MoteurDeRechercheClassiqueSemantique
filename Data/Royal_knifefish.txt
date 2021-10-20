@@ -1,0 +1,37 @@
+{{Use dmy dates|date=December 2012}}
+{{Taxobox
+| name = 
+| image = Shanghai Ocean Aquarium - Chitala blanci 1.jpg
+| status = NT 
+| status_system = IUCN3.1
+| status_ref = <ref name=iucn>{{Cite journal | author = Vidthayanon, C. | title = ''Chitala blanci'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2011 | page = e.T4694A11088295 | publisher = [[IUCN]] | date = 2011 | url = http://www.iucnredlist.org/details/4694/0 | doi = 10.2305/IUCN.UK.2011-1.RLTS.T4694A11088295.en | access-date = 15 December 2017}}</ref>
+| regnum = [[Animal]]ia
+| phylum = [[Chordata]]
+| classis = [[Actinopterygii]]
+| ordo = [[Osteoglossiformes]]
+| familia = [[Notopteridae]]
+| genus = ''[[Chitala]]''
+| species = '''''C. blanci'''''
+| binomial = ''Chitala blanci''
+| binomial_authority = ([[François d'Aubenton-Carafa|d'Aubenton]], 1965)
+| synonyms = 
+}}
+
+The '''royal knifefish''' or '''Indochina featherback''', ''Chitala blanci'', is a [[species]] of [[fish]] in the [[Notopteridae]] family found in the [[Mekong]] basin in [[Cambodia]], [[Laos]], [[Thailand]] and [[Vietnam]].<ref>Kottelat, M. 1996.  [http://www.iucnredlist.org/search/details.php/4694/all ''Chitala blanci''].   [http://www.iucnredlist.org 2006 IUCN Red List of Threatened Species. ]  {{webarchive|url=https://web.archive.org/web/20140627094911/http://www.iucnredlist.org/ |date=27 June 2014 }}  Downloaded on 4 August 2007.</ref>
+
+==In the aquarium==
+The royal knifefish, often sold as the royal clown knifefish, is occasionally sold in the aquarium trade.
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q2248198}}
+
+
+
+
+
+
+
+
+{{Osteoglossiformes-stub}}

@@ -1,0 +1,24 @@
+{{Speciesbox 
+| status = LR/nt
+| status_system = IUCN2.3
+| status_ref = <ref name = IUCN>{{cite journal |author = Skelton, P. | year = 1996 | title = ''Taenioides jacksoni'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 1996 | page = e.T21326A9270653 | url = https://dx.doi.org/10.2305/IUCN.UK.1996.RLTS.T21326A9270653.en | accessdate= 30 July 2018}}</ref>
+| taxon = Taenioides jacksoni
+| authority = [[James Leonard Brierley Smith|J. L. B. Smith]], 1943
+}}
+
+The '''bearded eelgoby''' (''Taenioides jacksoni''),  also known as the '''bearded goby''', is a species of [[goby]] [[Endemism|endemic]] to [[South Africa]] where it inhabits muddy areas of [[mangrove swamp]]s, [[estuaries]] and [[rivers]].  This species can reach a length of {{convert|12|cm|in}} [[fish measurement|TL]].<ref>{{FishBase |genus= Taenioides|species= jacksoni| month = June | year = 2013}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q2193291}}
+
+{{DEFAULTSORT:Bearded Eelgoby}}
+
+
+
+
+
+
+
+{{Gobiiformes-stub}}

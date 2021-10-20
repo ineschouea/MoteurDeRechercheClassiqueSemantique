@@ -1,0 +1,30 @@
+{{speciesbox
+| name = Black cuckoo-dove
+| image = 
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22690609 |title=''Turacoena modesta'' |assessor=BirdLife International |assessor-link=BirdLife International |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| genus = Turacoena
+| species = modesta
+| authority = ([[Coenraad Jacob Temminck|Temminck]], 1835)
+| synonyms = 
+}}
+
+The '''black cuckoo-dove''' (''Turacoena modesta''), also known as the '''slaty cuckoo-dove''' is a species of [[bird]] in the family [[Columbidae]]. It is endemic to [[Indonesia]] and [[East Timor]] where it occurs on the islands of [[Timor]] and [[Wetar]]. Its natural [[habitat]]s are [[subtropical or tropical dry forest]] and [[subtropical or tropical moist lowland forest]]. It is threatened by [[habitat loss]].
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q1271590}}
+
+{{DEFAULTSORT:cuckoo-dove, black}}
+
+
+
+
+
+
+
+
+
+{{Columbiformes-stub}}

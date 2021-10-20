@@ -1,0 +1,42 @@
+{{Speciesbox
+| status = LR/nt | status_system = IUCN2.3
+| parent_authority = [[Gerlof Fokko Mees|Mees]], 1961
+| taxon = Lepidogalaxias salamandroides
+| authority = [[Gerlof Fokko Mees|Mees]], 1961
+}}
+'''''Lepidogalaxias salamandroides''''' is a species of small fish of [[Western Australia]]. It is the [[monotypic|only member]] of the family Lepidogalaxiidae and genus ''Lepidogalaxias''.  [[Common name]]s for this fish include '''salamanderfish''' and '''Shannon mudminnow'''. Although it is not a [[lungfish]], it resembles lungfish in several respects, including its ability to survive dry seasons by burrowing into the sand.  It is on the [[IUCN Red List]] as Near Threatened (Lower Risk).<ref name=fishes>{{cite web|last1=Bray|first1=Dianne|title=Salamanderfish, Lepidogalaxias salamandroides|url=http://www.fishesofaustralia.net.au/home/species/3918#moreinfo|website=Fishes of Australia|accessdate=11 September 2014}}</ref>
+
+==Morphology==
+''Lepidogalaxias salamandroides'' is small with females measuring up to 7&nbsp;cm in length.  This species has a slender, elongate and cylindrical body. The colour is brownish-green on the upper parts, silver-speckled and blotched on the sides, very pale below, and the [[Fish anatomy#fin|fin membranes]] are [[transparency and translucency|transparent]]. The reddish eyes are fixed, but the fish is able to move its neck in any direction.<ref name="AusMus">{{cite web|url=http://www.amonline.net.au/fishes/fishfacts/fish/lsalman.htm|title=Salamanderfish: ''Lepidogalaxias salamandroides'' Mees, 1961|last=McGrouther|first=M. |date=August 2005|work= Find a Fish|publisher=Australian Museum, 2006|accessdate=2008-10-26}}</ref><ref name="EBF">{{cite journal|last=Berra |first=Tim M. |author2=Pusey, Bradley J.  |date=October 1997|title=Threatened fishes of the world: ''Lepidogalaxias salamandroides'' Mees, 1961 (Lepidogalaxiidae)|url=http://www.springerlink.com/content/wt4438447438638m/fulltext.pdf|journal=Environmental Biology of Fishes|volume= 50|issue= 2 |pages=201–202|issn=1573-5133|doi=10.1023/A:1007322606248}}</ref>
+
+==Biology==
+The salamaderfish spawn in winter when water levels are highest.<ref name=fishes /> Females produce 100-400 eggs with a diameter of 1.1-1.3mm, which hatch into bottom-feeder larvae 5.5mm long.  Larvae and juveniles grow rapidly to gain fat stores to survive the summer drought period.<ref name=fishes />  Individuals reach up to 5 years of age.
+
+The salamanderfish is carnivorous, mainly feeding on aquatic insect larvae.
+
+==Range and habitat==
+It has a limited distribution in [[acid]]ic pools of water in heathland [[peat]] flats of [[southwest Australia]], between the [[Blackwood River|Blackwood]] and [[Kent River]]s.<ref name="TOL" /> This range is across a distance of 180 kilometres, in an area of [[Northcliffe, Western Australia|Northcliffe]], they are common in this region.<ref name="EBF"/> Its habitat is semi-permanent water, small pools and [[stream]]s that may be high in [[tannin]]s and acidity (pH 3.0-6.5). They experience a range of water temperatures, daily changes of 16 to 32 degrees Celsius, in pools no deeper than 0.1 metres. The species rests on the bottom of the  water using elongated pelvic and rounded caudal fins.  These small and shallow pools may contain a population of around 150 individuals, are generally no larger than 600 square metres, and evaporate in the dry seasons. It is also unusual for its ability to survive [[desiccation]] by burrowing into sand, a process of [[aestivation]], when the pools it lives in periodically evaporate.<ref name="AusMus" /><ref name="TOL" />
+
+==Taxonomy==
+The species was first described in 1961 by [[Gerlof Fokko Mees]].<ref>Mees, G. F. 1961. Description of a new fish of the family Galaxiidae from Western Australia. J. Roy. Soc. West. Aust. 44: 33-38.</ref> This author identified the species as belonging to the [[Galaxiidae]], but the relationship to those species was in doubt. ''Lepidogalaxias salamandroides'' was eventually placed among the [[Osmeriformes]] as a monotypic arrangement, ''Lepidogalaxias'' (Lepidogalaxiidae), in 1991.<ref name="TOL">{{cite web|url=http://tolweb.org/Lepidogalaxias_salamandroides/15164|title=''Lepidogalaxias_salamandroides''|last=Berra|first=Tim M. |year=1995|work=Version 01|publisher=The Tree of Life Web Project|accessdate=2008-10-26}}</ref> This placement has been also challenged, but remains current.<ref name="ITIS">{{ITIS |id=162127 |taxon=''Lepidogalaxias salamandroides'' |accessdate=24 January 2006}}</ref>  The species is contained in the class [[Actinopterygii]], ray-finned fish, and is sometimes given the taxonomic placements as Galaxiidae of the order [[Salmoniformes]].<ref name="AFD" />
+
+It is sometimes named as the mud minnow,<ref name="ITIS" /><ref name="FishBaseCommon">{{cite web|url=http://www.fishbase.org/comnames/CommonNamesList.php?ID=4537&GenusName=Lepidogalaxias&SpeciesName=salamandroides&StockCode=4722|title=Common Names of ''Lepidogalaxias salamandroides''|last=    |first= |accessdate=2009-01-05|work=Common name summary|publisher=FishBase}}</ref> long-finned Galaxias,<ref name="FishBaseCommon"/> scaled galaxias,<ref name="AFD">{{cite web|url=http://www.environment.gov.au/cgi-bin/abrs/fauna/details.pl?pstrVol=PISCES2;pstrTaxa=2799;pstrChecklistMode=1|title=''Lepidogalaxias salamandroides'' Mees, 1961|last=Gerald R. Allen, Norbert J. Cross & Douglass F. Hoese|date=27 Jun 2007|work=Australian Faunal Directory|publisher=Department of the Environment, Water, Heritage and the Arts|accessdate=2009-01-04}}</ref><ref name="FishBaseCommon"/> or dwarf pencilfish,<ref name="FishBaseCommon"/> however mud minnow usually refers to ''[[Galaxiella munda]]''.<ref name="allenetal2004">{{cite book  | last = Allen  | first = G.R. |author2=Midgley, S.H. |author3=Allen, M.  | title = Field Guide to the Freshwater Fish of Australia  | publisher = Western Australian Museum  | year = 2002  | location = Perth   | page = 109  | isbn = 0 7307 5486 3 }}</ref>
+
+A further list of names refer to ''L. salamandroides'' as salamanderfish of Western Australia, West Australian salamanderfish, salamander fish, salmanderfish, and Shannon mudminnow.<ref name="EBF"/><ref name="TOL"/><ref name="FishBaseCommon"/>
+
+==References==
+<references/>
+* {{FishBase_species|genus=Lepidogalaxias|species=salamandroides|year=2005|month=10}}
+
+==External links==
+{{Wikispecies-inline|Lepidogalaxiidae}}
+
+{{Taxonbar|from=Q1440363}}
+
+
+
+
+
+
+
+

@@ -1,0 +1,46 @@
+{{Culture of Wales}}
+'''Bando''' is a team sport – related to [[hockey]], [[hurling]], [[shinty]], and [[bandy]] – which was first recorded in [[Wales]] in the eighteenth century.<ref name="Davies">{{cite book |last=Davies |first=John |author2=Jenkins, Nigel |title=The Welsh Academy Encyclopaedia of Wales |year=2008 |publisher=University of Wales Press |location=Cardiff |isbn=978-0-7083-1953-6}}</ref> The game is played on a large level field between teams of up to thirty players each of them equipped with a ''bando'': a curve-ended stick resembling [[hockey stick|that used in field hockey]].<ref name="Davies"/> Although no formal rules are known, the objective of the game was to strike a ball between two marks which served as [[goal (sport)|goals]] at either end of the pitch.<ref name="Davies"/> Popular in [[Glamorgan]] in the nineteenth century, the sport all but vanished by the end of the century. Now a minority sport, the game is still played in parts of Wales where it has become an Easter tradition.
+
+==History==
+Bando is believed to have common origins with [[bandy]]. The game was first recorded in the late eighteenth century, and in 1797 a traveller en route from [[Cowbridge]] to [[Pyle]] noted "the extraordinary barrenness" of the locality in [[fraxinus|ash]] and [[elm]] trees, hard woods ideal for bando bats, and came across hordes of people hastening to the sea shore to watch a game of bando.<ref name="Morgan383">Morgan (1988) p. 383</ref> Whereas the sticks were made of hard wood, the ball, known as a "colby",<ref>{{cite book|title=Vale of Glamorgan Series, Saints and Sailing Ships|volume=4|editor1-first=Stewart|editor1-last=Williams|year=1962|publisher=D Brown & Sons| location=Cowbridge |first=Roy| last=Denning |chapter=Sports and Pastimes|page=47}}</ref> was normally of [[Taxus baccata|yew]], [[Buxus sempervirens|box]] or [[Malus|crabapple]].<ref>{{cite web | url=http://www.sonahhr.com/sonahhr/index.cfm?fuseaction=home.history&chapter=7 | title=The History of Hockey| publisher=Society of North American Hockey Historians and Researchers | author=  | accessdate=11 September 2010}}</ref> The sport was often played between local villages, with fierce rivalries in the west of Glamorgan between [[Baglan, Neath Port Talbot|Baglan]], [[Aberavon]] and [[Margam]] and in mid Glamorgan between [[Pyle]], [[Kenfig]] and [[Llangynwyd]].<ref name="Morgan 383-384">Morgan (1988) pp. 383–384</ref> Edward Matthews of [[Ewenni]] records that no-one above the age of twelve-month would be seen without a bando stick.<ref name="Morgan383"/>
+
+Although many pre-industrial games are recorded to be lawless affairs with haphazard rules, the contrary appears true with bando. Once a challenge of a game was made between villages, wagers were normally set which demanded an agreed set of rules, including the number of players, normally between 20 and 30 and the size of the playing area.<ref name="Morgan384">Morgan (1988) p. 384</ref> Matthews records a playing area of 200 [[yard]]s, with the goal markers at each end set ten yards apart.<ref name="Morgan384"/> Despite a set of rules, the game was still open to violent play with players often using their bando sticks to strike their opponents.<ref name="PCoW2">{{cite web | url=http://www.peoplescollectionwales.co.uk/Story/102-bando---an-ancient-manly-game | title=Bando – An ancient manly game (chapter 2) | publisher=People Collection of Wales | author= | accessdate=11 September 2010 | archive-url=https://web.archive.org/web/20110917033641/http://www.peoplescollectionwales.co.uk/Story/102-bando---an-ancient-manly-game | archive-date=2011-09-17 | dead-url=yes | df= }}</ref>
+
+One of the more notable teams of the time were the "Margam Bando Boys", a team who played on Aberavon Beach. The team are celebrated in a macaronic ballad, "The Margam Bando Boys", written in the earlier part of the nineteenth century.<ref name="Davies"/>
+
+"Margam Bando Boys", (first three verses)
+
+<blockquote><poem>Due praises I'll bestow
+And all the world shall know
+That Margam valour shall keep its colour
+When Kenfig's waters flow
+
+Our master, straight and tall
+Is foremost with the ball;
+He is, we know it, and must allow it,
+The fastest man of all
+
+Let cricket players blame,
+And seek to slight our fame,
+Their bat and wicket can never lick it,
+This ancient manly game</poem></blockquote>
+
+Bando is believed to be the first mass spectator sport of Glamorgan and Wales, and in 1817 a match between Margam and [[Newton, Bridgend|Newton Nottage]] attracted over 3,000 spectators.<ref name="Morgan 383-384"/> The sport remained popular throughout the century with notable personalities known to play the sport including preacher [[John Elias]] and future [[Prime Minister of the United Kingdom|prime minister]], [[David Lloyd George]].<ref name="PCoW1">{{cite web | url=http://www.peoplescollectionwales.co.uk/Story/102-bando---an-ancient-manly-game | title=Bando – An ancient manly game (chapter 1) | publisher=People Collection of Wales | author= | accessdate=11 September 2010 | archive-url=https://web.archive.org/web/20110917033641/http://www.peoplescollectionwales.co.uk/Story/102-bando---an-ancient-manly-game | archive-date=2011-09-17 | dead-url=yes | df= }}</ref> The sport continued to be played until the second half of the nineteenth century, but was beginning to be replaced by other sports. The game survived in the Aberavon area until the death of Theodore Talbot, the captain of the Margam Bando Boys in 1876.<ref name="Morgan384"/> Talbot, the son of [[Christopher Rice Mansel Talbot]] and heir to the [[Margam Castle|Margam Estate]] was a supporter of the sport, and his death coincided with the coming of the Mansel, Avon Vale and Taibach tinworks.<ref name="Morgan384"/> The employees turned to a new sport spreading through south Wales, [[rugby union]], with [[Aberavon RFC|Aberavon Rugby Football Club]] forming in 1876.<ref name="Morgan384"/>
+
+Now a minority sport, the game survives as an amateur game in parts of Wales, and some small-scale attempts have been made to revive the game in the country. Despite having no religious links with Easter, the sport became a tradition on the date as part of some parish festivals.
+
+==Notes==
+{{reflist|30em}}
+
+==Bibliography==
+* {{cite book |editor1-first=Prys |editor1-last=Morgan |title=Glamorgan County History, Volume VI, Glamorgan Society 1780 to 1980 |year=1988 |publisher=University of Wales Press |location=Cardiff |isbn=0-904730-05-0}}
+
+==External links==
+* [https://www.peoplescollection.wales/content/bando-ancient-manly-game Bando – An ancient manly game] Peoples Collection of Wales, brief history of the sport with an image of a bando stick.
+
+{{Team Sport}}
+
+
+
+
+

@@ -1,0 +1,629 @@
+{{For|the character from the ''[[Advance Wars series|Advance Wars]]'' series|List of Advance Wars COs}}
+{{refimprove|date=September 2016}}
+{{Infobox sport
+| name       = Jugger
+| image      = [[Image:Jugger Hannover2.jpg|275px]] 
+| alt        = 
+| imagesize  = 
+| caption    = The ''Hannover Living Undeads'' in the middle of a Jugger match
+| union      = 
+| nickname   = 
+| first      = 1995
+| firstlabel = 
+| region     = [[Germany]], [[Australia]], [[Ireland]], [[United States]], [[United Kingdom]], [[Poland]], [[Belarus]], [[Spain]], [[Canada]], [[Sweden]]
+| registered = 
+| clubs      = 
+| contact    = 
+| team       = 
+| mgender    = 
+| type       = Ball game, team sport
+| equipment  = Skull-shaped ball, prop weapons, stakes
+| venue      = Field
+| olympic    = 
+| paralympic = 
+| obsolete   = 
+}}
+'''Jugger''' is a sport inspired by the 1989 film ''[[The Blood of Heroes|The Salute of the Jugger]]'' (released as ''The Blood of Heroes'' in the United States), in which a game of the same name is played.<ref name=NYT>{{cite web|work=[[The New York Times]]|title=Review/Film; Clashing Gladiators in the Bloody Sport of a Future Dark Age|author=Canby, Vincent|authorlink=Vincent Canby|date=February 23, 1990|url=https://www.nytimes.com/1990/02/23/movies/review-film-clashing-gladiators-in-the-bloody-sport-of-a-future-dark-age.html}}</ref><ref>{{cite web|publisher=[[Yahoo!]]|url=https://www.yahoo.com/news/mad-max-fans-descend-post-apocalyptic-playground-071759665.html|title='Mad Max' fans descend on post-apocalyptic playground|first=Frankie|last=Taggart|date=September 23, 2016}}</ref> The film version was invented by the film's writer-director, [[David Webb Peoples]], especially for the movie. The transformation into a real sport happened independently in [[Germany]] and [[Australia]].
+
+Jugger as sport is gaining popularity in Germany, especially with university and college teams, with its own league. There are teams in Australia, New Zealand, Austria, Ireland, England, Poland, Czech republic, Denmark, Spain, Sweden, Colombia, Costa Rica, The Netherlands, Latvia, Lithuania, Canada, Mexico, Argentina and Romania. A couple of variations of the sport are played in the USA. Some follow the International version (e.g. Germany, Ireland etc.) which is referred to as "Sport Jugger" while others use a model that more closely resembles The Game that is played in the movie, most commonly referred to as "Wasteland Jugger."
+
+The first ever Jugger international tournament took place in Hamburg, Germany on 20 May 2007 between the Irish team Setanta and a number of the Northern German teams. In 2008, Australia and Ireland came to Germany to take part in the 1st German Open, making it the first two-continent tournament in Jugger.
+
+==Equipment==
+* The '''skull''' ('''German''': '''''jugg''''' in "Berlin tradition", or, '''''Schädel''''' in "Hamburg/Dilettanten tradition"<ref>On the two traditions see also: Jugger. A post-apocalyptic sport for all occasions, Morrisville 2008, pp. 18–20</ref>): a "ball" made to resemble a dog skull, usually made of foam and tape (not an actual dog skull as in ''The Blood of Heroes'', as an actual dog skull would break).  In Germany and Ireland, a dog skull made of cellfoam, covered with latex, is used.
+* The '''mounds''' ('''German''': '''''mal'''''): In most countries, a frustum (a pyramid with the top cut off) with a centre hollow is used.
+* '''Weapons''':  the "weapons" used in jugger are very similar to [[Live action role-playing game]] weapons. There are strict regulations to the length of a weapon and the amount of padding used. The weapons in jugger vary in type for different countries:
+** Australian-style weapons ("Spars")<ref name=oz>{{cite web|url=http://www.jugger.org.au/index.php/what-is-jugger/australian-rules|title=Australian Rules|website=Jugger.org.au|access-date=13 September 2015|archive-url=https://web.archive.org/web/20150923120016/http://www.jugger.org.au/index.php/what-is-jugger/australian-rules|archive-date=23 September 2015|dead-url=yes|df=dmy-all}}</ref> each enforcer may have any of the following combinations, with at most one double-up and one chain:
+*** A '''staff''', 180&nbsp;cm in length, with a 110 cm striking zone at one and another in the middle, creating two distinct hand grips. Thrusting is not allowed
+*** A '''Q-Tip''', 200&nbsp;cm in length, double-ended striking zones of maximum 60 cm, thrusting is allowed
+*** A '''longsword''', 140&nbsp;cm in length, thrusting is allowed
+*** A '''short sword''' and '''shield''', short sword 85&nbsp;cm in length, thrusting is allowed; padded shield, 60&nbsp;cm in diameter
+*** Two '''short swords,''' each 85&nbsp;cm in length
+*** A '''chain''', 320&nbsp;cm in length with optional 50&nbsp;cm club attached to the handle end (replacing 50&nbsp;cm of chain). The ball of the chain is at least 20 cm diameter and soft.
+*** The '''Goal'''. '''Mal''' or '''Mound'''
+** German-style weapons ("Pompfen"):
+*** A '''staff''', 180&nbsp;cm in length, thrusting is not allowed
+*** A '''Q-Tip''', 200&nbsp;cm in length, double-ended, thrusting is allowed
+*** A '''longsword''', 140&nbsp;cm in length, thrusting is allowed
+*** A '''short sword''' and '''shield''', short sword 85&nbsp;cm in length, thrusting is allowed; padded shield, 60&nbsp;cm in diameter
+*** A '''chain''', 320&nbsp;cm in length
+*** The  '''mal''' is not a stake but a frustum with a centre hole to place the skull in
+** American-style weapons (North and South America):
+*** A '''Staff''' 180cm in length, with one striking end, thrusting is allowed but discouraged
+*** A '''Q-Tip''', 200cm in length, double ended, thrusting is allowed
+*** A '''Longpompf''', 140cm in length
+*** '''Paired Short Pompf''', 85cm in length each
+*** '''Short and Shield''', 85cm in length for the pompfen, 60cm in diameter maximum for the shield
+*** '''Chain''' 320cm maximum length from end to end
+*** '''Goal or Mound''', is similar to the German mal, is a wide based, short cone with a deep well in the center for placing the skull
+
+Traditional timekeeping is done with a '''gong''' and 100 '''stones''': The stones are thrown against the gong to keep time.  100 stones per third, 3 thirds per game. Alternatively a '''drum''' or speaker system is used, with the '''drummer''' keeping count of each beat (known as a '''stone'''). 100 stones per third, 3 thirds per game. In conjunction with official equipment, smartphone applications such as [https://play.google.com/store/apps/details?id=contador.piedras.jugger&hl=en Jugger Stones] or [https://play.google.com/store/apps/details?id=com.group5.juggermatch Jugger Match].
+are sometimes used for score keeping and/or drum beats.
+
+==Roles==
+A team is composed of the 8 following persons, 5 of which are allowed to be on the field:
+* One '''qwik''' (sometimes spelled "quick"<ref>For the correct spelling 'qwik' , see credits of the movie and the director's note in the book 'Jugger. A post-apocalyptic sport for all occasions', p. 7</ref>): An unarmed player, and the only one allowed to touch the skull
+* Maximum one '''chain''': A player armed with a chain
+* Three respectively four '''enforcers''' (German: Fighter,<ref>Taken from an English translation of a German document: [http://garcianet.homeip.net/Jugging/juggerrules.doc http://garcianet.homeip.net/Jugging/juggerrules.doc] {{webarchive|url=https://web.archive.org/web/20070829220205/http://garcianet.homeip.net/Jugging/juggerrules.doc |date=29 August 2007 }}</ref> German term: Pompfer): Armed with their choice of weapons (except chain).  May handle the skull with their weapons
+* Up to three '''substitutes''', who may replace any player
+
+===Roles (in the film)===
+In the film ''[[The Blood of Heroes|The Salute of the Jugger]]'' (or 'The Blood of Heroes'), each role is heard at least once in the dialogue:
+
+*'''Qwik''' - Kidda (portrayed by [[Joan Chen]]) and other characters in the movie refer to this role a few times throughout the movie.
+*'''Slash''' - Sallow (portrayed by [[Rutger Hauer]]) is described as one (and refers to others) this role. Both Sallow and Gonzo are described as "Slashes" in the movie.
+*'''Drive''' - Cim (or Big Cimber, portrayed by [[Anna Katarina]]) or Mbulu (portrayed by [[Delroy Lindo]]) are described as such, and only once, by Sallow when he, Cim, and Mbulu are debating midway through the movie.
+*'''Back Charge''' - Mbulu (portrayed by [[Delroy Lindo]]) or Cim (or Big Cimber, portrayed by [[Anna Katarina]]) are described as such, and only once, by Sallow when he, Cim, and Mbulu are debating midway through the movie.
+*'''Griffer''' - When Sallow speaks to Gonzo the first time in the movie, this term is used by Sallow's character once, and may refer to the chain-using player in the game (portrayed on Sallow's team by [[Vincent D'Onofrio]], as 'Young Gar').
+
+==Rules==
+__NOTOC__
+
+===Australia===
+The objective of the game is for the team's Qwik to get the foam dog skull, or jugg, into the opposing team's mound to score goals, while minimising the number of goals the opposing team scores within the time limit. The enforcer's role is to defend their Qwik from the opposing players.
+
+====Positions====
+Australian Rules Jugger is played with two teams of five juggers. Three '''enforcers''' with pompfen, one '''chain''' and one '''qwik'''.
+
+'''Qwiks'''
+<br />
+The Qwik is unarmed and the only player who can carry the skull. The two Qwiks start outside the centre circle and when the game begins wrestle for the skull. The enforcers may not enter the circle until the skull or the whole body of one of the Qwiks leave the circle. A Qwik's hands and forearms are not considered a hit zone and may be used to block.
+
+'''Enforcers'''
+<br />
+The enforcers wield various classes of padded pompfen(listed above)
+
+Historically there could only be a maximum of two of the same class of weapon among the other enforcers, but this restriction has been lifted. An enforcer can pin another player by resting their weapon on the hit player at anytime while the player is kneeling. Even with paired shorts or Q-tips, a player can only pin one opponent.
+
+'''Chain'''
+The position of chain wields a ball-and-chain of plastic and foam up to 320&nbsp;cm long. The chain can have a 50&nbsp;cm handle (replacing 50&nbsp;cm of chain) with a striking surface which can be used to tag opponents for a regular Spar penalty count.
+
+====Timekeeping====
+Most games consist of two halves of 150 stones each, while tournament finals are three thirds of 150 stones. Historically kept by throwing stones against a gong, now other methods such as drums or speakers are used. Stone beats are now 1.5 seconds apart, when previously they had been 2.5 seconds apart for matches of 100 stones per half.
+
+====Hits====
+Stone penalties for hits vary between countries from three to five for the '''Spar/Pompfen''' and five and eight for the '''chain'''. Australia played three and five until 2017 when they adopted five and eight.
+: When a player is hit by the other team they take a knee and are inactive for the count of ''five'' stones.
+: If hit with the ball of the chain they take a knee for a count of ''eight'' stones.
+: Unsafe head hits incur a penalty on the hitter of eight stones for safety.
+
+Strike locations are from the neck down (excluding hands on cored weapons or the entire forearm from the elbow down for qwiks). All strikes in jugger are touch, so there is no need to hit heavily or try to cause injury.
+
+===Ireland===
+As with German and Australian Jugger, the goal is to score more points than your opponents within a time limit. These time limits are counted by a regular beat or "stones" on a drum amounting to about two seconds to every stone. A tournament game is played for two sides of one hundred stones each but during normal training sessions there are no spare players to beat the drum so the game is usually played as the first to 10 points or similar.
+
+The game itself is played with two teams of five, with substitutes waiting behind the starting line. A full team consists of a runner, a chain, two staffmen and a chainblocker. Although weapons other than staffs can be used, staffs are by far the most common in Ireland. There can only ever be one chain per team at one time.
+
+The pitch itself is rectangular with two "mal" (German, goals) at either end in the form of a foam square with a depression to receive the skull. The "Skull", a rubber dogskull serving as the ball, is placed in the middle of the pitch and at the end of a count by the referee or one of the captains both teams run towards the centre of the pitch and try to score.
+
+When both lines reach the centre of the pitch the players try to "tap" each other out. This is done by lightly tapping the opponent with a legal surface of your weapon on a legal body part. In Ireland this means anywhere below the neck and above the wrists. Headshots are avoided and if a pompfe hits the head ''before'' a legal target the tap is discounted and the player must withdraw their weapon before hitting again. While a hit on the head after a hit on a legal target is still counted it is frowned upon and avoided. If both players tap each other at the same time, or indiscernibly closely, both players are considered hit and go down. This is unlike in German rules where hits within half a count of each other are allowed.
+
+When a player is tapped out they drop to the ground with one knee touching the ground. If they have been hit by a staff or other pompfe, they stay down for five stones. If they have been hit by a chain, they are down for eight stones. The count begins when the knee hits the ground and while the player may move to retrieve a weapon they must return to where they were hit before they start playing. A kneeling player may also pivot around on their knee provided they don't lift it.
+
+While they are down another player may "pin" them by holding their staff on them. A chain player may not do this. As soon as their count is up any player except a runner ''must'' attempt to stand again. As soon as their knee leaves the ground they are considered standing and can be hit although they must be "fully standing," before they can hit others. As a result of these rules it is possible to abuse them by holding a pompf just above a person waiting to rise. They must rise as soon as they can and they are tapped out for another five stones as soon as they do. As a result, a rule was instituted that a pompf must be either pinning a kneeling player or three feet away, an exception is where there are two players kneeling in close proximity and it is impossible to pin one without having your pompf close to another.
+
+The purpose of all this is to break a hole in the opposite line and allow the runner a chance to score. Once a runner scores both teams reset to either end of the pitch, the skull is placed in the centre by the schiri, referee, and the victorious team is awarded the point. The game is quite comparable to Hamburg rules jugger, from which it originates, and is least similar to Australian jugger. Most of the following comes from IADT (Institute of Art, Design and Technology), in Dublin with plans to expand into UCD (University College Dublin) and DCU (Dublin City University), and is also played in the Institute of Technology, Tralee.
+
+===United States===
+Multiple variants exist within the country. Sport Jugger is nearly identical to the European variant, with very subtle rule variations. Another game based on the same movie developed within the Live Action Role Play [[Amtgard]] and is referred to there as "Jugging" and applies the LARP's combat mechanics to the game as seen in the movie. It is basically a battle game within a foam LARP, but very popular. Wasteland Jugger is yet another variant, where participants wear heavy home-made armor and utilize metal weapons. Engagements more like traditional combat, as the game is full-contact and uses such weapons as iron posts, axles, stop signs and metal chains to name a few.
+
+The Competitive Underground Jugger League or C.U.J.L. (pronounced "cudgel") is a group based originally out of the American Midwest that began in 2009.  In their league the "weapons" are made of rattan with impact surfaces padded with strips of mountain bike tire. Helmets, knee guards, and hand protection are required gear as outlined in their Codex.  Teams in the league compete each season for the "Bucket of Blood" trophy.
+
+The Carolina Aggressive Jugger Association (C.A.J.A./CAJA) is another American jugger league that aims to hold truer to the movie than its European counterparts. Formed September 2010, they are still refining their rules and regulations. Drawing from C.U.J.L., European leagues, as well as the movie itself; they allow use of much denser cores, hardwoods specifically, (with metal being allowed only on chain weaponry and shields) and require only one layer of closed cell padding at least 1/2&nbsp;inch thick. This of course insists the implementation of armor covering vital areas; the head, a majority of the ribcage, forearms, shins, and the entire spine, may be eventually required to be protected. Also their field is considerably smaller than most at 75&nbsp;ft by 40&nbsp;ft; this is also subject to change. The smaller field was chosen to compensate for the additional fatigue caused by armor usage as well as to place players closer to one another, which CAJA felt was more accurate than the usual playing field. Currently{{when|date=May 2013}} playing skirmishes in [[Longs, South Carolina]] (just out of North Myrtle Beach) players ages 14 and up are welcome to come watch or participate as either players or support crew.
+
+The USJL (United States Jugger League) is organized with the intention of building Jugger teams that play by similar rules to those found internationally so that the US will have an opportunity to take part in the international tournaments. The USJL rulebook and other information can be found on the USJL website.
+
+Jugger Ohio is a group formed in October 2010 that is based in the historic town of Marietta, Ohio. Using very similar rules, field size and equipment as its international counterparts, Jugger Ohio has also embraced social media as a viable way of communicating. It continues to organize weekly and bi-weekly matches via Facebook to great effect. They are organizing the first ever American Jugger tournament, dubbed "The Dogskull Classic", planned in the style of the German Open. This event is slated for August 13, 2011 in Marietta Ohio.
+
+The Red Dirt Jugger Club is based in Oklahoma City and was formed in June 2010. Oklahoma plays with German style rules, and has grown to over 50 members. A league is being formed in the fall of 2012 and 7 teams of 6 have been formed and are preparing for league play. Oklahoma City and its outlying suburbs play every weekend.
+
+====Hits and strike zones====
+* '''USA''' (Jugger Ohio & Red Dirt Jugger Club)
+: When a player is hit by the other team's enforcers they take a knee and are inactive for the count of '''five stones'''.
+: When a player is hit by the ball or the connecting chain, they take a knee and are inactive for a count of '''eight''' stones.
+: Hits to the hands, head and groin do '''not''' count as a hit and the groin and head shots incur an '''eight stone penalty''' to the offending player. All else is a legal hit, including feet, shins, legs and arms.
+
+A variant of Jugger is played within the UK’s [[Lorien Trust]] LARP system, the world championship being held at the system's sporting event the Great Edrejan Fayre.
+
+Versions of the game are also occasionally played by [[SCA armoured combat]] fighters<ref>[https://www.youtube.com/watch?v=7eIvCIIQGiE "Blood of Heroes" event video], from the [[Kingdom of Calontir]]</ref>
+
+==Further reading==
+Wickenhäuser, Ruben Philipp: Jugger. A post-apocalyptic sport for all occasions, Morrisville 2008, {{ISBN|978-1-4092-2920-9}} [http://jugger.uhusnest.de/en_start.shtml Website]
+
+==See also==
+* [[Buzkashi]]
+
+==Community sites==
+* [https://web.archive.org/web/20110321021346/http://www.juggersalute.com/ Jugger Salute ] is a community site built to help Juggers and fans from all over the world connect, share information and further enjoy the community that is Jugger! – Currently offline. Will be back up at a later date.
+* [http://www.jugger.org.au/ Australian Jugger League ] is a site dedicated to the Australian Jugger League with rules, photos and links to social media sites used to organise games.
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Jugger}}
+
+There are a number of international sites:
+* [https://web.archive.org/web/20110321021346/http://www.juggersalute.com/ Jugger Salute ]
+* [http://www.juggerblog.net/ The international Jugger Blog]
+* [http://turniere.jugger.org/ Jugger | Tournaments | Rankings]
+* [https://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=116569864829623030752.0004542540529cef4e6ce&t=h&ll=34.597042,32.34375&spn=90,-45&source=embed Jugger training locations world map (Google)]
+<!--
+{{coord|34.5970|32.3438|type:landmark_source:enwiki-googlemaplink|display=title}}
+-->
+
+===Regional Jugger groups===
+
+===Australian===
+* [http://www.jugger.org.au/ Jugger.org.au]
+
+===Austrian===
+* [http://www.jugger.at/ Jugger Vienna]
+
+===Costa Rican===
+* [https://www.facebook.com/JuggerSabana JuggerSabana]
+
+===Czech===
+* [http://jugger.cz Jugger.cz]
+
+===English===
+* [https://web.archive.org/web/20090927085458/http://www.hartsofalbion.co.uk/library/ettiquette/guide_to_jugger.php Jugger in the Lorien Trust LARP system]
+
+===German===
+* [http://www.jugger.org/ Jugger Community Portal]
+* [http://forum.jugger.org/ Jugger Community Forum]
+* [http://www.jugger.de Jugger.de]
+
+===Irish===
+* [https://web.archive.org/web/20100614111411/http://www.wix.com/juggerireland/Jugger-Ireland Jugger Ireland Homepage]
+* [http://www.filehosting.org/file/details/144164/Jugger_Rulebook_Provisional.doc Irish provisional rulebook]{{dead link|date=April 2017 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+===Spanish===
+* [http://aajugger.foroactivo.com Aragon Community Forum]
+* [http://www.dadodedragon.es/index.php?option=com_docman&task=doc_details&gid=17&Itemid=62 Spanish Jugger rules (Microsoft Word)]
+* [http://juggergalicia.comze.com/ "Asociación Galega de Jugger -AGJ-" Galician Association of Jugger]
+* [http://juggergalicia.comze.com/foro/viewtopic.php?f=21&t=7 Galician Jugger Rules (PDF)]
+{{Use dmy dates|date=May 2011}}
+
+
+
+
+{{For|the character from the ''[[Advance Wars series|Advance Wars]]'' series|List of Advance Wars COs}}
+{{refimprove|date=September 2016}}
+{{Infobox sport
+| name       = Jugger
+| image      = [[Image:Jugger Hannover2.jpg|275px]] 
+| alt        = 
+| imagesize  = 
+| caption    = The ''Hannover Living Undeads'' in the middle of a Jugger match
+| union      = 
+| nickname   = 
+| first      = 1995
+| firstlabel = 
+| region     = [[Germany]], [[Australia]], [[Ireland]], [[United States]], [[United Kingdom]], [[Poland]], [[Belarus]], [[Spain]], [[Canada]], [[Sweden]]
+| registered = 
+| clubs      = 
+| contact    = 
+| team       = 
+| mgender    = 
+| type       = Ball game, team sport
+| equipment  = Skull-shaped ball, prop weapons, stakes
+| venue      = Field
+| olympic    = 
+| paralympic = 
+| obsolete   = 
+}}
+'''Jugger''' is a sport inspired by the 1989 film ''[[The Blood of Heroes|The Salute of the Jugger]]'' (released as ''The Blood of Heroes'' in the United States), in which a game of the same name is played.<ref name=NYT>{{cite web|work=[[The New York Times]]|title=Review/Film; Clashing Gladiators in the Bloody Sport of a Future Dark Age|author=Canby, Vincent|authorlink=Vincent Canby|date=February 23, 1990|url=https://www.nytimes.com/1990/02/23/movies/review-film-clashing-gladiators-in-the-bloody-sport-of-a-future-dark-age.html}}</ref><ref>{{cite web|publisher=[[Yahoo!]]|url=https://www.yahoo.com/news/mad-max-fans-descend-post-apocalyptic-playground-071759665.html|title='Mad Max' fans descend on post-apocalyptic playground|first=Frankie|last=Taggart|date=September 23, 2016}}</ref> The film version was invented by the film's writer-director, [[David Webb Peoples]], especially for the movie. The transformation into a real sport happened independently in [[Germany]] and [[Australia]].
+
+Jugger as sport is gaining popularity in Germany, especially with university and college teams, with its own league. There are teams in Australia, New Zealand, Austria, Ireland, England, Poland, Czech republic, Denmark, Spain, Sweden, Colombia, Costa Rica, The Netherlands, Latvia, Lithuania, Canada, Mexico, Argentina and Romania. A couple of variations of the sport are played in the USA. Some follow the International version (e.g. Germany, Ireland etc.) which is referred to as "Sport Jugger" while others use a model that more closely resembles The Game that is played in the movie, most commonly referred to as "Wasteland Jugger."
+
+The first ever Jugger international tournament took place in Hamburg, Germany on 20 May 2007 between the Irish team Setanta and a number of the Northern German teams. In 2008, Australia and Ireland came to Germany to take part in the 1st German Open, making it the first two-continent tournament in Jugger.
+
+==Equipment==
+* The '''skull''' ('''German''': '''''jugg''''' in "Berlin tradition", or, '''''Schädel''''' in "Hamburg/Dilettanten tradition"<ref>On the two traditions see also: Jugger. A post-apocalyptic sport for all occasions, Morrisville 2008, pp. 18–20</ref>): a "ball" made to resemble a dog skull, usually made of foam and tape (not an actual dog skull as in ''The Blood of Heroes'', as an actual dog skull would break).  In Germany and Ireland, a dog skull made of cellfoam, covered with latex, is used.
+* The '''mounds''' ('''German''': '''''mal'''''): In most countries, a frustum (a pyramid with the top cut off) with a centre hollow is used.
+* '''Weapons''':  the "weapons" used in jugger are very similar to [[Live action role-playing game]] weapons. There are strict regulations to the length of a weapon and the amount of padding used. The weapons in jugger vary in type for different countries:
+** Australian-style weapons ("Spars")<ref name=oz>{{cite web|url=http://www.jugger.org.au/index.php/what-is-jugger/australian-rules|title=Australian Rules|website=Jugger.org.au|access-date=13 September 2015|archive-url=https://web.archive.org/web/20150923120016/http://www.jugger.org.au/index.php/what-is-jugger/australian-rules|archive-date=23 September 2015|dead-url=yes|df=dmy-all}}</ref> each enforcer may have any of the following combinations, with at most one double-up and one chain:
+*** A '''staff''', 180&nbsp;cm in length, with a 110 cm striking zone at one and another in the middle, creating two distinct hand grips. Thrusting is not allowed
+*** A '''Q-Tip''', 200&nbsp;cm in length, double-ended striking zones of maximum 60 cm, thrusting is allowed
+*** A '''longsword''', 140&nbsp;cm in length, thrusting is allowed
+*** A '''short sword''' and '''shield''', short sword 85&nbsp;cm in length, thrusting is allowed; padded shield, 60&nbsp;cm in diameter
+*** Two '''short swords,''' each 85&nbsp;cm in length
+*** A '''chain''', 320&nbsp;cm in length with optional 50&nbsp;cm club attached to the handle end (replacing 50&nbsp;cm of chain). The ball of the chain is at least 20 cm diameter and soft.
+*** The '''Goal'''. '''Mal''' or '''Mound'''
+** German-style weapons ("Pompfen"):
+*** A '''staff''', 180&nbsp;cm in length, thrusting is not allowed
+*** A '''Q-Tip''', 200&nbsp;cm in length, double-ended, thrusting is allowed
+*** A '''longsword''', 140&nbsp;cm in length, thrusting is allowed
+*** A '''short sword''' and '''shield''', short sword 85&nbsp;cm in length, thrusting is allowed; padded shield, 60&nbsp;cm in diameter
+*** A '''chain''', 320&nbsp;cm in length
+*** The  '''mal''' is not a stake but a frustum with a centre hole to place the skull in
+** American-style weapons (North and South America):
+*** A '''Staff''' 180cm in length, with one striking end, thrusting is allowed but discouraged
+*** A '''Q-Tip''', 200cm in length, double ended, thrusting is allowed
+*** A '''Longpompf''', 140cm in length
+*** '''Paired Short Pompf''', 85cm in length each
+*** '''Short and Shield''', 85cm in length for the pompfen, 60cm in diameter maximum for the shield
+*** '''Chain''' 320cm maximum length from end to end
+*** '''Goal or Mound''', is similar to the German mal, is a wide based, short cone with a deep well in the center for placing the skull
+
+Traditional timekeeping is done with a '''gong''' and 100 '''stones''': The stones are thrown against the gong to keep time.  100 stones per third, 3 thirds per game. Alternatively a '''drum''' or speaker system is used, with the '''drummer''' keeping count of each beat (known as a '''stone'''). 100 stones per third, 3 thirds per game. In conjunction with official equipment, smartphone applications such as [https://play.google.com/store/apps/details?id=contador.piedras.jugger&hl=en Jugger Stones] or [https://play.google.com/store/apps/details?id=com.group5.juggermatch Jugger Match].
+are sometimes used for score keeping and/or drum beats.
+
+==Roles==
+A team is composed of the 8 following persons, 5 of which are allowed to be on the field:
+* One '''qwik''' (sometimes spelled "quick"<ref>For the correct spelling 'qwik' , see credits of the movie and the director's note in the book 'Jugger. A post-apocalyptic sport for all occasions', p. 7</ref>): An unarmed player, and the only one allowed to touch the skull
+* Maximum one '''chain''': A player armed with a chain
+* Three respectively four '''enforcers''' (German: Fighter,<ref>Taken from an English translation of a German document: [http://garcianet.homeip.net/Jugging/juggerrules.doc http://garcianet.homeip.net/Jugging/juggerrules.doc] {{webarchive|url=https://web.archive.org/web/20070829220205/http://garcianet.homeip.net/Jugging/juggerrules.doc |date=29 August 2007 }}</ref> German term: Pompfer): Armed with their choice of weapons (except chain).  May handle the skull with their weapons
+* Up to three '''substitutes''', who may replace any player
+
+===Roles (in the film)===
+In the film ''[[The Blood of Heroes|The Salute of the Jugger]]'' (or 'The Blood of Heroes'), each role is heard at least once in the dialogue:
+
+*'''Qwik''' - Kidda (portrayed by [[Joan Chen]]) and other characters in the movie refer to this role a few times throughout the movie.
+*'''Slash''' - Sallow (portrayed by [[Rutger Hauer]]) is described as one (and refers to others) this role. Both Sallow and Gonzo are described as "Slashes" in the movie.
+*'''Drive''' - Cim (or Big Cimber, portrayed by [[Anna Katarina]]) or Mbulu (portrayed by [[Delroy Lindo]]) are described as such, and only once, by Sallow when he, Cim, and Mbulu are debating midway through the movie.
+*'''Back Charge''' - Mbulu (portrayed by [[Delroy Lindo]]) or Cim (or Big Cimber, portrayed by [[Anna Katarina]]) are described as such, and only once, by Sallow when he, Cim, and Mbulu are debating midway through the movie.
+*'''Griffer''' - When Sallow speaks to Gonzo the first time in the movie, this term is used by Sallow's character once, and may refer to the chain-using player in the game (portrayed on Sallow's team by [[Vincent D'Onofrio]], as 'Young Gar').
+
+==Rules==
+__NOTOC__
+
+===Australia===
+The objective of the game is for the team's Qwik to get the foam dog skull, or jugg, into the opposing team's mound to score goals, while minimising the number of goals the opposing team scores within the time limit. The enforcer's role is to defend their Qwik from the opposing players.
+
+====Positions====
+Australian Rules Jugger is played with two teams of five juggers. Three '''enforcers''' with pompfen, one '''chain''' and one '''qwik'''.
+
+'''Qwiks'''
+<br />
+The Qwik is unarmed and the only player who can carry the skull. The two Qwiks start outside the centre circle and when the game begins wrestle for the skull. The enforcers may not enter the circle until the skull or the whole body of one of the Qwiks leave the circle. A Qwik's hands and forearms are not considered a hit zone and may be used to block.
+
+'''Enforcers'''
+<br />
+The enforcers wield various classes of padded pompfen(listed above)
+
+Historically there could only be a maximum of two of the same class of weapon among the other enforcers, but this restriction has been lifted. An enforcer can pin another player by resting their weapon on the hit player at anytime while the player is kneeling. Even with paired shorts or Q-tips, a player can only pin one opponent.
+
+'''Chain'''
+The position of chain wields a ball-and-chain of plastic and foam up to 320&nbsp;cm long. The chain can have a 50&nbsp;cm handle (replacing 50&nbsp;cm of chain) with a striking surface which can be used to tag opponents for a regular Spar penalty count.
+
+====Timekeeping====
+Most games consist of two halves of 150 stones each, while tournament finals are three thirds of 150 stones. Historically kept by throwing stones against a gong, now other methods such as drums or speakers are used. Stone beats are now 1.5 seconds apart, when previously they had been 2.5 seconds apart for matches of 100 stones per half.
+
+====Hits====
+Stone penalties for hits vary between countries from three to five for the '''Spar/Pompfen''' and five and eight for the '''chain'''. Australia played three and five until 2017 when they adopted five and eight.
+: When a player is hit by the other team they take a knee and are inactive for the count of ''five'' stones.
+: If hit with the ball of the chain they take a knee for a count of ''eight'' stones.
+: Unsafe head hits incur a penalty on the hitter of eight stones for safety.
+
+Strike locations are from the neck down (excluding hands on cored weapons or the entire forearm from the elbow down for qwiks). All strikes in jugger are touch, so there is no need to hit heavily or try to cause injury.
+
+===Ireland===
+As with German and Australian Jugger, the goal is to score more points than your opponents within a time limit. These time limits are counted by a regular beat or "stones" on a drum amounting to about two seconds to every stone. A tournament game is played for two sides of one hundred stones each but during normal training sessions there are no spare players to beat the drum so the game is usually played as the first to 10 points or similar.
+
+The game itself is played with two teams of five, with substitutes waiting behind the starting line. A full team consists of a runner, a chain, two staffmen and a chainblocker. Although weapons other than staffs can be used, staffs are by far the most common in Ireland. There can only ever be one chain per team at one time.
+
+The pitch itself is rectangular with two "mal" (German, goals) at either end in the form of a foam square with a depression to receive the skull. The "Skull", a rubber dogskull serving as the ball, is placed in the middle of the pitch and at the end of a count by the referee or one of the captains both teams run towards the centre of the pitch and try to score.
+
+When both lines reach the centre of the pitch the players try to "tap" each other out. This is done by lightly tapping the opponent with a legal surface of your weapon on a legal body part. In Ireland this means anywhere below the neck and above the wrists. Headshots are avoided and if a pompfe hits the head ''before'' a legal target the tap is discounted and the player must withdraw their weapon before hitting again. While a hit on the head after a hit on a legal target is still counted it is frowned upon and avoided. If both players tap each other at the same time, or indiscernibly closely, both players are considered hit and go down. This is unlike in German rules where hits within half a count of each other are allowed.
+
+When a player is tapped out they drop to the ground with one knee touching the ground. If they have been hit by a staff or other pompfe, they stay down for five stones. If they have been hit by a chain, they are down for eight stones. The count begins when the knee hits the ground and while the player may move to retrieve a weapon they must return to where they were hit before they start playing. A kneeling player may also pivot around on their knee provided they don't lift it.
+
+While they are down another player may "pin" them by holding their staff on them. A chain player may not do this. As soon as their count is up any player except a runner ''must'' attempt to stand again. As soon as their knee leaves the ground they are considered standing and can be hit although they must be "fully standing," before they can hit others. As a result of these rules it is possible to abuse them by holding a pompf just above a person waiting to rise. They must rise as soon as they can and they are tapped out for another five stones as soon as they do. As a result, a rule was instituted that a pompf must be either pinning a kneeling player or three feet away, an exception is where there are two players kneeling in close proximity and it is impossible to pin one without having your pompf close to another.
+
+The purpose of all this is to break a hole in the opposite line and allow the runner a chance to score. Once a runner scores both teams reset to either end of the pitch, the skull is placed in the centre by the schiri, referee, and the victorious team is awarded the point. The game is quite comparable to Hamburg rules jugger, from which it originates, and is least similar to Australian jugger. Most of the following comes from IADT (Institute of Art, Design and Technology), in Dublin with plans to expand into UCD (University College Dublin) and DCU (Dublin City University), and is also played in the Institute of Technology, Tralee.
+
+===United States===
+Multiple variants exist within the country. Sport Jugger is nearly identical to the European variant, with very subtle rule variations. Another game based on the same movie developed within the Live Action Role Play [[Amtgard]] and is referred to there as "Jugging" and applies the LARP's combat mechanics to the game as seen in the movie. It is basically a battle game within a foam LARP, but very popular. Wasteland Jugger is yet another variant, where participants wear heavy home-made armor and utilize metal weapons. Engagements more like traditional combat, as the game is full-contact and uses such weapons as iron posts, axles, stop signs and metal chains to name a few.
+
+The Competitive Underground Jugger League or C.U.J.L. (pronounced "cudgel") is a group based originally out of the American Midwest that began in 2009.  In their league the "weapons" are made of rattan with impact surfaces padded with strips of mountain bike tire. Helmets, knee guards, and hand protection are required gear as outlined in their Codex.  Teams in the league compete each season for the "Bucket of Blood" trophy.
+
+The Carolina Aggressive Jugger Association (C.A.J.A./CAJA) is another American jugger league that aims to hold truer to the movie than its European counterparts. Formed September 2010, they are still refining their rules and regulations. Drawing from C.U.J.L., European leagues, as well as the movie itself; they allow use of much denser cores, hardwoods specifically, (with metal being allowed only on chain weaponry and shields) and require only one layer of closed cell padding at least 1/2&nbsp;inch thick. This of course insists the implementation of armor covering vital areas; the head, a majority of the ribcage, forearms, shins, and the entire spine, may be eventually required to be protected. Also their field is considerably smaller than most at 75&nbsp;ft by 40&nbsp;ft; this is also subject to change. The smaller field was chosen to compensate for the additional fatigue caused by armor usage as well as to place players closer to one another, which CAJA felt was more accurate than the usual playing field. Currently{{when|date=May 2013}} playing skirmishes in [[Longs, South Carolina]] (just out of North Myrtle Beach) players ages 14 and up are welcome to come watch or participate as either players or support crew.
+
+The USJL (United States Jugger League) is organized with the intention of building Jugger teams that play by similar rules to those found internationally so that the US will have an opportunity to take part in the international tournaments. The USJL rulebook and other information can be found on the USJL website.
+
+Jugger Ohio is a group formed in October 2010 that is based in the historic town of Marietta, Ohio. Using very similar rules, field size and equipment as its international counterparts, Jugger Ohio has also embraced social media as a viable way of communicating. It continues to organize weekly and bi-weekly matches via Facebook to great effect. They are organizing the first ever American Jugger tournament, dubbed "The Dogskull Classic", planned in the style of the German Open. This event is slated for August 13, 2011 in Marietta Ohio.
+
+The Red Dirt Jugger Club is based in Oklahoma City and was formed in June 2010. Oklahoma plays with German style rules, and has grown to over 50 members. A league is being formed in the fall of 2012 and 7 teams of 6 have been formed and are preparing for league play. Oklahoma City and its outlying suburbs play every weekend.
+
+====Hits and strike zones====
+* '''USA''' (Jugger Ohio & Red Dirt Jugger Club)
+: When a player is hit by the other team's enforcers they take a knee and are inactive for the count of '''five stones'''.
+: When a player is hit by the ball or the connecting chain, they take a knee and are inactive for a count of '''eight''' stones.
+: Hits to the hands, head and groin do '''not''' count as a hit and the groin and head shots incur an '''eight stone penalty''' to the offending player. All else is a legal hit, including feet, shins, legs and arms.
+
+A variant of Jugger is played within the UK’s [[Lorien Trust]] LARP system, the world championship being held at the system's sporting event the Great Edrejan Fayre.
+
+Versions of the game are also occasionally played by [[SCA armoured combat]] fighters<ref>[https://www.youtube.com/watch?v=7eIvCIIQGiE "Blood of Heroes" event video], from the [[Kingdom of Calontir]]</ref>
+
+==Further reading==
+Wickenhäuser, Ruben Philipp: Jugger. A post-apocalyptic sport for all occasions, Morrisville 2008, {{ISBN|978-1-4092-2920-9}} [http://jugger.uhusnest.de/en_start.shtml Website]
+
+==See also==
+* [[Buzkashi]]
+
+==Community sites==
+* [https://web.archive.org/web/20110321021346/http://www.juggersalute.com/ Jugger Salute ] is a community site built to help Juggers and fans from all over the world connect, share information and further enjoy the community that is Jugger! – Currently offline. Will be back up at a later date.
+* [http://www.jugger.org.au/ Australian Jugger League ] is a site dedicated to the Australian Jugger League with rules, photos and links to social media sites used to organise games.
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Jugger}}
+
+There are a number of international sites:
+* [https://web.archive.org/web/20110321021346/http://www.juggersalute.com/ Jugger Salute ]
+* [http://www.juggerblog.net/ The international Jugger Blog]
+* [http://turniere.jugger.org/ Jugger | Tournaments | Rankings]
+* [https://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=116569864829623030752.0004542540529cef4e6ce&t=h&ll=34.597042,32.34375&spn=90,-45&source=embed Jugger training locations world map (Google)]
+<!--
+{{coord|34.5970|32.3438|type:landmark_source:enwiki-googlemaplink|display=title}}
+-->
+
+===Regional Jugger groups===
+
+===Australian===
+* [http://www.jugger.org.au/ Jugger.org.au]
+
+===Austrian===
+* [http://www.jugger.at/ Jugger Vienna]
+
+===Costa Rican===
+* [https://www.facebook.com/JuggerSabana JuggerSabana]
+
+===Czech===
+* [http://jugger.cz Jugger.cz]
+
+===English===
+* [https://web.archive.org/web/20090927085458/http://www.hartsofalbion.co.uk/library/ettiquette/guide_to_jugger.php Jugger in the Lorien Trust LARP system]
+
+===German===
+* [http://www.jugger.org/ Jugger Community Portal]
+* [http://forum.jugger.org/ Jugger Community Forum]
+* [http://www.jugger.de Jugger.de]
+
+===Irish===
+* [https://web.archive.org/web/20100614111411/http://www.wix.com/juggerireland/Jugger-Ireland Jugger Ireland Homepage]
+* [http://www.filehosting.org/file/details/144164/Jugger_Rulebook_Provisional.doc Irish provisional rulebook]{{dead link|date=April 2017 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+===Spanish===
+* [http://aajugger.foroactivo.com Aragon Community Forum]
+* [http://www.dadodedragon.es/index.php?option=com_docman&task=doc_details&gid=17&Itemid=62 Spanish Jugger rules (Microsoft Word)]
+* [http://juggergalicia.comze.com/ "Asociación Galega de Jugger -AGJ-" Galician Association of Jugger]
+* [http://juggergalicia.comze.com/foro/viewtopic.php?f=21&t=7 Galician Jugger Rules (PDF)]
+{{Use dmy dates|date=May 2011}}
+
+
+
+
+{{refimprove|date=September 2016}}
+{{Infobox sport
+| name       = Jugger
+| image      = [[Image:Jugger Hannover2.jpg|275px]] 
+| alt        = 
+| imagesize  = 
+| caption    = The ''Hannover Living Undeads'' in the middle of a Jugger match
+| union      = 
+| nickname   = 
+| first      = 1995
+| firstlabel = 
+| region     = [[Germany]], [[Australia]], [[Ireland]], [[United States]], [[United Kingdom]], [[Poland]], [[Belarus]], [[Spain]], [[Canada]], [[Sweden]]
+| registered = 
+| clubs      = 
+| contact    = 
+| team       = 
+| mgender    = 
+| type       = Ball game, team sport
+| equipment  = Skull-shaped ball, prop weapons, stakes
+| venue      = Field
+| olympic    = 
+| paralympic = 
+| obsolete   = 
+}}
+'''Jugger''' is a sport inspired by the 1989 film ''[[The Blood of Heroes|The Salute of the Jugger]]'' (released as ''The Blood of Heroes'' in the United States), in which a game of the same name is played.<ref name=NYT>{{cite web|work=[[The New York Times]]|title=Review/Film; Clashing Gladiators in the Bloody Sport of a Future Dark Age|author=Canby, Vincent|authorlink=Vincent Canby|date=February 23, 1990|url=https://www.nytimes.com/1990/02/23/movies/review-film-clashing-gladiators-in-the-bloody-sport-of-a-future-dark-age.html}}</ref><ref>{{cite web|publisher=[[Yahoo!]]|url=https://www.yahoo.com/news/mad-max-fans-descend-post-apocalyptic-playground-071759665.html|title='Mad Max' fans descend on post-apocalyptic playground|first=Frankie|last=Taggart|date=September 23, 2016}}</ref> The film version was invented by the film's writer-director, [[David Webb Peoples]], especially for the movie. The transformation into a real sport happened independently in [[Germany]] and [[Australia]].
+
+Jugger as sport is gaining popularity in Germany, especially with university and college teams, with its own league. There are teams in Australia, New Zealand, Austria, Ireland, England, Poland, Czech republic, Denmark, Spain, Sweden, Colombia, Costa Rica, The Netherlands, Latvia, Lithuania, Canada, Mexico, Argentina and Romania. A couple of variations of the sport are played in the USA. Some follow the International version (e.g. Germany, Ireland etc.) which is referred to as "Sport Jugger" while others use a model that more closely resembles The Game that is played in the movie, most commonly referred to as "Wasteland Jugger."
+
+The first ever Jugger international tournament took place in Hamburg, Germany on 20 May 2007 between the Irish team Setanta and a number of the Northern German teams. In 2008, Australia and Ireland came to Germany to take part in the 1st German Open, making it the first two-continent tournament in Jugger.
+
+==Equipment==
+* The '''skull''' ('''German''': '''''jugg''''' in "Berlin tradition", or, '''''Schädel''''' in "Hamburg/Dilettanten tradition"<ref>On the two traditions see also: Jugger. A post-apocalyptic sport for all occasions, Morrisville 2008, pp. 18–20</ref>): a "ball" made to resemble a dog skull, usually made of foam and tape (not an actual dog skull as in ''The Blood of Heroes'', as an actual dog skull would break).  In Germany and Ireland, a dog skull made of cellfoam, covered with latex, is used.
+* The '''mounds''' ('''German''': '''''mal'''''): In most countries, a frustum (a pyramid with the top cut off) with a centre hollow is used.
+* '''Weapons''':  the "weapons" used in jugger are very similar to [[Live action role-playing game]] weapons. There are strict regulations to the length of a weapon and the amount of padding used. The weapons in jugger vary in type for different countries:
+** Australian-style weapons ("Spars")<ref name=oz>{{cite web|url=http://www.jugger.org.au/index.php/what-is-jugger/australian-rules|title=Australian Rules|website=Jugger.org.au|access-date=13 September 2015|archive-url=https://web.archive.org/web/20150923120016/http://www.jugger.org.au/index.php/what-is-jugger/australian-rules|archive-date=23 September 2015|dead-url=yes|df=dmy-all}}</ref> each enforcer may have any of the following combinations, with at most one double-up and one chain:
+*** A '''staff''', 180&nbsp;cm in length, with a 110 cm striking zone at one and another in the middle, creating two distinct hand grips. Thrusting is not allowed
+*** A '''Q-Tip''', 200&nbsp;cm in length, double-ended striking zones of maximum 60 cm, thrusting is allowed
+*** A '''longsword''', 140&nbsp;cm in length, thrusting is allowed
+*** A '''short sword''' and '''shield''', short sword 85&nbsp;cm in length, thrusting is allowed; padded shield, 60&nbsp;cm in diameter
+*** Two '''short swords,''' each 85&nbsp;cm in length
+*** A '''chain''', 320&nbsp;cm in length with optional 50&nbsp;cm club attached to the handle end (replacing 50&nbsp;cm of chain). The ball of the chain is at least 20 cm diameter and soft.
+*** The '''Goal'''. '''Mal''' or '''Mound'''
+** German-style weapons ("Pompfen"):
+*** A '''staff''', 180&nbsp;cm in length, thrusting is not allowed
+*** A '''Q-Tip''', 200&nbsp;cm in length, double-ended, thrusting is allowed
+*** A '''longsword''', 140&nbsp;cm in length, thrusting is allowed
+*** A '''short sword''' and '''shield''', short sword 85&nbsp;cm in length, thrusting is allowed; padded shield, 60&nbsp;cm in diameter
+*** A '''chain''', 320&nbsp;cm in length
+*** The  '''mal''' is not a stake but a frustum with a centre hole to place the skull in
+** American-style weapons (North and South America):
+*** A '''Staff''' 180cm in length, with one striking end, thrusting is allowed but discouraged
+*** A '''Q-Tip''', 200cm in length, double ended, thrusting is allowed
+*** A '''Longpompf''', 140cm in length
+*** '''Paired Short Pompf''', 85cm in length each
+*** '''Short and Shield''', 85cm in length for the pompfen, 60cm in diameter maximum for the shield
+*** '''Chain''' 320cm maximum length from end to end
+*** '''Goal or Mound''', is similar to the German mal, is a wide based, short cone with a deep well in the center for placing the skull
+
+Traditional timekeeping is done with a '''gong''' and 100 '''stones''': The stones are thrown against the gong to keep time.  100 stones per third, 3 thirds per game. Alternatively a '''drum''' or speaker system is used, with the '''drummer''' keeping count of each beat (known as a '''stone'''). 100 stones per third, 3 thirds per game. In conjunction with official equipment, smartphone applications such as [https://play.google.com/store/apps/details?id=contador.piedras.jugger&hl=en Jugger Stones] or [https://play.google.com/store/apps/details?id=com.group5.juggermatch Jugger Match].
+are sometimes used for score keeping and/or drum beats.
+
+==Roles==
+A team is composed of the 8 following persons, 5 of which are allowed to be on the field:
+* One '''qwik''' (sometimes spelled "quick"<ref>For the correct spelling 'qwik' , see credits of the movie and the director's note in the book 'Jugger. A post-apocalyptic sport for all occasions', p. 7</ref>): An unarmed player, and the only one allowed to touch the skull
+* Maximum one '''chain''': A player armed with a chain
+* Three respectively four '''enforcers''' (German: Fighter,<ref>Taken from an English translation of a German document: [http://garcianet.homeip.net/Jugging/juggerrules.doc http://garcianet.homeip.net/Jugging/juggerrules.doc] {{webarchive|url=https://web.archive.org/web/20070829220205/http://garcianet.homeip.net/Jugging/juggerrules.doc |date=29 August 2007 }}</ref> German term: Pompfer): Armed with their choice of weapons (except chain).  May handle the skull with their weapons
+* Up to three '''substitutes''', who may replace any player
+
+===Roles (in the film)===
+In the film ''[[The Blood of Heroes|The Salute of the Jugger]]'' (or 'The Blood of Heroes'), each role is heard at least once in the dialogue:
+
+*'''Qwik''' - Kidda (portrayed by [[Joan Chen]]) and other characters in the movie refer to this role a few times throughout the movie.
+*'''Slash''' - Sallow (portrayed by [[Rutger Hauer]]) is described as one (and refers to others) this role. Both Sallow and Gonzo are described as "Slashes" in the movie.
+*'''Drive''' - Cim (or Big Cimber, portrayed by [[Anna Katarina]]) or Mbulu (portrayed by [[Delroy Lindo]]) are described as such, and only once, by Sallow when he, Cim, and Mbulu are debating midway through the movie.
+*'''Back Charge''' - Mbulu (portrayed by [[Delroy Lindo]]) or Cim (or Big Cimber, portrayed by [[Anna Katarina]]) are described as such, and only once, by Sallow when he, Cim, and Mbulu are debating midway through the movie.
+*'''Griffer''' - When Sallow speaks to Gonzo the first time in the movie, this term is used by Sallow's character once, and may refer to the chain-using player in the game (portrayed on Sallow's team by [[Vincent D'Onofrio]], as 'Young Gar').
+
+==Rules==
+__NOTOC__
+
+===Australia===
+The objective of the game is for the team's Qwik to get the foam dog skull, or jugg, into the opposing team's mound to score goals, while minimising the number of goals the opposing team scores within the time limit. The enforcer's role is to defend their Qwik from the opposing players.
+
+====Positions====
+Australian Rules Jugger is played with two teams of five juggers. Three '''enforcers''' with pompfen, one '''chain''' and one '''qwik'''.
+
+'''Qwiks'''
+<br />
+The Qwik is unarmed and the only player who can carry the skull. The two Qwiks start outside the centre circle and when the game begins wrestle for the skull. The enforcers may not enter the circle until the skull or the whole body of one of the Qwiks leave the circle. A Qwik's hands and forearms are not considered a hit zone and may be used to block.
+
+'''Enforcers'''
+<br />
+The enforcers wield various classes of padded pompfen(listed above)
+
+Historically there could only be a maximum of two of the same class of weapon among the other enforcers, but this restriction has been lifted. An enforcer can pin another player by resting their weapon on the hit player at anytime while the player is kneeling. Even with paired shorts or Q-tips, a player can only pin one opponent.
+
+'''Chain'''
+The position of chain wields a ball-and-chain of plastic and foam up to 320&nbsp;cm long. The chain can have a 50&nbsp;cm handle (replacing 50&nbsp;cm of chain) with a striking surface which can be used to tag opponents for a regular Spar penalty count.
+
+====Timekeeping====
+Most games consist of two halves of 150 stones each, while tournament finals are three thirds of 150 stones. Historically kept by throwing stones against a gong, now other methods such as drums or speakers are used. Stone beats are now 1.5 seconds apart, when previously they had been 2.5 seconds apart for matches of 100 stones per half.
+
+====Hits====
+Stone penalties for hits vary between countries from three to five for the '''Spar/Pompfen''' and five and eight for the '''chain'''. Australia played three and five until 2017 when they adopted five and eight.
+: When a player is hit by the other team they take a knee and are inactive for the count of ''five'' stones.
+: If hit with the ball of the chain they take a knee for a count of ''eight'' stones.
+: Unsafe head hits incur a penalty on the hitter of eight stones for safety.
+
+Strike locations are from the neck down (excluding hands on cored weapons or the entire forearm from the elbow down for qwiks). All strikes in jugger are touch, so there is no need to hit heavily or try to cause injury.
+
+===Ireland===
+As with German and Australian Jugger, the goal is to score more points than your opponents within a time limit. These time limits are counted by a regular beat or "stones" on a drum amounting to about two seconds to every stone. A tournament game is played for two sides of one hundred stones each but during normal training sessions there are no spare players to beat the drum so the game is usually played as the first to 10 points or similar.
+
+The game itself is played with two teams of five, with substitutes waiting behind the starting line. A full team consists of a runner, a chain, two staffmen and a chainblocker. Although weapons other than staffs can be used, staffs are by far the most common in Ireland. There can only ever be one chain per team at one time.
+
+The pitch itself is rectangular with two "mal" (German, goals) at either end in the form of a foam square with a depression to receive the skull. The "Skull", a rubber dogskull serving as the ball, is placed in the middle of the pitch and at the end of a count by the referee or one of the captains both teams run towards the centre of the pitch and try to score.
+
+When both lines reach the centre of the pitch the players try to "tap" each other out. This is done by lightly tapping the opponent with a legal surface of your weapon on a legal body part. In Ireland this means anywhere below the neck and above the wrists. Headshots are avoided and if a pompfe hits the head ''before'' a legal target the tap is discounted and the player must withdraw their weapon before hitting again. While a hit on the head after a hit on a legal target is still counted it is frowned upon and avoided. If both players tap each other at the same time, or indiscernibly closely, both players are considered hit and go down. This is unlike in German rules where hits within half a count of each other are allowed.
+
+When a player is tapped out they drop to the ground with one knee touching the ground. If they have been hit by a staff or other pompfe, they stay down for five stones. If they have been hit by a chain, they are down for eight stones. The count begins when the knee hits the ground and while the player may move to retrieve a weapon they must return to where they were hit before they start playing. A kneeling player may also pivot around on their knee provided they don't lift it.
+
+While they are down another player may "pin" them by holding their staff on them. A chain player may not do this. As soon as their count is up any player except a runner ''must'' attempt to stand again. As soon as their knee leaves the ground they are considered standing and can be hit although they must be "fully standing," before they can hit others. As a result of these rules it is possible to abuse them by holding a pompf just above a person waiting to rise. They must rise as soon as they can and they are tapped out for another five stones as soon as they do. As a result, a rule was instituted that a pompf must be either pinning a kneeling player or three feet away, an exception is where there are two players kneeling in close proximity and it is impossible to pin one without having your pompf close to another.
+
+The purpose of all this is to break a hole in the opposite line and allow the runner a chance to score. Once a runner scores both teams reset to either end of the pitch, the skull is placed in the centre by the schiri, referee, and the victorious team is awarded the point. The game is quite comparable to Hamburg rules jugger, from which it originates, and is least similar to Australian jugger. Most of the following comes from IADT (Institute of Art, Design and Technology), in Dublin with plans to expand into UCD (University College Dublin) and DCU (Dublin City University), and is also played in the Institute of Technology, Tralee.
+
+===United States===
+Multiple variants exist within the country. Sport Jugger is nearly identical to the European variant, with very subtle rule variations. Another game based on the same movie developed within the Live Action Role Play [[Amtgard]] and is referred to there as "Jugging" and applies the LARP's combat mechanics to the game as seen in the movie. It is basically a battle game within a foam LARP, but very popular. Wasteland Jugger is yet another variant, where participants wear heavy home-made armor and utilize metal weapons. Engagements more like traditional combat, as the game is full-contact and uses such weapons as iron posts, axles, stop signs and metal chains to name a few.
+
+The Competitive Underground Jugger League or C.U.J.L. (pronounced "cudgel") is a group based originally out of the American Midwest that began in 2009.  In their league the "weapons" are made of rattan with impact surfaces padded with strips of mountain bike tire. Helmets, knee guards, and hand protection are required gear as outlined in their Codex.  Teams in the league compete each season for the "Bucket of Blood" trophy.
+
+The Carolina Aggressive Jugger Association (C.A.J.A./CAJA) is another American jugger league that aims to hold truer to the movie than its European counterparts. Formed September 2010, they are still refining their rules and regulations. Drawing from C.U.J.L., European leagues, as well as the movie itself; they allow use of much denser cores, hardwoods specifically, (with metal being allowed only on chain weaponry and shields) and require only one layer of closed cell padding at least 1/2&nbsp;inch thick. This of course insists the implementation of armor covering vital areas; the head, a majority of the ribcage, forearms, shins, and the entire spine, may be eventually required to be protected. Also their field is considerably smaller than most at 75&nbsp;ft by 40&nbsp;ft; this is also subject to change. The smaller field was chosen to compensate for the additional fatigue caused by armor usage as well as to place players closer to one another, which CAJA felt was more accurate than the usual playing field. Currently{{when|date=May 2013}} playing skirmishes in [[Longs, South Carolina]] (just out of North Myrtle Beach) players ages 14 and up are welcome to come watch or participate as either players or support crew.
+
+The USJL (United States Jugger League) is organized with the intention of building Jugger teams that play by similar rules to those found internationally so that the US will have an opportunity to take part in the international tournaments. The USJL rulebook and other information can be found on the USJL website.
+
+Jugger Ohio is a group formed in October 2010 that is based in the historic town of Marietta, Ohio. Using very similar rules, field size and equipment as its international counterparts, Jugger Ohio has also embraced social media as a viable way of communicating. It continues to organize weekly and bi-weekly matches via Facebook to great effect. They are organizing the first ever American Jugger tournament, dubbed "The Dogskull Classic", planned in the style of the German Open. This event is slated for August 13, 2011 in Marietta Ohio.
+
+The Red Dirt Jugger Club is based in Oklahoma City and was formed in June 2010. Oklahoma plays with German style rules, and has grown to over 50 members. A league is being formed in the fall of 2012 and 7 teams of 6 have been formed and are preparing for league play. Oklahoma City and its outlying suburbs play every weekend.
+
+====Hits and strike zones====
+* '''USA''' (Jugger Ohio & Red Dirt Jugger Club)
+: When a player is hit by the other team's enforcers they take a knee and are inactive for the count of '''five stones'''.
+: When a player is hit by the ball or the connecting chain, they take a knee and are inactive for a count of '''eight''' stones.
+: Hits to the hands, head and groin do '''not''' count as a hit and the groin and head shots incur an '''eight stone penalty''' to the offending player. All else is a legal hit, including feet, shins, legs and arms.
+
+A variant of Jugger is played within the UK’s [[Lorien Trust]] LARP system, the world championship being held at the system's sporting event the Great Edrejan Fayre.
+
+Versions of the game are also occasionally played by [[SCA armoured combat]] fighters<ref>[https://www.youtube.com/watch?v=7eIvCIIQGiE "Blood of Heroes" event video], from the [[Kingdom of Calontir]]</ref>
+
+==Further reading==
+Wickenhäuser, Ruben Philipp: Jugger. A post-apocalyptic sport for all occasions, Morrisville 2008, {{ISBN|978-1-4092-2920-9}} [http://jugger.uhusnest.de/en_start.shtml Website]
+
+==See also==
+* [[Buzkashi]]
+
+==Community sites==
+* [https://web.archive.org/web/20110321021346/http://www.juggersalute.com/ Jugger Salute ] is a community site built to help Juggers and fans from all over the world connect, share information and further enjoy the community that is Jugger! – Currently offline. Will be back up at a later date.
+* [http://www.jugger.org.au/ Australian Jugger League ] is a site dedicated to the Australian Jugger League with rules, photos and links to social media sites used to organise games.
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Jugger}}
+
+There are a number of international sites:
+* [https://web.archive.org/web/20110321021346/http://www.juggersalute.com/ Jugger Salute ]
+* [http://www.juggerblog.net/ The international Jugger Blog]
+* [http://turniere.jugger.org/ Jugger | Tournaments | Rankings]
+* [https://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=116569864829623030752.0004542540529cef4e6ce&t=h&ll=34.597042,32.34375&spn=90,-45&source=embed Jugger training locations world map (Google)]
+<!--
+{{coord|34.5970|32.3438|type:landmark_source:enwiki-googlemaplink|display=title}}
+-->
+
+===Regional Jugger groups===
+
+===Australian===
+* [http://www.jugger.org.au/ Jugger.org.au]
+
+===Austrian===
+* [http://www.jugger.at/ Jugger Vienna]
+
+===Costa Rican===
+* [https://www.facebook.com/JuggerSabana JuggerSabana]
+
+===Czech===
+* [http://jugger.cz Jugger.cz]
+
+===English===
+* [https://web.archive.org/web/20090927085458/http://www.hartsofalbion.co.uk/library/ettiquette/guide_to_jugger.php Jugger in the Lorien Trust LARP system]
+
+===German===
+* [http://www.jugger.org/ Jugger Community Portal]
+* [http://forum.jugger.org/ Jugger Community Forum]
+* [http://www.jugger.de Jugger.de]
+
+===Irish===
+* [https://web.archive.org/web/20100614111411/http://www.wix.com/juggerireland/Jugger-Ireland Jugger Ireland Homepage]
+* [http://www.filehosting.org/file/details/144164/Jugger_Rulebook_Provisional.doc Irish provisional rulebook]{{dead link|date=April 2017 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+===Spanish===
+* [http://aajugger.foroactivo.com Aragon Community Forum]
+* [http://www.dadodedragon.es/index.php?option=com_docman&task=doc_details&gid=17&Itemid=62 Spanish Jugger rules (Microsoft Word)]
+* [http://juggergalicia.comze.com/ "Asociación Galega de Jugger -AGJ-" Galician Association of Jugger]
+* [http://juggergalicia.comze.com/foro/viewtopic.php?f=21&t=7 Galician Jugger Rules (PDF)]
+{{Use dmy dates|date=May 2011}}
+
+
+
+

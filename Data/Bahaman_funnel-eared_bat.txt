@@ -1,0 +1,49 @@
+{{speciesbox
+| name = Bahaman funnel-eared bat
+| image = 
+| status = NT 
+| status_system = IUCN3.1
+| status_ref = <ref name=iucn>{{cite journal |last1=Solari| first1= S.| year= 2018| title= Chilonatalus tumidifrons| journal= The IUCN Red List of Threatened Species| volume= 2018| page= e.T14361A22041195| doi= 10.2305/IUCN.UK.2018-2.RLTS.T14361A22041195.en}}</ref>
+| genus = Chilonatalus
+| species = tumidifrons
+| authority = [[Gerrit Smith Miller|Miller]], 1903
+| synonyms = ''Natalus tumidifrons'' <small>(Miller, 1903)</small>
+}}
+
+The '''Bahaman funnel-eared bat''' (''Chilonatalus tumidifrons'') is a species of [[bat]] in the family [[Natalidae]].
+
+This bat is [[endemic]] to [[the Bahamas]], in the northeastern [[Caribbean]]. It was first discovered by Miller in 1903. Their category list and criteria is near threatened. The justification of their status is due to their bad habitat circumstances.<ref name=two>{{cite journal|last=Buden|first=D.|title=A Guide to the Identification of the Bats of the Bahamas|journal=Caribbean Journal of Science|year=1987|pages=362–367}}</ref>
+
+==Population==
+Females gather in maternity colonies where they give birth and care for their offspring. Average gestation period is around ten months. Birth occurs in the late dry season, suggesting that mating occurs after the late dry season. The offspring are relatively large, often close to 50% of their mothers’ weight. Females are fully responsible for giving care to their newborn, due to the fact that they give one offspring per event. The [[population]] of the Bahaman funnel-eared bat is decreasing due to their declining habitat environment.<ref name=one>{{cite web|title=Chilonatalus tumidifrons at IUCN Red List|url=http://www.iucnredlist.org/details/14361/0}}</ref>
+
+==Communication==
+All funnel-eared bats have, very large and funnel-shaped ears. These allow them to detect near silent sounds and return echoes through [[Animal echolocation|echolocation]]. Small papillae cover the ears of these bats, which increases auditory sensitivity. They use olfactory and tactile cues in communication as other [[mammal]]s do.<ref name=five>{{cite journal|last=Dalquest|first=W|title=The Genera of the Chiropteran Family Natalidae|journal=Journal of Mammalogy|year=1950|volume=23|issue=4|pages=436–443|doi=10.2307/1375114|jstor=1375114}}</ref>
+
+==Habitat and ecology==
+This species is not very well known, because they are only located in Bahamian dry deciduous forests. The deep caves where they are found, are hot and moist and are maintained constantly. During active hours, Bahaman funnel-eared bats forage for insects in the dense areas of the surroundings forests. The bats are hard to catch because they are very agile flyers.<ref name=three>{{cite journal|last=Koopman|first=K.|title=Notes on the Mammals of the Bahamas with special reference to bats|journal=Journal of Mammalogy|year=1957|volume=38|issue=2|pages=164–174|doi=10.2307/1376306|jstor=1376306}}</ref>
+
+==Home range== 
+Nothing is known about Bahaman funnel-eared bats home range, but they relatively live near roosting caves.<ref name=four>{{cite journal|last=Miller|first=G|title=The mammals of the Andaman and Nicobar Islands|journal=Proceedings of the United States National Museum|year=1903|volume=24|issue=1269|pages=751–795|doi=10.5479/si.00963801.24-1269.751}}</ref>
+
+==Threats== 
+There are two factors that influence the lifespan of Bahaman funnel-eared bats negatively; the first is restricted to caves, and the second is climate change.<ref name=two />
+
+==Conservation actions==
+For Bahaman funnel-eared bats, the main conservation action is protecting the cave they live in.<ref name=six>{{cite web|title=Conservation|url=http://www.iucnredlist.org/details/14361/0}}</ref>
+
+==References==
+{{Reflist}}
+* Chiroptera Specialist Group 1996.  [http://www.iucnredlist.org/search/details.php/14361/all Natalus tumidifrons].   [https://web.archive.org/web/20140627000000/http://www.iucnredlist.org/ 2006 IUCN Red List of Threatened Species. ]  Downloaded on 30 July 2007.
+
+{{Natalidae}}
+{{Taxonbar|from=Q1833874}}
+
+{{DEFAULTSORT:Bahaman Funnel-Eared Bat}}
+
+
+
+
+
+
+

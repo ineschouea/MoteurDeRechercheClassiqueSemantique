@@ -1,0 +1,53 @@
+{{Taxobox
+| image = Lycaena.helle.male.jpg
+| image_caption = Male
+| image2 = Lycaena helle female.jpg
+| image2_width = 
+| image2_caption = Female
+| status = LR/nt 
+| status_system = IUCN2.3
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Lepidoptera]]
+| familia = [[Lycaenidae]]
+| genus = ''[[Lycaena]]''
+| species = '''''L. helle'''''
+| binomial = ''Lycaena helle''
+| binomial_authority = [[Michael Denis|Denis]] & [[Ignaz Schiffermüller|Schiffermüller]], 1775
+| synonyms =
+}}
+
+'''''Lycaena helle''''', the '''violet copper''', is a [[butterfly]] of the family [[Lycaenidae]]. It is found from the [[Pyrenees]] to northern [[Norway]] and from [[Belgium]] to [[Central Asia]].The [[wingspan]] is 24–26&nbsp;mm. The butterfly flies from May to July depending on the location.
+<!-- ActaZoologicaAcademiaeScientiarumHungaricae56:383. -->
+
+==Description from Seitz==
+{{Lepidopteran glossary hatnote}}
+''C. amphidamas'' Esp. (= ''xanthe'' Lang, ''helle'' Schiff.) (77d). Smaller than the preceding forms, at the most as large as small ''phlaeas''. Upperside dark brown, in the females  of the spring brood the disc of the forewing reddish yellow, both wings with a sky-bJue gloss, which is especially strong in the sun in live specimens. On the underside there is before the red submarginal band of the hindwing an always distinct bluish white lunate band, which in the female  is usually continued on to the forewing and is accompanied by black dots. The summer-form ''obscura'' Ruhl (77e) is darker above and more yellow beneath. Otherwise the variability is less than in other ''Chrysophanus''. Specimens from the high North have been separated as ''lapponica'' Backhaus, and Wheeler mentions that the gloss is more blue in some districts and more violet in others. — In Central and North Europe, from Belgium, Baden, and Switzerland eastward to Amurland and northward to Scandinavia and Lapland, sporadic and absent from large districts. Egg flattened, white with darker top. Larva rather long, light green with a pale-edged dark dorsal Hne and light yellow side-stripe, in June and autumn on ''Polygonum bistorta'' (said to occur also on ''Rumex''). Pupa yellowish brown, with irregular blackish markings, dirty white on the back of the abdomen. The butterflies are on the wing in May and again in July and August in damp meadows, very plentiful at their flight-places. The spring-form is particularly fond of the flowers of ''Cardamine pratensis''. At night the butterflies rest on the underside of the leaves of ''Alnus'' and ''Salix'', where sometimes several are found together asleep and can be obtained by beating. In the north the species is found especially in the plains, while in the south of its area it is more plentiful in the mountains, where it occurs up to 6000&nbsp;ft.<ref>Seitz, A. ed. Band 1: Abt. 1, ''Die Großschmetterlinge des palaearktischen Faunengebietes, Die palaearktischen Tagfalter'', 1909, 379 Seiten, mit 89 kolorierten Tafeln (3470 Figuren)</ref>  
+<gallery>
+Image:Lycaena helle1.jpg|Dorsal view
+File:Lycaena helle.jpg|Ventral view
+File:Macrolepidoptera01seitz 0161.jpg|Seitz as ''amphidamas''
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Commonscat inline|Lycaena helle|''Lycaena helle''}}
+
+{{Taxonbar|from=Q883053}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{Lycaeninae-stub}}

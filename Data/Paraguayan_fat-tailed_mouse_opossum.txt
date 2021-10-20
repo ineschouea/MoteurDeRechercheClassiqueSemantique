@@ -1,0 +1,49 @@
+{{Taxobox
+| name = Paraguayan fat-tailed mouse opossum<ref name=msw3>{{MSW3 Didelphimorphia | id = 10400165 | page = 17}}</ref>
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name=iucn>{{IUCN2011.2|assessor=de la Sancha, N.|assessor2=Teta, P.|last-assessor-amp=yes|year=2011|id=21867|title=Thylamys macrurus|downloaded=18 January 2012}}</ref>
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Mammalia]]
+| ordo = [[Didelphimorphia]]
+| familia = [[Didelphidae]]
+| genus = ''[[Thylamys]]''
+| species = '''''T. macrurus'''''
+| binomial = ''Thylamys macrurus''
+| binomial_authority = ([[Ignaz von Olfers|Olfers]], 1818)
+| synonyms = 
+| range_map = Long-tailed Fat-tailed Opossum area.png
+| range_map_caption = Paraguayan fat-tailed mouse opossum range
+}}
+
+The '''Paraguayan fat-tailed mouse opossum''' (''Thylamys macrurus'') is a species of [[opossum]] in the family [[Didelphidae]]. It is found in forested areas of [[Brazil]] and [[Paraguay]].<ref name=iucn/> It is known only from a few specimens. For two listed specimens, one had a head-and-body length of about 135&nbsp;mm and a tail length of about 140&nbsp;mm, while the other had a head-and-body length of about 120&nbsp;mm and a tail length of about 155&nbsp;mm. Most of its [[fur]] is gray, but the shoulder areas are reddish gray, and the [[Anatomical terms of location|ventral]] [[fur]] is pure white or creamy white. There is also a ring of black fur surrounding each [[eye]]. The [[Anatomical terms of location|ventral]] surface of the tail is white. The [[Dorsum (biology)|dorsal]] surface of the tail is gray for the first one third to one half of its length (going from the base to the tip); the remainder of the [[Dorsum (biology)|dorsal]] surface of the tail is white. The tail is hairless except for about its first ten mm (going from the base to the tip).<ref name = "Eisenberg">{{Cite book
+  | last = Eisenberg | first = John Frederick 
+  |author2=Redford, Kent Hubbard
+  | title = Mammals of the Neotropics: The Central Neotropics: Ecuador, Peru, Bolivia, Brazil
+  | publisher = [[University of Chicago Press]] | date = 1999 | location = | pages = 624 
+  | url = https://books.google.com/books?id=p2MDAzCeQQoC&source=gbs_navlinks_s | doi = | id = 
+  | isbn = 978-0-226-19542-1}}</ref> Although the genus [[Thylamys]] is characterized by fat storage in the tail, there is no evidence that this species stores fat in its tail.<ref name = "MSA">{{Cite book
+  | last = Gardner | first = Alfred L. 
+  | title = Mammals of South America: Marsupials, xenarthrans, shrews, and bats
+  | publisher = [[University of Chicago Press]] | date = 2008 | location = | pages = 669 
+  | url = https://books.google.com/books?id=dbU3d7EUCm8C&source=gbs_navlinks_s | doi = | id = 
+  | isbn = 0-226-28240-6}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Didelphimorphia|D.1}}
+
+{{Taxonbar|from=Q195036}}
+
+
+
+
+
+
+
+
+
+
+{{marsupial-stub}}

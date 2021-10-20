@@ -1,0 +1,23 @@
+{{Speciesbox
+| status = LR/nt
+| status_system = IUCN2.3
+| status_ref = <ref name = IUCN>{{cite journal | author = Wager, R. | year = 1996 | title= ''Kimberleyeleotris hutchinsi'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 1996 | page = e.T10993A3237333 | doi = 10.2305/IUCN.UK.1996.RLTS.T10993A3237333.en }}</ref>
+| taxon = Kimberleyeleotris hutchinsi
+| authority = [[Douglass Fielding Hoese|Hoese]] & [[Gerald R. Allen|G. R. Allen]], 1987
+}}
+
+The '''Mitchell gudgeon''' ('''''Kimberleyeleotris hutchinsi''''') is a species of fish in the family [[Eleotridae]] [[Endemism|endemic]] to the [[Kimberley (Western Australia)|Kimberley]] region of [[Australia]], where it is only known from the [[Mitchell River (Western Australia)|Mitchell River]] system.  This species can reach a length of {{convert|4|cm|in|abbr=on}}.<ref>{{FishBase |genus= Kimberleyeleotris|species= hutchinsi| month = April | year = 2013}}</ref> The [[Specific name (zoology)|specific name]] honours the [[Ichthyology|ichthyologist]] [[J. Barry Hutchins]] (b. 1946) of the [[Western Australian Museum]], who collected the [[Type (biology)|type]].<ref name = ETYFish>{{cite web | author1 = Christopher Scharpf | author2 = Kenneth J. Lazara | last-author-amp = yes | url = http://www.etyfish.org/gobiiformes1/ | title = Order GOBIIFORMES: Families RHYACICHTHYIDAE, ODONTOBUTIDAE, MILYERINGIDAE, ELEOTRIDAE, BUTIDAE and THALASSELEOTRIDIDAE | work = The ETYFish Project Fish Name Etymology Database | publisher = Christopher Scharpf and Kenneth J. Lazara | date = 26 July 2017 | accessdate = 21 July 2018}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q4847370}}
+
+
+
+
+
+
+
+
+{{Gobiiformes-stub}}

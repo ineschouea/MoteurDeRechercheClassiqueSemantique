@@ -1,0 +1,37 @@
+{{Italic title}}{{Taxobox
+| name = ''Potamon potamios''
+| status = NT
+| status_system = iucn3.1
+| status_ref =  <ref name="IUCN"/>
+| image = Suesswasserkrebs Kreta.jpg
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| subphylum = [[Crustacean|Crustacea]]
+| classis = [[Malacostraca]]
+| ordo = [[Decapoda]]
+| infraordo = [[Crab|Brachyura]]
+| familia = [[Potamidae]]
+| genus = ''[[Potamon]]''
+| species = '''''P. potamios'''''
+| binomial = ''Potamon potamios''
+| binomial_authority = ([[Guillaume-Antoine Olivier|Olivier]], 1804)
+}}
+
+'''''Potamon potamios''''' is a semi-[[terrestrial animal|terrestrial]] [[crab]] occurring around the eastern [[Mediterranean Sea|Mediterranean]], including many [[Mediterranean islands]],<ref name="IUCN">{{IUCN2008 |assessor=Neil Cumberildge |year=2008 |id=135117 |title=Potamon potamios |downloaded=30 Oct 2008}}</ref> extending as far south and west as the [[Sinai Peninsula]].<ref>{{cite book |editor=Henri J. Dumont |year=2009 |title=The Nile: Origin, Environments, Limnology and Human Use |volume=89 |series=Monographiae Biologicae |publisher=[[Springer Science+Business Media|Springer]] |isbn=978-1-4020-9725-6 |chapter=Freshwater Crabs and Shrimps (Crustacea: Decapoda) of the Nile Basin |author=Neil Cumberlidge |pages=546–562 |url=https://books.google.com/books?id=iF_U1NoknHoC&pg=PA553 |doi=10.1007/978-1-4020-9726-3_27}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Commons category-inline|Potamon potamios|''Potamon potamios''}}
+
+{{Taxonbar|from=Q310452}}
+
+
+
+
+
+
+
+
+{{crab-stub}}

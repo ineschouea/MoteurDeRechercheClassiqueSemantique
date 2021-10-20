@@ -1,0 +1,29 @@
+{{Speciesbox
+| image = Acropora monticulosa Maldives.JPG
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name="IUCNRL">{{Cite journal | author = Richards, Z.T. | author2 = Delbeek, J.T. | author3 = Lovell, E.R. | author4 = Bass, D. | author5 = Aeby, G. | author6 = Reboton, C. | last-author-amp = yes | title = ''Acropora monticulosa'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2014 | page = e.T133315A54235770 | publisher = [[IUCN]] | date = 2014 | url = http://www.iucnredlist.org/details/133315/0 | doi = 10.2305/IUCN.UK.2014-1.RLTS.T133315A54235770.en | access-date = 5 January 2018}}</ref>
+| taxon = Acropora monticulosa
+| authority = (Brüggemann, 1879)
+| synonyms = * ''Madrepora monticulosa'' <small>Brüggemann, 1879</small>
+}}
+'''''Acropora monticulosa''''' is a species of [[Acroporidae|acroporid]] [[coral]] found in the southwest and northern Indian Ocean, the central [[Indo-Pacific]], Australia, Southeast Asia, Japan, the [[East China Sea]] and the oceanic west Pacific Ocean. It is also found in the [[Tuamotus]]. It occurs in tropical shallow reefs on upper slopes, from depths of {{convert|1|to|12|m}}. It was described by Brüggemann in 1879.
+
+==Description==
+The species occurs in colonies with diameters over {{convert|3|m}} in dome-shaped structures. Its digitate colonies contain thick branches that contain a single axial corallite on the end, which the branches taper to. Its radial corallites are uniformly arranged and sized. ''Acropora monticulosa'' is cream or blue in colour and has a similar appearance to ''[[Acropora globiceps]]'' and ''[[Acropora retusa]]''.<ref name="AIMS">{{cite web|url=http://coral.aims.gov.au/factsheet.jsp?speciesCode=0048|title=''Acropora monticulosa''|publisher=Australian Institute of Marine Species|accessdate=15 August 2015}}</ref>
+
+==Distribution==
+It is classed as a Near Threatened species on the [[IUCN Red List]] and it is believed that its population is decreasing; the species is also listed under Appendix II of CITES. Figures of its population are unknown, but is likely to be threatened by the global reduction of coral reefs, the increase of temperature causing coral bleaching, climate change, human activity, the crown-of-thorns starfish (''Acanthaster planci'') and disease.<ref name="IUCNRL" /> The species occurs in the northern and southwestern Indian Ocean, the central Indo-Pacific, Australia, Southeast Asia, Japan, the East China Sea and the oceanic west Pacific Ocean; it also occurs in the Tuamotus. The species is found at depths of between {{convert|1|and|12|m}} in tropical shallow reefs on upper slopes.<ref name="IUCNRL" />
+
+==Taxonomy==
+It was described as ''Madrepora monticulosa'' by Brüggemann in 1879.<ref>{{cite web|url=http://www.marinespecies.org/aphia.php?p=taxdetails&id=207103|title=''Acropora monticulosa''|publisher=World Register of Marine Species|accessdate=15 August 2015}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q3937231}}
+
+
+
+
+

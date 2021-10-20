@@ -1,0 +1,182 @@
+{{Use British English|date=December 2018}}
+{{Infobox sport
+| name       = Short Mat Bowls 
+| image      = Image:smb.JPG
+| alt        = 
+| imagesize  = 
+| caption    = A game of short mat bowls being played
+| union      = World Bowls Council
+| nickname   = 
+| first      = 1900s
+| firstlabel = 
+| region     = Europe, India
+| registered = 
+| clubs      = 
+| contact    = No
+| team       = Singles and team
+| mgender    = Yes
+| type       = Indoor
+| equipment  = [[Bowls]], carpet
+| venue      = 
+| glossary   = [[Glossary of bowls terms]]
+| olympic    = No
+| world      = [[List of short mat bowls competitions#World Short Mat Bowls Championships|World Championships]]
+| paralympic = No
+| IWGA       = No
+}}
+
+'''Short mat bowls''' is an indoor [[sport]] in which players attempt to score points by rolling a heavy ball along a  fairly flat surface, to gain as many shots as possible by getting their bowls nearer to the jack than their opponents, and so outscore them. The game is a modern variation on [[lawn bowls]], from which it is derived.
+
+==Venues==
+Short mat bowls is played indoors, so it is an all-year sport that is not affected by weather conditions. Because the equipment is transportable and easy to set up, it is particularly appropriate for locations that are also used for other purposes such as village halls, schools, and sports and social clubs; it is even played on [[North Sea oil]] rigs.<ref>{{cite web |url=http://www.notlbowls.ca/History%20of%20Short%20Mat%20Bowling.pdf |title=History of short mat bowling |work=Notlbowls.ca |accessdate=9 October 2017}}</ref>
+
+==Equipment==
+The ESMBA specify a rink mat length of {{Convert|40–45|ft|abbr=on}} with a width of {{Convert|6|ft|abbr=on}}. The mat is foam or rubber-backed, and has the required lines permanently marked. A wooden fender is placed at both ends to keep the bowls from rolling off the mat. A block sits in the middle of the mat; players have to avoid having their bowls hit the block on their way down the mat. The 'jack' is the target that sits near the end of the mat.<ref name=murphy2015>{{cite book |last=Murphy |first=A. |title=Working with Elderly People: A Care Worker's Handbook |date=28 April 2015 |publisher=Troubador Publishing Ltd |isbn=978-1-78462-052-3 |page=113}}</ref>
+
+As opposed to its counterparts, short mat uses a super-heavyweight jack that weighs approximately {{Convert|900|g|abbr=on}}, whereas, indoor bowls use {{Convert|382-453|g|abbr=on}}, and long mat (Grass) between {{convert|225-285|g|abbr=on}} <ref name="Lawn Bowls FAQ">{{cite web |url=http://www.valebowlingclub.co.uk/lawn_bowls_faqs.htm |accessdate=10 October 2017 |publisher=Vale Bowling Club |title=Lawn Bowls FAQ}}</ref>
+
+===Length of play===
+As with most variants of bowls, short mat bowls has a variable length of play. In traditional games such as [[crown green bowls]] and [[indoor bowls]], winning lead players have the opportunity to throw the jack to the length they wish to play the next end from. In short mat bowls; the game has been simplified, to allowing the winning skip to simply place the jack on a 'jack line'; to determine the length of the next end.
+
+==How the game is played==
+Short mat bowls is very similar to lawn bowls in that the object is for each player, or team, to take turns rolling bowls (woods) down a mat in an attempt to get as many of the woods as possible closer to the target (the 'jack') than the opponent.<ref>{{cite web |title=Quick Guide to Short Mat Bowls |url=http://www.hsmba.org/page134.html |website=www.hsmba.org |accessdate=10 July 2017 |language=en}}</ref> The main difference is in the size of the playing area and the presence of the block midway down the rink mat. The presence of the block prevents players from knocking their opponents' woods away from the jack by sheer force; players are required to use the natural bias of the bowls to manoeuvre around the block. Any woods that touch the block, or land in the ditch or dead area, are dead and are removed before the next wood is sent. The skill in playing short mat bowls comes from the bias of the wood and the inconsistent playing surface; both the performance of the rink mat and the floor surface can vary between matches in different venues. A general description of different bowls games, including short mat bowls, is maintained at ''bowls.org.uk''.<ref>{{cite web |title=Short Mat Bowls - Your Complete Guide to The Rules & Equipment |url=https://www.bowls.org.uk/short-mat |website=Bowls.org.uk |accessdate=10 July 2017}}</ref>
+
+==History==
+The origin of the short mat bowls game is uncertain, but one story is that it was first played in [[Wales]] by two [[South Africans]] who came to work in the area. They had played [[bowls]] outdoors in South Africa and, perhaps due to the poor climate and the long close season in Wales, they began to play a simulation of the outdoor game on a strip of carpet in a church hall. Some time later, they moved to [[Northern Ireland]] and took the new game with them. Rules and conditions of play were drawn up and the game soon became well established in the Province. It was introduced into England by [[Irish expatriate]]s, but development was slow until the 1980s when its potential as a low cost sport for people of all ages was realised.<ref>{{cite book |last=Pickup |first=Gilly |title=What the British Invented: From the Great to the Downright Bonkers |date=15 November 2015 |publisher=Amberley Publishing Limited |isbn=978-1-4456-5028-9}}</ref>
+
+The English Short Mat Bowling Association (ESMBA) was formed in 1984, and is now the governing body of the sport in England.<ref>{{cite web |title=English Short Mat Bowling Association ESMBA |url=http://www.esmba.co.uk |website=www.esmba.co.uk |accessdate=10 July 2017 |language=en}}</ref> The sport is administered in England at two levels, the ESMBA oversee administration of the National Championships and Inter County Championships in addition to running the National Squad. At a more local level, 37 County Associations arrange a series of League, One Day and Knockout competitions within their own geographical area.
+
+In 2009, the ESMBA launched a new National Club Championship event, the event featuring teams competing in all-four disciplines (Singles, Pairs, Triples & Fours), with all members being from the same club team.<ref>{{cite web |title=English Short Mat Bowling Association 2017-18- ESMBA Championship/ |url=http://www.esmba.co.uk/tournaments/2017-18-esmba-tlh-championship/ |website=www.esmba.co.uk |accessdate=10 October 2017 |language=en}}</ref> The Final's Day was played at Rugby Thornfield with [[Kirby Bedon]] of [[Norfolk]] beating [[Warren Heath]] of [[Essex]] in the final. In 2010, Donnington of [[Cambridgeshire]] were the winners followed by Bob Carter of Norfolk in 2011. In 2012, the title was won by a side outside [[East Anglia]] for the first time when [[Cheshire|Cheshire's]] [[Morley Green]] lifted the title. The latest figures show 18,337 ESMBA registered members for the 2016/17 season.<ref>{{cite web |title=English Short Mat Bowling Association County Membership Totals |url=http://www.esmba.co.uk/admin/county-membership-totals/ |website=www.esmba.co.uk |accessdate=10 October 2017 |language=en}}</ref> The ESMBA rules of the game are followed by the affiliated clubs and also by most others. Most clubs arrange competitions among their own members as well as allowing time for those not wishing to take part in competitions to enjoy informal bowling.
+
+==See Also==
+* [[List of short mat bowls competitions]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.bowls.org.uk/short-mat Short mat bowls rules and equipment]
+
+
+
+{{Use British English|date=December 2018}}
+{{Infobox sport
+| name       = Short Mat Bowls 
+| image      = Image:smb.JPG
+| alt        = 
+| imagesize  = 
+| caption    = A game of short mat bowls being played
+| union      = World Bowls Council
+| nickname   = 
+| first      = 1900s
+| firstlabel = 
+| region     = Europe, India
+| registered = 
+| clubs      = 
+| contact    = No
+| team       = Singles and team
+| mgender    = Yes
+| type       = Indoor
+| equipment  = [[Bowls]], carpet
+| venue      = 
+| glossary   = [[Glossary of bowls terms]]
+| olympic    = No
+| world      = [[List of short mat bowls competitions#World Short Mat Bowls Championships|World Championships]]
+| paralympic = No
+| IWGA       = No
+}}
+
+'''Short mat bowls''' is an indoor [[sport]] in which players attempt to score points by rolling a heavy ball along a  fairly flat surface, to gain as many shots as possible by getting their bowls nearer to the jack than their opponents, and so outscore them. The game is a modern variation on [[lawn bowls]], from which it is derived.
+
+==Venues==
+Short mat bowls is played indoors, so it is an all-year sport that is not affected by weather conditions. Because the equipment is transportable and easy to set up, it is particularly appropriate for locations that are also used for other purposes such as village halls, schools, and sports and social clubs; it is even played on [[North Sea oil]] rigs.<ref>{{cite web |url=http://www.notlbowls.ca/History%20of%20Short%20Mat%20Bowling.pdf |title=History of short mat bowling |work=Notlbowls.ca |accessdate=9 October 2017}}</ref>
+
+==Equipment==
+The ESMBA specify a rink mat length of {{Convert|40–45|ft|abbr=on}} with a width of {{Convert|6|ft|abbr=on}}. The mat is foam or rubber-backed, and has the required lines permanently marked. A wooden fender is placed at both ends to keep the bowls from rolling off the mat. A block sits in the middle of the mat; players have to avoid having their bowls hit the block on their way down the mat. The 'jack' is the target that sits near the end of the mat.<ref name=murphy2015>{{cite book |last=Murphy |first=A. |title=Working with Elderly People: A Care Worker's Handbook |date=28 April 2015 |publisher=Troubador Publishing Ltd |isbn=978-1-78462-052-3 |page=113}}</ref>
+
+As opposed to its counterparts, short mat uses a super-heavyweight jack that weighs approximately {{Convert|900|g|abbr=on}}, whereas, indoor bowls use {{Convert|382-453|g|abbr=on}}, and long mat (Grass) between {{convert|225-285|g|abbr=on}} <ref name="Lawn Bowls FAQ">{{cite web |url=http://www.valebowlingclub.co.uk/lawn_bowls_faqs.htm |accessdate=10 October 2017 |publisher=Vale Bowling Club |title=Lawn Bowls FAQ}}</ref>
+
+===Length of play===
+As with most variants of bowls, short mat bowls has a variable length of play. In traditional games such as [[crown green bowls]] and [[indoor bowls]], winning lead players have the opportunity to throw the jack to the length they wish to play the next end from. In short mat bowls; the game has been simplified, to allowing the winning skip to simply place the jack on a 'jack line'; to determine the length of the next end.
+
+==How the game is played==
+Short mat bowls is very similar to lawn bowls in that the object is for each player, or team, to take turns rolling bowls (woods) down a mat in an attempt to get as many of the woods as possible closer to the target (the 'jack') than the opponent.<ref>{{cite web |title=Quick Guide to Short Mat Bowls |url=http://www.hsmba.org/page134.html |website=www.hsmba.org |accessdate=10 July 2017 |language=en}}</ref> The main difference is in the size of the playing area and the presence of the block midway down the rink mat. The presence of the block prevents players from knocking their opponents' woods away from the jack by sheer force; players are required to use the natural bias of the bowls to manoeuvre around the block. Any woods that touch the block, or land in the ditch or dead area, are dead and are removed before the next wood is sent. The skill in playing short mat bowls comes from the bias of the wood and the inconsistent playing surface; both the performance of the rink mat and the floor surface can vary between matches in different venues. A general description of different bowls games, including short mat bowls, is maintained at ''bowls.org.uk''.<ref>{{cite web |title=Short Mat Bowls - Your Complete Guide to The Rules & Equipment |url=https://www.bowls.org.uk/short-mat |website=Bowls.org.uk |accessdate=10 July 2017}}</ref>
+
+==History==
+The origin of the short mat bowls game is uncertain, but one story is that it was first played in [[Wales]] by two [[South Africans]] who came to work in the area. They had played [[bowls]] outdoors in South Africa and, perhaps due to the poor climate and the long close season in Wales, they began to play a simulation of the outdoor game on a strip of carpet in a church hall. Some time later, they moved to [[Northern Ireland]] and took the new game with them. Rules and conditions of play were drawn up and the game soon became well established in the Province. It was introduced into England by [[Irish expatriate]]s, but development was slow until the 1980s when its potential as a low cost sport for people of all ages was realised.<ref>{{cite book |last=Pickup |first=Gilly |title=What the British Invented: From the Great to the Downright Bonkers |date=15 November 2015 |publisher=Amberley Publishing Limited |isbn=978-1-4456-5028-9}}</ref>
+
+The English Short Mat Bowling Association (ESMBA) was formed in 1984, and is now the governing body of the sport in England.<ref>{{cite web |title=English Short Mat Bowling Association ESMBA |url=http://www.esmba.co.uk |website=www.esmba.co.uk |accessdate=10 July 2017 |language=en}}</ref> The sport is administered in England at two levels, the ESMBA oversee administration of the National Championships and Inter County Championships in addition to running the National Squad. At a more local level, 37 County Associations arrange a series of League, One Day and Knockout competitions within their own geographical area.
+
+In 2009, the ESMBA launched a new National Club Championship event, the event featuring teams competing in all-four disciplines (Singles, Pairs, Triples & Fours), with all members being from the same club team.<ref>{{cite web |title=English Short Mat Bowling Association 2017-18- ESMBA Championship/ |url=http://www.esmba.co.uk/tournaments/2017-18-esmba-tlh-championship/ |website=www.esmba.co.uk |accessdate=10 October 2017 |language=en}}</ref> The Final's Day was played at Rugby Thornfield with [[Kirby Bedon]] of [[Norfolk]] beating [[Warren Heath]] of [[Essex]] in the final. In 2010, Donnington of [[Cambridgeshire]] were the winners followed by Bob Carter of Norfolk in 2011. In 2012, the title was won by a side outside [[East Anglia]] for the first time when [[Cheshire|Cheshire's]] [[Morley Green]] lifted the title. The latest figures show 18,337 ESMBA registered members for the 2016/17 season.<ref>{{cite web |title=English Short Mat Bowling Association County Membership Totals |url=http://www.esmba.co.uk/admin/county-membership-totals/ |website=www.esmba.co.uk |accessdate=10 October 2017 |language=en}}</ref> The ESMBA rules of the game are followed by the affiliated clubs and also by most others. Most clubs arrange competitions among their own members as well as allowing time for those not wishing to take part in competitions to enjoy informal bowling.
+
+==See Also==
+* [[List of short mat bowls competitions]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.bowls.org.uk/short-mat Short mat bowls rules and equipment]
+
+
+
+{{Infobox sport
+| name       = Short Mat Bowls 
+| image      = Image:smb.JPG
+| alt        = 
+| imagesize  = 
+| caption    = A game of short mat bowls being played
+| union      = World Bowls Council
+| nickname   = 
+| first      = 1900s
+| firstlabel = 
+| region     = Europe, India
+| registered = 
+| clubs      = 
+| contact    = No
+| team       = Singles and team
+| mgender    = Yes
+| type       = Indoor
+| equipment  = [[Bowls]], carpet
+| venue      = 
+| glossary   = [[Glossary of bowls terms]]
+| olympic    = No
+| world      = [[List of short mat bowls competitions#World Short Mat Bowls Championships|World Championships]]
+| paralympic = No
+| IWGA       = No
+}}
+
+'''Short mat bowls''' is an indoor [[sport]] in which players attempt to score points by rolling a heavy ball along a  fairly flat surface, to gain as many shots as possible by getting their bowls nearer to the jack than their opponents, and so outscore them. The game is a modern variation on [[lawn bowls]], from which it is derived.
+
+==Venues==
+Short mat bowls is played indoors, so it is an all-year sport that is not affected by weather conditions. Because the equipment is transportable and easy to set up, it is particularly appropriate for locations that are also used for other purposes such as village halls, schools, and sports and social clubs; it is even played on [[North Sea oil]] rigs.<ref>{{cite web |url=http://www.notlbowls.ca/History%20of%20Short%20Mat%20Bowling.pdf |title=History of short mat bowling |work=Notlbowls.ca |accessdate=9 October 2017}}</ref>
+
+==Equipment==
+The ESMBA specify a rink mat length of {{Convert|40–45|ft|abbr=on}} with a width of {{Convert|6|ft|abbr=on}}. The mat is foam or rubber-backed, and has the required lines permanently marked. A wooden fender is placed at both ends to keep the bowls from rolling off the mat. A block sits in the middle of the mat; players have to avoid having their bowls hit the block on their way down the mat. The 'jack' is the target that sits near the end of the mat.<ref name=murphy2015>{{cite book |last=Murphy |first=A. |title=Working with Elderly People: A Care Worker's Handbook |date=28 April 2015 |publisher=Troubador Publishing Ltd |isbn=978-1-78462-052-3 |page=113}}</ref>
+
+As opposed to its counterparts, short mat uses a super-heavyweight jack that weighs approximately {{Convert|900|g|abbr=on}}, whereas, indoor bowls use {{Convert|382-453|g|abbr=on}}, and long mat (Grass) between {{convert|225-285|g|abbr=on}} <ref name="Lawn Bowls FAQ">{{cite web |url=http://www.valebowlingclub.co.uk/lawn_bowls_faqs.htm |accessdate=10 October 2017 |publisher=Vale Bowling Club |title=Lawn Bowls FAQ}}</ref>
+
+===Length of play===
+As with most variants of bowls, short mat bowls has a variable length of play. In traditional games such as [[crown green bowls]] and [[indoor bowls]], winning lead players have the opportunity to throw the jack to the length they wish to play the next end from. In short mat bowls; the game has been simplified, to allowing the winning skip to simply place the jack on a 'jack line'; to determine the length of the next end.
+
+==How the game is played==
+Short mat bowls is very similar to lawn bowls in that the object is for each player, or team, to take turns rolling bowls (woods) down a mat in an attempt to get as many of the woods as possible closer to the target (the 'jack') than the opponent.<ref>{{cite web |title=Quick Guide to Short Mat Bowls |url=http://www.hsmba.org/page134.html |website=www.hsmba.org |accessdate=10 July 2017 |language=en}}</ref> The main difference is in the size of the playing area and the presence of the block midway down the rink mat. The presence of the block prevents players from knocking their opponents' woods away from the jack by sheer force; players are required to use the natural bias of the bowls to manoeuvre around the block. Any woods that touch the block, or land in the ditch or dead area, are dead and are removed before the next wood is sent. The skill in playing short mat bowls comes from the bias of the wood and the inconsistent playing surface; both the performance of the rink mat and the floor surface can vary between matches in different venues. A general description of different bowls games, including short mat bowls, is maintained at ''bowls.org.uk''.<ref>{{cite web |title=Short Mat Bowls - Your Complete Guide to The Rules & Equipment |url=https://www.bowls.org.uk/short-mat |website=Bowls.org.uk |accessdate=10 July 2017}}</ref>
+
+==History==
+The origin of the short mat bowls game is uncertain, but one story is that it was first played in [[Wales]] by two [[South Africans]] who came to work in the area. They had played [[bowls]] outdoors in South Africa and, perhaps due to the poor climate and the long close season in Wales, they began to play a simulation of the outdoor game on a strip of carpet in a church hall. Some time later, they moved to [[Northern Ireland]] and took the new game with them. Rules and conditions of play were drawn up and the game soon became well established in the Province. It was introduced into England by [[Irish expatriate]]s, but development was slow until the 1980s when its potential as a low cost sport for people of all ages was realised.<ref>{{cite book |last=Pickup |first=Gilly |title=What the British Invented: From the Great to the Downright Bonkers |date=15 November 2015 |publisher=Amberley Publishing Limited |isbn=978-1-4456-5028-9}}</ref>
+
+The English Short Mat Bowling Association (ESMBA) was formed in 1984, and is now the governing body of the sport in England.<ref>{{cite web |title=English Short Mat Bowling Association ESMBA |url=http://www.esmba.co.uk |website=www.esmba.co.uk |accessdate=10 July 2017 |language=en}}</ref> The sport is administered in England at two levels, the ESMBA oversee administration of the National Championships and Inter County Championships in addition to running the National Squad. At a more local level, 37 County Associations arrange a series of League, One Day and Knockout competitions within their own geographical area.
+
+In 2009, the ESMBA launched a new National Club Championship event, the event featuring teams competing in all-four disciplines (Singles, Pairs, Triples & Fours), with all members being from the same club team.<ref>{{cite web |title=English Short Mat Bowling Association 2017-18- ESMBA Championship/ |url=http://www.esmba.co.uk/tournaments/2017-18-esmba-tlh-championship/ |website=www.esmba.co.uk |accessdate=10 October 2017 |language=en}}</ref> The Final's Day was played at Rugby Thornfield with [[Kirby Bedon]] of [[Norfolk]] beating [[Warren Heath]] of [[Essex]] in the final. In 2010, Donnington of [[Cambridgeshire]] were the winners followed by Bob Carter of Norfolk in 2011. In 2012, the title was won by a side outside [[East Anglia]] for the first time when [[Cheshire|Cheshire's]] [[Morley Green]] lifted the title. The latest figures show 18,337 ESMBA registered members for the 2016/17 season.<ref>{{cite web |title=English Short Mat Bowling Association County Membership Totals |url=http://www.esmba.co.uk/admin/county-membership-totals/ |website=www.esmba.co.uk |accessdate=10 October 2017 |language=en}}</ref> The ESMBA rules of the game are followed by the affiliated clubs and also by most others. Most clubs arrange competitions among their own members as well as allowing time for those not wishing to take part in competitions to enjoy informal bowling.
+
+==See Also==
+* [[List of short mat bowls competitions]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.bowls.org.uk/short-mat Short mat bowls rules and equipment]
+
+
+

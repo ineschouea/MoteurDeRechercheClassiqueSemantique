@@ -1,0 +1,188 @@
+{{Infobox sport
+| name       = Footgolf
+| image      =
+| caption    = FIFG Photo Archive 2009
+| union      = Federation for International FootGolf (FIFG)<ref name="cnn2">{{cite web|url=http://edition.cnn.com/2014/04/28/sport/golf/footgolf/|title=FootGolf: A hole new ball game|date=28 April 2014|work=CNN|accessdate=29 October 2014}}</ref>
+| firstlabel =
+| country    = Worldwide
+| registered = 
+| contact    = No
+| team       = Teams or single competitors
+| mgender    = Yes
+| category   = Outdoor
+| equipment  = [[Football (ball)|Football]] (indoor or turf soccer shoes)
+| venue      = [[Golf course]]
+| obsolete   =
+| olympic    = No
+| paralympic = No
+}}
+
+'''Footgolf''' is a precision [[sport]], in which players kick a spherical association  [[football (ball)|football]] into a cup in as few shots as possible. The name is a [[portmanteau]] of [[association football|football]] and [[golf]],<ref name="rediff">{{cite web |url=http://www.rediff.com/sports/slide-show/slide-show-1-photos-foot-golf-fusion-sport-growing/20121114.htm |title=Foot/golf fusion sport growing around the globe |publisher=Rediff |date=14 November 2012 |accessdate=20 November 2012}}</ref> and the game combines the two sports, being more closely related to golf.<ref name="info">{{cite web |url=http://www.footgolf.info/ |title=The American Footgolf League |publisher=AFGL |accessdate=20 November 2012}}</ref>
+
+== Rules ==
+The game is played similarly to golf, with the exception that players use a [[soccer]] ball instead of a golf ball, and the ball is kicked rather than struck with a club,<ref name="telegraph"/> working toward a 21-inch "cup" in place of the usual golf hole.<ref name="herald"/> The player who finishes the course with the fewest shots wins.<ref name="info"/> Indeed, footgolf is often played on golf courses, though it may also be played on specially built grass footgolf courses. The first shot has to be played from the tee box, and bunkers, trees, water and hills must be crossed or avoided in order to reach the hole.<ref name="info"/>
+
+The game is played with a regulation No. 5 [[soccer ball]].<ref name="herald"/> As football-soccer balls cannot be propelled as far as golf balls in one shot, footgolf is played on holes shorter than those used in golf. For instance, one course in California features holes that average 157 yards.<ref name="cnn">{{cite web | title=Will FootGolf be the next big thing? | url=http://edition.cnn.com/2014/10/08/us/footgolf-united-states/ | publisher=CNN | date=8 October 2014 | accessdate=24 October 2014 | author=Vercammen, Paul}}</ref> [[Par (score)|Pars]] are typically 5 shots or fewer.<ref name="herald">{{cite web | url=http://www.pressherald.com/2014/10/20/mayor-brennan-to-unveil-footgolf-course-in-portland/ | title=Footgolf gets a leg up in Portland | publisher=Portland Press Herald | date=20 October 2014 | accessdate=24 October 2014 | author=Fleming, Deirdre}}</ref> Paul Collinson of the UK Footgolf Association has observed that, compared to golf, footgolf is quicker to play, more accessible, and does not require expensive equipment.<ref name="telegraph"/>
+
+== Origins ==
+A game with roughly similar rules, [[codeball]], attained brief popularity in the United States during the late 1920s and 1930s.<ref>''Golfdom''. [http://archive.lib.msu.edu/tic/golfd/article/1932sep32.pdf "Codeball on the Green" (Michigan State University archive)]. September 1932, p. 32. Retrieved 14 February 2015.</ref><ref>''[[TIME (magazine)|TIME]]''. [http://content.time.com/time/magazine/article/0,9171,770064,00.html "Sport: Who Won"]. 1 July 1935. Retrieved 14 February 2015.</ref><ref>{{cite news|title=Crazy games: When fun was cruel|url=https://www.economist.com/news/books-and-arts/21678753-odd-things-people-do-when-theyre-not-office-when-fun-was-cruel|accessdate=20 November 2015|work=[[The Economist]]|date=20 November 2015}}</ref>
+Swiss players have been playing a variation of the game since the late 1980s, and the Scandinavian countries starting playing the game under different names and rules in the 1990s.{{citation needed|date=October 2016}} 
+Michael Jansen and Bas Korsten were the creators of the Footgolf uniform and basic rules, and also organisers of the first tournament played the way the sport is played today around the world, and they officially launched FootGolf in the Netherlands in 2008. They learned of the sport from Korsten's brother, Dutch footballer [[Willem Korsten]], who recalled playing a similar game during his time with British club [[Tottenham Hotspur]] between 1999 and 2001, where players would end training sessions by kicking the ball from the pitch back to the changing rooms in as short a time as possible.<ref name="cnn2"/>
+
+== Organized play ==
+[[File:FootGolf Player - Approach.jpg|thumb|Footgolf player plays an approach shot.]]
+The first ever footgolf tournament was organized in the Netherlands by Michael Jansen and Bas Korsten,<ref name="cnn2"/> and played by a mix of Dutch and Belgian professional footballers.<ref name="cnn2"/> After this, many countries began to organize matches, events, tournaments, even national leagues and associations around this game.
+
+Later, Belgium and Hungary switched from playing in parks to golf courses,{{citation needed|date=October 2014}} and the game was introduced to Argentina in 2010.<ref name="rediff"/> The American FootGolf League was founded in 2011.<ref name="utsd">{{cite web|url=http://www.utsandiego.com/news/2014/jul/08/footgolf-growing-sport-welk-resort/|title=There's a new kick on course: FootGolf|date=8 July 2014|work=The San Diego Union-Tribune|accessdate=28 January 2015}}</ref> The game was internationally publicized, and countries worldwide started collaborating on the development of the game. By October 2014, the game was offered at more than 240 courses in the United States<ref name="herald"/> and was in the final stages of being recognized by [[Sport England]].<ref name="telegraph"/>
+
+The game's emergence coincided with the decline of the popularity of golf among young people, with 643 courses closing between 2006 and 2014 in the United States.<ref name="cnn"/> The sport has financially saved many struggling golf courses,<ref name="telegraph">{{cite web | url=https://www.telegraph.co.uk/men/active/11176484/Why-footgolf-could-be-your-new-favourite-sport.html | title=Why footgolf could be your new favourite sport | publisher=The Daily Telegraph | date=22 October 2014 | accessdate=24 October 2014 | author=Warwick, Josh}}</ref> and the [[Professional Golfers' Association of America]] and [[World Golf Foundation]] have both acknowledged footgolf's contribution to helping golf courses generate more income, and noted that it may contribute to the growth of golf itself.<ref name="pga">{{cite web|url=http://www.pga.com/news/golf-buzz/explaining-footgolf-and-what-it-may-mean-golf|title=Explaining FootGolf and what it may mean for golf|work=PGA.com|accessdate=29 October 2014}}</ref><ref>{{cite web|url=http://golf2020.com/initiatives/footgolf.aspx|title=FootGolf|publisher=|accessdate=29 October 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20141027132234/http://golf2020.com/initiatives/footgolf.aspx|archivedate=27 October 2014|df=}}</ref> Former PGA president Ted Bishop said in 2014 that "I think it would be ludicrous to think there won't be a percentage of those people that might say, 'Hey, you know what? I think I'd like to try and play golf."<ref name="pga"/> In March 2016, the LPGA golfer [[Paula Creamer]] said "Anytime you can do something differently in the game of golf, it’s fun and I think we’ll probably be out there (playing footgolf) a little bit more now."<ref>{{cite web|last1=McKay|first1=Matt|title=Japan and Foot Golf score major victory at ANA Inspiration Foot Golf contest|url=http://www.scga.org/news/view/japan-and-foot-golf-score-major-victory-at-ana-inspiration-foot-golf-contes|website=www.scga.org|accessdate=2 November 2016}}</ref>
+
+One course in the United States has footgolf holes running perpendicular to regular golf holes, so that both games can be played at the same time.<ref name="cnn"/>
+
+A group of countries combined to form the Federation for International FootGolf (FIFG) in June 2012,<ref name="cnn2"/> and 8 countries played the first FootGolf World Cup in [[Hungary]] that month. In January 2016, the second FootGolf World Cup was held in Argentina and 230 players from 26 FIFG member countries participated in the global event.
+
+In the spring of 2015, the National Golf Courses Owners Association (NGCOA) recognized the American FootGolf League (AFGL) as the governing body for the sport of footgolf in the U.S.<ref>{{cite web|url=http://www.golfdigest.com/blogs/the-loop/2015/03/american-footgolf-league-gets.html|title=American FootGolf League gets seal of approval from golf course owners group|work=Golf Digest}}</ref>
+and a few months later, Roberto Balestrini, founder of the AFGL was selected by the prestigious Golf Inc Magazine as one of the ten most innovative people in golf.<ref>http://www.golfincmagazinemonthly-digital.com/golfincmagazinemonthly/july_august_2015?pg=42#pg42</ref> In October 2, 2017 the GAISF (Global Association of International Sports Federations) granted the [https://gaisf.org/3796-2/ Observer Status] to the Federation for International FootGolf (FIFG).
+
+== Attire ==
+[[File:US Pro-Am 2014 (cropped).jpg|thumb|upright|American FootGolf League Players at the U.S. Pro-Am Tour in 2014]]
+The AFGL requires "classic golf uniform with wearing indoor soccer or turf shoes" for tournament play, and notes that most golf courses have a dress code for golfers, which footgolf players would also have to follow.<ref>{{Cite web|title = American FootGolf League|url = http://www.afgl.us/faqs.html|website = www.afgl.us|accessdate = 2015-08-27}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.fifg.org/ Federation for International FootGolf (FIFG)]
+* [https://www.youtube.com/watch?v=HSHkY-a7FRU Footgolf being played on a new course in Swansea, Wales, in 2016]
+
+{{Golf}}
+
+
+
+
+
+{{Infobox sport
+| name       = Footgolf
+| image      =
+| caption    = FIFG Photo Archive 2009
+| union      = Federation for International FootGolf (FIFG)<ref name="cnn2">{{cite web|url=http://edition.cnn.com/2014/04/28/sport/golf/footgolf/|title=FootGolf: A hole new ball game|date=28 April 2014|work=CNN|accessdate=29 October 2014}}</ref>
+| firstlabel =
+| country    = Worldwide
+| registered = 
+| contact    = No
+| team       = Teams or single competitors
+| mgender    = Yes
+| category   = Outdoor
+| equipment  = [[Football (ball)|Football]] (indoor or turf soccer shoes)
+| venue      = [[Golf course]]
+| obsolete   =
+| olympic    = No
+| paralympic = No
+}}
+
+'''Footgolf''' is a precision [[sport]], in which players kick a spherical association  [[football (ball)|football]] into a cup in as few shots as possible. The name is a [[portmanteau]] of [[association football|football]] and [[golf]],<ref name="rediff">{{cite web |url=http://www.rediff.com/sports/slide-show/slide-show-1-photos-foot-golf-fusion-sport-growing/20121114.htm |title=Foot/golf fusion sport growing around the globe |publisher=Rediff |date=14 November 2012 |accessdate=20 November 2012}}</ref> and the game combines the two sports, being more closely related to golf.<ref name="info">{{cite web |url=http://www.footgolf.info/ |title=The American Footgolf League |publisher=AFGL |accessdate=20 November 2012}}</ref>
+
+== Rules ==
+The game is played similarly to golf, with the exception that players use a [[soccer]] ball instead of a golf ball, and the ball is kicked rather than struck with a club,<ref name="telegraph"/> working toward a 21-inch "cup" in place of the usual golf hole.<ref name="herald"/> The player who finishes the course with the fewest shots wins.<ref name="info"/> Indeed, footgolf is often played on golf courses, though it may also be played on specially built grass footgolf courses. The first shot has to be played from the tee box, and bunkers, trees, water and hills must be crossed or avoided in order to reach the hole.<ref name="info"/>
+
+The game is played with a regulation No. 5 [[soccer ball]].<ref name="herald"/> As football-soccer balls cannot be propelled as far as golf balls in one shot, footgolf is played on holes shorter than those used in golf. For instance, one course in California features holes that average 157 yards.<ref name="cnn">{{cite web | title=Will FootGolf be the next big thing? | url=http://edition.cnn.com/2014/10/08/us/footgolf-united-states/ | publisher=CNN | date=8 October 2014 | accessdate=24 October 2014 | author=Vercammen, Paul}}</ref> [[Par (score)|Pars]] are typically 5 shots or fewer.<ref name="herald">{{cite web | url=http://www.pressherald.com/2014/10/20/mayor-brennan-to-unveil-footgolf-course-in-portland/ | title=Footgolf gets a leg up in Portland | publisher=Portland Press Herald | date=20 October 2014 | accessdate=24 October 2014 | author=Fleming, Deirdre}}</ref> Paul Collinson of the UK Footgolf Association has observed that, compared to golf, footgolf is quicker to play, more accessible, and does not require expensive equipment.<ref name="telegraph"/>
+
+== Origins ==
+A game with roughly similar rules, [[codeball]], attained brief popularity in the United States during the late 1920s and 1930s.<ref>''Golfdom''. [http://archive.lib.msu.edu/tic/golfd/article/1932sep32.pdf "Codeball on the Green" (Michigan State University archive)]. September 1932, p. 32. Retrieved 14 February 2015.</ref><ref>''[[TIME (magazine)|TIME]]''. [http://content.time.com/time/magazine/article/0,9171,770064,00.html "Sport: Who Won"]. 1 July 1935. Retrieved 14 February 2015.</ref><ref>{{cite news|title=Crazy games: When fun was cruel|url=https://www.economist.com/news/books-and-arts/21678753-odd-things-people-do-when-theyre-not-office-when-fun-was-cruel|accessdate=20 November 2015|work=[[The Economist]]|date=20 November 2015}}</ref>
+Swiss players have been playing a variation of the game since the late 1980s, and the Scandinavian countries starting playing the game under different names and rules in the 1990s.{{citation needed|date=October 2016}} 
+Michael Jansen and Bas Korsten were the creators of the Footgolf uniform and basic rules, and also organisers of the first tournament played the way the sport is played today around the world, and they officially launched FootGolf in the Netherlands in 2008. They learned of the sport from Korsten's brother, Dutch footballer [[Willem Korsten]], who recalled playing a similar game during his time with British club [[Tottenham Hotspur]] between 1999 and 2001, where players would end training sessions by kicking the ball from the pitch back to the changing rooms in as short a time as possible.<ref name="cnn2"/>
+
+== Organized play ==
+[[File:FootGolf Player - Approach.jpg|thumb|Footgolf player plays an approach shot.]]
+The first ever footgolf tournament was organized in the Netherlands by Michael Jansen and Bas Korsten,<ref name="cnn2"/> and played by a mix of Dutch and Belgian professional footballers.<ref name="cnn2"/> After this, many countries began to organize matches, events, tournaments, even national leagues and associations around this game.
+
+Later, Belgium and Hungary switched from playing in parks to golf courses,{{citation needed|date=October 2014}} and the game was introduced to Argentina in 2010.<ref name="rediff"/> The American FootGolf League was founded in 2011.<ref name="utsd">{{cite web|url=http://www.utsandiego.com/news/2014/jul/08/footgolf-growing-sport-welk-resort/|title=There's a new kick on course: FootGolf|date=8 July 2014|work=The San Diego Union-Tribune|accessdate=28 January 2015}}</ref> The game was internationally publicized, and countries worldwide started collaborating on the development of the game. By October 2014, the game was offered at more than 240 courses in the United States<ref name="herald"/> and was in the final stages of being recognized by [[Sport England]].<ref name="telegraph"/>
+
+The game's emergence coincided with the decline of the popularity of golf among young people, with 643 courses closing between 2006 and 2014 in the United States.<ref name="cnn"/> The sport has financially saved many struggling golf courses,<ref name="telegraph">{{cite web | url=https://www.telegraph.co.uk/men/active/11176484/Why-footgolf-could-be-your-new-favourite-sport.html | title=Why footgolf could be your new favourite sport | publisher=The Daily Telegraph | date=22 October 2014 | accessdate=24 October 2014 | author=Warwick, Josh}}</ref> and the [[Professional Golfers' Association of America]] and [[World Golf Foundation]] have both acknowledged footgolf's contribution to helping golf courses generate more income, and noted that it may contribute to the growth of golf itself.<ref name="pga">{{cite web|url=http://www.pga.com/news/golf-buzz/explaining-footgolf-and-what-it-may-mean-golf|title=Explaining FootGolf and what it may mean for golf|work=PGA.com|accessdate=29 October 2014}}</ref><ref>{{cite web|url=http://golf2020.com/initiatives/footgolf.aspx|title=FootGolf|publisher=|accessdate=29 October 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20141027132234/http://golf2020.com/initiatives/footgolf.aspx|archivedate=27 October 2014|df=}}</ref> Former PGA president Ted Bishop said in 2014 that "I think it would be ludicrous to think there won't be a percentage of those people that might say, 'Hey, you know what? I think I'd like to try and play golf."<ref name="pga"/> In March 2016, the LPGA golfer [[Paula Creamer]] said "Anytime you can do something differently in the game of golf, it’s fun and I think we’ll probably be out there (playing footgolf) a little bit more now."<ref>{{cite web|last1=McKay|first1=Matt|title=Japan and Foot Golf score major victory at ANA Inspiration Foot Golf contest|url=http://www.scga.org/news/view/japan-and-foot-golf-score-major-victory-at-ana-inspiration-foot-golf-contes|website=www.scga.org|accessdate=2 November 2016}}</ref>
+
+One course in the United States has footgolf holes running perpendicular to regular golf holes, so that both games can be played at the same time.<ref name="cnn"/>
+
+A group of countries combined to form the Federation for International FootGolf (FIFG) in June 2012,<ref name="cnn2"/> and 8 countries played the first FootGolf World Cup in [[Hungary]] that month. In January 2016, the second FootGolf World Cup was held in Argentina and 230 players from 26 FIFG member countries participated in the global event.
+
+In the spring of 2015, the National Golf Courses Owners Association (NGCOA) recognized the American FootGolf League (AFGL) as the governing body for the sport of footgolf in the U.S.<ref>{{cite web|url=http://www.golfdigest.com/blogs/the-loop/2015/03/american-footgolf-league-gets.html|title=American FootGolf League gets seal of approval from golf course owners group|work=Golf Digest}}</ref>
+and a few months later, Roberto Balestrini, founder of the AFGL was selected by the prestigious Golf Inc Magazine as one of the ten most innovative people in golf.<ref>http://www.golfincmagazinemonthly-digital.com/golfincmagazinemonthly/july_august_2015?pg=42#pg42</ref> In October 2, 2017 the GAISF (Global Association of International Sports Federations) granted the [https://gaisf.org/3796-2/ Observer Status] to the Federation for International FootGolf (FIFG).
+
+== Attire ==
+[[File:US Pro-Am 2014 (cropped).jpg|thumb|upright|American FootGolf League Players at the U.S. Pro-Am Tour in 2014]]
+The AFGL requires "classic golf uniform with wearing indoor soccer or turf shoes" for tournament play, and notes that most golf courses have a dress code for golfers, which footgolf players would also have to follow.<ref>{{Cite web|title = American FootGolf League|url = http://www.afgl.us/faqs.html|website = www.afgl.us|accessdate = 2015-08-27}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.fifg.org/ Federation for International FootGolf (FIFG)]
+* [https://www.youtube.com/watch?v=HSHkY-a7FRU Footgolf being played on a new course in Swansea, Wales, in 2016]
+
+{{Golf}}
+
+
+
+
+
+| name       = Footgolf
+| image      =
+| caption    = FIFG Photo Archive 2009
+| union      = Federation for International FootGolf (FIFG)<ref name="cnn2">{{cite web|url=http://edition.cnn.com/2014/04/28/sport/golf/footgolf/|title=FootGolf: A hole new ball game|date=28 April 2014|work=CNN|accessdate=29 October 2014}}</ref>
+| firstlabel =
+| country    = Worldwide
+| registered = 
+| contact    = No
+| team       = Teams or single competitors
+| mgender    = Yes
+| category   = Outdoor
+| equipment  = [[Football (ball)|Football]] (indoor or turf soccer shoes)
+| venue      = [[Golf course]]
+| obsolete   =
+| olympic    = No
+| paralympic = No
+}}
+
+'''Footgolf''' is a precision [[sport]], in which players kick a spherical association  [[football (ball)|football]] into a cup in as few shots as possible. The name is a [[portmanteau]] of [[association football|football]] and [[golf]],<ref name="rediff">{{cite web |url=http://www.rediff.com/sports/slide-show/slide-show-1-photos-foot-golf-fusion-sport-growing/20121114.htm |title=Foot/golf fusion sport growing around the globe |publisher=Rediff |date=14 November 2012 |accessdate=20 November 2012}}</ref> and the game combines the two sports, being more closely related to golf.<ref name="info">{{cite web |url=http://www.footgolf.info/ |title=The American Footgolf League |publisher=AFGL |accessdate=20 November 2012}}</ref>
+
+== Rules ==
+The game is played similarly to golf, with the exception that players use a [[soccer]] ball instead of a golf ball, and the ball is kicked rather than struck with a club,<ref name="telegraph"/> working toward a 21-inch "cup" in place of the usual golf hole.<ref name="herald"/> The player who finishes the course with the fewest shots wins.<ref name="info"/> Indeed, footgolf is often played on golf courses, though it may also be played on specially built grass footgolf courses. The first shot has to be played from the tee box, and bunkers, trees, water and hills must be crossed or avoided in order to reach the hole.<ref name="info"/>
+
+The game is played with a regulation No. 5 [[soccer ball]].<ref name="herald"/> As football-soccer balls cannot be propelled as far as golf balls in one shot, footgolf is played on holes shorter than those used in golf. For instance, one course in California features holes that average 157 yards.<ref name="cnn">{{cite web | title=Will FootGolf be the next big thing? | url=http://edition.cnn.com/2014/10/08/us/footgolf-united-states/ | publisher=CNN | date=8 October 2014 | accessdate=24 October 2014 | author=Vercammen, Paul}}</ref> [[Par (score)|Pars]] are typically 5 shots or fewer.<ref name="herald">{{cite web | url=http://www.pressherald.com/2014/10/20/mayor-brennan-to-unveil-footgolf-course-in-portland/ | title=Footgolf gets a leg up in Portland | publisher=Portland Press Herald | date=20 October 2014 | accessdate=24 October 2014 | author=Fleming, Deirdre}}</ref> Paul Collinson of the UK Footgolf Association has observed that, compared to golf, footgolf is quicker to play, more accessible, and does not require expensive equipment.<ref name="telegraph"/>
+
+== Origins ==
+A game with roughly similar rules, [[codeball]], attained brief popularity in the United States during the late 1920s and 1930s.<ref>''Golfdom''. [http://archive.lib.msu.edu/tic/golfd/article/1932sep32.pdf "Codeball on the Green" (Michigan State University archive)]. September 1932, p. 32. Retrieved 14 February 2015.</ref><ref>''[[TIME (magazine)|TIME]]''. [http://content.time.com/time/magazine/article/0,9171,770064,00.html "Sport: Who Won"]. 1 July 1935. Retrieved 14 February 2015.</ref><ref>{{cite news|title=Crazy games: When fun was cruel|url=https://www.economist.com/news/books-and-arts/21678753-odd-things-people-do-when-theyre-not-office-when-fun-was-cruel|accessdate=20 November 2015|work=[[The Economist]]|date=20 November 2015}}</ref>
+Swiss players have been playing a variation of the game since the late 1980s, and the Scandinavian countries starting playing the game under different names and rules in the 1990s.{{citation needed|date=October 2016}} 
+Michael Jansen and Bas Korsten were the creators of the Footgolf uniform and basic rules, and also organisers of the first tournament played the way the sport is played today around the world, and they officially launched FootGolf in the Netherlands in 2008. They learned of the sport from Korsten's brother, Dutch footballer [[Willem Korsten]], who recalled playing a similar game during his time with British club [[Tottenham Hotspur]] between 1999 and 2001, where players would end training sessions by kicking the ball from the pitch back to the changing rooms in as short a time as possible.<ref name="cnn2"/>
+
+== Organized play ==
+[[File:FootGolf Player - Approach.jpg|thumb|Footgolf player plays an approach shot.]]
+The first ever footgolf tournament was organized in the Netherlands by Michael Jansen and Bas Korsten,<ref name="cnn2"/> and played by a mix of Dutch and Belgian professional footballers.<ref name="cnn2"/> After this, many countries began to organize matches, events, tournaments, even national leagues and associations around this game.
+
+Later, Belgium and Hungary switched from playing in parks to golf courses,{{citation needed|date=October 2014}} and the game was introduced to Argentina in 2010.<ref name="rediff"/> The American FootGolf League was founded in 2011.<ref name="utsd">{{cite web|url=http://www.utsandiego.com/news/2014/jul/08/footgolf-growing-sport-welk-resort/|title=There's a new kick on course: FootGolf|date=8 July 2014|work=The San Diego Union-Tribune|accessdate=28 January 2015}}</ref> The game was internationally publicized, and countries worldwide started collaborating on the development of the game. By October 2014, the game was offered at more than 240 courses in the United States<ref name="herald"/> and was in the final stages of being recognized by [[Sport England]].<ref name="telegraph"/>
+
+The game's emergence coincided with the decline of the popularity of golf among young people, with 643 courses closing between 2006 and 2014 in the United States.<ref name="cnn"/> The sport has financially saved many struggling golf courses,<ref name="telegraph">{{cite web | url=https://www.telegraph.co.uk/men/active/11176484/Why-footgolf-could-be-your-new-favourite-sport.html | title=Why footgolf could be your new favourite sport | publisher=The Daily Telegraph | date=22 October 2014 | accessdate=24 October 2014 | author=Warwick, Josh}}</ref> and the [[Professional Golfers' Association of America]] and [[World Golf Foundation]] have both acknowledged footgolf's contribution to helping golf courses generate more income, and noted that it may contribute to the growth of golf itself.<ref name="pga">{{cite web|url=http://www.pga.com/news/golf-buzz/explaining-footgolf-and-what-it-may-mean-golf|title=Explaining FootGolf and what it may mean for golf|work=PGA.com|accessdate=29 October 2014}}</ref><ref>{{cite web|url=http://golf2020.com/initiatives/footgolf.aspx|title=FootGolf|publisher=|accessdate=29 October 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20141027132234/http://golf2020.com/initiatives/footgolf.aspx|archivedate=27 October 2014|df=}}</ref> Former PGA president Ted Bishop said in 2014 that "I think it would be ludicrous to think there won't be a percentage of those people that might say, 'Hey, you know what? I think I'd like to try and play golf."<ref name="pga"/> In March 2016, the LPGA golfer [[Paula Creamer]] said "Anytime you can do something differently in the game of golf, it’s fun and I think we’ll probably be out there (playing footgolf) a little bit more now."<ref>{{cite web|last1=McKay|first1=Matt|title=Japan and Foot Golf score major victory at ANA Inspiration Foot Golf contest|url=http://www.scga.org/news/view/japan-and-foot-golf-score-major-victory-at-ana-inspiration-foot-golf-contes|website=www.scga.org|accessdate=2 November 2016}}</ref>
+
+One course in the United States has footgolf holes running perpendicular to regular golf holes, so that both games can be played at the same time.<ref name="cnn"/>
+
+A group of countries combined to form the Federation for International FootGolf (FIFG) in June 2012,<ref name="cnn2"/> and 8 countries played the first FootGolf World Cup in [[Hungary]] that month. In January 2016, the second FootGolf World Cup was held in Argentina and 230 players from 26 FIFG member countries participated in the global event.
+
+In the spring of 2015, the National Golf Courses Owners Association (NGCOA) recognized the American FootGolf League (AFGL) as the governing body for the sport of footgolf in the U.S.<ref>{{cite web|url=http://www.golfdigest.com/blogs/the-loop/2015/03/american-footgolf-league-gets.html|title=American FootGolf League gets seal of approval from golf course owners group|work=Golf Digest}}</ref>
+and a few months later, Roberto Balestrini, founder of the AFGL was selected by the prestigious Golf Inc Magazine as one of the ten most innovative people in golf.<ref>http://www.golfincmagazinemonthly-digital.com/golfincmagazinemonthly/july_august_2015?pg=42#pg42</ref> In October 2, 2017 the GAISF (Global Association of International Sports Federations) granted the [https://gaisf.org/3796-2/ Observer Status] to the Federation for International FootGolf (FIFG).
+
+== Attire ==
+[[File:US Pro-Am 2014 (cropped).jpg|thumb|upright|American FootGolf League Players at the U.S. Pro-Am Tour in 2014]]
+The AFGL requires "classic golf uniform with wearing indoor soccer or turf shoes" for tournament play, and notes that most golf courses have a dress code for golfers, which footgolf players would also have to follow.<ref>{{Cite web|title = American FootGolf League|url = http://www.afgl.us/faqs.html|website = www.afgl.us|accessdate = 2015-08-27}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.fifg.org/ Federation for International FootGolf (FIFG)]
+* [https://www.youtube.com/watch?v=HSHkY-a7FRU Footgolf being played on a new course in Swansea, Wales, in 2016]
+
+{{Golf}}
+
+
+
+
+

@@ -1,0 +1,46 @@
+:''For the Mexican species, see [[blackstripe minnow]]''
+{{Taxobox
+| name = Black-stripe minnow
+| image =
+| status = LR/nt
+| status_system = IUCN2.3
+| status_ref = <ref name=iucn>{{Cite journal | author = Wager, R. | title = ''Galaxiella nigrostriata'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 1996 | page = e.T8819A12934342 | publisher = [[IUCN]] | date = 1996 | url = http://www.iucnredlist.org/details/8819/0 | doi = 10.2305/IUCN.UK.1996.RLTS.T8819A12934342.en | access-date = 10 January 2018}}</ref>
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Actinopterygii]]
+| ordo = [[Osmeriformes]]
+| familia = [[Galaxiidae]]
+| genus = ''[[Galaxiella]]''
+| species = '''''G. nigrostriata'''''
+| binomial = ''Galaxiella nigrostriata''
+| binomial_authority = ([[Bruce Shipway|Shipway]], 1953)
+}}
+
+The '''black-stripe minnow''' (''Galaxiella nigrostriata'') is a small freshwater species of [[fish]] in the [[Galaxiidae]] family. It is [[Endemism|endemic]] to [[Western Australia]] where it is found in slow-running streams, ponds, swamps and ditches.
+
+== Description ==
+''Galaxiella nigrostriata'' males grow to a maximum length of {{convert|4.4|cm|in|0}} and females to a maximum length of {{convert|4.8|cm|in|0}}<ref name="Morgan, D. 1996">Morgan, D., Gill, H.S., Potter, I.C. (1996) 'Distribution of Freshwater Fish in the South-western Corner of Australia.' Water and Rivers Commission Report WRT4 1996, Perth, Western Australia. 26pp.</ref>
+This species has 7-9 soft dorsal rays and 10-15 soft anal rays.<ref name="Morgan, D. 1996" /> This fish has a silvery-grey colouration with a yellow stripe flanked by black stripes that begins behind the eyes and terminates at the base of the tail.
+
+== Distribution and habitat ==
+The black-stripe minnow is found in the South West region of Western Australia between the towns of [[Augusta, Western Australia|Augusta]] and [[Albany, Western Australia|Albany]], and from three separate populations near Bunbury, at [[Melaleuca, Western Australia|Melaleuca Park]] just north of Perth, and at [[Lake Chandala]] north of [[Muchea, Western Australia|Muchea]].<ref>Allen, G.R., Midgley, S.H., Allen, M. (2002) 'Field Guide to the Freshwater Fishes of Australia.' (Western Australian Museum: Perth Western Australia)</ref><ref>{{FishBase species alt|9476|taxon=''Galaxiella nigrostriata''|year=2010}}</ref><ref>Galeotti, D. M., McCullough, C. D., and Lund, M. A. (2010). Black-stripe minnow Galaxiella nigrostriata (Shipway 1953) (Pisces: Galaxiidae), a review and discussion. Journal of the Royal Society of Western Australia 93, 13–20.</ref> Most commonly known to inhabit ephemeral water sources as it is capable of [[Aestivation|aestivating]] in summer in the damp substrate. Also found in a range of conditions from slow-flowing rivers, swamps, freshwater lakes and pools, and road side ditches. It can often be found in and around submerged vegetation in lakes and swamps. It can tolerate acidic water that is tannin stained and with a pH as low as 4.5.<ref name=FishBase>{{cite web |url=http://www.fishbase.org/summary/Galaxiella-nigrostriata.html |title= ''Galaxiella nigrostriata'' (Shipway, 1953): Black-stripe minnow |publisher=FishBase |accessdate=2013-12-29}}</ref>
+
+==Biology==
+The black-stripe minnow feeds on aquatic insects and their larvae, and micro-crustaceans. Breeding takes place during the rainy season in winter. At this time, the male becomes much more brightly coloured.<ref name=FishBase/>
+
+==Status==
+The [[IUCN]] has listed the black-stripe minnow as being "[[Near Threatened]]". This is because of its limited range.<ref name=iucn/>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q44466}}
+
+{{DEFAULTSORT:minnow, black-striped}}
+
+
+
+
+
+
+

@@ -1,0 +1,45 @@
+{{speciesbox
+| name              = 
+| image             = Specimen of Anguilla bicolor pacifica.JPG
+| image_caption     = ''[[Anguilla bicolor pacifica]]''
+| status            = NT
+| status_system     = IUCN3.1
+| status_ref        = <ref name=IUCN>{{Cite journal | author = Jacoby, D. | author2 = Harrison, I.J. | author3 = Gollock, M. | last-author-amp = yes | title = ''Anguilla bicolor'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2014 | page = e.T166894A67015710 | publisher = [[IUCN]] | date = 2014 | url = http://www.iucnredlist.org/details/166894/0 | doi = 10.2305/IUCN.UK.2014-1.RLTS.T166894A67015710.en | access-date = 4 January 2018}}</ref>
+| genus             = Anguilla
+| species           = bicolor
+| authority         = [[John McClelland (doctor)|McClelland]], 1844
+| subdivision_ranks = Subspecies
+| subdivision       = ''[[Anguilla bicolor bicolor|A. b. bicolor]]''<br>''[[Anguilla bicolor pacifica|A. b. pacifica]]''
+| synonyms          = 
+* ''Anguilla amblodon'' <small>Günther, 1867</small>
+* ''Anguilla bleekeri'' <small>Kaup, 1856</small>
+* ''Anguilla cantori'' <small>Kaup, 1856</small>
+* ''Anguilla dussumieri'' <small>Kaup, 1856</small>
+* ''Anguilla foochowensis'' <small>Chu & Yin, 1984</small>
+* ''Anguilla malabarica'' <small>Kaup, 1856</small>
+* ''Anguilla moa'' <small>Bleeker, 1849</small>
+* ''Anguilla mowa'' <small>Bleeker, 1853</small>
+* ''Anguilla sidat'' <small>Bleeker, 1853</small>
+* ''Anguilla spengeli'' <small>Weber, 1912</small>
+* ''Muraena halmaherensis'' <small>Bleeker, 1856</small>
+* ''Muraena virescens'' <small>Peters, 1852</small>
+}}
+'''''Anguilla bicolor''''' is a species of [[eel]] in the genus ''[[Anguilla (genus)|Anguilla]]'' of the family [[Anguillidae]], consisting of two subspecies.
+
+==Subspecies==
+[[File:Anguilla bicolor Day 168.jpg |thumb|left]]
+* ''[[Anguilla bicolor bicolor]]'' sometimes known as the Indonesian shortfin eel.<ref name="fishbase">{{FishBase species alt | ID = 1274 | taxon = Anguilla bicolor bicolor | year = 2006 | month = 05}}</ref>
+* ''[[Anguilla bicolor pacifica]]'' sometimes known as the Indian shortfin eel.<ref name="fish">{{FishBase species alt | ID = 17230 | taxon = Anguilla bicolor pacifica | year=2006 | month=05 }}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q1329808}}
+
+
+
+
+
+
+
+{{Anguilliformes-stub}}

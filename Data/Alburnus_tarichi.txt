@@ -1,0 +1,40 @@
+{{speciesbox
+|image=Darekh.gif
+|status=NT
+|status_system=IUCN3.1
+|status_ref=<ref name="IUCN">{{Cite journal | author = Freyhof, J. | title = ''Alburnus tarichi'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2014 | page = e.T4375A19222678 | publisher = [[IUCN]] | date = 2014 | url = http://www.iucnredlist.org/details/4375/0 | doi = 10.2305/IUCN.UK.2014-1.RLTS.T4375A19222678.en | access-date = 5 January 2018}}</ref>
+|genus=Alburnus
+|species=tarichi
+|display_parents = 3
+|authority=([[Johann Anton Güldenstädt|Güldenstädt]], 1814)
+|synonyms=
+*''Cyprinus tarichi'' <small>Güldenstädt, 1814</small>
+*''[[Chalcalburnus]] tarichi'' <small>(Güldenstädt, 1814)</small>
+*''Leuciscus vanensis'' <small>Günther, 1868</small>
+*''Alburnus timarensis''<small> Kuru, 1980</small><ref>Synonyms of Alburnus tarichi (Güldenstädt, 1814) [http://www.fishbase.org/Nomenclature/SynonymsList.php?ID=9635&SynCode=134343&GenusName=Alburnus&SpeciesName=tarichi Fishbase]</ref>}}
+
+{{Wikispecies|Alburnus tarichi}}
+'''''Alburnus tarichi''''', known as the '''tarek''', '''pearl mullet''', '''Van fish''' or '''Van shah kuli''' ({{lang-tr|?nci kefal?/bal???}}; {{lang-ku|darex}} ''darach''; {{lang-hy|[[wikt:?????|?????]]}} ''ta?ex''), is a species of [[cyprinidae|cyprinid]] fish, found only in [[Turkey]], where it is the only [[fish]] known to inhabit [[Lake Van]]. It is [[Endemism|endemic]] to the Lake Van basin.<ref>Sari, 1997</ref>
+
+The tarek is the 'jewel' of Lake Van in Turkey. Found nowhere else in the world, this fish thrives in the lake's salty and carbonated waters,<ref>{{cite web|title=?nci kefali göç ediyor, Van ?enleniyor |publisher=[[Cumhuriyet]] Newspaper |year=2009 |url=http://www.cumhuriyet.com.tr/?im=yhs&hn=61878 |language=Turkish |accessdate=2009-08-25 |deadurl=yes |archiveurl=https://web.archive.org/web/20110716171355/http://www.cumhuriyet.com.tr/?im=yhs&hn=61878 |archivedate=2011-07-16 }}</ref> which are inhospitable to other forms of fresh water and marine fish. In May and June of each year it travels upstream through the lake's tributaries to lay [[egg (biology)|eggs]], flying through the air like [[salmon]].
+
+Many locals have become accustomed to sticking out bags and catching fish as they jump out of the water, catching so many fish in May–June that they do not have to fish for the rest of the year. Locals prefer to catch the fish during reproduction season, when the females are filled with eggs, which are considered a delicacy in the town and region of [[Erci?]]. [[Yüzüncü Y?l University|YYÜ]] and Do?a Gözcüleri Derne?i (www.incikefali.net) have been developing a conservation strategy since 1997 (Sari, 2012). Despite a government ban on fishing during reproduction season, this kind of fishing has become a big business. In the 1960s, 600 tons of the fish were harvested annually; today that figure is 15,000 tons. The species was rated 'Endangered' in 1994, but was upgraded to 'Near Threatened' in 2014.<ref name="IUCN"/>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{FishBase species|Alburnus|tarichi|year=2012}}
+*Informations and Images [https://web.archive.org/web/20120215082814/http://www.incikefali.net/index-en.htm www.incikefali.net]
+*Turkey - Sustainable Fishing and Consumption of Pearl Mullet [http://waterwiki.net/index.php/Turkey_-_Sustainable_Fishing_and_Consumption_of_Pearl_Mullet]
+
+{{Taxonbar|from=Q612453}}
+
+
+
+
+
+
+
+
+{{Cyprinidae-stub}}

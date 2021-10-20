@@ -1,0 +1,185 @@
+ 
+{{Citations broken|date=September 2016}}
+{{Infobox sport
+|name       = Boccia
+|image      = Paralympics Beijing 2008 286.JPG
+|imagesize  = 300px
+|caption    = 
+|union      = [[Boccia International Sports Federation|BISFed]]
+|mgender    = Yes
+|category   = Outdoor or Indoor
+|paralympic    = Present since the [[Boccia at the 1984 Summer Paralympics|1984 Paralympics]]
+}}
+'''Boccia''' ({{IPAc-en|?|b|?|t?|?}} {{respell|BOTCH|?}}) is a precision [[ball sport]], similar to [[bocce]], and related to [[bowls]] and [[pétanque]].  The name "boccia" is derived from the Latin word for "boss"&nbsp;– ''{{lang|la|bottia}}''.<ref>[//www.boccia.org/history.html History of Bocce]</ref>  The sport is contested at local, national and international levels, by athletes with severe physical disabilities.  It was originally designed to be played by people with [[cerebral palsy]] but now includes athletes with other severe disabilities affecting [[motor skills]].  In 1984, it became a [[Paralympic sport]], and in 2008 was being practised in over fifty [[countries]] worldwide.<ref>{{cite web|url=//www.paralympic.org/sport/boccia |title=Boccia &#124; IPC |publisher=Paralympic.org |date= |accessdate=2013-05-25}}</ref>  Boccia is governed by the [[Boccia International Sports Federation]] (BISFed) and is one of only two Paralympic sports (along with [[goalball]]) that have no counterpart in the [[Olympic sports|Olympic program]].
+
+==About the game==
+Boccia can be played by individuals, pairs, or teams of three. All events are mixed gender. The aim of the game is to throw [[leather]] balls&nbsp;— coloured red or blue (which side uses which is determined by a [[coin toss]]) as close as they can to a white target ball, or jack. The jack is thrown first, then the first two regular balls are played (first, the player who threw the jack then the opposing side), after which the side furthest away from the jack goes next in an attempt to either get closer to the jack or knock the opposition's ball out of the way. In this fashion, each end will continue until one side has played all their balls, at which point, the opposing side will play their remaining balls. The balls can be moved with [[hands]], [[Foot|feet]], or, if the competitor's disability is severe, with an assistive device such as a ramp. At the end of each round, or end, the [[referee]] measures the distance of the balls closest to the jack, and awards points accordingly&nbsp;— one point for each ball that is closer to the jack than the opponent's closest ball. The team/player with the highest number of points at the end of play is the winner. If both teams have the same number of points after all ends have been played, one additional end is played to determine a winner.
+
+The number of ends and balls in each end depends on the side makeup. Individual competition consists of four ends and six balls per player per end, whilst paired competition is four ends and six balls per pair per end (three per player). Team competition is six ends, and six balls per team per end (two per player).
+
+In pair and team events, a reserve player is allowed. Between ends a reserve can be substituted for a player during a game, but only one substitution per game is permitted.<ref>{{cite web |url=//www.boccia.org.nz/ |title=Boccia New Zealand&nbsp;— Boccia New Zealand |publisher=Boccia.org.nz |date= |accessdate=2013-05-25 |deadurl=yes |archiveurl=https://web.archive.org/web/20041211231628/http://www.boccia.org.nz/ |archivedate=2004-12-11 |df= }}</ref>
+
+Boccia is played on a court measuring 12.5 × 6&nbsp;m with 2&nbsp;m of empty space around it. The surface of the court is flat and smooth. The throwing area is divided into six rectangular throwing boxes in which the athletes must stay completely within during play. On the court is a V-shaped line over which the jack must cross for the throw to be valid. At the end of the court is the ‘dead ball container’ in which balls are put if they are thrown outside the time limit, out of the area of play or if the athlete violates a rule during his or her throw. A cross marks the position where the jack must be placed if it touches or crosses the boundary line or in the case of a tie-break. The balls themselves are made of leather and are slightly larger than a tennis ball, weighing approximately 275&nbsp;grams and measuring 270&nbsp;mm in circumference. They are available in different grades of softness and hardness.
+
+==Classification==
+[[Image:Paralympics Beijing 2008 506.JPG|250px|thumb|right|[[Norway at the 2008 Summer Paralympics#Boccia|Norway]]'s [[Roger Aandalen]] (blue/white) vs [[Japan at the 2008 Summer Paralympics#Boccia|Japan]]'s [[Takayuki Hirose]] (red) at the [[Boccia at the 2008 Summer Paralympics|2008 Paralympics]].]]
+To be eligible to compete in boccia at national or international level, athletes must have a disability and be in a wheelchair, as a result of cerebral palsy, or another neurological condition that has similar effects, such as [[muscular dystrophy]] or [[traumatic brain injury]]. Players are examined to determine the extent of their disability and then assigned to a sport class, designed to allow them to compete against other athletes with a similar level of physical function.
+
+Boccia players are assigned to one of four sport classes, depending on their functional ability:
+*'''BC1''' &ndash; Players in this class throw the ball with the hand or foot.  They may compete with an assistant who stays outside the competitor's playing box, to stabilize or adjust their playing chair and give the ball to the player when requested.
+*'''BC2''' &ndash; Players in this class throw the ball with the hand. They are not eligible for assistance.
+*'''BC3''' &ndash; Players in this class have very severe locomotor dysfunction in all four extremities. Players in this class have no sustained grasp or release action and although they may have arm movement, they have insufficient range of movement to propel a boccia ball onto the court. They may use an assistive device such as a ramp to deliver the ball. They may compete using an assistant; assistants must keep their back to the court and their eyes averted from play.<ref>[//www.sportingwheelies.org.au/doc.php?ID=218] {{webarchive |url=https://web.archive.org/web/20110216235455/http://www.sportingwheelies.org.au/doc.php?ID=218 |date=February 16, 2011 }}</ref>
+*'''BC4''' &ndash; Players in this class have severe locomotor dysfunction of all four extremities as well as poor trunk control. They can demonstrate sufficient dexterity to throw the ball onto the court. Players are not eligible for assistance.
+
+==Competition==
+Boccia can be played on a recreational and/or competitive basis.  Competitions are organized locally, regionally, nationally, and internationally.  The international competition calendar is based on the Summer Paralympic Games quadrennial, with international regional championships in the first year, world championships in the second year, world cup in the third year, and the Paralympic games in the fourth year.
+
+There are approximately 350 internationally ranked boccia players.<ref>[//www.cpisra.org/files/sports/boccia/Boccia_CPISRA_World_Ranking_List_2010.pdf ] {{webarchive |url=https://web.archive.org/web/20110721083444/http://www.cpisra.org/files/sports/boccia/Boccia_CPISRA_World_Ranking_List_2010.pdf |date=July 21, 2011 }}</ref>
+
+179 athletes from 24 countries and regions attended the 2007 Boccia World Cup during May 9–19, 2007 in Vancouver, BC, Canada<ref>[//www.2007bocciaworldcup.com/],Retrieved 2013-05-25 {{webarchive |url=https://web.archive.org/web/20070208202505/http://www.2007bocciaworldcup.com/ |date=February 8, 2007 }}</ref> for their last opportunity for classification and achieve international ranking for the [[2008 Summer Paralympics]] in Beijing.<ref>[//www.fedmf.com/boccia/docs/CPISRA_Boccia_World_Cup_2007_Intent_to_register.pdf] {{webarchive |url=https://web.archive.org/web/20070928003328/http://www.fedmf.com/boccia/docs/CPISRA_Boccia_World_Cup_2007_Intent_to_register.pdf |date=September 28, 2007 }}</ref>
+
+88 athletes from 19 countries competed at the [[2008 Summer Paralympics]] in Beijing held 7 to 17 September. Brazil and Korea were ranked first equal over all, both countries finishing with two gold medals and one bronze medal each.<ref>{{cite web |url=//en.paralympic.beijing2008.cn/sports/boccia/index.shtml |title=Boccia&nbsp;— The Official Website of the Beijing 2008 Paralympic Games |publisher=En.paralympic.beijing2008.cn |date= |accessdate=2013-05-25 |deadurl=yes |archiveurl=https://web.archive.org/web/20080603144802/http://en.paralympic.beijing2008.cn/sports/boccia/index.shtml |archivedate=2008-06-03 |df= }}</ref>
+
+Athletes from 36 countries attended the 2010 Boccia World Championships, and 28 countries participated in the team competition. The balance of power in recent years has shifted from European dominance to a more worldwide competitiveness with Brazil leading the BC4s and Korea the BC3s. The dominant force of the Mixed Team has only recently changed hands from GB to Korea but the former power houses Spain and Portugal can never be ruled out.
+
+==References==
+{{portal|Paralympics}}
+{{reflist|30em}}
+
+==External links==
+* [//www.bisfed.com Boccia International Sports Federation (BISFed)]
+* [//www.bocciainternational.com/home.html International Boccia Committee]
+* [//www.paralympic.org/sport/boccia Boccia on International Paralympic Committee website]
+
+{{Bowling}}
+{{Team Sports}}
+{{IPC-recognised paralympic sports}}
+
+
+
+
+
+
+ 
+{{Citations broken|date=September 2016}}
+{{Infobox sport
+|name       = Boccia
+|image      = Paralympics Beijing 2008 286.JPG
+|imagesize  = 300px
+|caption    = 
+|union      = [[Boccia International Sports Federation|BISFed]]
+|mgender    = Yes
+|category   = Outdoor or Indoor
+|paralympic    = Present since the [[Boccia at the 1984 Summer Paralympics|1984 Paralympics]]
+}}
+'''Boccia''' ({{IPAc-en|?|b|?|t?|?}} {{respell|BOTCH|?}}) is a precision [[ball sport]], similar to [[bocce]], and related to [[bowls]] and [[pétanque]].  The name "boccia" is derived from the Latin word for "boss"&nbsp;– ''{{lang|la|bottia}}''.<ref>[//www.boccia.org/history.html History of Bocce]</ref>  The sport is contested at local, national and international levels, by athletes with severe physical disabilities.  It was originally designed to be played by people with [[cerebral palsy]] but now includes athletes with other severe disabilities affecting [[motor skills]].  In 1984, it became a [[Paralympic sport]], and in 2008 was being practised in over fifty [[countries]] worldwide.<ref>{{cite web|url=//www.paralympic.org/sport/boccia |title=Boccia &#124; IPC |publisher=Paralympic.org |date= |accessdate=2013-05-25}}</ref>  Boccia is governed by the [[Boccia International Sports Federation]] (BISFed) and is one of only two Paralympic sports (along with [[goalball]]) that have no counterpart in the [[Olympic sports|Olympic program]].
+
+==About the game==
+Boccia can be played by individuals, pairs, or teams of three. All events are mixed gender. The aim of the game is to throw [[leather]] balls&nbsp;— coloured red or blue (which side uses which is determined by a [[coin toss]]) as close as they can to a white target ball, or jack. The jack is thrown first, then the first two regular balls are played (first, the player who threw the jack then the opposing side), after which the side furthest away from the jack goes next in an attempt to either get closer to the jack or knock the opposition's ball out of the way. In this fashion, each end will continue until one side has played all their balls, at which point, the opposing side will play their remaining balls. The balls can be moved with [[hands]], [[Foot|feet]], or, if the competitor's disability is severe, with an assistive device such as a ramp. At the end of each round, or end, the [[referee]] measures the distance of the balls closest to the jack, and awards points accordingly&nbsp;— one point for each ball that is closer to the jack than the opponent's closest ball. The team/player with the highest number of points at the end of play is the winner. If both teams have the same number of points after all ends have been played, one additional end is played to determine a winner.
+
+The number of ends and balls in each end depends on the side makeup. Individual competition consists of four ends and six balls per player per end, whilst paired competition is four ends and six balls per pair per end (three per player). Team competition is six ends, and six balls per team per end (two per player).
+
+In pair and team events, a reserve player is allowed. Between ends a reserve can be substituted for a player during a game, but only one substitution per game is permitted.<ref>{{cite web |url=//www.boccia.org.nz/ |title=Boccia New Zealand&nbsp;— Boccia New Zealand |publisher=Boccia.org.nz |date= |accessdate=2013-05-25 |deadurl=yes |archiveurl=https://web.archive.org/web/20041211231628/http://www.boccia.org.nz/ |archivedate=2004-12-11 |df= }}</ref>
+
+Boccia is played on a court measuring 12.5 × 6&nbsp;m with 2&nbsp;m of empty space around it. The surface of the court is flat and smooth. The throwing area is divided into six rectangular throwing boxes in which the athletes must stay completely within during play. On the court is a V-shaped line over which the jack must cross for the throw to be valid. At the end of the court is the ‘dead ball container’ in which balls are put if they are thrown outside the time limit, out of the area of play or if the athlete violates a rule during his or her throw. A cross marks the position where the jack must be placed if it touches or crosses the boundary line or in the case of a tie-break. The balls themselves are made of leather and are slightly larger than a tennis ball, weighing approximately 275&nbsp;grams and measuring 270&nbsp;mm in circumference. They are available in different grades of softness and hardness.
+
+==Classification==
+[[Image:Paralympics Beijing 2008 506.JPG|250px|thumb|right|[[Norway at the 2008 Summer Paralympics#Boccia|Norway]]'s [[Roger Aandalen]] (blue/white) vs [[Japan at the 2008 Summer Paralympics#Boccia|Japan]]'s [[Takayuki Hirose]] (red) at the [[Boccia at the 2008 Summer Paralympics|2008 Paralympics]].]]
+To be eligible to compete in boccia at national or international level, athletes must have a disability and be in a wheelchair, as a result of cerebral palsy, or another neurological condition that has similar effects, such as [[muscular dystrophy]] or [[traumatic brain injury]]. Players are examined to determine the extent of their disability and then assigned to a sport class, designed to allow them to compete against other athletes with a similar level of physical function.
+
+Boccia players are assigned to one of four sport classes, depending on their functional ability:
+*'''BC1''' &ndash; Players in this class throw the ball with the hand or foot.  They may compete with an assistant who stays outside the competitor's playing box, to stabilize or adjust their playing chair and give the ball to the player when requested.
+*'''BC2''' &ndash; Players in this class throw the ball with the hand. They are not eligible for assistance.
+*'''BC3''' &ndash; Players in this class have very severe locomotor dysfunction in all four extremities. Players in this class have no sustained grasp or release action and although they may have arm movement, they have insufficient range of movement to propel a boccia ball onto the court. They may use an assistive device such as a ramp to deliver the ball. They may compete using an assistant; assistants must keep their back to the court and their eyes averted from play.<ref>[//www.sportingwheelies.org.au/doc.php?ID=218] {{webarchive |url=https://web.archive.org/web/20110216235455/http://www.sportingwheelies.org.au/doc.php?ID=218 |date=February 16, 2011 }}</ref>
+*'''BC4''' &ndash; Players in this class have severe locomotor dysfunction of all four extremities as well as poor trunk control. They can demonstrate sufficient dexterity to throw the ball onto the court. Players are not eligible for assistance.
+
+==Competition==
+Boccia can be played on a recreational and/or competitive basis.  Competitions are organized locally, regionally, nationally, and internationally.  The international competition calendar is based on the Summer Paralympic Games quadrennial, with international regional championships in the first year, world championships in the second year, world cup in the third year, and the Paralympic games in the fourth year.
+
+There are approximately 350 internationally ranked boccia players.<ref>[//www.cpisra.org/files/sports/boccia/Boccia_CPISRA_World_Ranking_List_2010.pdf ] {{webarchive |url=https://web.archive.org/web/20110721083444/http://www.cpisra.org/files/sports/boccia/Boccia_CPISRA_World_Ranking_List_2010.pdf |date=July 21, 2011 }}</ref>
+
+179 athletes from 24 countries and regions attended the 2007 Boccia World Cup during May 9–19, 2007 in Vancouver, BC, Canada<ref>[//www.2007bocciaworldcup.com/],Retrieved 2013-05-25 {{webarchive |url=https://web.archive.org/web/20070208202505/http://www.2007bocciaworldcup.com/ |date=February 8, 2007 }}</ref> for their last opportunity for classification and achieve international ranking for the [[2008 Summer Paralympics]] in Beijing.<ref>[//www.fedmf.com/boccia/docs/CPISRA_Boccia_World_Cup_2007_Intent_to_register.pdf] {{webarchive |url=https://web.archive.org/web/20070928003328/http://www.fedmf.com/boccia/docs/CPISRA_Boccia_World_Cup_2007_Intent_to_register.pdf |date=September 28, 2007 }}</ref>
+
+88 athletes from 19 countries competed at the [[2008 Summer Paralympics]] in Beijing held 7 to 17 September. Brazil and Korea were ranked first equal over all, both countries finishing with two gold medals and one bronze medal each.<ref>{{cite web |url=//en.paralympic.beijing2008.cn/sports/boccia/index.shtml |title=Boccia&nbsp;— The Official Website of the Beijing 2008 Paralympic Games |publisher=En.paralympic.beijing2008.cn |date= |accessdate=2013-05-25 |deadurl=yes |archiveurl=https://web.archive.org/web/20080603144802/http://en.paralympic.beijing2008.cn/sports/boccia/index.shtml |archivedate=2008-06-03 |df= }}</ref>
+
+Athletes from 36 countries attended the 2010 Boccia World Championships, and 28 countries participated in the team competition. The balance of power in recent years has shifted from European dominance to a more worldwide competitiveness with Brazil leading the BC4s and Korea the BC3s. The dominant force of the Mixed Team has only recently changed hands from GB to Korea but the former power houses Spain and Portugal can never be ruled out.
+
+==References==
+{{portal|Paralympics}}
+{{reflist|30em}}
+
+==External links==
+* [//www.bisfed.com Boccia International Sports Federation (BISFed)]
+* [//www.bocciainternational.com/home.html International Boccia Committee]
+* [//www.paralympic.org/sport/boccia Boccia on International Paralympic Committee website]
+
+{{Bowling}}
+{{Team Sports}}
+{{IPC-recognised paralympic sports}}
+
+
+
+
+
+
+{{Citations broken|date=September 2016}}
+{{Infobox sport
+|name       = Boccia
+|image      = Paralympics Beijing 2008 286.JPG
+|imagesize  = 300px
+|caption    = 
+|union      = [[Boccia International Sports Federation|BISFed]]
+|mgender    = Yes
+|category   = Outdoor or Indoor
+|paralympic    = Present since the [[Boccia at the 1984 Summer Paralympics|1984 Paralympics]]
+}}
+'''Boccia''' ({{IPAc-en|?|b|?|t?|?}} {{respell|BOTCH|?}}) is a precision [[ball sport]], similar to [[bocce]], and related to [[bowls]] and [[pétanque]].  The name "boccia" is derived from the Latin word for "boss"&nbsp;– ''{{lang|la|bottia}}''.<ref>[//www.boccia.org/history.html History of Bocce]</ref>  The sport is contested at local, national and international levels, by athletes with severe physical disabilities.  It was originally designed to be played by people with [[cerebral palsy]] but now includes athletes with other severe disabilities affecting [[motor skills]].  In 1984, it became a [[Paralympic sport]], and in 2008 was being practised in over fifty [[countries]] worldwide.<ref>{{cite web|url=//www.paralympic.org/sport/boccia |title=Boccia &#124; IPC |publisher=Paralympic.org |date= |accessdate=2013-05-25}}</ref>  Boccia is governed by the [[Boccia International Sports Federation]] (BISFed) and is one of only two Paralympic sports (along with [[goalball]]) that have no counterpart in the [[Olympic sports|Olympic program]].
+
+==About the game==
+Boccia can be played by individuals, pairs, or teams of three. All events are mixed gender. The aim of the game is to throw [[leather]] balls&nbsp;— coloured red or blue (which side uses which is determined by a [[coin toss]]) as close as they can to a white target ball, or jack. The jack is thrown first, then the first two regular balls are played (first, the player who threw the jack then the opposing side), after which the side furthest away from the jack goes next in an attempt to either get closer to the jack or knock the opposition's ball out of the way. In this fashion, each end will continue until one side has played all their balls, at which point, the opposing side will play their remaining balls. The balls can be moved with [[hands]], [[Foot|feet]], or, if the competitor's disability is severe, with an assistive device such as a ramp. At the end of each round, or end, the [[referee]] measures the distance of the balls closest to the jack, and awards points accordingly&nbsp;— one point for each ball that is closer to the jack than the opponent's closest ball. The team/player with the highest number of points at the end of play is the winner. If both teams have the same number of points after all ends have been played, one additional end is played to determine a winner.
+
+The number of ends and balls in each end depends on the side makeup. Individual competition consists of four ends and six balls per player per end, whilst paired competition is four ends and six balls per pair per end (three per player). Team competition is six ends, and six balls per team per end (two per player).
+
+In pair and team events, a reserve player is allowed. Between ends a reserve can be substituted for a player during a game, but only one substitution per game is permitted.<ref>{{cite web |url=//www.boccia.org.nz/ |title=Boccia New Zealand&nbsp;— Boccia New Zealand |publisher=Boccia.org.nz |date= |accessdate=2013-05-25 |deadurl=yes |archiveurl=https://web.archive.org/web/20041211231628/http://www.boccia.org.nz/ |archivedate=2004-12-11 |df= }}</ref>
+
+Boccia is played on a court measuring 12.5 × 6&nbsp;m with 2&nbsp;m of empty space around it. The surface of the court is flat and smooth. The throwing area is divided into six rectangular throwing boxes in which the athletes must stay completely within during play. On the court is a V-shaped line over which the jack must cross for the throw to be valid. At the end of the court is the ‘dead ball container’ in which balls are put if they are thrown outside the time limit, out of the area of play or if the athlete violates a rule during his or her throw. A cross marks the position where the jack must be placed if it touches or crosses the boundary line or in the case of a tie-break. The balls themselves are made of leather and are slightly larger than a tennis ball, weighing approximately 275&nbsp;grams and measuring 270&nbsp;mm in circumference. They are available in different grades of softness and hardness.
+
+==Classification==
+[[Image:Paralympics Beijing 2008 506.JPG|250px|thumb|right|[[Norway at the 2008 Summer Paralympics#Boccia|Norway]]'s [[Roger Aandalen]] (blue/white) vs [[Japan at the 2008 Summer Paralympics#Boccia|Japan]]'s [[Takayuki Hirose]] (red) at the [[Boccia at the 2008 Summer Paralympics|2008 Paralympics]].]]
+To be eligible to compete in boccia at national or international level, athletes must have a disability and be in a wheelchair, as a result of cerebral palsy, or another neurological condition that has similar effects, such as [[muscular dystrophy]] or [[traumatic brain injury]]. Players are examined to determine the extent of their disability and then assigned to a sport class, designed to allow them to compete against other athletes with a similar level of physical function.
+
+Boccia players are assigned to one of four sport classes, depending on their functional ability:
+*'''BC1''' &ndash; Players in this class throw the ball with the hand or foot.  They may compete with an assistant who stays outside the competitor's playing box, to stabilize or adjust their playing chair and give the ball to the player when requested.
+*'''BC2''' &ndash; Players in this class throw the ball with the hand. They are not eligible for assistance.
+*'''BC3''' &ndash; Players in this class have very severe locomotor dysfunction in all four extremities. Players in this class have no sustained grasp or release action and although they may have arm movement, they have insufficient range of movement to propel a boccia ball onto the court. They may use an assistive device such as a ramp to deliver the ball. They may compete using an assistant; assistants must keep their back to the court and their eyes averted from play.<ref>[//www.sportingwheelies.org.au/doc.php?ID=218] {{webarchive |url=https://web.archive.org/web/20110216235455/http://www.sportingwheelies.org.au/doc.php?ID=218 |date=February 16, 2011 }}</ref>
+*'''BC4''' &ndash; Players in this class have severe locomotor dysfunction of all four extremities as well as poor trunk control. They can demonstrate sufficient dexterity to throw the ball onto the court. Players are not eligible for assistance.
+
+==Competition==
+Boccia can be played on a recreational and/or competitive basis.  Competitions are organized locally, regionally, nationally, and internationally.  The international competition calendar is based on the Summer Paralympic Games quadrennial, with international regional championships in the first year, world championships in the second year, world cup in the third year, and the Paralympic games in the fourth year.
+
+There are approximately 350 internationally ranked boccia players.<ref>[//www.cpisra.org/files/sports/boccia/Boccia_CPISRA_World_Ranking_List_2010.pdf ] {{webarchive |url=https://web.archive.org/web/20110721083444/http://www.cpisra.org/files/sports/boccia/Boccia_CPISRA_World_Ranking_List_2010.pdf |date=July 21, 2011 }}</ref>
+
+179 athletes from 24 countries and regions attended the 2007 Boccia World Cup during May 9–19, 2007 in Vancouver, BC, Canada<ref>[//www.2007bocciaworldcup.com/],Retrieved 2013-05-25 {{webarchive |url=https://web.archive.org/web/20070208202505/http://www.2007bocciaworldcup.com/ |date=February 8, 2007 }}</ref> for their last opportunity for classification and achieve international ranking for the [[2008 Summer Paralympics]] in Beijing.<ref>[//www.fedmf.com/boccia/docs/CPISRA_Boccia_World_Cup_2007_Intent_to_register.pdf] {{webarchive |url=https://web.archive.org/web/20070928003328/http://www.fedmf.com/boccia/docs/CPISRA_Boccia_World_Cup_2007_Intent_to_register.pdf |date=September 28, 2007 }}</ref>
+
+88 athletes from 19 countries competed at the [[2008 Summer Paralympics]] in Beijing held 7 to 17 September. Brazil and Korea were ranked first equal over all, both countries finishing with two gold medals and one bronze medal each.<ref>{{cite web |url=//en.paralympic.beijing2008.cn/sports/boccia/index.shtml |title=Boccia&nbsp;— The Official Website of the Beijing 2008 Paralympic Games |publisher=En.paralympic.beijing2008.cn |date= |accessdate=2013-05-25 |deadurl=yes |archiveurl=https://web.archive.org/web/20080603144802/http://en.paralympic.beijing2008.cn/sports/boccia/index.shtml |archivedate=2008-06-03 |df= }}</ref>
+
+Athletes from 36 countries attended the 2010 Boccia World Championships, and 28 countries participated in the team competition. The balance of power in recent years has shifted from European dominance to a more worldwide competitiveness with Brazil leading the BC4s and Korea the BC3s. The dominant force of the Mixed Team has only recently changed hands from GB to Korea but the former power houses Spain and Portugal can never be ruled out.
+
+==References==
+{{portal|Paralympics}}
+{{reflist|30em}}
+
+==External links==
+* [//www.bisfed.com Boccia International Sports Federation (BISFed)]
+* [//www.bocciainternational.com/home.html International Boccia Committee]
+* [//www.paralympic.org/sport/boccia Boccia on International Paralympic Committee website]
+
+{{Bowling}}
+{{Team Sports}}
+{{IPC-recognised paralympic sports}}
+
+
+
+
+
+

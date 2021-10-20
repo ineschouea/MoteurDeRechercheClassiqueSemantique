@@ -1,0 +1,39 @@
+{{Speciesbox
+| image = Dascyllus reticulatus (Reticulated dascyllus) in Acropora loripa (Hard coral).jpg
+| image_caption = [[Dascyllus reticulatus|Two stripe damselfish]] swimming among the branches of ''Acropora loripes''
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name=iucn>{{Cite journal | author = Richards, Z.T. | author2 = Delbeek, J.T. | author3 = Lovell, E.R. | author4 = Bass, D. | author5 = Aeby, G. | author6 = Reboton, C. | last-author-amp = yes | title = ''Acropora loripes'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2014 | page = e.T132976A54169590 | publisher = [[IUCN]] | date = 2014 | url = http://www.iucnredlist.org/details/132976/0 | doi = 10.2305/IUCN.UK.2014-1.RLTS.T132976A54169590.en | access-date = 5 January 2018}}</ref>
+| taxon = Acropora loripes
+| authority = (Brook, 1892)<ref name=WoRMS>{{cite WoRMS|author =van der Land, Jacob|year=2013|title=''Acropora loripes'' (Brook, 1892) |id=207074 |accessdate=2013-05-28}}</ref>
+| synonyms = * ''Acropora murrayensis'' <small>(Vaughan, 1918)</small> 
+* ''Acropora rosaria'' <small>(Dana, 1846)</small> 
+* ''Madrepora loripes'' <small>Brook, 1892</small> 
+* ''Madrepora murrayensis'' <small>Vaughan, 1918</small> 
+* ''Madrepora rosaria'' <small>Dana, 1846</small>
+}}
+
+'''''Acropora loripes''''' is a [[species]] of branching [[Colony (biology)|colonial]] [[Scleractinia|stony]] [[coral]]. It is common on reefs, upper reef slopes and reef flats in the tropical Indo-Pacific. Its type locality is the [[Great Barrier Reef]].<ref name=WoRMS/>
+
+==Description==
+''Acropora loripes'' is a branching colonial coral with a variety of growth forms, forming heads or plate-like layers and sometimes having stalks and resembling [[Callistemon|bottlebrushes]].<ref name=WoRMS/> The branchlets are {{convert|5|to|12|mm|1|abbr=on}} wide and up to {{convert|45|mm}} in length. They sometimes have naked tips but below these, the axial [[corallite]]s are about {{convert|3|mm}} in diameter and the large radial corallites are tubular and crowded together so that they often touch each other.<ref name=Wallace>{{cite book |title=Staghorn Corals of the World: A Revision of the Genus Acropora |last=Wallace |first=Carden |year=1999 |publisher=Csiro Publishing |isbn=0643102817 |url=https://books.google.com/books?hl=en&lr=&id=MSUKr0vP3lQC&oi=fnd&pg=PP23&dq=Acropora+secale&ots=afu5z3Vjny&sig=aHgm_ImhkbvxDwnDSvXMDE8ZKCo#v=onepage&q=Acropora%20loripes&f=false }}</ref>
+
+==Distribution and habitat==
+''Acropora loripes'' is native to the tropical Indo-Pacific. Its range extends from the [[Red Sea]] to Thailand, Malaysia, Indonesia, Papua New Guinea and Australia.<ref name=Wallace/> It occurs subtidally at depths between {{convert|5|and|25|m}} in various habitats including upper reef slopes and reef flats.<ref name=iucn/>
+
+==Biology==
+The skeleton of ''Acropora loripes'' is secreted by the [[polyp]]s and is covered by a thin layer of tissue. When feeding, the polyps protrude from the corallites. Each has twelve tentacles, one of which is longer than the others. The interior of the polyps opens into a body cavity which interconnects with other polyps through a system of channels called the [[coenenchyme]]. This is a [[zooxanthellate]] species of coral<ref name=WoRMS/> and has [[Symbiosis|symbiotic]] [[dinoflagellate]]s living within its tissues. These are [[Photosynthesis|photosynthetic]] and provide much of the energy used by the coral. In combination with pigments in the tissue, they are responsible for the yellowish-brown colour of the colony.<ref name=Wallace/>
+
+''Acropora loripes'' is a [[hermaphrodite]] and the different colonies in an area synchronise their breeding activity. In the Great Barrier Reef, mature individuals liberate [[Egg (biology)|eggs]] and sperm into the sea five or six days after the [[full moon]] in November and December.<ref name=Wallace/> Fertilisation is external and the larvae form part of the [[plankton]] until settling on the seabed. Here they undergo [[metamorphosis]] and new colonies are founded.<ref name=Wallace/>
+
+==Conservation==
+''Acropora loripes'' is threatened more by damage to the reefs where it lives rather than specific threats to this coral. Like other members of its genus it is susceptible to bleaching and several coral diseases, and is particularly favoured as part of its diet by the [[crown-of-thorns starfish]] which feeds on the external tissue and polyps. The [[IUCN Red List of Threatened Species]] lists it as being "[[Near threatened]]".<ref name=iucn/>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q3940176}}
+
+
+
+

@@ -1,0 +1,308 @@
+{{unreferenced|date=July 2010}}
+{{About|the amusement park game|the video game|Fascination (video game)}}
+[[Image:IB-fascination.jpg|right|thumb|A Fascination parlor still in operation at [[Indiana Beach]]]]
+'''Fascination''' is a [[game]] commonly found in [[North America]]n [[amusement park]]s, [[boardwalk]]s and [[video arcade|arcade]]s. The game would be considered in the same family as [[skee ball]], in that prizes are often won for playing the game. The game dates to the 1920s as evidenced in pictures of Chutes at the Beach in San Francisco, a park that operated from 1903 - 1928 (when it became Playland at the Beach).
+
+==Game design and play==
+The game consists of a wooden table, roughly 1.3 meters long, 50 centimeters wide and 1 meter high. The player sits at one narrow end of the table. At the other end of the table is a series of 25 holes, roughly 5&nbsp;cm in diameter, arranged in a five-by-five square [[matrix (mathematics)|matrix]]. The player rolls a rubber ball, similar to a [[racquetball]] or [[American handball|handball]], toward the holes; the ball is only slightly smaller than the holes. As the ball falls through one of the holes, a light on a backboard behind the holes lights up, in a pattern corresponding to the hole the ball fell through. The ball then rolls back to the player on a slight incline slanted back from the holes. The process is repeated until a player lights five lights in a row, either across the matrix, in a vertical column, or on a diagonal, much like [[Bingo (US)|bingo]]&mdash;indeed, like bingo, the hole in the center of the matrix is a "free space." A glass plate over the front part of the table keeps players from reaching too far over the table to improve their aim.
+
+Fascination tables are typically installed in groups from 20 to 50,but can be in as small a system of 2, up to any amount without limit, and are interlocked through an [[electromechanical]], and/or electronic system. Players play against each other, with the first player to complete a row of five being the winner, with the interlocking system determining which was first and locking out all others. If two or more players tie, each is declared a winner. Games usually cost 10 to 50 [[Cent (currency)|cents]] each, normally placed on the glass plate where a game operator can collect it shortly after each game begins. Games usually last between 60 and 90 [[second]]s, with a new game starting soon after the end of the previous one.
+
+Winners receive a prize [[coupon]] or [[Token coin|token]], which can be redeemed for a small prize, or collected to redeem for bigger prizes later, or in some locations, coupons may be redeemed as cash to play more games. Bonus coupons or tokens can be won by winning with all spots lighted on a certain row marked by colored lights; usually, the top row on the board (the back row of holes) is red and wins three to five times the normal rate, and the fourth row from the top (the second row of holes from the front) is gold and wins double the normal rate. Some operators have additional bonuses for certain lines. 
+
+An announcer, sitting on an elevated platform, presides over the activities. He or she starts each game by pressing a button which rings a bell and activates all machines. He or she also announces the winner when the bell rings again, which the machine does automatically when a win is detected. One or more assistants collect the fees and pay winners. Other employees run a prize booth, where winners redeem their coupons or tokens. The prizes range from cheap trinkets for one or two wins to [[home appliance|appliance]]s, [[radio]]s, [[television]]s, [[toy]]s and more expensive items for large numbers of coupons or tokens, often numbering into the thousands for the best prizes.
+
+==History==
+Fascination was invented in Salt Lake City Utah by John Taylor Gibbs who moved to Beverly Hills California, where he formed the business Taylor Engineering Corp.{{citationneeded|date=March 2019}}
+
+The game was a popular attraction at amusement parks before the modern [[theme park]] drained visitors away to the newer, more modern facilities. When the old-line amusement parks died off, the Fascination parlors went with them. The game was also popular in oceanside resort towns, particularly those with boardwalks and especially on the Northeast and Mid-Atlantic shorelines of the [[Atlantic Ocean]]. [[Coney Island]], [[Atlantic City, New Jersey|Atlantic City]] and [[Wildwood, New Jersey]] were popular places with multiple Fascination parlors; Wildwood is home to three remaining parlors. On the west coast there is a Fascination parlor on Seaside Oregon. The oldest remaining Fascination game is in Nantasket Beach, MA, and is the original 1918 game from Coney Island.
+
+The game has declined not only because of the demise of old-style amusement parks, but also the age of the machines themselves. The heart of the system relied on [[relay]]s used in [[telephone]] system, which have long been obsolete; moreover, manufacturers of the tables have long ago shut down, so spare parts have to be salvaged from old tables. Operation is also labor-intensive, with at least three employees (often more) at a time required to run a game. The game could easily be made more reliable and less labor-intensive with updated [[computer]]-based technology (as was done in the mid-1990s at the Indiana Beach parlor) and automatic coin collection and coupon dispensing equipment such as that on a skee ball game, but the closure of many Fascination parlors has made such an effort unlikely.
+
+A modern arcade game called "Lite-a-Line" can be found today, with roots in Fascination in that it features the same basic game play and pays off in redemption tickets. However, Lite-a-Line is a stand-alone game, played against "the house" as with skee ball and the like. It is commonly found in places such as [[Chuck E. Cheese]]. (It should not be confused with a 1930s [[pinball]] machine of the same name. Moreover, some Internet sites indicate that there may have been Fascination parlors that instead operated under the name "Lite-a-Line," but the evidence is inconclusive.)
+
+"I-Got-It" is a variant of fascination invented in 1961 in [[Western New York]].<ref>https://www.wkbw.com/news/popular-carnival-game-began-in-western-new-york</ref> Its mechanism is slightly different in that balls are tossed over an open pit instead of rolled, and the ball does not return to the player, staying in place throughout the game unless it is knocked out of place by another thrown ball. I-Got-It is seen most frequently in traveling carnivals.
+
+==Locations==
+[[Image:Fascination Nantasket Beach.jpg|right|thumb|A Fascination parlor still in operation at [[Nantasket Beach]]]]
+
+{{Expand list|date=August 2008}}
+
+===Known Fascination parlors still operating===
+
+*Fascination Parlor, [[Geneva on the Lake, Ohio]]
+*[[Indiana Beach]], [[Monticello, Indiana]]
+*[[Knoebels]] Amusement Resort, [[Elysburg, Pennsylvania]]
+*Sylvan Beach Amusement Park, [[Sylvan Beach, New York]]
+*[[Darien Lake|Darien Lake Theme Park Resort]], [[Darien, New York]]
+*[[Nantasket Beach]], [[Hull, Massachusetts]], the only play for cash Fascination Parlor still operating. These machines originally opened in Coney Island in 1918 and were moved to Nantasket Beach in 1944. They are the oldest Fascination machines still in operation.
+*Funland, Seaside, Oregon
+*Looff's Lite-A-Line, Long Beach, California
+*Hampton Beach Casino, Hampton Beach, New Hampshire, Unlike traditional Fascination Parlors, the machines at Hampton Beach operate as a solo play game rather than a competition between other players. For 75 cents you are given a chance to roll the ball in your machine 10 times. If, in these 10 rolls, you succeed in creating a Bingo, either horizontal, vertical, or diagonal, a bell goes off and an attendant awards you with a prize token. Extra tokens can be earned by winning certain special lines.
+
+===Past locations===
+*[[Agawam, MA]] (Riverside Park, now [[Six Flags New England]])
+* Monroe, Ohio (Americana Amusement Park)
+*[[Asbury Park, New Jersey]] (714 Boardwalk, Casino Building)(known as "Ruben's Fascination")
+*[[Atlantic City, New Jersey]] (The Boardwalk)
+*[[Aurora, Ohio]] ([[Geauga Lake (amusement park)|Geauga Lake]]) (Rides and games closed 2007)
+*[[Baltimore, Md]] (Gwynn Oak amusement park)
+*[[Bowling Green, Kentucky]] ([[Beech Bend Park]])
+*[[Brooklyn, New York]] ([[Coney Island]]) (Faber's Fascination)
+*[[Chicago, Illinois]] ([[Riverview Park (Chicago)|Riverview Park]])
+*[[Conneaut Lake, Pennsylvania]] ([[Conneaut Lake Park]]) (Tables burned in Beach Club fire 1 Aug 2013)
+*[[El Cerrito, California]] ([[Playland-Not-At-The-Beach]] Museum of Fun closed 2018)
+*[[Elitchs Gardens Denver Colorado]]
+*[[Farmingdale, New York]] (Adventureland.  Removed approx. 1994)
+*[[Fort Lee, New Jersey]] ([[Palisades Amusement Park]])
+*[[Hershey, Pennsylvania]] ([[Hersheypark]]) (2014)
+*[[Keansburg, New Jersey]] (Keansburg Amusement Park)
+*[[Lincoln Park (Dartmouth, Massachusetts)]], game building burned down
+*Long Beach, LI, New York
+*[[Lunenburg, Massachusetts]], ([[Whalom Park]])
+*[[Mason, Ohio]], ([[Kings Island]])
+*[[Monroe, Ohio]], ([[Americana/Lesourdesville Lake Amusement Park]], closed 2002)
+*[[Montreal, Quebec]] ([[Belmont Park, Montreal|Belmont Park]]) (closed 1983)
+*[[New York City]], ([[Times Square]], closed 1981)
+*Palisades Park, Palisades Park, NJ
+*Reno, NV (Circus Circus)
+*[[Revere, MA]] ([[Revere Beach]]), Closed in 1984. Never recovered from "Blizzard of 78"
+*[[Rockaway Beach, New York (Playland)]] (Pinky's Fascination)
+*[[Rockaway Beach (Edgemere), New York]] (Faber's Fascination)
+*[[Rockaway Beach (Edgemere), New York]] (Lenny's Fascination)
+*Rochester, NY (Olympic Park)
+*Roseland Park, Canandaigua, NY
+*[[Salem, NH]] ([[Canobie Lake Park]], removed prior to the 2001 season, replaced with "Jackpot Casino")
+*[[Salem, Virginia]] (Lakeside)
+*[[Sandusky, Ohio]] ([[Cedar Point]]; ''removed 2001'')
+*[[San Francisco, California]] (1027 Market Street) ''(Note: This parlor was reported as "Closed for Remodeling" in 2005. It was the last known Fascination parlor not located in a park or resort area, and paid winners money instead of prize credits.)''
+*[[Santa Claus, Indiana]] ([[Holiday World]])
+*[[Santa Cruz, California|Santa Cruz]], [[California]] ([[Santa Cruz Beach Boardwalk]], converted into restrooms in 2007)
+*[[Seaside Heights, New Jersey]] (Seaside Heights Boardwalk)
+*[[Seabreeze Amusement Park]] (formerly Dreamland Park), Rochester, NY
+*[[South Whitehall Township, Pennsylvania]] ([[Dorney Park & Wildwater Kingdom|Dorney Park]])
+*[[Surfers Paradise, QLD, AUSTRALIA]] (Grund's, Paradise Centre)
+*[[Warwick, Rhode Island]] (Rocky Point Park)
+*[[West Mifflin, Pennsylvania]] ([[Kennywood]])
+*[[Willow Grove, Pennsylvania]] ([[Willow Grove Park]])
+*[[Brooklyn, New York]] ([[Coney Island Amusement Park]])
+*[[Portland, Oregon]] ([[Jantzen Beach Amusement Park]]
+*[[Farmington, Utah]] ([[Lagoon Amusement Park]])
+*[[Las Vegas, Nevada]] ([[Circus Circus Las Vegas|Circus Circus]])
+*Flipper's Fascination, [[Wildwood, New Jersey]]
+*Retro Arcade at the Boardwalk Mall, 3800 Boardwalk. The actual name is "Lucky's Fascination" and was a predecessor of Lucky's Fascination which operated in Seaside Heights from 1974 to 1995. This was the last Fascination game operating in the State of New Jersey.
+*Olympic Fascination and Casino Arcade, North Wildwood, NJ
+*[[Wichita, Kansas]] Joyland Amusement Park (closed)
+
+==References==
+<references/>
+
+{{DEFAULTSORT:Fascination (Game)}}
+
+
+
+{{unreferenced|date=July 2010}}
+{{About|the amusement park game|the video game|Fascination (video game)}}
+[[Image:IB-fascination.jpg|right|thumb|A Fascination parlor still in operation at [[Indiana Beach]]]]
+'''Fascination''' is a [[game]] commonly found in [[North America]]n [[amusement park]]s, [[boardwalk]]s and [[video arcade|arcade]]s. The game would be considered in the same family as [[skee ball]], in that prizes are often won for playing the game. The game dates to the 1920s as evidenced in pictures of Chutes at the Beach in San Francisco, a park that operated from 1903 - 1928 (when it became Playland at the Beach).
+
+==Game design and play==
+The game consists of a wooden table, roughly 1.3 meters long, 50 centimeters wide and 1 meter high. The player sits at one narrow end of the table. At the other end of the table is a series of 25 holes, roughly 5&nbsp;cm in diameter, arranged in a five-by-five square [[matrix (mathematics)|matrix]]. The player rolls a rubber ball, similar to a [[racquetball]] or [[American handball|handball]], toward the holes; the ball is only slightly smaller than the holes. As the ball falls through one of the holes, a light on a backboard behind the holes lights up, in a pattern corresponding to the hole the ball fell through. The ball then rolls back to the player on a slight incline slanted back from the holes. The process is repeated until a player lights five lights in a row, either across the matrix, in a vertical column, or on a diagonal, much like [[Bingo (US)|bingo]]&mdash;indeed, like bingo, the hole in the center of the matrix is a "free space." A glass plate over the front part of the table keeps players from reaching too far over the table to improve their aim.
+
+Fascination tables are typically installed in groups from 20 to 50,but can be in as small a system of 2, up to any amount without limit, and are interlocked through an [[electromechanical]], and/or electronic system. Players play against each other, with the first player to complete a row of five being the winner, with the interlocking system determining which was first and locking out all others. If two or more players tie, each is declared a winner. Games usually cost 10 to 50 [[Cent (currency)|cents]] each, normally placed on the glass plate where a game operator can collect it shortly after each game begins. Games usually last between 60 and 90 [[second]]s, with a new game starting soon after the end of the previous one.
+
+Winners receive a prize [[coupon]] or [[Token coin|token]], which can be redeemed for a small prize, or collected to redeem for bigger prizes later, or in some locations, coupons may be redeemed as cash to play more games. Bonus coupons or tokens can be won by winning with all spots lighted on a certain row marked by colored lights; usually, the top row on the board (the back row of holes) is red and wins three to five times the normal rate, and the fourth row from the top (the second row of holes from the front) is gold and wins double the normal rate. Some operators have additional bonuses for certain lines. 
+
+An announcer, sitting on an elevated platform, presides over the activities. He or she starts each game by pressing a button which rings a bell and activates all machines. He or she also announces the winner when the bell rings again, which the machine does automatically when a win is detected. One or more assistants collect the fees and pay winners. Other employees run a prize booth, where winners redeem their coupons or tokens. The prizes range from cheap trinkets for one or two wins to [[home appliance|appliance]]s, [[radio]]s, [[television]]s, [[toy]]s and more expensive items for large numbers of coupons or tokens, often numbering into the thousands for the best prizes.
+
+==History==
+Fascination was invented in Salt Lake City Utah by John Taylor Gibbs who moved to Beverly Hills California, where he formed the business Taylor Engineering Corp.{{citationneeded|date=March 2019}}
+
+The game was a popular attraction at amusement parks before the modern [[theme park]] drained visitors away to the newer, more modern facilities. When the old-line amusement parks died off, the Fascination parlors went with them. The game was also popular in oceanside resort towns, particularly those with boardwalks and especially on the Northeast and Mid-Atlantic shorelines of the [[Atlantic Ocean]]. [[Coney Island]], [[Atlantic City, New Jersey|Atlantic City]] and [[Wildwood, New Jersey]] were popular places with multiple Fascination parlors; Wildwood is home to three remaining parlors. On the west coast there is a Fascination parlor on Seaside Oregon. The oldest remaining Fascination game is in Nantasket Beach, MA, and is the original 1918 game from Coney Island.
+
+The game has declined not only because of the demise of old-style amusement parks, but also the age of the machines themselves. The heart of the system relied on [[relay]]s used in [[telephone]] system, which have long been obsolete; moreover, manufacturers of the tables have long ago shut down, so spare parts have to be salvaged from old tables. Operation is also labor-intensive, with at least three employees (often more) at a time required to run a game. The game could easily be made more reliable and less labor-intensive with updated [[computer]]-based technology (as was done in the mid-1990s at the Indiana Beach parlor) and automatic coin collection and coupon dispensing equipment such as that on a skee ball game, but the closure of many Fascination parlors has made such an effort unlikely.
+
+A modern arcade game called "Lite-a-Line" can be found today, with roots in Fascination in that it features the same basic game play and pays off in redemption tickets. However, Lite-a-Line is a stand-alone game, played against "the house" as with skee ball and the like. It is commonly found in places such as [[Chuck E. Cheese]]. (It should not be confused with a 1930s [[pinball]] machine of the same name. Moreover, some Internet sites indicate that there may have been Fascination parlors that instead operated under the name "Lite-a-Line," but the evidence is inconclusive.)
+
+"I-Got-It" is a variant of fascination invented in 1961 in [[Western New York]].<ref>https://www.wkbw.com/news/popular-carnival-game-began-in-western-new-york</ref> Its mechanism is slightly different in that balls are tossed over an open pit instead of rolled, and the ball does not return to the player, staying in place throughout the game unless it is knocked out of place by another thrown ball. I-Got-It is seen most frequently in traveling carnivals.
+
+==Locations==
+[[Image:Fascination Nantasket Beach.jpg|right|thumb|A Fascination parlor still in operation at [[Nantasket Beach]]]]
+
+{{Expand list|date=August 2008}}
+
+===Known Fascination parlors still operating===
+
+*Fascination Parlor, [[Geneva on the Lake, Ohio]]
+*[[Indiana Beach]], [[Monticello, Indiana]]
+*[[Knoebels]] Amusement Resort, [[Elysburg, Pennsylvania]]
+*Sylvan Beach Amusement Park, [[Sylvan Beach, New York]]
+*[[Darien Lake|Darien Lake Theme Park Resort]], [[Darien, New York]]
+*[[Nantasket Beach]], [[Hull, Massachusetts]], the only play for cash Fascination Parlor still operating. These machines originally opened in Coney Island in 1918 and were moved to Nantasket Beach in 1944. They are the oldest Fascination machines still in operation.
+*Funland, Seaside, Oregon
+*Looff's Lite-A-Line, Long Beach, California
+*Hampton Beach Casino, Hampton Beach, New Hampshire, Unlike traditional Fascination Parlors, the machines at Hampton Beach operate as a solo play game rather than a competition between other players. For 75 cents you are given a chance to roll the ball in your machine 10 times. If, in these 10 rolls, you succeed in creating a Bingo, either horizontal, vertical, or diagonal, a bell goes off and an attendant awards you with a prize token. Extra tokens can be earned by winning certain special lines.
+
+===Past locations===
+*[[Agawam, MA]] (Riverside Park, now [[Six Flags New England]])
+* Monroe, Ohio (Americana Amusement Park)
+*[[Asbury Park, New Jersey]] (714 Boardwalk, Casino Building)(known as "Ruben's Fascination")
+*[[Atlantic City, New Jersey]] (The Boardwalk)
+*[[Aurora, Ohio]] ([[Geauga Lake (amusement park)|Geauga Lake]]) (Rides and games closed 2007)
+*[[Baltimore, Md]] (Gwynn Oak amusement park)
+*[[Bowling Green, Kentucky]] ([[Beech Bend Park]])
+*[[Brooklyn, New York]] ([[Coney Island]]) (Faber's Fascination)
+*[[Chicago, Illinois]] ([[Riverview Park (Chicago)|Riverview Park]])
+*[[Conneaut Lake, Pennsylvania]] ([[Conneaut Lake Park]]) (Tables burned in Beach Club fire 1 Aug 2013)
+*[[El Cerrito, California]] ([[Playland-Not-At-The-Beach]] Museum of Fun closed 2018)
+*[[Elitchs Gardens Denver Colorado]]
+*[[Farmingdale, New York]] (Adventureland.  Removed approx. 1994)
+*[[Fort Lee, New Jersey]] ([[Palisades Amusement Park]])
+*[[Hershey, Pennsylvania]] ([[Hersheypark]]) (2014)
+*[[Keansburg, New Jersey]] (Keansburg Amusement Park)
+*[[Lincoln Park (Dartmouth, Massachusetts)]], game building burned down
+*Long Beach, LI, New York
+*[[Lunenburg, Massachusetts]], ([[Whalom Park]])
+*[[Mason, Ohio]], ([[Kings Island]])
+*[[Monroe, Ohio]], ([[Americana/Lesourdesville Lake Amusement Park]], closed 2002)
+*[[Montreal, Quebec]] ([[Belmont Park, Montreal|Belmont Park]]) (closed 1983)
+*[[New York City]], ([[Times Square]], closed 1981)
+*Palisades Park, Palisades Park, NJ
+*Reno, NV (Circus Circus)
+*[[Revere, MA]] ([[Revere Beach]]), Closed in 1984. Never recovered from "Blizzard of 78"
+*[[Rockaway Beach, New York (Playland)]] (Pinky's Fascination)
+*[[Rockaway Beach (Edgemere), New York]] (Faber's Fascination)
+*[[Rockaway Beach (Edgemere), New York]] (Lenny's Fascination)
+*Rochester, NY (Olympic Park)
+*Roseland Park, Canandaigua, NY
+*[[Salem, NH]] ([[Canobie Lake Park]], removed prior to the 2001 season, replaced with "Jackpot Casino")
+*[[Salem, Virginia]] (Lakeside)
+*[[Sandusky, Ohio]] ([[Cedar Point]]; ''removed 2001'')
+*[[San Francisco, California]] (1027 Market Street) ''(Note: This parlor was reported as "Closed for Remodeling" in 2005. It was the last known Fascination parlor not located in a park or resort area, and paid winners money instead of prize credits.)''
+*[[Santa Claus, Indiana]] ([[Holiday World]])
+*[[Santa Cruz, California|Santa Cruz]], [[California]] ([[Santa Cruz Beach Boardwalk]], converted into restrooms in 2007)
+*[[Seaside Heights, New Jersey]] (Seaside Heights Boardwalk)
+*[[Seabreeze Amusement Park]] (formerly Dreamland Park), Rochester, NY
+*[[South Whitehall Township, Pennsylvania]] ([[Dorney Park & Wildwater Kingdom|Dorney Park]])
+*[[Surfers Paradise, QLD, AUSTRALIA]] (Grund's, Paradise Centre)
+*[[Warwick, Rhode Island]] (Rocky Point Park)
+*[[West Mifflin, Pennsylvania]] ([[Kennywood]])
+*[[Willow Grove, Pennsylvania]] ([[Willow Grove Park]])
+*[[Brooklyn, New York]] ([[Coney Island Amusement Park]])
+*[[Portland, Oregon]] ([[Jantzen Beach Amusement Park]]
+*[[Farmington, Utah]] ([[Lagoon Amusement Park]])
+*[[Las Vegas, Nevada]] ([[Circus Circus Las Vegas|Circus Circus]])
+*Flipper's Fascination, [[Wildwood, New Jersey]]
+*Retro Arcade at the Boardwalk Mall, 3800 Boardwalk. The actual name is "Lucky's Fascination" and was a predecessor of Lucky's Fascination which operated in Seaside Heights from 1974 to 1995. This was the last Fascination game operating in the State of New Jersey.
+*Olympic Fascination and Casino Arcade, North Wildwood, NJ
+*[[Wichita, Kansas]] Joyland Amusement Park (closed)
+
+==References==
+<references/>
+
+{{DEFAULTSORT:Fascination (Game)}}
+
+
+
+{{About|the amusement park game|the video game|Fascination (video game)}}
+[[Image:IB-fascination.jpg|right|thumb|A Fascination parlor still in operation at [[Indiana Beach]]]]
+'''Fascination''' is a [[game]] commonly found in [[North America]]n [[amusement park]]s, [[boardwalk]]s and [[video arcade|arcade]]s. The game would be considered in the same family as [[skee ball]], in that prizes are often won for playing the game. The game dates to the 1920s as evidenced in pictures of Chutes at the Beach in San Francisco, a park that operated from 1903 - 1928 (when it became Playland at the Beach).
+
+==Game design and play==
+The game consists of a wooden table, roughly 1.3 meters long, 50 centimeters wide and 1 meter high. The player sits at one narrow end of the table. At the other end of the table is a series of 25 holes, roughly 5&nbsp;cm in diameter, arranged in a five-by-five square [[matrix (mathematics)|matrix]]. The player rolls a rubber ball, similar to a [[racquetball]] or [[American handball|handball]], toward the holes; the ball is only slightly smaller than the holes. As the ball falls through one of the holes, a light on a backboard behind the holes lights up, in a pattern corresponding to the hole the ball fell through. The ball then rolls back to the player on a slight incline slanted back from the holes. The process is repeated until a player lights five lights in a row, either across the matrix, in a vertical column, or on a diagonal, much like [[Bingo (US)|bingo]]&mdash;indeed, like bingo, the hole in the center of the matrix is a "free space." A glass plate over the front part of the table keeps players from reaching too far over the table to improve their aim.
+
+Fascination tables are typically installed in groups from 20 to 50,but can be in as small a system of 2, up to any amount without limit, and are interlocked through an [[electromechanical]], and/or electronic system. Players play against each other, with the first player to complete a row of five being the winner, with the interlocking system determining which was first and locking out all others. If two or more players tie, each is declared a winner. Games usually cost 10 to 50 [[Cent (currency)|cents]] each, normally placed on the glass plate where a game operator can collect it shortly after each game begins. Games usually last between 60 and 90 [[second]]s, with a new game starting soon after the end of the previous one.
+
+Winners receive a prize [[coupon]] or [[Token coin|token]], which can be redeemed for a small prize, or collected to redeem for bigger prizes later, or in some locations, coupons may be redeemed as cash to play more games. Bonus coupons or tokens can be won by winning with all spots lighted on a certain row marked by colored lights; usually, the top row on the board (the back row of holes) is red and wins three to five times the normal rate, and the fourth row from the top (the second row of holes from the front) is gold and wins double the normal rate. Some operators have additional bonuses for certain lines. 
+
+An announcer, sitting on an elevated platform, presides over the activities. He or she starts each game by pressing a button which rings a bell and activates all machines. He or she also announces the winner when the bell rings again, which the machine does automatically when a win is detected. One or more assistants collect the fees and pay winners. Other employees run a prize booth, where winners redeem their coupons or tokens. The prizes range from cheap trinkets for one or two wins to [[home appliance|appliance]]s, [[radio]]s, [[television]]s, [[toy]]s and more expensive items for large numbers of coupons or tokens, often numbering into the thousands for the best prizes.
+
+==History==
+Fascination was invented in Salt Lake City Utah by John Taylor Gibbs who moved to Beverly Hills California, where he formed the business Taylor Engineering Corp.{{citationneeded|date=March 2019}}
+
+The game was a popular attraction at amusement parks before the modern [[theme park]] drained visitors away to the newer, more modern facilities. When the old-line amusement parks died off, the Fascination parlors went with them. The game was also popular in oceanside resort towns, particularly those with boardwalks and especially on the Northeast and Mid-Atlantic shorelines of the [[Atlantic Ocean]]. [[Coney Island]], [[Atlantic City, New Jersey|Atlantic City]] and [[Wildwood, New Jersey]] were popular places with multiple Fascination parlors; Wildwood is home to three remaining parlors. On the west coast there is a Fascination parlor on Seaside Oregon. The oldest remaining Fascination game is in Nantasket Beach, MA, and is the original 1918 game from Coney Island.
+
+The game has declined not only because of the demise of old-style amusement parks, but also the age of the machines themselves. The heart of the system relied on [[relay]]s used in [[telephone]] system, which have long been obsolete; moreover, manufacturers of the tables have long ago shut down, so spare parts have to be salvaged from old tables. Operation is also labor-intensive, with at least three employees (often more) at a time required to run a game. The game could easily be made more reliable and less labor-intensive with updated [[computer]]-based technology (as was done in the mid-1990s at the Indiana Beach parlor) and automatic coin collection and coupon dispensing equipment such as that on a skee ball game, but the closure of many Fascination parlors has made such an effort unlikely.
+
+A modern arcade game called "Lite-a-Line" can be found today, with roots in Fascination in that it features the same basic game play and pays off in redemption tickets. However, Lite-a-Line is a stand-alone game, played against "the house" as with skee ball and the like. It is commonly found in places such as [[Chuck E. Cheese]]. (It should not be confused with a 1930s [[pinball]] machine of the same name. Moreover, some Internet sites indicate that there may have been Fascination parlors that instead operated under the name "Lite-a-Line," but the evidence is inconclusive.)
+
+"I-Got-It" is a variant of fascination invented in 1961 in [[Western New York]].<ref>https://www.wkbw.com/news/popular-carnival-game-began-in-western-new-york</ref> Its mechanism is slightly different in that balls are tossed over an open pit instead of rolled, and the ball does not return to the player, staying in place throughout the game unless it is knocked out of place by another thrown ball. I-Got-It is seen most frequently in traveling carnivals.
+
+==Locations==
+[[Image:Fascination Nantasket Beach.jpg|right|thumb|A Fascination parlor still in operation at [[Nantasket Beach]]]]
+
+{{Expand list|date=August 2008}}
+
+===Known Fascination parlors still operating===
+
+*Fascination Parlor, [[Geneva on the Lake, Ohio]]
+*[[Indiana Beach]], [[Monticello, Indiana]]
+*[[Knoebels]] Amusement Resort, [[Elysburg, Pennsylvania]]
+*Sylvan Beach Amusement Park, [[Sylvan Beach, New York]]
+*[[Darien Lake|Darien Lake Theme Park Resort]], [[Darien, New York]]
+*[[Nantasket Beach]], [[Hull, Massachusetts]], the only play for cash Fascination Parlor still operating. These machines originally opened in Coney Island in 1918 and were moved to Nantasket Beach in 1944. They are the oldest Fascination machines still in operation.
+*Funland, Seaside, Oregon
+*Looff's Lite-A-Line, Long Beach, California
+*Hampton Beach Casino, Hampton Beach, New Hampshire, Unlike traditional Fascination Parlors, the machines at Hampton Beach operate as a solo play game rather than a competition between other players. For 75 cents you are given a chance to roll the ball in your machine 10 times. If, in these 10 rolls, you succeed in creating a Bingo, either horizontal, vertical, or diagonal, a bell goes off and an attendant awards you with a prize token. Extra tokens can be earned by winning certain special lines.
+
+===Past locations===
+*[[Agawam, MA]] (Riverside Park, now [[Six Flags New England]])
+* Monroe, Ohio (Americana Amusement Park)
+*[[Asbury Park, New Jersey]] (714 Boardwalk, Casino Building)(known as "Ruben's Fascination")
+*[[Atlantic City, New Jersey]] (The Boardwalk)
+*[[Aurora, Ohio]] ([[Geauga Lake (amusement park)|Geauga Lake]]) (Rides and games closed 2007)
+*[[Baltimore, Md]] (Gwynn Oak amusement park)
+*[[Bowling Green, Kentucky]] ([[Beech Bend Park]])
+*[[Brooklyn, New York]] ([[Coney Island]]) (Faber's Fascination)
+*[[Chicago, Illinois]] ([[Riverview Park (Chicago)|Riverview Park]])
+*[[Conneaut Lake, Pennsylvania]] ([[Conneaut Lake Park]]) (Tables burned in Beach Club fire 1 Aug 2013)
+*[[El Cerrito, California]] ([[Playland-Not-At-The-Beach]] Museum of Fun closed 2018)
+*[[Elitchs Gardens Denver Colorado]]
+*[[Farmingdale, New York]] (Adventureland.  Removed approx. 1994)
+*[[Fort Lee, New Jersey]] ([[Palisades Amusement Park]])
+*[[Hershey, Pennsylvania]] ([[Hersheypark]]) (2014)
+*[[Keansburg, New Jersey]] (Keansburg Amusement Park)
+*[[Lincoln Park (Dartmouth, Massachusetts)]], game building burned down
+*Long Beach, LI, New York
+*[[Lunenburg, Massachusetts]], ([[Whalom Park]])
+*[[Mason, Ohio]], ([[Kings Island]])
+*[[Monroe, Ohio]], ([[Americana/Lesourdesville Lake Amusement Park]], closed 2002)
+*[[Montreal, Quebec]] ([[Belmont Park, Montreal|Belmont Park]]) (closed 1983)
+*[[New York City]], ([[Times Square]], closed 1981)
+*Palisades Park, Palisades Park, NJ
+*Reno, NV (Circus Circus)
+*[[Revere, MA]] ([[Revere Beach]]), Closed in 1984. Never recovered from "Blizzard of 78"
+*[[Rockaway Beach, New York (Playland)]] (Pinky's Fascination)
+*[[Rockaway Beach (Edgemere), New York]] (Faber's Fascination)
+*[[Rockaway Beach (Edgemere), New York]] (Lenny's Fascination)
+*Rochester, NY (Olympic Park)
+*Roseland Park, Canandaigua, NY
+*[[Salem, NH]] ([[Canobie Lake Park]], removed prior to the 2001 season, replaced with "Jackpot Casino")
+*[[Salem, Virginia]] (Lakeside)
+*[[Sandusky, Ohio]] ([[Cedar Point]]; ''removed 2001'')
+*[[San Francisco, California]] (1027 Market Street) ''(Note: This parlor was reported as "Closed for Remodeling" in 2005. It was the last known Fascination parlor not located in a park or resort area, and paid winners money instead of prize credits.)''
+*[[Santa Claus, Indiana]] ([[Holiday World]])
+*[[Santa Cruz, California|Santa Cruz]], [[California]] ([[Santa Cruz Beach Boardwalk]], converted into restrooms in 2007)
+*[[Seaside Heights, New Jersey]] (Seaside Heights Boardwalk)
+*[[Seabreeze Amusement Park]] (formerly Dreamland Park), Rochester, NY
+*[[South Whitehall Township, Pennsylvania]] ([[Dorney Park & Wildwater Kingdom|Dorney Park]])
+*[[Surfers Paradise, QLD, AUSTRALIA]] (Grund's, Paradise Centre)
+*[[Warwick, Rhode Island]] (Rocky Point Park)
+*[[West Mifflin, Pennsylvania]] ([[Kennywood]])
+*[[Willow Grove, Pennsylvania]] ([[Willow Grove Park]])
+*[[Brooklyn, New York]] ([[Coney Island Amusement Park]])
+*[[Portland, Oregon]] ([[Jantzen Beach Amusement Park]]
+*[[Farmington, Utah]] ([[Lagoon Amusement Park]])
+*[[Las Vegas, Nevada]] ([[Circus Circus Las Vegas|Circus Circus]])
+*Flipper's Fascination, [[Wildwood, New Jersey]]
+*Retro Arcade at the Boardwalk Mall, 3800 Boardwalk. The actual name is "Lucky's Fascination" and was a predecessor of Lucky's Fascination which operated in Seaside Heights from 1974 to 1995. This was the last Fascination game operating in the State of New Jersey.
+*Olympic Fascination and Casino Arcade, North Wildwood, NJ
+*[[Wichita, Kansas]] Joyland Amusement Park (closed)
+
+==References==
+<references/>
+
+{{DEFAULTSORT:Fascination (Game)}}
+
+
+

@@ -1,0 +1,4710 @@
+{{ambox | text = Please stick to [[IUCN Red List]] [http://www.iucnredlist.org/apps/redlist/search/link/4b9a6a39-ddb8ecaf] when you add or remove [[species]], [[subspecies]], [[Variety (botany)|varieties]], stocks or sub-populations. [[Binomial nomenclature|Binomial]] and [[Trinomial nomenclature|trinomial]] [[nomenclature]] should be used, no more. To get more clarity, surname of scientific authority should be ignored.}}
+
+On 29 January 2010, the [[IUCN Red List of Threatened Species]] identified 2657 [[near threatened]] species, [[subspecies]], stocks and sub-populations in the [[Animalia]] kingdom.
+{{TOC right}}
+==[[Annelida]]==
+===[[Hirudinoidea]]===
+====[[Arhynchobdellae]]====
+=====[[Hirudinidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Hirudo medicinalis]]
+}}
+===[[Oligochaeta]]===
+====[[Haplotaxida]]====
+=====[[Lutodrilidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Lutodrilus multivesiculatus]]
+}}
+==[[Arthropoda]]==
+===[[Arachnida]]===
+====[[Araneae]]====
+=====[[Clubionidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Clubiona hitchinsi]]
+}}
+=====[[Nephilidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Clitaetra thisbe]]
+}}
+=====[[Oonopidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Brignolia bowleri]]
+}}
+=====[[Salticidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Microbianor nigritarsus]]
+}}
+=====[[Theraphosidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Brachypelma smithi]]
+*[[Thrigmopoeus truculentus]]
+}}
+=====[[Theridiidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Spinembolia clabnum]]
+}}
+===[[Branchiopoda]]===
+====[[Anostraca]]====
+=====[[Chirocephalidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Linderiella occidentalis]]
+}}
+===[[Diplopoda]]===
+====[[Sphaerotheriida]]====
+=====[[Arthrosphaeridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Sphaeromimus andohahela]]
+*[[Zoosphaerium album]]
+*[[Zoosphaerium amabile]]
+*[[Zoosphaerium analavelona]]
+*[[Zoosphaerium bambusoides]]
+*[[Zoosphaerium bilobum]]
+*[[Zoosphaerium denticulatum]]
+*[[Zoosphaerium endemicum]]
+*[[Zoosphaerium fisheri]]
+*[[Zoosphaerium haackeri]]
+*[[Zoosphaerium isalo]]
+*[[Zoosphaerium mitoho]]
+*[[Zoosphaerium muscorum]]
+*[[Zoosphaerium pseudoblandum]]
+*[[Zoosphaerium pseudoplatylabum]]
+*[[Zoosphaerium smaragdinum]]
+*[[Zoosphaerium subreflexum]]
+*[[Zoosphaerium tsingy]]
+*[[Zoosphaerium viridissimum]]
+}}
+====[[Spirobolida]]====
+=====[[Pachybolidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Aphistogoniulus cowani]]
+*[[Aphistogoniulus diabolicus]]
+*[[Aphistogoniulus rubrodorsalis]]
+*[[Colossobolus giganteus]]
+*[[Colossobolus oblongopedus]]
+*[[Granitobolus andohahelensis]]
+*[[Madabolus maximus]]
+*[[Ostinobolus rufus]]
+*[[Pseudocentrobolus aureus]]
+*[[Pseudocentrobolus vohibasiensis]]
+*[[Riotintobolus anomalus]]
+*[[Spiromimus laticoxalis]]
+*[[Spiromimus simplex]]
+*[[Spiromimus triaureus]]
+*[[Spiromimus univirgatus]]
+*[[Zehntnerobolus rubripes]]
+}}
+=====[[Spiroboleliidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Hylekobolus albicollaris]]
+*[[Hylekobolus analavelona]]
+*[[Hylekobolus brachiosauroides]]
+*[[Hylekobolus goodmani]]
+*[[Hylekobolus marojejy]]
+*[[Hylekobolus montanus]]
+*[[Hylekobolus rufus]]
+}}
+===[[Entognatha]]===
+====[[Collembola]]====
+=====[[Neanuridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Blasconura batai]]
+}}
+=====[[Paronellidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Lepidonella lecongkieti]]
+}}
+===[[Insecta]]===
+====[[Coleoptera]]====
+=====[[Ptinidae|Anobiidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Xyletinus tremulicola]]
+}}
+
+=====[[Anthribidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Homoeodera compositarum]]
+}}
+=====[[Bostrichidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Stephanopachys brunneus]]
+}}
+=====[[Carabidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Carabus intricatus]]
+}}
+=====[[Cerambycidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Arhopalus pinetorum]]
+*[[Blabinotus spinicollis]]
+*[[Calchaenesthes sexmaculata]]
+*[[Chlorophorus favieri]]
+*[[Chlorophorus yachovi]]
+*[[Clytus kabateki]]
+*[[Clytus taurusiensis]]
+*[[Molorchus juglandis]]
+*[[Purpuricenus nicocles]]
+*[[Ropalopus insubricus]]
+*[[Ropalopus siculus]]
+*[[Stenopterus atricornis]]
+*[[Stenopterus creticus]]
+*[[Stictoleptura palmi]]
+*[[Stictoleptura trisignata]]
+*[[Xylosteus bartoni]]
+}}
+=====[[Cetoniidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Osmoderma barnabita]]
+*[[Osmoderma eremita]]
+*[[Trichius orientalis]]
+}}
+=====[[Cucujidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Cucujus cinnaberinus]]
+}}
+=====[[Elateridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Ampedus cardinalis]]
+*[[Ampedus carinthiacus]]
+*[[Ampedus coenobita]]
+*[[Ampedus melonii]]
+*[[Ampedus pulcher]]
+*[[Brachygonus meraculus]]
+*[[Crepidophorus mutilatus]]
+*[[Reitterelater bouyoni]]
+}}
+=====[[Eucnemidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Hylis simonae]]
+*[[Microrhagus pyrenaeus]]
+*[[Xylophilus testaceus]]
+}}
+=====[[Geotrupidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Ceratophyus hoffmannseggi]]
+*[[Lethrus fallax]]
+*[[Thorectes albarracinus]]
+*[[Thorectes lusitanicus]]
+*[[Thorectes marginatus]]
+}}
+=====[[Hydraenidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Cobalius freyi]]
+}}
+=====[[Leiodidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Agathidium pulchellum]]
+}}
+=====[[Lucanidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Ceruchus chrysomelinus]]
+*[[Colophon izardi]]
+}}
+=====[[Mycetophagidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Esarcus abeillei]]
+*[[Esarcus leprieuri]]
+*[[Pseudotriphyllus suturalis]]
+}}
+=====[[Oedemeridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Nacerdes hesperica]]
+*[[Sparedrus lencinae]]
+}}
+=====[[Scarabaeidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Alocoderus carinifrons]]
+*[[Ammoecius lusitanicus]]
+*[[Anomius crovettii]]
+*[[Anomius peyerimhoffi]]
+*[[Anonychonitis freyi]]
+*[[Ateuchetus cicatricosus]]
+*[[Ateuchus halffteri]]
+*[[Bdelyropsis newtoni]]
+*[[Cryptocanthon foveatus]]
+*[[Cryptocanthon genieri]]
+*[[Cryptocanthon lobatus]]
+*[[Euorodalus boiteli]]
+*[[Genieridium medinae]]
+*[[Gymnopleurus sturmi]]
+*[[Gyronotus dispar]]
+*[[Gyronotus mulanjensis]]
+*[[Heptaulacus brancoi]]
+*[[Holocephalus sculptus]]
+*[[Macroderes endroedyi]]
+*[[Macroderes undulatus]]
+*[[Mimonthophagus limbibasis]]
+*[[Ontherus grandis]]
+*[[Ontherus irinus]]
+*[[Onthophagus hippopotamus]]
+*[[Onthophagus merdarius]]
+*[[Onthophagus villanuevai]]
+*[[Oxysternon pteroderum]]
+*[[Pedaria cambeforti]]
+*[[Phanaeus achilles]]
+*[[Scarabaeus bornemizzai]]
+*[[Scybalocanthon darlingtoni]]
+}}
+=====[[Staphylinidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Atheta dryochares]]
+}}
+=====[[Tenebrionidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Alphitophagus obtusangulus]]
+*[[Gerandryus aetnensis]]
+*[[Gonodera metallica]]
+*[[Hymenorus baudii]]
+*[[Mycetochara straussii]]
+*[[Mycetochara thoracica]]
+*[[Pelleas crotchii]]
+}}
+=====[[Trogositidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Seidlitzella procera]]
+}}
+=====[[Zopheridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Diodesma denticincta]]
+*[[Tarphius gibbulus]]
+}}
+====[[Grylloblattodea]]====
+=====[[Grylloblattidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Galloisiana odaesanensis]]
+}}
+====[[Hemiptera]]====
+=====[[Cicadellidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Eupteryx azorica]]
+}}
+=====[[Cicadidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Magicicada cassini]]
+*[[Magicicada septendecim]]
+*[[Magicicada septendecula]]
+}}
+=====[[Cixiidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Cixius azoricus]]
+*[[Cixius insularis]]
+}}
+=====[[Delphacidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Javesella azorica]]
+}}
+====[[Hymenoptera]]====
+=====[[Apidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Bombus digressus]]
+*[[Bombus diligens]]
+*[[Bombus mendax]]
+*[[Bombus mucidus]]
+*[[Epeolus cruciger]]
+*[[Eucera gracilipes]]
+*[[Nomada argentata]]
+*[[Nomada armata]]
+*[[Nomada baccata]]
+*[[Nomada cretensis]]
+*[[Nomada errans]]
+}}
+=====[[Colletidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Colletes creticus]]
+*[[Colletes cyprius]]
+*[[Colletes halophilus]]
+*[[Hylaeus crassanus]]
+*[[Hylaeus friesei]]
+}}
+=====[[Formicidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Formica aquilonia]]
+*[[Formica lugubris]]
+*[[Formica polyctena]]
+*[[Formica pratensis]]
+*[[Formica rufa]]
+*[[Formica uralensis]]
+}}
+=====[[Halictidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Lasioglossum minutulum]]
+*[[Lasioglossum sabulosum]]
+*[[Lasioglossum setulosum]]
+}}
+=====[[Sphecidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Tachysphex pechumani]]
+}}
+====[[Lepidoptera]]====
+=====[[Argyresthiidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Argyresthia atlanticella]]
+}}
+=====[[Crambidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Udea azorensis]]
+}}
+=====[[Hesperiidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Panoquina errans]]
+}}
+=====[[Lycaenidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Baliochila lequeuxi]]
+*[[Chrysoritis oreas]]
+*[[Iolaus aphnaeoides]]
+*[[Lepidochrysops bacchus]]
+*[[Lycaena dispar]]
+*[[Phengaris arion]]
+*[[Phengaris arionides]]
+*[[Phengaris nausithous]]
+*[[Phengaris teleius]]
+*[[Plebejus trappi]]
+*[[Poecilmitis aureus]]
+*[[Polyommatus atlanticus]]
+*[[Polyommatus guezelmavi]]
+*[[Polyommatus nephohiptamenos]]
+*[[Polyommatus nivescens]]
+*[[Pseudophilotes panoptes]]
+*[[Thestor brachycerus]]
+*[[Turanana taygetica]]
+}}
+=====[[Noctuidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Noctua carvalhoi]]
+*[[Phlogophora cabrali]]
+}}
+=====[[Nymphalidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Anetia briarea]]
+*[[Anetia cubana]]
+*[[Anetia jaegeri]]
+*[[Anetia pantheratus]]
+*[[Coenonympha oedippus]]
+*[[Coenonympha vaucheri]]
+*[[Danaus cleophile]]
+*[[Erebia claudina]]
+*[[Erebia epistygne]]
+*[[Erebia flavofasciata]]
+*[[Euploea blossomae]]
+*[[Euploea gamelia]]
+*[[Euploea martinii]]
+*[[Euploea swainson]]
+*[[Euploea tobleri]]
+*[[Hipparchia fagi]]
+*[[Hipparchia leighebi]]
+*[[Idea iasonia]]
+*[[Idea malabarica]]
+*[[Maniola chia]]
+*[[Neptis larseni]]
+*[[Parantica albata]]
+*[[Parantica nilgiriensis]]
+*[[Parantica pseudomelaneus]]
+*[[Parantica taprobana]]
+*[[Parantica tityoides]]
+*[[Protoploea apatela]]
+}}
+=====[[Papilionidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Archon apollinus]]
+*[[Baronia brevicornis]]
+*[[Graphium mendana]]
+*[[Heraclides himeros]]
+*[[Luehdorfia japonica]]
+*[[Ornithoptera croesus]]
+*[[Ornithoptera meridionalis]]
+*[[Ornithoptera paradisea]]
+*[[Ornithoptera rothschildi]]
+*[[Papilio benguetanus]]
+*[[Papilio grosesmithi]]
+*[[Papilio manlius]]
+*[[Papilio maraho]]
+*[[Papilio sjoestedti]]
+*[[Parides burchellanus]]
+*[[Teinopalpus imperialis]]
+*[[Trogonoptera trojana]]
+*[[Troides riedeli]]
+}}
+=====[[Pieridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Colias phicomone]]
+}}
+=====[[Pyralidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Helenoscoparia nigritalis]]
+}}
+====[[Odonata]]====
+=====[[Aeshnidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Allopetalia reticulosa]]
+*[[Anax bangweuluensis]]
+*[[Antipodophlebia asthenes]]
+*[[Austroaeschna speciosa]]
+*[[Austrophlebia subcostalis]]
+*[[Gynacantha penelope]]
+*[[Oligoaeschna platyura]]
+*[[Oligoaeschna poeciloptera]]
+*[[Planaeschna intersedens]]
+*[[Telephlebia tillyardi]]
+*[[Telephlebia tryoni]]
+}}
+=====[[Argiolestidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Archiargiolestes parvulus]]
+*[[Archiargiolestes pusillissimus]]
+*[[Austroargiolestes alpinus]]
+*[[Griseargiolestes metallicus]]
+}}
+=====[[Austropetaliidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Austropetalia tonyana]]
+}}
+=====[[Calopterygidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Atrocalopteryx atrocyana]]
+*[[Atrocalopteryx coomani]]
+*[[Sapho infumosa]]
+*[[Vestalis anacolosa]]
+*[[Vestalis luctuosa]]
+}}
+=====[[Chlorocyphidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Chlorocypha helenae]]
+*[[Indocypha vittata]]
+*[[Libellago stictica]]
+*[[Platycypha bamptoni]]
+*[[Platycypha pinheyi]]
+*[[Rhinocypha xanthe]]
+*[[Stenocypha jacksoni]]
+*[[Stenocypha molindica]]
+}}
+=====[[Chlorogomphidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Chlorogomphus auratus]]
+}}
+=====[[Coenagrionidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Agriocnemis bumhilli]]
+*[[Agriocnemis dobsoni]]
+*[[Andinagrion garrisoni]]
+*[[Archibasis rebeccae]]
+*[[Argia rosseri]]
+*[[Azuragrion granti]]
+*[[Coenagrion mercuriale]]
+*[[Coenagrion syriacum]]
+*[[Ischnura abyssinica]]
+*[[Ischnura aralensis]]
+*[[Ischnura intermedia]]
+*[[Megalagrion nigrohamatum]]
+*[[Megalagrion paludicola]]
+*[[Mortonagrion arthuri]]
+*[[Mortonagrion hirosei]]
+*[[Nehalennia pallidula]]
+*[[Nehalennia speciosa]]
+*[[Protallagma hoffmanni]]
+*[[Protoneura macintyrei]]
+*[[Pseudagrion angolense]]
+*[[Pseudagrion inopinatum]]
+}}
+=====[[Cordulegastridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Cordulegaster bidentata]]
+*[[Cordulegaster heros]]
+*[[Cordulegaster trinacriae]]
+*[[Neallogaster ornata]]
+}}
+=====[[Corduliidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Hemicordulia koomina]]
+*[[Hemicordulia mindana]]
+*[[Procordulia karnyi]]
+*[[Somatochlora ozarkensis]]
+}}
+=====[[Epiophlebiidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Epiophlebia laidlawi]]
+}}
+=====[[Gomphidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Acrogomphus malayanus]]
+*[[Anormogomphus kiritshenkoi]]
+*[[Asiagomphus amamiensis]]
+*[[Asiagomphus personatus]]
+*[[Austrogomphus divaricatus]]
+*[[Ceratogomphus triceraticus]]
+*[[Gomphus graslinii]]
+*[[Heliogomphus kelantanensis]]
+*[[Heliogomphus promelas]]
+*[[Heliogomphus walli]]
+*[[Hemigomphus theischingeri]]
+*[[Ictinogomphus acutus]]
+*[[Ictinogomphus dobsoni]]
+*[[Megalogomphus hannyngtoni]]
+*[[Merogomphus martini]]
+*[[Neurogomphus pallidus]]
+*[[Onychogomphus costae]]
+*[[Onychogomphus treadawayi]]
+*[[Ophiogomphus acuminatus]]
+*[[Ophiogomphus australis]]
+*[[Ophiogomphus edmundo]]
+*[[Paragomphus cataractae]]
+*[[Paragomphus crenigomphoides]]
+*[[Paragomphus henryi]]
+*[[Paragomphus sinaiticus]]
+*[[Phanogomphus hodgesi]]
+*[[Phanogomphus westfalli]]
+*[[Progomphus kimminsi]]
+*[[Stylurus nagoyanus]]
+*[[Stylurus oculatus]]
+*[[Zephyrogomphus longipositor]]
+}}
+=====[[Heteragrionidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Heteragrion eboratum]]
+}}
+=====[[Isostictidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Eurysticta coolawanyah]]
+}}
+=====[[Lestidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Indolestes bellax]]
+*[[Indolestes indicus]]
+}}
+=====[[Lestoideidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Diphlebia hybridoides]]
+*[[Lestoidea brevicauda]]
+}}
+=====[[Libellulidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Indothemis carnatica]]
+*[[Libellula mariae]]
+*[[Libellula pontica]]
+*[[Micromacromia flava]]
+*[[Orthetrum balteatum]]
+*[[Orthetrum boumiera]]
+*[[Trithemis aequalis]]
+*[[Trithemis brydeni]]
+*[[Trithemis nigra]]
+*[[Urothemis luciana]]
+}}
+=====[[Macromiidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Macromia callisto]]
+*[[Phyllomacromia funicularioides]]
+*[[Phyllomacromia lamottei]]
+}}
+=====[[Megapodagrionidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Teinopodagrion vallenatum]]
+}}
+=====[[Not Assigned]]=====
+{{columns-list|style=font-style:italic;|
+*[[Austrocordulia territoria]]
+*[[Austrophya mystica]]
+*[[Cordulephya montana]]
+*[[Idionyx optata]]
+*[[Oxygastra curtisii]]
+*[[Pseudocordulia circularis]]
+*[[Pseudocordulia elliptica]]
+}}
+=====[[Petaluridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Petalura litorea]]
+}}
+=====[[Philogeniidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Philogenia helena]]
+}}
+=====[[Philosinidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Rhinagrion elopurae]]
+}}
+=====[[Platycnemididae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Allocnemis abbotti]]
+*[[Allocnemis interrupta]]
+*[[Elattoneura atkinsoni]]
+*[[Idiocnemis adelbertensis]]
+*[[Melanoneura bilineata]]
+*[[Mesocnemis dupuyi]]
+*[[Nososticta irene]]
+*[[Nososticta koongarra]]
+*[[Phylloneura westermanni]]
+*[[Proplatycnemis agrioides]]
+*[[Risiocnemis serrata]]
+}}
+=====[[Platystictidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Drepanosticta brownelli]]
+*[[Drepanosticta fontinalis]]
+*[[Drepanosticta krios]]
+}}
+=====[[Polythoridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Stenocora percornuta]]
+}}
+=====[[Synlestidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Chlorolestes elegans]]
+*[[Ecchlorolestes nylephtha]]
+*[[Ecchlorolestes peringueyi]]
+}}
+=====[[Synthemistidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Tonyosynthemis claviculata]]
+*[[Tonyosynthemis ofarrelli]]
+}}
+====[[Orthoptera]]====
+=====[[Acrididae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Amblyphymus adspersus]]
+*[[Arcyptera kheili]]
+*[[Arminda canariensis]]
+*[[Chorthippus cialancensis]]
+*[[Chorthippus corsicus]]
+*[[Chorthippus crassiceps]]
+*[[Chorthippus parnon]]
+*[[Chorthippus pulloides]]
+*[[Chorthippus reissingeri]]
+*[[Chorthippus sampeyrensis]]
+*[[Cophopodisma pyrenaea]]
+*[[Dociostaurus hispanicus]]
+*[[Epipodisma pedemontana]]
+*[[Galvagniella albanica]]
+*[[Odontopodisma fallax]]
+*[[Odontopodisma rubripes]]
+*[[Paracaloptenus cristatus]]
+*[[Peripodisma llofizii]]
+*[[Podisma amedegnatoae]]
+*[[Podisma cantabricae]]
+*[[Pseudopodisma nagyi]]
+*[[Rammeihippus dinaricus]]
+*[[Rhachitopis sanguinipes]]
+*[[Sphingonotus candidus]]
+*[[Sphingonotus gypsicola]]
+*[[Sphingonotus lusitanicus]]
+*[[Stenobothrus cotticus]]
+*[[Xerohippus solerii]]
+}}
+=====[[Gryllidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Gryllomorpha canariensis]]
+*[[Hymenoptila lanzarotensis]]
+*[[Ovaliptila krueperi]]
+*[[Ovaliptila wettsteini]]
+*[[Petaloptila baenai]]
+*[[Petaloptila carabajali]]
+}}
+=====[[Pamphagidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Acinipe comptei]]
+*[[Acinipe eulaliae]]
+*[[Acinipe galvagnii]]
+*[[Acinipe mabillei]]
+*[[Eumigus monticola]]
+*[[Eumigus punctatus]]
+*[[Eumigus rubioi]]
+*[[Glyphotmethis heldreichi]]
+*[[Ocnerodes fallaciosus]]
+*[[Ocnerodes prosternalis]]
+*[[Ocnerodes soleri]]
+*[[Pamphagus ortolaniae]]
+}}
+=====[[Pneumoroidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Pneumora inanis]]
+}}
+=====[[Rhaphidophoridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Dolichopoda annae]]
+*[[Dolichopoda insignis]]
+*[[Dolichopoda kiriakii]]
+*[[Dolichopoda paraskevi]]
+*[[Dolichopoda steriotisi]]
+*[[Troglophilus zoiai]]
+}}
+=====[[Tetrigidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Charagotettix sogai]]
+*[[Cryptotettix fanovana]]
+*[[Holocerus lucifer]]
+*[[Isandrus gibbosus]]
+*[[Notocerus formidabilis]]
+*[[Ocytettix latihumerus]]
+*[[Oxytettix cataphractus]]
+*[[Oxytettix hastatus]]
+*[[Oxytettix macrocerus]]
+*[[Procytettix robinsoni]]
+*[[Silanotettix baroides]]
+*[[Silanotettix notangulus]]
+*[[Thymochares bolivari]]
+*[[Thymochares crassipes]]
+*[[Thymochares exiguus]]
+*[[Thymochares frontanguolus]]
+*[[Thymochares galeatus]]
+*[[Thymochares modestus]]
+*[[Thymochares sambavana]]
+}}
+=====[[Tettigoniidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Albarracinia zapaterii]]
+*[[Anonconotus baracunensis]]
+*[[Anonconotus pusillus]]
+*[[Ariagona margaritae]]
+*[[Barbitistes kaltenbachi]]
+*[[Barbitistes vicetinus]]
+*[[Bicolorana kraussi]]
+*[[Broughtonia domogledi]]
+*[[Callicrania faberi]]
+*[[Callicrania plaxicauda]]
+*[[Callicrania vicentae]]
+*[[Calliphona koenigi]]
+*[[Canariola emarginata]]
+*[[Canariola nubigena]]
+*[[Canariola willemsei]]
+*[[Coracinotus politus]]
+*[[Corsteropleurus chopardi]]
+*[[Ctenodecticus granatensis]]
+*[[Ctenodecticus masferreri]]
+*[[Ctenodecticus ramburi]]
+*[[Ctenodecticus thymi]]
+*[[Ephippiger carlottae]]
+*[[Eupholidoptera cephalonica]]
+*[[Eupholidoptera danconai]]
+*[[Eupholidoptera garganica]]
+*[[Eupholidoptera uvarovi]]
+*[[Exodrymadusa inornata]]
+*[[Isophya brunneri]]
+*[[Isophya fatrensis]]
+*[[Isophya longicaudata]]
+*[[Isophya pienensis]]
+*[[Isophya posthumoidalis]]
+*[[Isophya taurica]]
+*[[Leptophyes intermedia]]
+*[[Leptophyes lisae]]
+*[[Lluciapomaresius anapaulae]]
+*[[Metrioptera hoermanni]]
+*[[Neocallicrania barrosi]]
+*[[Pachytrachis tumidus]]
+*[[Platystolus surcularius]]
+*[[Poecilimon heinrichi]]
+*[[Poecilimon heroicus]]
+*[[Poecilimon jablanicensis]]
+*[[Poecilimon klausgerhardi]]
+*[[Poecilimon pliginskii]]
+*[[Poecilimon tauricus]]
+*[[Poecilimon vodnensis]]
+*[[Psorodonotus fieberi]]
+*[[Psorodonotus illyricus]]
+*[[Psorodonotus macedonicus]]
+*[[Pycnogaster graellsii]]
+*[[Pycnogaster sanchezgomezi]]
+*[[Pycnogaster valentini]]
+*[[Rhacocleis baccettii]]
+*[[Rhacocleis corsicana]]
+*[[Rhacocleis silvestrii]]
+*[[Rhacocleis thyrrhenica]]
+*[[Rhacocleis werneri]]
+*[[Roeseliana brunneri]]
+*[[Saga campbelli]]
+*[[Uromenus annae]]
+}}
+====[[Phasmida]]====
+=====[[Diapheromeridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Rhamphosipyloidea queenslandica]]
+*[[Sipyloidea brevicerci]]
+*[[Sipyloidea garradungensis]]
+*[[Sipyloidea rentzi]]
+*[[Spinosipyloidea doddi]]
+}}
+=====[[Phasmatidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Cigarrophasma tessellatum]]
+*[[Ctenomorpha gargantua]]
+*[[Malandania pulchra]]
+*[[Parapodacanthus hasenpuschorum]]
+}}
+=====[[Phylliidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Phyllium monteithi]]
+}}
+====[[Trichoptera]]====
+=====[[Limnephilidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Limnephilus atlanticus]]
+}}
+===[[Malacostraca]]===
+====[[Decapoda]]====
+=====[[Atyidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Atyoida bisulcata]]
+*[[Caridina fasciata]]
+*[[Caridina formosae]]
+*[[Caridina mauritii]]
+*[[Caridina meridonalis]]
+*[[Caridina richtersi]]
+*[[Caridina serrata]]
+*[[Caridina spathulirostris]]
+*[[Dugastella valentina]]
+*[[Gallocaris inermis]]
+*[[Lancaris singhalensis]]
+*[[Pycneus morsitans]]
+*[[Troglocaris hercegovinensis]]
+*[[Troglocaris planinensis]]
+*[[Troglocaris pretneri]]
+}}
+=====[[Cambaridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Cambarellus chapalanus]]
+*[[Cambarus bouchardi]]
+*[[Cambarus coosawattae]]
+*[[Cambarus lenati]]
+*[[Cambarus nerterius]]
+*[[Cambarus setosus]]
+*[[Cambarus speciosus]]
+*[[Cambarus truncatus]]
+*[[Cambarus tuckasegee]]
+*[[Cambarus williami]]
+*[[Fallicambarus danielae]]
+*[[Fallicambarus gilpini]]
+*[[Fallicambarus gordoni]]
+*[[Fallicambarus harpi]]
+*[[Fallicambarus oryktes]]
+*[[Faxonella creaseri]]
+*[[Orconectes burri]]
+*[[Orconectes marchandi]]
+*[[Orconectes margorectus]]
+*[[Procambarus cuetzalanae]]
+*[[Procambarus lagniappe]]
+*[[Procambarus pallidus]]
+*[[Procambarus pictus]]
+*[[Procambarus vazquezae]]
+*[[Procambarus zapoapensis]]
+*[[Troglocambarus maclanei]]
+}}
+=====[[Gecarcinucidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Austrothelphusa wasselli]]
+*[[Ceylonthelphusa kandambyi]]
+*[[Ceylonthelphusa venusta]]
+*[[Liotelphusa gagei]]
+*[[Liotelphusa laevis]]
+*[[Maydelliathelphusa edentula]]
+*[[Parathelphusa sarasinorum]]
+}}
+=====[[Palaemonidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Macrobrachium occidentale]]
+*[[Troglocubanus eigenmanni]]
+}}
+=====[[Palinuridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Palinurus charlestoni]]
+}}
+=====[[Parastacidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Engaeus australis]]
+*[[Engaeus orramakunna]]
+*[[Engaeus victoriensis]]
+*[[Euastacus wiowuru]]
+*[[Gramastacus insolitus]]
+*[[Ombrastacoides asperrimanus]]
+*[[Ombrastacoides dissitus]]
+*[[Parastacus brasiliensis]]
+}}
+=====[[Potamidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Geothelphusa miyazakii]]
+*[[Geothelphusa tenuimanus]]
+*[[Johora tiomanensis]]
+*[[Pilosamon guinotae]]
+*[[Potamon fluviatile]]
+*[[Potamon ibericum]]
+*[[Potamon potamios]]
+*[[Potamon rhodium]]
+*[[Potamon setiger]]
+}}
+=====[[Potamonautidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Deckenia imitatrix]]
+*[[Deckenia mitis]]
+}}
+=====[[Pseudothelphusidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Neostrengeria perijaensis]]
+}}
+==[[Chordata]]==
+===[[Actinopterygii]]===
+====[[Acipenseriformes]]====
+=====[[Acipenseridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Acipenser medirostris]]
+*[[Acipenser oxyrinchus]]
+*[[Acipenser oxyrinchus oxyrinchus]]
+}}
+====[[Atheriniformes]]====
+=====[[Atherinidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Cauque mauleanum]]
+*[[Craterocephalus centralis]]
+*[[Craterocephalus helenae]]
+*[[Craterocephalus lentiginosus]]
+*[[Menidia conchorum]]
+}}
+=====[[Atherinopsidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Basilichthys australis]]
+}}
+=====[[Bedotiidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Bedotia madagascariensis]]
+}}
+=====[[Melanotaeniidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Melanotaenia gracilis]]
+*[[Melanotaenia pygmaea]]
+}}
+====[[Beloniformes]]====
+=====[[Hemiramphidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Dermogenys megarramphus]]
+}}
+====[[Characiformes]]====
+=====[[Curimatidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Steindachnerina corumbae]]
+}}
+====[[Cypriniformes]]====
+=====[[Balitoridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Nemacheilus petrubanarescui]]
+}}
+=====[[Catostomidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Catostomus snyderi]]
+*[[Cycleptus elongatus]]
+*[[Moxostoma hamiltoni]]
+}}
+=====[[Cobitidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Cobitis takatsuensis]]
+*[[Sabanejewia romanica]]
+*[[Sabanejewia vallachica]]
+*[[Syncrossus beauforti]]
+}}
+=====[[Cyprinidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Alburnus sp. nov. 'Volvi']]
+*[[Barbus brevipinnis]]
+*[[Barbus lufukiensis]]
+*[[Barbus macrolepis]]
+*[[Barbus meridionalis]]
+*[[Barbus nasus]]
+*[[Barbus sp. nov. 'Waterberg']]
+*[[Barbus sperchiensis]]
+*[[Chondrostoma vardarense]]
+*[[Cyprinella callitaenia]]
+*[[Cyprinella monacha]]
+*[[Dionda catostomops]]
+*[[Esomus longimanus]]
+*[[Gila intermedia]]
+*[[Labeobarbus kimberleyensis]]
+*[[Macrhybopsis meeki]]
+*[[Notropis perpallidus]]
+*[[Onychostoma gerlachi]]
+*[[Oregonichthys kalawatseti]]
+*[[Pelasgus marathonicus]]
+*[[Pelasgus thesproticus]]
+*[[Phoxinellus zeregi]]
+*[[Phoxinellus zeregi meandri]]
+*[[Phoxinus tennesseensis]]
+*[[Pseudobarbus tenuis]]
+*[[Rutilus rubilio]]
+*[[Sanagia velifera]]
+*[[Scardinius acarnanicus]]
+*[[Scardinius dergle]]
+*[[Squalius illyricus]]
+*[[Squalius pyrenaicus]]
+*[[Squalius sp. nov. 'Aoos']]
+*[[Squalius zrmanjae]]
+*[[Varicorhinus nelspruitensis]]
+}}
+====[[Cyprinodontiformes]]====
+=====[[Cyprinodontidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Orestias laucaensis]]
+}}
+=====[[Nothobranchiidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Aphyosemion alpha]]
+}}
+=====[[Poeciliidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Gambusia senilis]]
+*[[Poeciliopsis occidentalis]]
+}}
+=====[[Profundulidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Profundulus candalarius]]
+}}
+====[[Esociformes]]====
+=====[[Umbridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Novumbra hubbsi]]
+}}
+====[[Osteoglossiformes]]====
+=====[[Notopteridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Chitala blanci]]
+}}
+=====[[Osteoglossidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Scleropages leichhardti]]
+}}
+====[[Perciformes]]====
+=====[[Centrarchidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Micropterus notius]]
+}}
+=====[[Cichlidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Altolamprologus calvus]]
+*[[Eretmodus cyanostictus]]
+*[[Haplochromis labiatus]]
+*[[Haplochromis obliquidens]]
+*[[Haplochromis oregosoma]]
+*[[Haplochromis serranus]]
+*[[Herichthys steindachneri]]
+*[[Lepidiolamprologus attenuatus]]
+*[[Oreochromis mossambicus]]
+*[[Pundamilia nyerere]]
+}}
+=====[[Elassomatidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Elassoma boehlkei]]
+}}
+=====[[Eleotridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Butis butis]]
+*[[Eleotris aquadulcis]]
+*[[Eleotris melanosoma]]
+*[[Eleotris pellegrini]]
+*[[Hypseleotris ejuncida]]
+*[[Hypseleotris kimberleyensis]]
+*[[Hypseleotris regalis]]
+*[[Kimberleyeleotris hutchinsi]]
+*[[Kimberleyeleotris notata]]
+}}
+=====[[Gobiidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Favonigobius melanobranchus]]
+*[[Favonigobius reichei]]
+*[[Knipowitschia punctatissima]]
+*[[Oligolepis keiensis]]
+*[[Priolepis robinsi]]
+*[[Psammogobius biocellatus]]
+*[[Redigobius bikolanus]]
+*[[Sicyopterus stimpsoni]]
+*[[Taenioides jacksoni]]
+}}
+=====[[Labridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Choerodon schoenleinii]]
+}}
+=====[[Osphronemidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Pseudosphromenus dayi]]
+}}
+=====[[Percidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Etheostoma acuticeps]]
+*[[Etheostoma cragini]]
+*[[Etheostoma kanawhae]]
+*[[Etheostoma luteovinctum]]
+*[[Etheostoma maculatum]]
+*[[Etheostoma osburni]]
+*[[Etheostoma rubrum]]
+*[[Percina macrocephala]]
+*[[Percina nasuta]]
+*[[Percina uranidea]]
+}}
+=====[[Serranidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Cephalopholis hemistiktos]]
+*[[Dermatolepis inermis]]
+*[[Epinephelides armatus]]
+*[[Epinephelus aeneus]]
+*[[Epinephelus andersoni]]
+*[[Epinephelus bleekeri]]
+*[[Epinephelus cifuentesi]]
+*[[Epinephelus coioides]]
+*[[Epinephelus daemelii]]
+*[[Epinephelus diacanthus]]
+*[[Epinephelus fuscoguttatus]]
+*[[Epinephelus malabaricus]]
+*[[Epinephelus morio]]
+*[[Epinephelus polylepis]]
+*[[Epinephelus polyphekadion]]
+*[[Epinephelus quernus]]
+*[[Epinephelus socialis]]
+*[[Mycteroperca bonaci]]
+*[[Mycteroperca prionura]]
+*[[Mycteroperca venenosa]]
+*[[Plectropomus leopardus]]
+*[[Plectropomus oligacanthus]]
+*[[Plectropomus pessuliferus]]
+*[[Serranus dewegeri]]
+}}
+=====[[Terapontidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Hephaestus epirrhinos]]
+*[[Leiopotherapon aheneus]]
+*[[Syncomistes kimberleyensis]]
+*[[Syncomistes rastellus]]
+}}
+====[[Salmoniformes]]====
+=====[[Galaxiidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Galaxiella munda]]
+*[[Galaxiella nigrostriata]]
+}}
+=====[[Lepidogalaxiidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Lepidogalaxias salamandroides]]
+}}
+=====[[Retropinnidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Prototroctes maraena]]
+}}
+=====[[Salmonidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Oncorhynchus nerka]] (COLUMBIA RIVER: Okanogan R/Osoyoos Lk)
+*[[Oncorhynchus nerka]] (COLUMBIA RIVER: Wenatchee)
+*[[Salmo cettii]]
+*[[Salvelinus colii]]
+}}
+
+====[[Siluriformes]]====
+=====[[Clariidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Dinotopterus cunningtoni]]
+}}
+=====[[Ictaluridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Noturus munitus]]
+*[[Noturus placidus]]
+}}
+=====[[Mochokidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Synodontis victoriae]]
+}}
+=====[[Sisoridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Glyptothorax interspinalum]]
+}}
+=====[[Trichomycteridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Trichomycterus laucaensis]]
+*[[Trichomycterus rivulatus]]
+}}
+====[[Synbranchiformes]]====
+=====[[Chaudhuriidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Garo khajuriai]]
+}}
+=====[[Synbranchidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Monopterus indicus]]
+}}
+====[[Syngnathiformes]]====
+=====[[Syngnathidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Phycodurus eques]]
+*[[Phyllopteryx taeniolatus]]
+}}
+===[[Amphibia]]===
+====[[Frog|Anura]]====
+=====[[Alytidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Alytes cisternasii]]
+*[[Alytes maurus]]
+*[[Discoglossus jeanneae]]
+*[[Discoglossus montalentii]]
+}}
+=====[[Amphignathodontidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Gastrotheca andaquiensis]]
+*[[Gastrotheca aureomaculata]]
+}}
+=====[[Aromobatidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Allobates mcdiarmidi]]
+*[[Mannophryne herminae]]
+*[[Mannophryne venezuelensis]]
+}}
+=====[[Arthroleptidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Arthroleptis pyrrhoscelis]]
+*[[Arthroleptis reichei]]
+*[[Astylosternus montanus]]
+*[[Cardioglossa nigromaculata]]
+*[[Leptodactylodon ovatus]]
+*[[Leptopelis kivuensis]]
+*[[Leptopelis macrotis]]
+*[[Leptopelis occidentalis]]
+*[[Leptopelis yaldeni]]
+*[[Leptopelis zebra]]
+}}
+=====[[Brachycephalidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Ischnocnema epipeda]]
+*[[Ischnocnema manezinho]]
+*[[Ischnocnema oea]]
+}}
+=====[[Bufonidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Amietophrynus togoensis]]
+*[[Anaxyrus boreas]]
+*[[Anaxyrus mexicanus]]
+*[[Ansonia albomaculata]]
+*[[Ansonia hanitschi]]
+*[[Ansonia longidigita]]
+*[[Ansonia minuta]]
+*[[Ansonia spinulifer]]
+*[[Bufo cryptotympanicus]]
+*[[Bufo pageoti]]
+*[[Bufo parietalis]]
+*[[Bufo tuberculatus]]
+*[[Bufo verrucosissimus]]
+*[[Incilius campbelli]]
+*[[Melanophryniscus admirabilis]]
+*[[Melanophryniscus cupreuscapularis]]
+*[[Melanophryniscus moreirae]]
+*[[Melanophryniscus sanmartini]]
+*[[Mertensophryne lonnbergi]]
+*[[Osornophryne bufoniformis]]
+*[[Pedostibes rugosus]]
+*[[Pelophryne signata]]
+*[[Pseudepidalea brongersmai]]
+*[[Rhaebo blombergi]]
+*[[Rhaebo hypomelas]]
+*[[Rhinella achalensis]]
+*[[Rhinella festae]]
+*[[Rhinella sternosignata]]
+}}
+=====[[Centrolenidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Centrolene antioquiense]]
+*[[Cochranella megistra]]
+*[[Cochranella nola]]
+*[[Cochranella ocellata]]
+*[[Cochranella spiculata]]
+*[[Hyalinobatrachium aureoguttatum]]
+*[[Nymphargus ignotus]]
+}}
+=====[[Ceratobatrachidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Platymantis luzonensis]]
+*[[Platymantis mimulus]]
+*[[Platymantis vitiensis]]
+}}
+=====[[Ceratophryidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Atelognathus jeinimenensis]]
+*[[Ceratophrys ornata]]
+*[[Lepidobatrachus asper]]
+*[[Telmatobius bolivianus]]
+*[[Telmatobius jelskii]]
+*[[Telmatobius simonsi]]
+}}
+=====[[Craugastoridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Craugastor berkenbuschii]]
+*[[Craugastor chac]]
+*[[Craugastor cyanochthebius]]
+*[[Craugastor laticeps]]
+*[[Craugastor podiciferus]]
+*[[Craugastor rostralis]]
+*[[Craugastor yucatanensis]]
+}}
+=====[[Cryptobatrachidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Stefania satelles]]
+}}
+=====[[Cycloramphidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Alsodes nodosus]]
+*[[Crossodactylodes bokermanni]]
+*[[Crossodactylodes izecksohni]]
+*[[Cycloramphus brasiliensis]]
+*[[Cycloramphus semipalmatus]]
+*[[Eupsophus roseus]]
+*[[Eupsophus vertebralis]]
+*[[Proceratophrys bigibbosa]]
+*[[Rupirana cardosoi]]
+*[[Thoropa saxatilis]]
+}}
+=====[[Dendrobatidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Ameerega bassleri]]
+*[[Colostethus agilis]]
+*[[Colostethus fraterdanieli]]
+*[[Epipedobates anthonyi]]
+*[[Epipedobates machalilla]]
+*[[Hyloxalus fascianigrus]]
+*[[Hyloxalus infraguttatus]]
+*[[Hyloxalus lehmanni]]
+*[[Hyloxalus shuar]]
+*[[Oophaga sylvatica]]
+*[[Phyllobates aurotaenia]]
+*[[Phyllobates bicolor]]
+*[[Silverstoneia nubicola]]
+}}
+=====[[Dicroglossidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Limnonectes asperatus]]
+*[[Limnonectes blythii]]
+*[[Limnonectes dammermani]]
+*[[Limnonectes ibanorum]]
+*[[Limnonectes ingeri]]
+*[[Limnonectes macrocephalus]]
+*[[Limnonectes magnus]]
+*[[Limnonectes malesianus]]
+*[[Limnonectes paramacrodon]]
+*[[Limnonectes rhacoda]]
+*[[Limnonectes tweediei]]
+*[[Nanorana annandalii]]
+*[[Nanorana arnoldi]]
+*[[Nanorana ercepeae]]
+*[[Nanorana pleskei]]
+*[[Nanorana quadranus]]
+*[[Occidozyga baluensis]]
+*[[Quasipaa verrucospinosa]]
+}}
+=====[[Eleutherodactylidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Eleutherodactylus dimidiatus]]
+*[[Eleutherodactylus eileenae]]
+*[[Eleutherodactylus flavescens]]
+*[[Eleutherodactylus glaucoreius]]
+*[[Eleutherodactylus martinicensis]]
+*[[Eleutherodactylus pantoni]]
+}}
+=====[[Hemiphractidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Hemiphractus bubalus]]
+*[[Hemiphractus fasciatus]]
+}}
+=====[[Hylidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Aplastodiscus cavicola]]
+*[[Aplastodiscus eugenioi]]
+*[[Aplastodiscus weygoldti]]
+*[[Ecnomiohyla miotympanum]]
+*[[Hyla andersonii]]
+*[[Hyla euphorbiacea]]
+*[[Hyloscirtus alytolylax]]
+*[[Hyloscirtus bogotensis]]
+*[[Hyloscirtus callipeza]]
+*[[Hyloscirtus jahni]]
+*[[Hyloscirtus larinopygion]]
+*[[Hypsiboas alboniger]]
+*[[Hypsiboas cipoensis]]
+*[[Isthmohyla melacaena]]
+*[[Isthmohyla picadoi]]
+*[[Isthmohyla zeteki]]
+*[[Litoria jungguy]]
+*[[Litoria pearsoniana]]
+*[[Phrynomedusa appendiculata]]
+*[[Ptychohyla euthysanota]]
+*[[Scinax oreites]]
+*[[Scinax trapicheiroi]]
+*[[Smilisca cyanosticta]]
+*[[Xenohyla truncata]]
+}}
+=====[[Hylodidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Crossodactylus schmidti]]
+}}
+=====[[Hyperoliidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Acanthixalus sonjae]]
+*[[Afrixalus nigeriensis]]
+*[[Afrixalus vibekensis]]
+*[[Heterixalus carbonei]]
+*[[Heterixalus rutenbergi]]
+*[[Hyperolius acutirostris]]
+*[[Hyperolius ademetzi]]
+*[[Hyperolius bopeleti]]
+*[[Hyperolius chlorosteus]]
+*[[Hyperolius wermuthi]]
+*[[Hyperolius zonatus]]
+*[[Kassina cochranae]]
+}}
+=====[[Leiuperidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Pleurodema bibroni]]
+*[[Pleurodema kriegi]]
+}}
+=====[[Leptodactylidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Leptodactylus laticeps]]
+*[[Leptodactylus turimiquensis]]
+}}
+=====[[Mantellidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Boophis majori]]
+*[[Boophis occidentalis]]
+*[[Boophis rhodoscelis]]
+*[[Boophis rufioculis]]
+*[[Gephyromantis blanci]]
+*[[Gephyromantis decaryi]]
+*[[Gephyromantis leucocephalus]]
+*[[Gephyromantis leucomaculatus]]
+*[[Gephyromantis plicifer]]
+*[[Gephyromantis spiniferus]]
+*[[Mantella laevigata]]
+*[[Mantidactylus cowanii]]
+*[[Spinomantis bertini]]
+}}
+=====[[Megophryidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Leptobrachium ailaonicum]]
+*[[Leptolalax dringi]]
+*[[Leptolalax gracilis]]
+*[[Leptolalax maurus]]
+*[[Megophrys kobayashii]]
+*[[Oreolalax lichuanensis]]
+*[[Oreolalax rugosus]]
+*[[Oreolalax schmidti]]
+*[[Xenophrys baluensis]]
+*[[Xenophrys binchuanensis]]
+*[[Xenophrys dringi]]
+*[[Xenophrys longipes]]
+*[[Xenophrys mangshanensis]]
+*[[Xenophrys omeimontis]]
+}}
+=====[[Micrixalidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Micrixalus fuscus]]
+}}
+=====[[Microhylidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Cophixalus bombiens]]
+*[[Cophixalus crepitans]]
+*[[Cophixalus exiguus]]
+*[[Dyscophus antongilii]]
+*[[Elachistocleis erythrogaster]]
+*[[Glyphoglossus molossus]]
+*[[Kalophrynus baluensis]]
+*[[Kalophrynus nubicola]]
+*[[Kalophrynus subterrestris]]
+*[[Kaloula kokacii]]
+*[[Kaloula mediolineata]]
+*[[Microhyla perparva]]
+*[[Microhyla petrigena]]
+*[[Oreophryne jeffersoniana]]
+*[[Ramanella montana]]
+*[[Ramanella obscura]]
+*[[Scaphiophryne madagascariensis]]
+}}
+=====[[Myobatrachidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Adelotus brevis]]
+*[[Geocrinia lutea]]
+*[[Pseudophryne bibronii]]
+*[[Taudactylus liemi]]
+}}
+=====[[Pelobatidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Pelobates cultripes]]
+}}
+=====[[Pelodytidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Pelodytes caucasicus]]
+}}
+=====[[Petropedetidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Petropedetes cameronensis]]
+*[[Petropedetes johnstoni]]
+*[[Petropedetes natator]]
+}}
+=====[[Phrynobatrachidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Phrynobatrachus alleni]]
+*[[Phrynobatrachus guineensis]]
+*[[Phrynobatrachus liberiensis]]
+*[[Phrynobatrachus phyllophilus]]
+}}
+=====[[Pipidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Xenopus amieti]]
+}}
+=====[[Ptychadenidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Lanzarana largeni]]
+*[[Ptychadena erlangeri]]
+*[[Ptychadena superciliaris]]
+}}
+=====[[Pyxicephalidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Arthroleptella landdrosia]]
+*[[Arthroleptella lightfooti]]
+*[[Poyntonia paludicola]]
+*[[Strongylopus wageri]]
+}}
+=====[[Ranidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Amolops cremnobatus]]
+*[[Amolops daiyunensis]]
+*[[Amolops lifanensis]]
+*[[Amolops viridimaculatus]]
+*[[Clinotarsus curtipes]]
+*[[Glandirana tientaiensis]]
+*[[Hylarana banjarana]]
+*[[Hylarana chitwanensis]]
+*[[Hylarana luzonensis]]
+*[[Hylarana macrops]]
+*[[Hylarana moellendorffi]]
+*[[Hylarana mortenseni]]
+*[[Hylarana similis]]
+*[[Hylarana temporalis]]
+*[[Meristogenys kinabaluensis]]
+*[[Meristogenys phaeomerus]]
+*[[Meristogenys poecilus]]
+*[[Meristogenys whiteheadi]]
+*[[Odorrana chapaensis]]
+*[[Odorrana grahami]]
+*[[Odorrana lungshengensis]]
+*[[Pelophylax caralitanus]]
+*[[Pelophylax grafi]]
+*[[Pelophylax nigromaculatus]]
+*[[Rana areolata]]
+*[[Rana boylii]]
+*[[Rana capito]]
+*[[Rana cascadae]]
+*[[Rana iberica]]
+*[[Rana juliani]]
+*[[Rana neovolcanica]]
+*[[Staurois tuberilinguis]]
+}}
+
+=====[[Rhacophoridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Feihyla palpebralis]]
+*[[Nyctixalus pictus]]
+*[[Philautus beddomii]]
+*[[Philautus hosii]]
+*[[Philautus longicrus]]
+*[[Philautus mjobergi]]
+*[[Philautus rus]]
+*[[Philautus sordidus]]
+*[[Philautus stictomerus]]
+*[[Rhacophorus baluensis]]
+*[[Rhacophorus bifasciatus]]
+*[[Rhacophorus calcaneus]]
+*[[Rhacophorus dulitensis]]
+*[[Rhacophorus everetti]]
+*[[Rhacophorus gauni]]
+*[[Rhacophorus gongshanensis]]
+*[[Rhacophorus harrissoni]]
+*[[Rhacophorus kajau]]
+*[[Rhacophorus monticola]]
+*[[Rhacophorus nigropunctatus]]
+*[[Rhacophorus prasinatus]]
+*[[Rhacophorus reinwardtii]]
+*[[Rhacophorus rufipes]]
+*[[Rhacophorus taipeianus]]
+*[[Rhacophorus zhaojuensis]]
+*[[Theloderma rhododiscus]]
+*[[Theloderma stellatum]]
+}}
+=====[[Scaphiopodidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Spea hammondii]]
+}}
+=====[[Strabomantidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Noblella lochites]]
+*[[Pristimantis alalocophus]]
+*[[Pristimantis altae]]
+*[[Pristimantis anolirex]]
+*[[Pristimantis caryophyllaceus]]
+*[[Pristimantis celator]]
+*[[Pristimantis galdi]]
+*[[Pristimantis illotus]]
+*[[Pristimantis juanchoi]]
+*[[Pristimantis jubatus]]
+*[[Pristimantis kareliae]]
+*[[Pristimantis luteolateralis]]
+*[[Pristimantis megalops]]
+*[[Pristimantis miyatai]]
+*[[Pristimantis molybrignus]]
+*[[Pristimantis pardalis]]
+*[[Pristimantis percnopterus]]
+*[[Pristimantis riveti]]
+*[[Pristimantis roseus]]
+*[[Pristimantis sanctaemartae]]
+*[[Pristimantis sanguineus]]
+*[[Pristimantis savagei]]
+*[[Pristimantis silverstonei]]
+*[[Pristimantis simoterus]]
+*[[Pristimantis spinosus]]
+*[[Pristimantis tamsitti]]
+*[[Pristimantis tayrona]]
+*[[Pristimantis vanadise]]
+*[[Pristimantis vicarius]]
+*[[Pristimantis viridis]]
+}}
+====[[Caudata]]====
+=====[[Ambystomatidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Ambystoma barbouri]]
+*[[Dicamptodon ensatus]]
+}}
+=====[[Amphiumidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Amphiuma pholeter]]
+}}
+=====[[Cryptobranchidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Andrias japonicus]]
+*[[Cryptobranchus alleganiensis]]
+}}
+=====[[Hynobiidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Liua shihi]]
+*[[Paradactylodon persicus]]
+}}
+=====[[Plethodontidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Aneides aeneus]]
+*[[Aneides ferreus]]
+*[[Aneides flavipunctatus]]
+*[[Aneides vagrans]]
+*[[Batrachoseps robustus]]
+*[[Bolitoglossa borburata]]
+*[[Bolitoglossa cuchumatana]]
+*[[Bolitoglossa dofleini]]
+*[[Bolitoglossa hartwegi]]
+*[[Bolitoglossa helmrichi]]
+*[[Bolitoglossa hermosa]]
+*[[Bolitoglossa lincolni]]
+*[[Bolitoglossa macrinii]]
+*[[Bolitoglossa platydactyla]]
+*[[Bolitoglossa tatamae]]
+*[[Bolitoglossa walkeri]]
+*[[Chiropterotriton priscus]]
+*[[Desmognathus abditus]]
+*[[Desmognathus aeneus]]
+*[[Eurycea tynerensis]]
+*[[Nototriton picadoi]]
+*[[Nototriton richardi]]
+*[[Oedipina uniformis]]
+*[[Plethodon caddoensis]]
+*[[Plethodon elongatus]]
+*[[Plethodon jordani]]
+*[[Plethodon larselli]]
+*[[Plethodon neomexicanus]]
+*[[Plethodon nettingi]]
+*[[Plethodon ouachitae]]
+*[[Plethodon punctatus]]
+*[[Plethodon virginia]]
+*[[Pseudoeurycea cephalica]]
+*[[Pseudoeurycea galeanae]]
+*[[Pseudoeurycea papenfussi]]
+*[[Speleomantes ambrosii]]
+*[[Speleomantes imperialis]]
+*[[Speleomantes italicus]]
+*[[Speleomantes strinatii]]
+}}
+=====[[Proteidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Necturus lewisi]]
+}}
+=====[[Rhyacotritonidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Rhyacotriton cascadae]]
+*[[Rhyacotriton kezeri]]
+}}
+=====[[Salamandridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Calotriton asper]]
+*[[Notophthalmus perstriatus]]
+*[[Ommatotriton ophryticus]]
+*[[Paramesotriton caudopunctatus]]
+*[[Paramesotriton hongkongensis]]
+*[[Pleurodeles waltl]]
+*[[Salamandra infraimmaculata]]
+*[[Triturus dobrogicus]]
+*[[Triturus pygmaeus]]
+*[[Tylototriton asperrimus]]
+*[[Tylototriton shanjing]]
+*[[Tylototriton taliangensis]]
+*[[Tylototriton vietnamensis]]
+}}
+===[[Aves]]===
+====[[Anseriformes]]====
+=====[[Anatidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Anas falcata]]
+*[[Aythya nyroca]]
+*[[Chen canagica]]
+*[[Neochen jubata]]
+*[[Oxyura australis]]
+*[[Oxyura maccoa]]
+*[[Speculanas specularis]]
+*[[Tachyeres leucocephalus]]
+}}
+=====[[Anhimidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Chauna chavaria]]
+}}
+====[[Apodiformes]]====
+=====[[Apodidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Collocalia francica]]
+*[[Collocalia vulcanorum]]
+*[[Cypseloides rothschildi]]
+*[[Hydrochous gigas]]
+*[[Mearnsia picina]]
+}}
+=====[[Trochilidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Augastes lumachella]]
+*[[Augastes scutatus]]
+*[[Campylopterus ensipennis]]
+*[[Campylopterus excellens]]
+*[[Campylopterus villaviscensio]]
+*[[Doricha eliza]]
+*[[Eriocnemis cupreoventris]]
+*[[Eriocnemis derbyi]]
+*[[Goethalsia bella]]
+*[[Haplophaedia lugens]]
+*[[Heliodoxa gularis]]
+*[[Mellisuga helenae]]
+*[[Metallura odomae]]
+*[[Oreotrochilus adela]]
+*[[Phaethornis koepckeae]]
+*[[Phlogophilus harterti]]
+*[[Phlogophilus hemileucurus]]
+*[[Ramphodon naevius]]
+*[[Thalurania watertonii]]
+}}
+====[[Caprimulgiformes]]====
+=====[[Caprimulgidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Caprimulgus pulchellus]]
+*[[Eleothreptus anomalus]]
+*[[Nyctiphrynus rosenbergi]]
+*[[Nyctiprogne vielliardi]]
+*[[Siphonorhis brewsteri]]
+}}
+=====[[Podargidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Batrachostomus auritus]]
+*[[Batrachostomus harterti]]
+*[[Batrachostomus mixtus]]
+*[[Batrachostomus poliolophus]]
+*[[Batrachostomus stellatus]]
+}}
+====[[Charadriiformes]]====
+=====[[Alcidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Brachyramphus perdix]]
+}}
+=====[[Burhinidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Burhinus grallarius]]
+*[[Esacus giganteus]]
+}}
+=====[[Charadriidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Charadrius javanicus]]
+*[[Charadrius melodus]]
+*[[Charadrius montanus]]
+*[[Charadrius pallidus]]
+*[[Charadrius peronii]]
+*[[Phegornis mitchellii]]
+*[[Thinornis rubricollis]]
+}}
+=====[[Chionidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Pluvianellus socialis]]
+}}
+=====[[Glareolidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Glareola nordmanni]]
+}}
+=====[[Haematopodidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Haematopus moquini]]
+}}
+=====[[Laridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Larosterna inca]]
+*[[Larus audouinii]]
+*[[Larus heermanni]]
+*[[Larus leucophthalmus]]
+*[[Pagophila eburnea]]
+*[[Rynchops flavirostris]]
+*[[Sterna acuticauda]]
+*[[Sterna balaenarum]]
+*[[Sterna elegans]]
+*[[Sterna virgata]]
+}}
+=====[[Scolopacidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Coenocorypha aucklandica]]
+*[[Gallinago imperialis]]
+*[[Gallinago macrodactyla]]
+*[[Gallinago media]]
+*[[Gallinago stricklandii]]
+*[[Limnodromus semipalmatus]]
+*[[Limosa limosa]]
+*[[Numenius arquata]]
+*[[Scolopax celebensis]]
+*[[Scolopax saturata]]
+*[[Tryngites subruficollis]]
+}}
+====[[Ciconiiformes]]====
+=====[[Ardeidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Egretta rufescens]]
+*[[Zonerodius heliosylus]]
+}}
+=====[[Ciconiidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Ephippiorhynchus asiaticus]]
+*[[Mycteria leucocephala]]
+}}
+=====[[Threskiornithidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Lophotibis cristata]]
+*[[Threskiornis melanocephalus]]
+}}
+====[[Columbiformes]]====
+=====[[Columbidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Caloenas nicobarica]]
+*[[Columba albinucha]]
+*[[Columba bollii]]
+*[[Columba janthina]]
+*[[Columba palumboides]]
+*[[Columba pollenii]]
+*[[Columba trocaz]]
+*[[Drepanoptila holosericea]]
+*[[Ducula finschii]]
+*[[Ducula goliath]]
+*[[Ducula oceanica]]
+*[[Ducula poliocephala]]
+*[[Ducula rosacea]]
+*[[Ducula rubricera]]
+*[[Ducula subflavescens]]
+*[[Gallicolumba canifrons]]
+*[[Gallicolumba luzonica]]
+*[[Gallicolumba xanthonura]]
+*[[Geophaps smithii]]
+*[[Geotrygon goldmani]]
+*[[Geotrygon versicolor]]
+*[[Hemiphaga novaeseelandiae]]
+*[[Macropygia rufipennis]]
+*[[Patagioenas inornata]]
+*[[Patagioenas leucocephala]]
+*[[Ptilinopus coralensis]]
+*[[Ptilinopus eugeniae]]
+*[[Ptilinopus jambu]]
+*[[Ptilinopus layardi]]
+*[[Ptilinopus merrilli]]
+*[[Ptilinopus monacha]]
+*[[Ptilinopus subgularis]]
+*[[Reinwardtoena browni]]
+*[[Reinwardtoena crassirostris]]
+*[[Streptopelia reichenowi]]
+*[[Treron formosae]]
+*[[Treron fulvicollis]]
+*[[Treron oxyurus]]
+*[[Treron teysmannii]]
+*[[Turacoena modesta]]
+}}
+====[[Coraciiformes]]====
+=====[[Alcedinidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Actenoides concretus]]
+*[[Actenoides monachus]]
+*[[Alcedo hercules]]
+*[[Ceyx fallax]]
+*[[Cittura cyanotis]]
+*[[Pelargopsis amauroptera]]
+*[[Tanysiptera carolinae]]
+*[[Tanysiptera riedelii]]
+*[[Todiramphus albonotatus]]
+*[[Todiramphus australasia]]
+*[[Todiramphus enigma]]
+*[[Todiramphus farquhari]]
+*[[Todiramphus lazuli]]
+}}
+=====[[Brachypteraciidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Atelornis crossleyi]]
+}}
+=====[[Bucerotidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Aceros comatus]]
+*[[Aceros corrugatus]]
+*[[Aceros leucocephalus]]
+*[[Anorrhinus austeni]]
+*[[Anorrhinus tickelli]]
+*[[Anthracoceros coronatus]]
+*[[Anthracoceros malayanus]]
+*[[Buceros bicornis]]
+*[[Buceros hydrocorax]]
+*[[Buceros rhinoceros]]
+*[[Bycanistes cylindricus]]
+*[[Ceratogymna elata]]
+*[[Rhinoplax vigil]]
+}}
+=====[[Coraciidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Coracias garrulus]]
+*[[Eurystomus azureus]]
+}}
+====[[Cuculiformes]]====
+=====[[Cuculidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Cacomantis heinrichi]]
+*[[Carpococcyx radiatus]]
+*[[Centropus chalybeus]]
+*[[Centropus unirufus]]
+*[[Centropus violaceus]]
+*[[Coua verreauxi]]
+*[[Cuculus vagans]]
+*[[Neomorphus squamiger]]
+*[[Phaenicophaeus diardi]]
+*[[Phaenicophaeus sumatranus]]
+}}
+=====[[Musophagidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Tauraco fischeri]]
+}}
+====[[Falconiformes]]====
+=====[[Accipitridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Accipiter collaris]]
+*[[Accipiter haplochrous]]
+*[[Accipiter henstii]]
+*[[Accipiter madagascariensis]]
+*[[Accipiter nanus]]
+*[[Aegypius monachus]]
+*[[Aquila gurneyi]]
+*[[Buteo solitarius]]
+*[[Buteo ventralis]]
+*[[Buteogallus gundlachii]]
+*[[Circaetus fasciolatus]]
+*[[Circus macrourus]]
+*[[Elanus scriptus]]
+*[[Gyps africanus]]
+*[[Gyps rueppellii]]
+*[[Harpia harpyja]]
+*[[Harpyhaliaetus solitarius]]
+*[[Ichthyophaga humilis]]
+*[[Ichthyophaga ichthyaetus]]
+*[[Leucopternis plumbeus]]
+*[[Leucopternis polionotus]]
+*[[Megatriorchis doriae]]
+*[[Milvus milvus]]
+*[[Morphnus guianensis]]
+*[[Polemaetus bellicosus]]
+*[[Spilornis elgini]]
+*[[Spilornis klossi]]
+*[[Spizaetus isidori]]
+*[[Terathopius ecaudatus]]
+}}
+=====[[Cathartidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Vultur gryphus]]
+}}
+=====[[Falconidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Falco concolor]]
+*[[Falco fasciinucha]]
+*[[Falco hypoleucos]]
+*[[Falco jugger]]
+*[[Falco novaeseelandiae]]
+*[[Falco vespertinus]]
+*[[Microhierax latifrons]]
+*[[Phalcoboenus australis]]
+*[[Polihierax insignis]]
+}}
+====[[Galliformes]]====
+=====[[Cracidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Aburria aburri]]
+*[[Chamaepetes unicolor]]
+*[[Crax daubentoni]]
+*[[Ortalis superciliaris]]
+*[[Penelope pileata]]
+}}
+=====[[Megapodiidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Megapodius bernsteinii]]
+*[[Megapodius tenimberensis]]
+}}
+=====[[Odontophoridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Colinus virginianus]]
+*[[Cyrtonyx ocellatus]]
+*[[Odontophorus columbianus]]
+*[[Odontophorus hyperythrus]]
+}}
+=====[[Phasianidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Anurophasis monorthonyx]]
+*[[Arborophila atrogularis]]
+*[[Arborophila charltonii]]
+*[[Arborophila crudigularis]]
+*[[Arborophila davidi]]
+*[[Argusianus argus]]
+*[[Bonasa sewerzowi]]
+*[[Caloperdix oculeus]]
+*[[Centrocercus urophasianus]]
+*[[Crossoptilon crossoptilon]]
+*[[Crossoptilon harmani]]
+*[[Dendragapus falcipennis]]
+*[[Francolinus griseostriatus]]
+*[[Francolinus streptophorus]]
+*[[Lophura diardi]]
+*[[Lophura ignita]]
+*[[Lophura swinhoii]]
+*[[Meleagris ocellata]]
+*[[Polyplectron germaini]]
+*[[Rheinardia ocellata]]
+*[[Rhizothera longirostris]]
+*[[Rollulus rouloul]]
+*[[Syrmaticus humiae]]
+*[[Syrmaticus mikado]]
+*[[Syrmaticus soemmerringii]]
+*[[Tetrao mlokosiewiczi]]
+*[[Tragopan satyra]]
+}}
+====[[Gruiformes]]====
+=====[[Gruidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Balearica pavonina]]
+}}
+=====[[Otididae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Ardeotis australis]]
+*[[Eupodotis caerulescens]]
+*[[Eupodotis humilis]]
+*[[Neotis denhami]]
+*[[Neotis nuba]]
+*[[Tetrax tetrax]]
+}}
+=====[[Rallidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Crex crex]]
+*[[Fulica caribaea]]
+*[[Fulica cornuta]]
+*[[Gallirallus insignis]]
+*[[Gallirallus rovianae]]
+*[[Laterallus jamaicensis]]
+*[[Megacrex inepta]]
+*[[Nesoclopeus woodfordi]]
+*[[Porzana paykullii]]
+*[[Rallina canningi]]
+*[[Rallina leucospila]]
+*[[Rougetius rougetii]]
+}}
+=====[[Turnicidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Turnix castanotus]]
+}}
+====[[Passeriformes]]====
+=====[[Acanthizidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Aphelocephala pectoralis]]
+}}
+=====[[Aegithinidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Aegithina viridissima]]
+}}
+=====[[Alaudidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Certhilauda brevirostris]]
+*[[Chersophilus duponti]]
+*[[Mirafra cheniana]]
+*[[Spizocorys sclateri]]
+}}
+=====[[Bombycillidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Bombycilla japonica]]
+}}
+=====[[Callaeatidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Philesturnus carunculatus]]
+}}
+=====[[Campephagidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Coracina analis]]
+*[[Coracina bicolor]]
+*[[Coracina dispar]]
+*[[Coracina fortis]]
+*[[Coracina graueri]]
+*[[Coracina holopolia]]
+*[[Coracina mcgregori]]
+*[[Lalage sharpei]]
+*[[Pericrocotus igneus]]
+}}
+=====[[Cardinalidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Saltator cinctus]]
+*[[Saltator rufiventris]]
+}}
+=====[[Certhiidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Certhia tianquanensis]]
+}}
+=====[[Chloropseidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Chloropsis cyanopogon]]
+*[[Chloropsis venusta]]
+}}
+=====[[Cisticolidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Apalis lynesi]]
+*[[Cisticola haesitatus]]
+*[[Prinia burnesii]]
+}}
+=====[[Cnemophilidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Loboparadisea sericea]]
+}}
+=====[[Colluricinclidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Pitohui incertus]]
+}}
+=====[[Corvidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Aphelocoma insularis]]
+*[[Corvus fuscicapillus]]
+*[[Corvus palmarum]]
+*[[Corvus torquatus]]
+*[[Crypsirina cucullata]]
+*[[Cyanocorax caeruleus]]
+*[[Cyanocorax dickeyi]]
+*[[Cyanolyca pulchra]]
+*[[Dendrocitta bayleyi]]
+*[[Platylophus galericulatus]]
+*[[Platysmurus leucopterus]]
+*[[Podoces biddulphi]]
+}}
+=====[[Cotingidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Carpornis cucullata]]
+*[[Iodopleura pipra]]
+*[[Lipaugus lanioides]]
+*[[Phibalura flavirostris]]
+*[[Pipreola chlorolepidota]]
+*[[Tijuca atra]]
+}}
+=====[[Dendrocolaptidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Campylorhamphus pucherani]]
+}}
+=====[[Dicaeidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Dicaeum anthonyi]]
+*[[Dicaeum everetti]]
+*[[Dicaeum proprium]]
+*[[Dicaeum vincens]]
+*[[Prionochilus thoracicus]]
+}}
+=====[[Dicruridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Dicrurus aldabranus]]
+*[[Dicrurus andamanensis]]
+*[[Dicrurus sumatranus]]
+}}
+=====[[Emberizidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Aimophila aestivalis]]
+*[[Aimophila notosticta]]
+*[[Aimophila sumichrasti]]
+*[[Amaurospiza moesta]]
+*[[Ammodramus henslowii]]
+*[[Arremon franciscanus]]
+*[[Atlapetes fuscoolivaceus]]
+*[[Atlapetes rufigenis]]
+*[[Atlapetes terborghi]]
+*[[Calcarius ornatus]]
+*[[Charitospiza eucosma]]
+*[[Emberiza cineracea]]
+*[[Emberiza koslowi]]
+*[[Emberiza yessoensis]]
+*[[Emberizoides duidae]]
+*[[Embernagra longicauda]]
+*[[Incaspiza watkinsi]]
+*[[Oryzoborus maximiliani]]
+*[[Passerina ciris]]
+*[[Passerina rositae]]
+*[[Plectrophenax hyperboreus]]
+*[[Porphyrospiza caerulescens]]
+*[[Sporophila hypochroma]]
+*[[Sporophila melanogaster]]
+*[[Sporophila ruficollis]]
+*[[Xenospingus concolor]]
+}}
+=====[[Estrildidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Erythrura coloria]]
+*[[Estrilda thomensis]]
+*[[Lonchura stygia]]
+*[[Neochmia ruficauda]]
+*[[Padda fuscata]]
+*[[Parmoptila rubrifrons]]
+*[[Poephila cincta]]
+*[[Stagonopleura guttata]]
+}}
+=====[[Eupetidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Eupetes macrocerus]]
+*[[Psophodes nigrogularis]]
+}}
+=====[[Eurylaimidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Calyptomena hosii]]
+*[[Calyptomena viridis]]
+*[[Eurylaimus ochromalus]]
+}}
+=====[[Formicariidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Formicarius rufifrons]]
+*[[Grallaria blakei]]
+*[[Grallaria eludens]]
+*[[Grallaricula lineifrons]]
+*[[Grallaricula loricata]]
+*[[Grallaricula peruviana]]
+*[[Hylopezus ochroleucus]]
+*[[Pittasoma rufopileatum]]
+}}
+=====[[Fringillidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Carduelis monguilloti]]
+*[[Carpodacus cassinii]]
+*[[Fringilla teydea]]
+*[[Rhynchostruthus louisae]]
+*[[Rhynchostruthus percivali]]
+*[[Serinus melanochrous]]
+}}
+=====[[Furnariidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Anabacerthia amaurotis]]
+*[[Asthenes berlepschi]]
+*[[Asthenes heterura]]
+*[[Asthenes urubambensis]]
+*[[Cinclodes pabsti]]
+*[[Clibanornis dendrocolaptoides]]
+*[[Gyalophylax hellmayri]]
+*[[Leptasthenura setaria]]
+*[[Leptasthenura yanacensis]]
+*[[Limnoctites rectirostris]]
+*[[Margarornis bellulus]]
+*[[Margarornis stellatus]]
+*[[Simoxenops striatus]]
+*[[Simoxenops ucayalae]]
+*[[Spartonoica maluroides]]
+*[[Synallaxis cherriei]]
+*[[Xenerpestes singularis]]
+}}
+=====[[Icteridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Icterus laudabilis]]
+}}
+=====[[Laniidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Lanius validirostris]]
+}}
+=====[[Malaconotidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Laniarius mufumbiri]]
+*[[Malaconotus lagdeni]]
+*[[Prionops poliolophus]]
+}}
+=====[[Maluridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Amytornis dorotheae]]
+}}
+=====[[Meliphagidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Lichmera notabilis]]
+*[[Melidectes whitemanensis]]
+*[[Myzomela kuehni]]
+*[[Myzomela malaitae]]
+*[[Philemon brassi]]
+}}
+=====[[Menuridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Menura alberti]]
+}}
+=====[[Mimidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Melanoptila glabrirostris]]
+}}
+=====[[Monarchidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Hypothymis helenae]]
+*[[Lamprolia victoriae]]
+*[[Mayrornis schistaceus]]
+*[[Monarcha barbatus]]
+*[[Monarcha browni]]
+*[[Monarcha godeffroyi]]
+*[[Monarcha infelix]]
+*[[Monarcha leucurus]]
+*[[Monarcha menckei]]
+*[[Myiagra atra]]
+*[[Myiagra cervinicauda]]
+*[[Terpsiphone atrocaudata]]
+*[[Terpsiphone bedfordi]]
+*[[Terpsiphone cyanescens]]
+}}
+=====[[Motacillidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Anthus antarcticus]]
+*[[Anthus melindae]]
+*[[Anthus nilghiriensis]]
+*[[Macronyx flavicollis]]
+*[[Motacilla samveasnae]]
+}}
+=====[[Muscicapidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Cyornis lemprieri]]
+*[[Cyornis turcosus]]
+*[[Enicurus ruficapillus]]
+*[[Erithacus komadori]]
+*[[Eumyias albicaudatus]]
+*[[Eumyias sordidus]]
+*[[Ficedula disposita]]
+*[[Ficedula dumetoria]]
+*[[Ficedula henrici]]
+*[[Ficedula nigrorufa]]
+*[[Ficedula rufigula]]
+*[[Ficedula semitorquata]]
+*[[Ficedula timorensis]]
+*[[Luscinia pectardens]]
+*[[Muscicapa segregata]]
+*[[Philentoma velata]]
+*[[Phoenicurus alaschanicus]]
+*[[Rhinomyias additus]]
+*[[Rhinomyias colonus]]
+*[[Rhinomyias goodfellowi]]
+*[[Rhinomyias umbratilis]]
+*[[Saxicola gutturalis]]
+*[[Sheppardia gunningi]]
+*[[Trichixos pyrropygus]]
+*[[Xenocopsychus ansorgei]]
+}}
+=====[[Nectariniidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Aethopyga boltoni]]
+*[[Aethopyga linaraborae]]
+*[[Aethopyga primigenia]]
+*[[Anthreptes reichenowi]]
+*[[Anthreptes rhodolaemus]]
+*[[Nectarinia moreaui]]
+*[[Nectarinia neergardi]]
+*[[Nectarinia ursulae]]
+}}
+=====[[Oriolidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Oriolus hosii]]
+*[[Oriolus xanthonotus]]
+*[[Sphecotheres hypoleucus]]
+}}
+=====[[Pachycephalidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Pachycephala jacquinoti]]
+*[[Pachycephala rufogularis]]
+}}
+=====[[Paradisaeidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Astrapia mayeri]]
+*[[Cicinnurus respublica]]
+*[[Epimachus bruijnii]]
+*[[Paradigalla carunculata]]
+*[[Paradisaea decora]]
+*[[Paradisaea guilielmi]]
+*[[Paradisaea rubra]]
+}}
+=====[[Paridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Parus amabilis]]
+*[[Parus holsti]]
+*[[Parus semilarvatus]]
+}}
+=====[[Parulidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Myiothlypis cinereicollis]]
+*[[Myiothlypis conspicillatus]]
+*[[Setophaga kirtlandii]]
+*[[Setophaga subita]]
+*[[Setophaga vitellina]]
+*[[Myioborus albifrons]]
+*[[Myioborus cardonai]]
+*[[Vermivora chrysoptera]]
+*[[Oreothlypis crissalis]]
+}}
+
+=====[[Petroicidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Microeca hemixantha]]
+*[[Petroica phoenicea]]
+*[[Poecilodryas placens]]
+}}
+=====[[Philepittidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Philepitta schlegeli]]
+}}
+=====[[Pipridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Xenopipo flavicapilla]]
+}}
+=====[[Pittidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Pitta caerulea]]
+*[[Pitta dohertyi]]
+*[[Pitta granatina]]
+*[[Pitta megarhyncha]]
+}}
+=====[[Pityriaseidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Pityriasis gymnocephala]]
+}}
+=====[[Platysteiridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Batis minima]]
+*[[Platysteira albifrons]]
+}}
+=====[[Ploceidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Euplectes jacksoni]]
+*[[Foudia sechellarum]]
+*[[Ploceus hypoxanthus]]
+*[[Ploceus olivaceiceps]]
+*[[Ploceus spekeoides]]
+}}
+=====[[Polioptilidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Polioptila lactea]]
+}}
+=====[[Prunellidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Prunella fagani]]
+}}
+=====[[Ptilonorhynchidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Archboldia papuensis]]
+*[[Sericulus bakeri]]
+}}
+=====[[Pycnonotidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Alophoixus finschii]]
+*[[Andropadus montanus]]
+*[[Hypsipetes nicobariensis]]
+*[[Iole olivacea]]
+*[[Ixos malaccensis]]
+*[[Ixos rufigularis]]
+*[[Phyllastrephus poliocephalus]]
+*[[Pycnonotus cyaniventris]]
+*[[Pycnonotus eutilotus]]
+*[[Pycnonotus melanoleucos]]
+*[[Pycnonotus penicillatus]]
+*[[Pycnonotus squamatus]]
+*[[Pycnonotus tympanistrigus]]
+}}
+=====[[Rhinocryptidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Eleoscytalopus indigoticus]]
+*[[Melanopareia maranonica]]
+*[[Merulaxis ater]]
+*[[Psilorhamphus guttatus]]
+*[[Scytalopus novacapitalis]]
+}}
+=====[[Rhipiduridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Rhipidura cockerelli]]
+*[[Rhipidura fuscorufa]]
+*[[Rhipidura matthiae]]
+*[[Rhipidura opistherythra]]
+*[[Rhipidura personata]]
+*[[Rhipidura tenebrosa]]
+}}
+=====[[Sittidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Sitta krueperi]]
+*[[Sitta solangiae]]
+*[[Sitta yunnanensis]]
+}}
+=====[[Sturnidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Aplonis crassa]]
+*[[Aplonis feadensis]]
+*[[Aplonis mystacea]]
+*[[Aplonis zelandica]]
+*[[Basilornis galeatus]]
+*[[Basilornis mirandus]]
+*[[Gracula ptilogenys]]
+*[[Lamprotornis cupreocauda]]
+*[[Streptocitta albertinae]]
+}}
+=====[[Sylviidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Acrocephalus kerearako]]
+*[[Bathmocercus cerviniventris]]
+*[[Bernieria cinereiceps]]
+*[[Bradypterus bangwaensis]]
+*[[Bradypterus grandis]]
+*[[Bradypterus major]]
+*[[Bradypterus palliseri]]
+*[[Bradypterus timorensis]]
+*[[Cettia carolinae]]
+*[[Cettia haddeni]]
+*[[Crossleyia xanthophrys]]
+*[[Indian Grassbird|Graminicola bengalensis]]
+*[[Locustella pryeri]]
+*[[Megalurulus llaneae]]
+*[[Megalurulus whitneyi]]
+*[[Orthotomus samarensis]]
+*[[Phylloscopus tytleri]]
+*[[Poliolais lopezi]]
+*[[Sylvia undata]]
+}}
+=====[[Thamnophilidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Cercomacra brasiliana]]
+*[[Cercomacra carbonaria]]
+*[[Drymophila genei]]
+*[[Drymophila ochropyga]]
+*[[Dysithamnus stictothorax]]
+*[[Formicivora iheringi]]
+*[[Herpsilochmus gentryi]]
+*[[Herpsilochmus sellowi]]
+*[[Myrmoborus melanurus]]
+*[[Myrmotherula grisea]]
+*[[Myrmotherula klagesi]]
+*[[Myrmotherula unicolor]]
+*[[Pithys castaneus]]
+*[[Thamnophilus praecox]]
+}}
+=====[[Thraupidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Bangsia arcaei]]
+*[[Conothraupis speculigera]]
+*[[Dacnis nigripes]]
+*[[Dacnis viguieri]]
+*[[Euphonia chalybea]]
+*[[Habia gutturalis]]
+*[[Hemispingus reyi]]
+*[[Iridosornis porphyrocephalus]]
+*[[Neothraupis fasciata]]
+*[[Orchesticus abeillei]]
+*[[Oreomanes fraseri]]
+*[[Phaenicophilus poliocephalus]]
+*[[Tangara fucosa]]
+*[[Tangara johannae]]
+*[[Tangara phillipsi]]
+*[[Thraupis cyanoptera]]
+}}
+=====[[Timaliidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Alcippe brunneicauda]]
+*[[Babax koslowi]]
+*[[Babax waddelli]]
+*[[Crocias albonotatus]]
+*[[Cutia legalleni]]
+*[[Garrulax ferrarius]]
+*[[Garrulax jerdoni]]
+*[[Garrulax milleti]]
+*[[Garrulax nuchalis]]
+*[[Garrulax rufifrons]]
+*[[Garrulax taewanus]]
+*[[Illadopsis rufescens]]
+*[[Jabouilleia danjoui]]
+*[[Kenopia striata]]
+*[[Kupeornis chapini]]
+*[[Kupeornis rufocinctus]]
+*[[Lioptilus nigricapillus]]
+*[[Macronous ptilosus]]
+*[[Malacocincla malaccensis]]
+*[[Malacopteron affine]]
+*[[Malacopteron albogulare]]
+*[[Malacopteron magnum]]
+*[[Malacopteron palawanense]]
+*[[Neomixis flavoviridis]]
+*[[Paradoxornis heudei]]
+*[[Paradoxornis margaritae]]
+*[[Robsonius rabori]]
+*[[Spelaeornis caudatus]]
+*[[Spelaeornis chocolatinus]]
+*[[Sphenocichla humei]]
+*[[Sphenocichla roberti]]
+*[[Stachyris dennistouni]]
+*[[Stachyris grammiceps]]
+*[[Stachyris herberti]]
+*[[Stachyris hypogrammica]]
+*[[Stachyris latistriata]]
+*[[Stachyris leucotis]]
+*[[Stachyris maculata]]
+*[[Stachyris nigricollis]]
+*[[Stachyris plateni]]
+*[[Stachyris pygmaea]]
+*[[Stachyris striata]]
+*[[Trichastoma buettikoferi]]
+*[[Trichastoma rostratum]]
+*[[Turdinus atrigularis]]
+*[[Turdinus macrodactylus]]
+*[[Turdoides rufescens]]
+}}
+=====[[Troglodytidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Campylorhynchus yucatanicus]]
+*[[Henicorhina leucoptera]]
+*[[Hylorchilus sumichrasti]]
+*[[Troglodytes sissonii]]
+}}
+=====[[Turdidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Brachypteryx hyperythra]]
+*[[Geomalia heinrichi]]
+*[[Myadestes elisabeth]]
+*[[Myophonus castaneus]]
+*[[Nesocichla eremita]]
+*[[Turdus haplochrous]]
+*[[Turdus olivaceofuscus]]
+*[[Zoothera crossleyi]]
+*[[Zoothera dohertyi]]
+*[[Zoothera dumasi]]
+*[[Zoothera erythronota]]
+*[[Zoothera everetti]]
+*[[Zoothera imbricata]]
+*[[Zoothera interpres]]
+*[[Zoothera joiceyi]]
+*[[Zoothera leucolaema]]
+*[[Zoothera machiki]]
+*[[Zoothera margaretae]]
+*[[Zoothera mendeni]]
+*[[Zoothera oberlaenderi]]
+*[[Zoothera peronii]]
+*[[Zoothera schistacea]]
+*[[Zoothera spiloptera]]
+*[[Zoothera talaseae]]
+*[[Zoothera tanganjicae]]
+}}
+=====[[Tyrannidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Anairetes fernandezianus]]
+*[[Aphanotriccus audax]]
+*[[Contopus cooperi]]
+*[[Euscarthmus rufomarginatus]]
+*[[Hemitriccus cinnamomeipectus]]
+*[[Hemitriccus orbitatus]]
+*[[Hemitriccus rufigularis]]
+*[[Knipolegus franciscanus]]
+*[[Myiopagis olallai]]
+*[[Myiophobus lintoni]]
+*[[Ochthoeca piurae]]
+*[[Phyllomyias griseocapilla]]
+*[[Phylloscartes difficilis]]
+*[[Phylloscartes eximius]]
+*[[Phylloscartes oustaleti]]
+*[[Phylloscartes paulista]]
+*[[Phylloscartes sylviolus]]
+*[[Phylloscartes venezuelanus]]
+*[[Polystictus pectoralis]]
+*[[Polystictus superciliaris]]
+*[[Pseudocolopteryx dinelliana]]
+*[[Suiriri islerorum]]
+*[[Todirostrum viridanum]]
+*[[Tumbezia salvini]]
+*[[Xenotriccus callizonus]]
+*[[Xenotriccus mexicanus]]
+*[[Xolmis salinarum]]
+}}
+=====[[Vangidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Xenopirostris polleni]]
+}}
+=====[[Vireonidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Vireo bellii]]
+*[[Vireo gracilirostris]]
+*[[Vireo osburni]]
+}}
+=====[[Zosteropidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Heleia muelleri]]
+*[[Megazosterops palauensis]]
+*[[Rukia longirostra]]
+*[[Speirops leucophoeus]]
+*[[Woodfordia lacertosa]]
+*[[Zosterops flavus]]
+*[[Zosterops grayi]]
+*[[Zosterops hypolais]]
+*[[Zosterops kuehni]]
+*[[Zosterops mysorensis]]
+*[[Zosterops oleagineus]]
+*[[Zosterops uropygialis]]
+*[[Zosterops vellalavella]]
+}}
+====[[Pelecaniformes]]====
+=====[[Anhingidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Anhinga melanogaster]]
+}}
+=====[[Pelecanidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Pelecanus philippensis]]
+*[[Pelecanus thagus]]
+}}
+=====[[Phalacrocoracidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Phalacrocorax bougainvillii]]
+*[[Phalacrocorax capensis]]
+*[[Phalacrocorax coronatus]]
+*[[Phalacrocorax gaimardi]]
+}}
+====[[Phoenicopteriformes]]====
+=====[[Phoenicopteridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Phoeniconaias minor]]
+*[[Phoenicoparrus jamesi]]
+*[[Phoenicopterus chilensis]]
+}}
+====[[Piciformes]]====
+=====[[Bucconidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Bucco noanamae]]
+}}
+=====[[Indicatoridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Indicator archipelagicus]]
+*[[Indicator pumilio]]
+*[[Indicator xanthonotus]]
+}}
+=====[[Picidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Campephilus gayaquilensis]]
+*[[Campethera notata]]
+*[[Dendropicos stierlingi]]
+*[[Dinopium rafflesii]]
+*[[Dryocopus hodgei]]
+*[[Dryocopus schulzi]]
+*[[Meiglyptes tukki]]
+*[[Melanerpes erythrocephalus]]
+*[[Melanerpes herminieri]]
+*[[Piculus aurulentus]]
+*[[Picumnus fulvescens]]
+*[[Picumnus fuscus]]
+*[[Picumnus nebulosus]]
+*[[Picus rabieri]]
+*[[Veniliornis chocoensis]]
+}}
+=====[[Ramphastidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Andigena hypoglauca]]
+*[[Andigena laminirostris]]
+*[[Capito squamatus]]
+*[[Lybius rubrifacies]]
+*[[Megalaima henricii]]
+*[[Megalaima javensis]]
+*[[Megalaima mystacophanos]]
+*[[Megalaima rafflesii]]
+*[[Pteroglossus bailloni]]
+*[[Semnornis ramphastinus]]
+}}
+====[[Procellariiformes]]====
+=====[[Diomedeidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Phoebetria palpebrata]]
+*[[Thalassarche bulleri]]
+*[[Thalassarche cauta]]
+*[[Thalassarche steadi]]
+}}
+=====[[Hydrobatidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Oceanodroma tristrami]]
+}}
+=====[[Procellariidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Bulweria fallax]]
+*[[Calonectris edwardsii]]
+*[[Procellaria cinerea]]
+*[[Pseudobulweria rostrata]]
+*[[Pterodroma brevipes]]
+*[[Pterodroma feae]]
+*[[Pterodroma inexpectata]]
+*[[Pterodroma ultima]]
+*[[Puffinus griseus]]
+*[[Puffinus opisthomelas]]
+*[[Puffinus yelkouan]]
+}}
+====[[Psittaciformes]]====
+=====[[Psittacidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Agapornis fischeri]]
+*[[Agapornis lilianae]]
+*[[Alipiopsitta xanthops]]
+*[[Amazona dufresniana]]
+*[[Amazona leucocephala]]
+*[[Amazona tucumana]]
+*[[Aprosmictus jonquillaceus]]
+*[[Aratinga auricapillus]]
+*[[Aratinga erythrogenys]]
+*[[Cacatua goffiniana]]
+*[[Charmosyna margarethae]]
+*[[Charmosyna meeki]]
+*[[Charmosyna multistriata]]
+*[[Cyanoramphus auriceps]]
+*[[Eos reticulata]]
+*[[Loriculus catamene]]
+*[[Loriculus exilis]]
+*[[Loriculus pusillus]]
+*[[Loriculus tener]]
+*[[Lorius albidinucha]]
+*[[Micropsitta geelvinkiana]]
+*[[Nannopsittaca dachilleae]]
+*[[Polytelis alexandrae]]
+*[[Primolius maracana]]
+*[[Prioniturus flavicans]]
+*[[Prioniturus montanus]]
+*[[Prioniturus waterstradti]]
+*[[Prosopeia personata]]
+*[[Psittacula caniceps]]
+*[[Psittacula longicauda]]
+*[[Psittacus erithacus]]
+*[[Psitteuteles iris]]
+*[[Psittinus cyanurus]]
+*[[Pyrilia aurantiocephala]]
+*[[Pyrilia pyrilia]]
+*[[Pyrrhura devillei]]
+*[[Pyrrhura lepida]]
+*[[Pyrrhura leucotis]]
+*[[Tanygnathus lucionensis]]
+*[[Trichoglossus johnstoniae]]
+*[[Triclaria malachitacea]]
+}}
+====[[Sphenisciformes]]====
+=====[[Spheniscidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Pygoscelis papua]]
+*[[Spheniscus magellanicus]]
+}}
+====[[Strigiformes]]====
+=====[[Strigidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Bubo shelleyi]]
+*[[Glaucidium castanonotum]]
+*[[Megascops barbarus]]
+*[[Megascops colombianus]]
+*[[Megascops marshalli]]
+*[[Megascops seductus]]
+*[[Ninox affinis]]
+*[[Ninox burhani]]
+*[[Ninox ochracea]]
+*[[Ninox rudolfi]]
+*[[Ninox sumbaensis]]
+*[[Otus balli]]
+*[[Otus elegans]]
+*[[Otus enganensis]]
+*[[Otus fuliginosus]]
+*[[Otus longicornis]]
+*[[Otus mantananensis]]
+*[[Otus mentawi]]
+*[[Otus mindorensis]]
+*[[Otus mirus]]
+*[[Otus rufescens]]
+*[[Otus umbra]]
+*[[Strix hylophila]]
+*[[Strix occidentalis]]
+}}
+====[[Struthioniformes]]====
+=====[[Apterygidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Apteryx owenii]]
+}}
+=====[[Casuariidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Casuarius bennetti]]
+}}
+=====[[Rheidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Rhea americana]]
+*[[Rhea pennata]]
+}}
+====[[Tinamiformes]]====
+=====[[Tinamidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Crypturellus noctivagus]]
+*[[Crypturellus transfasciatus]]
+*[[Tinamus solitarius]]
+}}
+====[[Trogoniformes]]====
+=====[[Trogonidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Euptilotis neoxenus]]
+*[[Harpactes diardii]]
+*[[Harpactes duvaucelii]]
+*[[Harpactes kasumba]]
+*[[Harpactes orrhophaeus]]
+*[[Harpactes wardi]]
+*[[Harpactes whiteheadi]]
+*[[Pharomachrus mocinno]]
+*[[Priotelus roseigaster]]
+*[[Trogon bairdii]]
+}}
+===[[Cephalaspidomorphi]]===
+====[[Petromyzontiformes]]====
+=====[[Petromyzontidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Caspiomyzon wagneri]]
+*[[Lampetra hubbsi]]
+}}
+===[[Chondrichthyes]]===
+====[[Carcharhiniformes]]====
+=====[[Carcharhinidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Carcharhinus acronotus]]
+*[[Carcharhinus albimarginatus]]
+*[[Carcharhinus amblyrhynchoides]]
+*[[Carcharhinus amblyrhynchos]]
+*[[Carcharhinus amboinensis]] (Southwest Indian Ocean subpopulation)
+*[[Carcharhinus brachyurus]]
+*[[Carcharhinus brevipinna]]
+*[[Carcharhinus dussumieri]]
+*[[Carcharhinus falciformis]]
+*[[Carcharhinus galapagensis]]
+*[[Carcharhinus leucas]]
+*[[Carcharhinus limbatus]]
+*[[Carcharhinus macloti]]
+*[[Carcharhinus melanopterus]]
+*[[Carcharhinus perezi]]
+*[[Carcharhinus sealei]]
+*[[Carcharhinus sorrah]]
+*[[Galeocerdo cuvier]]
+*[[Negaprion brevirostris]]
+*[[Prionace glauca]]
+*[[Scoliodon laticaudus]]
+*[[Triaenodon obesus]]
+}}
+
+=====[[Hemigaleidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Paragaleus randalli]]
+}}
+=====[[Leptochariidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Leptocharias smithii]]
+}}
+=====[[Scyliorhinidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Apristurus albisoma]]
+*[[Atelomycterus marmoratus]]
+*[[Cephaloscyllium albipinnum]]
+*[[Galeus atlanticus]]
+*[[Haploblepharus edwardsii]]
+*[[Poroderma africanum]]
+*[[Scyliorhinus capensis]]
+*[[Scyliorhinus stellaris]]
+}}
+
+=====[[Sphyrnidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Eusphyra blochii]]
+*[[Sphyrna corona]]
+}}
+=====[[Triakidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Hypogaleus hyugaensis]]
+*[[Mustelus canis]]
+*[[Mustelus mento]]
+*[[Triakis megalopterus]]
+}}
+====[[Chimaeriformes]]====
+=====[[Chimaeridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Chimaera monstrosa]]
+*[[Hydrolagus mirabilis]]
+*[[Hydrolagus ogilbyi]]
+}}
+====[[Hexanchiformes]]====
+=====[[Chlamydoselachidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Chlamydoselachus anguineus]]
+}}
+=====[[Hexanchidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Heptranchias perlo]]
+*[[Hexanchus griseus]]
+*[[Notorynchus cepedianus]] (East Pacific subpopulation)
+}}
+
+====[[Lamniformes]]====
+=====[[Lamnidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Isurus oxyrinchus]] (Eastern North Pacific subpopulation)
+}}
+
+=====[[Odontaspididae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Carcharias taurus]] (Western Australia subpopulation)
+}}
+
+=====[[Pseudocarchariidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Pseudocarcharias kamoharai]]
+}}
+====[[Orectolobiformes]]====
+=====[[Ginglymostomatidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Ginglymostoma cirratum]] (Western Atlantic subpopulation)
+}}
+
+=====[[Hemiscylliidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Chiloscyllium arabicum]]
+*[[Chiloscyllium griseum]]
+*[[Chiloscyllium hasselti]]
+*[[Chiloscyllium indicum]]
+*[[Chiloscyllium plagiosum]]
+*[[Chiloscyllium punctatum]]
+*[[Hemiscyllium freycineti]]
+*[[Hemiscyllium ocellatum]] (New Guinea subpopulation)
+}}
+
+=====[[Orectolobidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Eucrossorhinus dasypogon]]
+*[[Orectolobus halei]]
+*[[Orectolobus maculatus]]
+*[[Orectolobus ornatus]]
+}}
+====[[Pristiophoriformes]]====
+=====[[Pristiophoridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Pliotrema warreni]]
+*[[Pristiophorus peroniensis]]
+}}
+====[[Rajiformes]]====
+=====[[Arhynchobatidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Bathyraja cousseauae]]
+*[[Bathyraja irrasa]]
+*[[Bathyraja maccaini]]
+*[[Bathyraja scaphiops]]
+*[[Bathyraja spinicauda]]
+*[[Pavoraja nitida]]
+*[[Rhinoraja macloviana]]
+*[[Rhinoraja multispinis]]
+*[[Rhinoraja murrayi]]
+}}
+=====[[Dasyatidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Dasyatis acutirostra]]
+*[[Dasyatis akajei]]
+*[[Dasyatis annotata]]
+*[[Dasyatis geijskesi]]
+*[[Dasyatis izuensis]]
+*[[Dasyatis laevigata]]
+*[[Dasyatis leylandi]]
+*[[Dasyatis zugei]]
+*[[Himantura granulata]]
+*[[Himantura walga]]
+*[[Taeniura lymma]]
+}}
+=====[[Gymnuridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Gymnura poecilura]]
+}}
+=====[[Mobulidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Manta birostris]]
+*[[Mobula eregoodootenkee]]
+*[[Mobula japanica]]
+*[[Mobula munkiana]]
+*[[Mobula thurstoni]]
+}}
+=====[[Myliobatidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Aetobatus narinari]]
+*[[Myliobatis longirostris]]
+}}
+=====[[Narcinidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Discopyge tschudii]]
+*[[Narcine leoparda]]
+*[[Narcine vermiculatus]]
+}}
+=====[[Potamotrygonidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Potamotrygon magdalenae]]
+}}
+=====[[Rajidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Dipturus campbelli]]
+*[[Dipturus cerva]]
+*[[Dipturus gudgeri]]
+*[[Dipturus innominatus]]
+*[[Dipturus nidarosiensis]]
+*[[Dipturus oxyrinchus]]
+*[[Leucoraja erinacea]]
+*[[Leucoraja fullonica]]
+*[[Raja binoculata]]
+*[[Raja brachyura]]
+*[[Raja cervigoni]]
+*[[Raja clavata]]
+*[[Raja microocellata]]
+*[[Raja polystigma]]
+*[[Rajella caudaspinosa]]
+}}
+=====[[Rhinobatidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Rhinobatos hynnicephalus]]
+*[[Rhinobatos lentiginosus]]
+*[[Rhinobatos leucorhynchus]]
+*[[Rhinobatos nudidorsalis]]
+*[[Rhinobatos percellens]]
+*[[Rhinobatos productus]]
+*[[Rhinobatos zanzibarensis]]
+}}
+=====[[Rhinopteridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Rhinoptera bonasus]]
+*[[Rhinoptera marginata]]
+*[[Rhinoptera steindachneri]]
+}}
+=====[[Torpedinidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Torpedo adenensis]]
+}}
+=====[[Urolophidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Trygonoptera imitata]]
+*[[Urolophus aurantiacus]]
+*[[Urolophus kapalensis]]
+}}
+=====[[Urotrygonidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Urotrygon venezuelae]]
+}}
+====[[Squaliformes]]====
+=====[[Centrophoridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Centrophorus acus]]
+*[[Centrophorus niaukang]]
+*[[Deania quadrispinosa]]
+}}
+=====[[Dalatiidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Dalatias licha]]
+*[[Dalatias licha]] (Northeast Atlantic subpopulation)
+}}
+
+=====[[Echinorhinidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Echinorhinus cookei]]
+}}
+=====[[Somniosidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Centroscymnus coelolepis]]
+*[[Proscymnodon plunketi]]
+*[[Somniosus microcephalus]]
+}}
+=====[[Squalidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Squalus chloroculus]]
+*[[Squalus edmundsi]]
+*[[Squalus grahami]]
+*[[Squalus hemipinnis]]
+*[[Squalus rancureli]]
+}}
+====[[Squatiniformes]]====
+=====[[Squatinidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Squatina californica]]
+}}
+===[[Mammalia]]===
+====[[Afrosoricida]]====
+=====[[Chrysochloridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Amblysomus corriae]]
+*[[Amblysomus septentrionalis]]
+}}
+=====[[Tenrecidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Micropotamogale ruwenzorii]]
+}}
+====[[Carnivora]]====
+=====[[Canidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Atelocynus microtis]]
+*[[Chrysocyon brachyurus]]
+*[[Pseudalopex sechurae]]
+*[[Speothos venaticus]]
+*[[Urocyon littoralis]]
+}}
+
+=====[[Eupleridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Eupleres goudotii]]
+*[[Fossa fossana]]
+*[[Galidictis fasciata]]
+}}
+=====[[Felidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Caracal aurata]]
+*[[Felis margarita]]
+*[[Leopardus colocolo]]
+*[[Leopardus geoffroyi]]
+*[[Leopardus wiedii]]
+*[[Otocolobus manul]]
+*[[Panthera onca]]
+*[[Panthera pardus]]
+*[[Pardofelis temminckii]]
+}}
+=====[[Herpestidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Bdeogale jacksoni]]
+}}
+=====[[Hyaenidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Hyaena brunnea]]
+*[[Hyaena hyaena]]
+}}
+=====[[Mustelidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Arctonyx collaris]]
+*[[Lutra lutra]]
+*[[Mustela altaica]]
+}}
+=====[[Otariidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Arctocephalus philippii]]
+*[[Arctocephalus townsendi]]
+}}
+=====[[Viverridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Genetta bourloni]]
+*[[Viverra zibetha]]
+}}
+====[[Cetartiodactyla]]====
+=====[[Bovidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Alcelaphus buselaphus major]]
+*[[Antilope cervicapra]]
+*[[Bison bison]]
+*[[Capra cylindricornis]]
+*[[Capricornis milneedwardsii]]
+*[[Capricornis rubidus]]
+*[[Capricornis thar]]
+*[[Damaliscus lunatus topi]]
+*[[Eudorcas thomsonii]]
+*[[Hemitragus jemlahicus]]
+*[[Kobus ellipsiprymnus defassa]]
+*[[Kobus vardonii]]
+*[[Litocranius walleri]]
+*[[Naemorhedus goral]]
+*[[Oryx beisa]]
+*[[Oryx beisa beisa]]
+*[[Ovis ammon]]
+*[[Procapra picticaudata]]
+*[[Tragelaphus eurycerus]]
+*[[Tragelaphus eurycerus eurycerus]]
+*[[Tragelaphus imberbis]]
+}}
+=====[[Cervidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Elaphodus cephalophus]]
+*[[Ozotoceros bezoarticus]]
+}}
+=====[[Delphinidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Cephalorhynchus eutropia]]
+*[[Orcaella heinsohni]]
+*[[Sousa chinensis]]
+}}
+=====[[Giraffidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Okapia johnstoni]]
+}}
+=====[[Monodontidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Delphinapterus leucas]]
+*[[Monodon monoceros]]
+}}
+=====[[Suidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Sus celebensis]]
+}}
+=====[[Tayassuidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Tayassu pecari]]
+}}
+====[[Chiroptera]]====
+=====[[Emballonuridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Taphozous australis]]
+}}
+=====[[Hipposideridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Hipposideros commersoni]]
+*[[Hipposideros doriae]]
+*[[Hipposideros jonesi]]
+*[[Hipposideros lekaguli]]
+*[[Hipposideros pelingensis]]
+*[[Hipposideros turpis]]
+*[[Hipposideros vittatus]]
+}}
+=====[[Molossidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Otomops martiensseni]]
+*[[Tadarida mops]]
+}}
+=====[[Natalidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Chilonatalus micropus]]
+*[[Chilonatalus tumidifrons]]
+*[[Natalus espiritosantensis]]
+*[[Natalus major]]
+}}
+=====[[Nycteridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Nycteris tragata]]
+}}
+=====[[Phyllostomidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Anoura cultrata]]
+*[[Choeronycteris mexicana]]
+*[[Ectophylla alba]]
+*[[Lonchophylla concava]]
+*[[Lonchophylla dekeyseri]]
+*[[Platalina genovensium]]
+*[[Platyrrhinus matapalensis]]
+*[[Rhinophylla alethina]]
+*[[Sturnira aratathomasi]]
+*[[Sturnira mordax]]
+*[[Sturnira oporaphilum]]
+*[[Vampyrum spectrum]]
+}}
+=====[[Pteropodidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Dobsonia pannietensis]]
+*[[Dyacopterus spadiceus]]
+*[[Eidolon helvum]]
+*[[Eonycteris robusta]]
+*[[Epomophorus angolensis]]
+*[[Pteropus caniceps]]
+*[[Pteropus chrysoproctus]]
+*[[Pteropus dasymallus]]
+*[[Pteropus pelewensis]]
+*[[Pteropus pumilus]]
+*[[Pteropus rayneri]]
+*[[Pteropus samoensis]]
+*[[Pteropus vampyrus]]
+*[[Rousettus madagascariensis]]
+}}
+=====[[Rhinolophidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Rhinolophus deckenii]]
+*[[Rhinolophus euryale]]
+*[[Rhinolophus formosae]]
+*[[Rhinolophus robinsoni]]
+*[[Rhinolophus rufus]]
+*[[Rhinolophus sedulus]]
+}}
+=====[[Vespertilionidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Barbastella barbastellus]]
+*[[Bauerus dubiaquercus]]
+*[[Chalinolobus dwyeri]]
+*[[Chalinolobus picatus]]
+*[[Corynorhinus mexicanus]]
+*[[Eptesicus innoxius]]
+*[[Falsistrellus mackenziei]]
+*[[Histiotus laephotis]]
+*[[Kerivoula intermedia]]
+*[[Kerivoula minuta]]
+*[[Kerivoula pellucida]]
+*[[Lasiurus pfeifferi]]
+*[[Miniopterus schreibersii]]
+*[[Murina puta]]
+*[[Myotis atacamensis]]
+*[[Myotis bechsteinii]]
+*[[Myotis bombinus]]
+*[[Myotis dasycneme]]
+*[[Myotis grisescens]]
+*[[Myotis macrotarsus]]
+*[[Myotis pilosus]]
+*[[Myotis punicus]]
+*[[Myotis ridleyi]]
+*[[Myotis ruber]]
+*[[Nyctalus aviator]]
+*[[Nyctalus lasiopterus]]
+*[[Nycticeius cubanus]]
+*[[Phoniscus atrox]]
+*[[Pipistrellus brunneus]]
+*[[Plecotus taivanus]]
+}}
+====[[Cingulata]]====
+=====[[Dasypodidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Cabassous chacoensis]]
+*[[Calyptophractus retusus]]
+*[[Dasypus hybridus]]
+*[[Tolypeutes matacus]]
+*[[Zaedyus pichiy]]
+}}
+====[[Dasyuromorphia]]====
+=====[[Dasyuridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Antechinus godmani]]
+*[[Dasyurus albopunctatus]]
+*[[Dasyurus geoffroii]]
+*[[Dasyurus maculatus]]
+*[[Dasyurus spartacus]]
+*[[Dasyurus viverrinus]]
+*[[Phascogale calura]]
+*[[Phascogale tapoatafa]]
+*[[Pseudantechinus bilarni]]
+*[[Sminthopsis douglasi]]
+}}
+====[[Didelphimorphia]]====
+=====[[Didelphidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Gracilinanus dryas]]
+*[[Thylamys macrurus]]
+}}
+====[[Diprotodontia]]====
+=====[[Macropodidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Dendrolagus bennettianus]]
+*[[Dorcopsulus vanheurni]]
+*[[Macropus bernardus]]
+*[[Macropus parma]]
+*[[Petrogale burbidgei]]
+*[[Petrogale coenensis]]
+*[[Petrogale lateralis]]
+*[[Petrogale penicillata]]
+*[[Petrogale sharmani]]
+*[[Petrogale xanthopus]]
+}}
+=====[[Phalangeridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Spilocuscus kraemeri]]
+}}
+=====[[Potoroidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Bettongia gaimardi]]
+*[[Bettongia lesueur]]
+}}
+=====[[Pseudocheiridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Hemibelideus lemuroides]]
+*[[Pseudochirops albertisii]]
+*[[Pseudochirops corinnae]]
+}}
+====[[Eulipotyphla]]====
+=====[[Soricidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Blarinella quadraticauda]]
+*[[Chimarrogale hantu]]
+*[[Chodsigoa smithii]]
+*[[Crocidura buettikoferi]]
+*[[Crocidura grandiceps]]
+*[[Crocidura nimbae]]
+*[[Crocidura niobe]]
+*[[Myosorex babaulti]]
+*[[Myosorex sclateri]]
+*[[Paracrocidura maxima]]
+*[[Sorex alpinus]]
+*[[Sylvisorex vulcanorum]]
+}}
+=====[[Talpidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Mogera tokudae]]
+}}
+====[[Lagomorpha]]====
+=====[[Leporidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Lepus callotis]]
+*[[Lepus insularis]]
+*[[Lepus yarkandensis]]
+*[[Oryctolagus cuniculus]]
+*[[Sylvilagus mansuetus]]
+*[[Sylvilagus obscurus]]
+}}
+====[[Macroscelidea]]====
+=====[[Macroscelididae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Rhynchocyon cirnei]]
+}}
+====[[Microbiotheria]]====
+=====[[Microbiotheriidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Dromiciops gliroides]]
+}}
+====[[Paucituberculata]]====
+=====[[Caenolestidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Caenolestes caniventer]]
+*[[Rhyncholestes raphanurus]]
+}}
+====[[Peramelemorphia]]====
+=====[[Peramelidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Perameles gunnii]]
+}}
+====[[Perissodactyla]]====
+=====[[Rhinocerotidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Ceratotherium simum]]
+*[[Ceratotherium simum simum]]
+}}
+====[[Pholidota]]====
+=====[[Manidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Manis crassicaudata]]
+*[[Manis culionensis]]
+*[[Phataginus tricuspis]]
+*[[Smutsia gigantea]]
+}}
+====[[Pilosa]]====
+=====[[Myrmecophagidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Myrmecophaga tridactyla]]
+}}
+====[[Primates]]====
+=====[[Aotidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Aotus azarae infulatus]]
+}}
+=====[[Callitrichidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Callithrix kuhlii]]
+*[[Saguinus nigricollis graellsi]]
+*[[Saguinus tripartitus]]
+}}
+=====[[Cebidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Cebus albifrons cuscinus]]
+*[[Cebus nigritus]]
+*[[Saimiri sciureus albigena]]
+*[[Saimiri ustus]]
+}}
+=====[[Cercopithecidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Cercocebus atys atys]]
+*[[Cercopithecus mitis heymansi]]
+*[[Cercopithecus pogonias elegans]]
+*[[Colobus angolensis cordieri]]
+*[[Lophocebus aterrimus]]
+*[[Lophocebus aterrimus aterrimus]]
+*[[Macaca assamensis]]
+*[[Macaca assamensis assamensis]]
+*[[Macaca assamensis pelops]]
+*[[Macaca fascicularis philippensis]]
+*[[Macaca thibetana]]
+*[[Papio papio]]
+*[[Presbytis femoralis]]
+*[[Presbytis femoralis robinsoni]]
+*[[Presbytis melalophos melalophos]]
+*[[Presbytis siamensis]]
+*[[Presbytis siamensis cana]]
+*[[Presbytis siamensis paenulata]]
+*[[Presbytis siamensis siamensis]]
+*[[Procolobus rufomitratus tholloni]]
+*[[Procolobus verus]]
+*[[Semnopithecus hector]]
+*[[Semnopithecus priam]]
+*[[Semnopithecus priam priam]]
+*[[Trachypithecus cristatus]]
+*[[Trachypithecus cristatus cristatus]]
+*[[Trachypithecus obscurus]]
+}}
+=====[[Cheirogaleidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Mirza coquereli]]
+}}
+=====[[Daubentoniidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Daubentonia madagascariensis]]
+}}
+=====[[Galagidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Galagoides orinus]]
+}}
+=====[[Lemuridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Eulemur fulvus]]
+*[[Eulemur rufifrons]]
+*[[Lemur catta]]
+}}
+=====[[Lorisidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Loris lydekkerianus lydekkerianus]]
+*[[Loris lydekkerianus malabaricus]]
+}}
+=====[[Pitheciidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Callicebus nigrifrons]]
+}}
+=====[[Tarsiidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Tarsius syrichta]]
+}}
+====[[Rodent]]ia====
+=====[[Bathyergidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Cryptomys anselli]]
+}}
+=====[[Capromyidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Mysateles prehensilis]]
+}}
+=====[[Caviidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Dolichotis patagonum]]
+*[[Microcavia shiptoni]]
+}}
+=====[[Cricetidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Abrothrix illuteus]]
+*[[Abrothrix sanborni]]
+*[[Akodon siberiae]]
+*[[Alticola roylei]]
+*[[Arborimus longicaudus]]
+*[[Arborimus pomo]]
+*[[Bibimys torresi]]
+*[[Chelemys megalonyx]]
+*[[Eothenomys wardi]]
+*[[Habromys lophurus]]
+*[[Handleyomys saturatior]]
+*[[Hylaeamys laticeps]]
+*[[Ichthyomys hydrobates]]
+*[[Isthmomys flavidus]]
+*[[Mesocricetus brandti]]
+*[[Mesocricetus newtoni]]
+*[[Microtus cabrerae]]
+*[[Microtus guatemalensis]]
+*[[Microtus kikuchii]]
+*[[Microtus quasiater]]
+*[[Microtus sachalinensis]]
+*[[Microtus schelkovnikovi]]
+*[[Necromys obscurus]]
+*[[Nelsonia neotomodon]]
+*[[Neotoma magister]]
+*[[Neotoma phenax]]
+*[[Peromyscus grandis]]
+*[[Peromyscus polius]]
+*[[Phyllotis bonariensis]]
+*[[Prometheomys schaposchnikowi]]
+*[[Rhagomys rufescens]]
+*[[Rheomys thomasi]]
+*[[Rhipidomys modicus]]
+*[[Thomasomys gracilis]]
+}}
+=====[[Ctenomyidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Ctenomys argentinus]]
+*[[Ctenomys dorbignyi]]
+*[[Ctenomys emilianus]]
+*[[Ctenomys pearsoni]]
+*[[Ctenomys porteousi]]
+}}
+=====[[Cuniculidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Cuniculus taczanowskii]]
+}}
+=====[[Dasyproctidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Dasyprocta guamara]]
+}}
+=====[[Dipodidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Allactaga euphratica]]
+*[[Allactaga vinogradovi]]
+*[[Pygeretmus zhitkovi]]
+*[[Sicista kluchorica]]
+}}
+=====[[Geomyidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Geomys arenarius]]
+}}
+=====[[Gliridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Eliomys quercinus]]
+}}
+=====[[Heteromyidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Dipodomys spectabilis]]
+}}
+=====[[Muridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Apodemus hyrcanicus]]
+*[[Apomys insignis]]
+*[[Arvicanthis blicki]]
+*[[Batomys granti]]
+*[[Bunomys penitus]]
+*[[Chrotomys gonzalesi]]
+*[[Chrotomys mindorensis]]
+*[[Conilurus penicillatus]]
+*[[Gerbillus gleadowi]]
+*[[Grammomys dryas]]
+*[[Lophuromys brevicaudus]]
+*[[Margaretamys elegans]]
+*[[Mastacomys fuscus]]
+*[[Mesembriomys gouldii]]
+*[[Niviventer culturatus]]
+*[[Papagomys armandvillei]]
+*[[Pogonomelomys bruijnii]]
+*[[Praomys delectorum]]
+*[[Pseudomys shortridgei]]
+*[[Rattus elaphinus]]
+*[[Rattus feliceus]]
+*[[Rattus jobiensis]]
+*[[Rhynchomys soricoides]]
+*[[Zyzomys maini]]
+}}
+=====[[Octodontidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Tympanoctomys barrerae]]
+}}
+=====[[Sciuridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Aeretes melanopterus]]
+*[[Callosciurus nigrovittatus]]
+*[[Callosciurus quinquestriatus]]
+*[[Hylopetes nigripes]]
+*[[Lariscus hosei]]
+*[[Lariscus obscurus]]
+*[[Paraxerus vexillarius]]
+*[[Petaurista magnificus]]
+*[[Petinomys fuscocapillus]]
+*[[Ratufa affinis]]
+*[[Ratufa bicolor]]
+*[[Ratufa indica]]
+*[[Ratufa macroura]]
+*[[Rhinosciurus laticaudatus]]
+*[[Sciurus richmondi]]
+*[[Spermophilus madrensis]]
+*[[Spermophilus musicus]]
+*[[Spermophilus suslicus]]
+*[[Spermophilus washingtoni]]
+*[[Spermophilus xanthoprymnus]]
+*[[Sundasciurus hippurus]]
+*[[Sundasciurus moellendorffi]]
+*[[Syntheosciurus brochus]]
+*[[Trogopterus xanthipes]]
+}}
+=====[[Spalacidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Spalax graecus]]
+*[[Spalax uralensis]]
+}}
+
+===[[Reptilia]]===
+====[[Squamata]]====
+=====[[Agamidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Uromastyx alfredschmidti]]
+}}
+=====[[Anguidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Anguis cephalonnica]]
+*[[Celestus rozellae]]
+}}
+=====[[Boidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Epicrates angulifer]]
+*[[Epicrates inornatus]]
+*[[Morelia spilota imbricata]]
+*[[Python molurus]]
+}}
+=====[[Chamaeleonidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Bradypodion nemorale]]
+*[[Bradypodion thamnobates]]
+}}
+=====[[Colubridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Clonophis kirtlandii]]
+*[[Conopsis amphisticha]]
+*[[Elaphe quatuorlineata]]
+*[[Homoroselaps dorsalis]]
+*[[Lampropeltis ruthveni]]
+*[[Lamprophis fuscus]]
+*[[Lamprophis swazicus]]
+*[[Liopeltis herminae]]
+*[[Macroprotodon brevis]]
+*[[Nerodia harteri]]
+*[[Nerodia paucimaculata]]
+*[[Oligodon ancorus]]
+*[[Oligodon perkinsi]]
+*[[Pantherophis gloydi]]
+*[[Sonora aemula]]
+*[[Stegonotus muelleri]]
+*[[Stilosoma extenuatum]]
+}}
+=====[[Cordylidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Cordylus lawrenci]]
+*[[Platysaurus relictus]]
+*[[Pseudocordylus langi]]
+*[[Pseudocordylus spinosus]]
+}}
+=====[[Elapidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Elapognathus minor]]
+*[[Naja philippinensis]]
+*[[Simoselaps calonotus]]
+}}
+=====[[Gekkonidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Afroedura hawequensis]]
+*[[Ailuronyx tachyscopaeus]]
+*[[Cyrtodactylus redimiculus]]
+*[[Euleptes europaea]]
+*[[Gekko athymus]]
+*[[Goggia microlepidota]]
+*[[Homopholis mulleri]]
+*[[Hoplodactylus kahutarae]]
+*[[Hoplodactylus rakiurae]]
+*[[Phelsuma ocellata]]
+*[[Phyllodactylus unctus]]
+*[[Ptychozoon intermedium]]
+*[[Quedenfeldtia trachyblepharus]]
+*[[Underwoodisaurus sphyrurus]]
+}}
+=====[[Gerrhosauridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Gerrhosaurus typicus]]
+}}
+=====[[Helodermatidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Heloderma suspectum]]
+}}
+=====[[Iguanidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Ctenosaura alfredschmidti]]
+}}
+=====[[Lacertidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Acanthodactylus bedriagai]]
+*[[Acanthodactylus savignyi]]
+*[[Algyroides moreoticus]]
+*[[Archaeolacerta bedriagae]]
+*[[Atlantolacerta andreanskyi]]
+*[[Australolacerta rupicola]]
+*[[Darevskia dahli]]
+*[[Darevskia derjugini]]
+*[[Darevskia mixta]]
+*[[Darevskia praticola]]
+*[[Darevskia unisexualis]]
+*[[Hellenolacerta graeca]]
+*[[Iberolacerta bonnali]]
+*[[Iberolacerta galani]]
+*[[Iberolacerta horvathi]]
+*[[Lacerta schreiberi]]
+*[[Podarcis pityusensis]]
+*[[Psammodromus blanci]]
+*[[Timon lepidus]]
+}}
+=====[[Phrynosomatidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Holbrookia lacerata]]
+*[[Phrynosoma mcallii]]
+*[[Sceloporus ornatus]]
+*[[Sceloporus woodi]]
+*[[Uma notata]]
+*[[Uma paraphygas]]
+*[[Uma rufopunctata]]
+}}
+=====[[Pygopodidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Aprasia pseudopulchella]]
+}}
+=====[[Scincidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Brachymeles bicolor]]
+*[[Brachymeles minimus]]
+*[[Chalcides bedriagai]]
+*[[Chalcides lanzai]]
+*[[Chalcides montanus]]
+*[[Chalcides pseudostriatus]]
+*[[Coeranoscincus reticulatus]]
+*[[Eumeces kishinouyei]]
+*[[Oligosoma fallai]]
+*[[Oligosoma infrapunctatum]]
+*[[Scelotes gronovii]]
+*[[Sphenomorphus beyeri]]
+*[[Sphenomorphus llanosi]]
+*[[Sphenomorphus luzonense]]
+*[[Sphenomorphus mindanensis]]
+*[[Sphenomorphus tagapayo]]
+*[[Sphenomorphus victoria]]
+}}
+=====[[Teiidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Aspidoscelis arizonae]]
+*[[Aspidoscelis dixoni]]
+*[[Aspidoscelis neotesselata]]
+*[[Aspidoscelis rodecki]]
+}}
+=====[[Tropiduridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Stenocercus fimbriatus]]
+}}
+=====[[Varanidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Varanus nuchalis]]
+}}
+=====[[Viperidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Agkistrodon bilineatus]]
+*[[Daboia deserti]]
+*[[Daboia mauritanica]]
+*[[Montivipera raddei]]
+*[[Vipera barani]]
+*[[Vipera lotievi]]
+*[[Vipera monticola]]
+*[[Vipera transcaucasiana]]
+}}
+====[[Testudines]]====
+=====[[Chelidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Acanthochelys macrocephala]]
+*[[Acanthochelys radiolata]]
+*[[Acanthochelys spixii]]
+*[[Chelodina colliei]]
+*[[Chelodina reimanni]]
+*[[Chelodina oblonga]]
+*[[Mesoclemmys vanderhaegei]]
+*[[Rhinemys rufipes]]
+}}
+
+=====[[Emydidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Emydoidea blandingii]]
+*[[Emys orbicularis]]
+*[[Graptemys barbouri]]
+*[[Graptemys ernsti]]
+*[[Graptemys gibbonsi]]
+*[[Graptemys nigrinoda]]
+*[[Graptemys versa]]
+*[[Malaclemys terrapin]]
+*[[Pseudemys gorzugi]]
+*[[Pseudemys rubriventris]]
+*[[Terrapene carolina]]
+*[[Terrapene ornata]]
+*[[Trachemys scripta]]
+*[[Trachemys stejnegeri]]
+}}
+=====[[Geoemydidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Cyclemys dentata]]
+*[[Mauremys japonica]]
+*[[Melanochelys trijuga]]
+*[[Pangshura smithii]]
+*[[Rhinoclemmys annulata]]
+*[[Rhinoclemmys areolata]]
+*[[Rhinoclemmys funerea]]
+*[[Rhinoclemmys nasuta]]
+*[[Rhinoclemmys rubida]]
+}}
+=====[[Kinosternidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Claudius angustatus]]
+*[[Kinosternon acutum]]
+*[[Kinosternon herrerai]]
+*[[Staurotypus salvinii]]
+*[[Staurotypus triporcatus]]
+}}
+=====[[Testudinidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Homopus signatus]]
+*[[Kinixys natalensis]]
+*[[Testudo hermanni]]
+}}
+=====[[Trionychidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Cyclanorbis elegans]]
+*[[Cyclanorbis senegalensis]]
+*[[Cycloderma frenatum]]
+}}
+==[[Cnidaria]]==
+===[[Anthozoa]]===
+====[[Scleractinia]]====
+=====[[Acroporidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Acropora appressa]]
+*[[Acropora arabensis]]
+*[[Acropora austera]]
+*[[Acropora carduus]]
+*[[Acropora digitifera]]
+*[[Acropora divaricata]]
+*[[Acropora florida]]
+*[[Acropora formosa]]
+*[[Acropora glauca]]
+*[[Acropora granulosa]]
+*[[Acropora humilis]]
+*[[Acropora hyacinthus]]
+*[[Acropora loripes]]
+*[[Acropora lutkeni]]
+*[[Acropora millepora]]
+*[[Acropora monticulosa]]
+*[[Acropora nana]]
+*[[Acropora nasuta]]
+*[[Acropora pichoni]]
+*[[Acropora secale]]
+*[[Acropora selago]]
+*[[Acropora tenuis]]
+*[[Astreopora expansa]]
+*[[Astreopora macrostoma]]
+*[[Isopora palifera]]
+*[[Montipora capitata]]
+*[[Montipora confusa]]
+*[[Montipora cryptus]]
+*[[Montipora efflorescens]]
+*[[Montipora effusa]]
+*[[Montipora foliosa]]
+*[[Montipora foveolata]]
+*[[Montipora hirsuta]]
+*[[Montipora incrassata]]
+*[[Montipora niugini]]
+*[[Montipora nodosa]]
+*[[Montipora palawanensis]]
+*[[Montipora peltiformis]]
+*[[Montipora porites]]
+*[[Montipora saudii]]
+*[[Montipora undata]]
+*[[Montipora venosa]]
+}}
+=====[[Agariciidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Agaricia tenuifolia]]
+*[[Leptoseris amitoriensis]]
+*[[Leptoseris striata]]
+*[[Pachyseris gemmae]]
+*[[Pavona minuta]]
+}}
+=====[[Astrocoeniidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Palauastrea ramosa]]
+}}
+=====[[Dendrophylliidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Duncanopsammia axifuga]]
+*[[Heteropsammia eupsammides]]
+*[[Turbinaria radicalis]]
+}}
+=====[[Euphylliidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Euphyllia divisa]]
+*[[Euphyllia glabrescens]]
+*[[Euphyllia yaeyamaensis]]
+*[[Plerogyra simplex]]
+*[[Plerogyra sinuosa]]
+}}
+=====[[Faviidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Caulastrea tumida]]
+*[[Diploastrea heliopora]]
+*[[Echinopora forskaliana]]
+*[[Echinopora fruticulosa]]
+*[[Echinopora horrida]]
+*[[Echinopora mammiformis]]
+*[[Echinopora pacificus]]
+*[[Echinopora taylorae]]
+*[[Erythrastrea flabellata]]
+*[[Favia albidus]]
+*[[Favia helianthoides]]
+*[[Favia lacuna]]
+*[[Favia laxa]]
+*[[Favia lizardensis]]
+*[[Favia maritima]]
+*[[Favia marshae]]
+*[[Favia matthaii]]
+*[[Favia maxima]]
+*[[Favia rotundata]]
+*[[Favia stelligera]]
+*[[Favia veroni]]
+*[[Favia vietnamensis]]
+*[[Favites abdita]]
+*[[Favites acuticollis]]
+*[[Favites bestae]]
+*[[Favites chinensis]]
+*[[Favites complanata]]
+*[[Favites flexuosa]]
+*[[Favites halicora]]
+*[[Favites micropentagona]]
+*[[Favites paraflexuosa]]
+*[[Favites russelli]]
+*[[Favites stylifera]]
+*[[Favites vasta]]
+*[[Goniastrea columella]]
+*[[Goniastrea favulus]]
+*[[Goniastrea minuta]]
+*[[Goniastrea palauensis]]
+*[[Goniastrea peresi]]
+*[[Goniastrea thecata]]
+*[[Leptastrea bewickensis]]
+*[[Leptastrea bottae]]
+*[[Leptastrea inaequalis]]
+*[[Leptoria phrygia]]
+*[[Montastrea annuligera]]
+*[[Montastrea colemani]]
+*[[Montastrea magnistellata]]
+*[[Montastrea valenciennesi]]
+*[[Oulophyllia bennettae]]
+*[[Oulophyllia crispa]]
+*[[Platygyra acuta]]
+*[[Platygyra carnosus]]
+*[[Platygyra crosslandi]]
+*[[Platygyra lamellina]]
+*[[Platygyra ryukyuensis]]
+*[[Platygyra verweyi]]
+*[[Plesiastrea devantieri]]
+}}
+=====[[Fungiidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Ctenactis albitentaculata]]
+*[[Fungia fungites]]
+*[[Lithophyllon undulatum]]
+*[[Podabacia motuporensis]]
+*[[Polyphyllia novaehiberniae]]
+}}
+=====[[Merulinidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Hydnophora exesa]]
+*[[Hydnophora microconos]]
+*[[Paraclavarina triangularis]]
+}}
+=====[[Mussidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Acanthastrea hillae]]
+*[[Acanthastrea lordhowensis]]
+*[[Acanthastrea maxima]]
+*[[Acanthastrea rotundoflora]]
+*[[Acanthastrea subechinata]]
+*[[Australomussa rowleyensis]]
+*[[Blastomussa wellsi]]
+*[[Cynarina lacrymalis]]
+*[[Lobophyllia pachysepta]]
+*[[Micromussa amakusensis]]
+*[[Micromussa minuta]]
+*[[Scolymia vitiensis]]
+}}
+=====[[Oculinidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Galaxea fascicularis]]
+*[[Galaxea longisepta]]
+*[[Galaxea paucisepta]]
+}}
+=====[[Pectiniidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Echinomorpha nishihirai]]
+*[[Pectinia ayleni]]
+*[[Pectinia elongata]]
+*[[Pectinia paeonia]]
+*[[Pectinia pygmaeus]]
+*[[Pectinia teres]]
+}}
+=====[[Pocilloporidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Pocillopora eydouxi]]
+*[[Seriatopora caliendrum]]
+*[[Seriatopora stellata]]
+*[[Stylophora pistillata]]
+*[[Stylophora wellsi]]
+}}
+=====[[Poritidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Alveopora catalai]]
+*[[Alveopora spongiosa]]
+*[[Alveopora viridis]]
+*[[Goniopora columna]]
+*[[Goniopora lobata]]
+*[[Goniopora minor]]
+*[[Goniopora stokesi]]
+*[[Goniopora tenella]]
+*[[Porites annae]]
+*[[Porites branneri]]
+*[[Porites cylindrica]]
+*[[Porites deformis]]
+*[[Porites densa]]
+*[[Porites echinulata]]
+*[[Porites harrisoni]]
+*[[Porites lobata]]
+*[[Porites murrayensis]]
+*[[Porites negrosensis]]
+*[[Porites somaliensis]]
+*[[Porites stephensoni]]
+}}
+=====[[Siderastreidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Coscinaraea crassa]]
+*[[Psammocora contigua]]
+*[[Psammocora digitata]]
+*[[Psammocora obtusangula]]
+*[[Psammocora vaughani]]
+*[[Pseudosiderastrea tayami]]
+}}
+=====[[Trachyphylliidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Trachyphyllia geoffroyi]]
+}}
+====[[Stolonifera]]====
+=====[[Tubiporidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Tubipora musica]]
+}}
+===[[Hydrozoa]]===
+====[[Milleporina]]====
+=====[[Milleporidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Millepora murrayi]]
+}}
+==[[Echinodermata]]==
+===[[Echinoidea]]===
+====[[Echinoida]]====
+=====[[Echinidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Echinus esculentus]]
+}}
+==[[Mollusca]]==
+===[[Bivalvia]]===
+====[[Unionida]]====
+=====[[Margaritiferidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Cumberlandia monodonta]]
+}}
+=====[[Unionidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Actinonaias pectorosa]]
+*[[Amphinaias asperata]]
+*[[Amphinaias houstonensis]]
+*[[Amphinaias refulgens]]
+*[[Anodontoides radiatus]]
+*[[Cyclonaias tuberculata]]
+*[[Ellipsaria lineolata]]
+*[[Elliptio ahenea]]
+*[[Elliptio angustata]]
+*[[Elliptio congaraea]]
+*[[Elliptio dariensis]]
+*[[Elliptio downiei]]
+*[[Elliptio folliculata]]
+*[[Elliptio hopetonensis]]
+*[[Elliptio lanceolata]]
+*[[Elliptio mcmichaeli]]
+*[[Elliptio producta]]
+*[[Elliptio shepardiana]]
+*[[Fusconaia askewi]]
+*[[Fusconaia barnesiana]]
+*[[Fusconaia lananensis]]
+*[[Fusconaia ozarkensis]]
+*[[Fusconaia subrotunda]]
+*[[Fusconaia succissa]]
+*[[Lampsilis bracteata]]
+*[[Lampsilis cardium]]
+*[[Lampsilis fullerkati]]
+*[[Lampsilis haddletoni]]
+*[[Lampsilis ornata]]
+*[[Lampsilis ovata]]
+*[[Lampsilis perovalis]]
+*[[Lampsilis reeviana brevicula]]
+*[[Lampsilis satura]]
+*[[Lampsilis splendida]]
+*[[Lampsilis straminea claibornensis]]
+*[[Lampsilis straminea straminea]]
+*[[Lasmigona complanata alabamensis]]
+*[[Lasmigona holstonia]]
+*[[Lasmigona subviridis]]
+*[[Leptodea leptodon]]
+*[[Leptodea ochracea]]
+*[[Lexingtonia dolabelloides]]
+*[[Ligumia nasuta]]
+*[[Ligumia recta]]
+*[[Medionidus conradicus]]
+*[[Obovaria jacksoniana]]
+*[[Obovaria subrotunda]]
+*[[Obovaria unicolor]]
+*[[Plethobasus cyphyus]]
+*[[Pleurobema beadleianum]]
+*[[Pleurobema cordatum]]
+*[[Pleurobema riddellii]]
+*[[Pleurobema rubrum]]
+*[[Pseudanodonta complanata]]
+*[[Ptychobranchus occidentalis]]
+*[[Ptychobranchus subtentum]]
+*[[Pyganodon gibbosa]]
+*[[Quadrula rumphiana]]
+*[[Quincuncina infucata]]
+*[[Strophitus connasaugaensis]]
+*[[Strophitus subvexus]]
+*[[Theliderma cylindrica cylindrica]]
+*[[Unio crassus]]
+}}
+====[[Venerida]]====
+=====[[Sphaeriidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Pisidium fultoni]]
+}}
+===[[Gastropoda]]===
+====[[Architaenioglossa]]====
+=====[[Ampullariidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Afropomus balanoidea]]
+*[[Lanistes ciliatus]]
+*[[Lanistes elliptus]]
+}}
+=====[[Pupinidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Pupina coxeni]]
+*[[Pupina pfeifferi]]
+}}
+=====[[Viviparidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Bellamya costulata]]
+*[[Bellamya monardi]]
+*[[Viviparus acerosus]]
+}}
+====[[Cycloneritimorpha]]====
+=====[[Neritidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Neritina manoeli]]
+}}
+====[[Hygrophila (animal)|Hygrophila]]====
+=====[[Planorbidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Ancylus regularis]]
+*[[Bulinus browni]]
+*[[Bulinus cernicus]]
+*[[Bulinus crystallinus]]
+*[[Bulinus hexaploidus]]
+*[[Bulinus hightoni]]
+*[[Bulinus octaploidus]]
+*[[Stimulator consetti]]
+}}
+
+====[[Littorinimorpha]]====
+=====[[Bithyniidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Gabbiella rosea]]
+}}
+=====[[Hydrobiidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Bythinella carinulata]]
+*[[Bythinella pupoides]]
+*[[Bythinella vesontiana]]
+*[[Bythiospeum elseri]]
+*[[Falniowskia neglectissima]]
+*[[Fluviopupa gracilis]]
+*[[Fluviopupa ramsayi]]
+*[[Fonscochlea zeidleri]]
+*[[Hemistoma gemma]]
+*[[Hydrobia accrensis]]
+*[[Nanocochlea parva]]
+*[[Potamopyrgus oscitans]]
+*[[Trochidrobia punicea]]
+*[[Victodrobia victoriensis]]
+}}
+=====[[Moitessieriidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Paladilhia hungarica]]
+*[[Spiralix rayi]]
+}}
+=====[[Pomatiopsidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Tomichia rogersi]]
+}}
+====[[Neogastropoda]]====
+=====[[Buccinidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Ranella olearia]]
+*[[Ranella parthenopaeum]]
+}}
+=====[[Muricidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Latiaxis babelis]]
+}}
+====[[Sorbeoconcha]]====
+=====[[Pleuroceridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Lithasia geniculata]]
+}}
+=====[[Thiaridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Bridouxia ponsonbyi]]
+*[[Bridouxia praeclara]]
+*[[Cleopatra grandidieri]]
+*[[Lavigera coronata]]
+*[[Melanatria fluminea]]
+*[[Melanatria madagascarensis]]
+*[[Melanoides admirabilis]]
+*[[Melanoides polymorpha]]
+*[[Melanoides pupiformis]]
+*[[Melanoides turritispira]]
+*[[Spekia coheni]]
+*[[Tanganyicia rufofilosa]]
+}}
+====[[Stylommatophora]]====
+=====[[Acavidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Anoglypta launcestonensis]]
+}}
+=====[[Agriolimacidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Deroceras vascoana]]
+}}
+=====[[Camaenidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Amphidromus cognatus]]
+*[[Amplirhagada montalivetensis]]
+*[[Austrochloritis ascensa]]
+*[[Austrochloritis pusilla]]
+*[[Baccalena squamulosa]]
+*[[Baudinella baudinensis]]
+*[[Cooperconcha centralis]]
+*[[Craterodiscus pricei]]
+*[[Cristilabrum spectaculum]]
+*[[Cupedora broughami]]
+*[[Cupedora luteofusca]]
+*[[Cupedora marcidum]]
+*[[Cupedora sutilosa]]
+*[[Cupedora tomsetti]]
+*[[Glyptorhagada janaslini]]
+*[[Glyptorhagada wilkawillina umbilicata]]
+*[[Granulomelon grandituberculatum]]
+*[[Jacksonena delicata]]
+*[[Jacksonena rudis]]
+*[[Lacustrelix minor]]
+*[[Lacustrelix yerelinana]]
+*[[Meliobba shafferyi]]
+*[[Meridolum marshalli]]
+*[[Mesodontrachia desmonda]]
+*[[Mesodontrachia fitzroyana]]
+*[[Ordtrachia australis]]
+*[[Ordtrachia septentrionalis]]
+*[[Papuexul bidwilli]]
+*[[Pleuroxia arcigerens]]
+*[[Pleuroxia italowiana]]
+*[[Posorites turneri]]
+*[[Semotrachia sublevata]]
+*[[Semotrachia winneckeana]]
+*[[Setobaudinia victoriana]]
+*[[Sphaerospira macleayi]]
+*[[Sphaerospira rockhamptonensis]]
+*[[Sphaerospira whartoni]]
+*[[Torresitrachia funium]]
+}}
+=====[[Cerastidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Pachnodus silhouettanus]]
+}}
+=====[[Charopidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Allocharopa okeana]]
+*[[Allocharopa tarravillensis]]
+*[[Pillomena aemula]]
+*[[Setomedea nudicostata]]
+}}
+=====[[Chondrinidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Solatopupa psarolena]]
+*[[Sterkia clementina]]
+}}
+=====[[Clausiliidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Alopia bielzii clathrata]]
+*[[Boettgeria crispa]]
+*[[Charpentieria diodon]]
+*[[Macrogastra lineolata euzieriana]]
+*[[Muticaria macrostoma]]
+}}
+=====[[Cochlicopidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Cryptazeca vasconica]]
+}}
+=====[[Discidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Discus scutula]]
+}}
+=====[[Helicidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Allognathus graellsianus]]
+*[[Codringtonia acarnanica]]
+*[[Cylindrus obtusus]]
+*[[Faustina cingulella]]
+*[[Faustina rossmaessleri]]
+*[[Helix godetiana]]
+*[[Hemicycla berkeleii]]
+*[[Hemicycla mascaensis]]
+*[[Iberus gualtieranus]]
+*[[Pseudocampylaea portosanctana]]
+}}
+=====[[Helicodiscidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Helicodiscus diadema]]
+*[[Helicodiscus hexodon]]
+}}
+=====[[Helminthoglyptidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Eremarionta morongoana]]
+*[[Helminthoglypta mohaveana]]
+*[[Sonorella allynsmithi]]
+*[[Sonorella christenseni]]
+*[[Sonorella eremita]]
+*[[Sonorella grahamensis]]
+*[[Sonorella macrophallus]]
+*[[Sonorella metcalfi]]
+*[[Sonorella todseni]]
+}}
+=====[[Hygromiidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Actinella actinophora]]
+*[[Actinella fausta]]
+*[[Actinella obserata]]
+*[[Actinella robusta]]
+*[[Atenia quadrasi]]
+*[[Caseolus abjectus]]
+*[[Caseolus consors]]
+*[[Caseolus hartungi]]
+*[[Cryptosaccus asturiensis]]
+*[[Helicella orzai]]
+*[[Helicella striatitala]]
+*[[Helicopsis conopsis]]
+*[[Montserratina bofilliana]]
+*[[Plentuisa vendia]]
+*[[Pyrenaearia cotiellae]]
+*[[Pyrenaearia navasi]]
+*[[Pyrenaearia oberthueri]]
+*[[Pyrenaearia organiaca]]
+*[[Pyrenaearia parva]]
+*[[Pyrenaearia poncebensis]]
+*[[Pyrenaearia velascoi]]
+*[[Spirorbula obtecta]]
+*[[Suboestophora altamirai]]
+*[[Suboestophora hispanica]]
+*[[Xerocrassa jimenensis]]
+*[[Xerocrassa montserratensis]]
+*[[Xerocrassa montserratensis betulonensis]]
+*[[Xerosecta adolfi]]
+*[[Xerotricha gasulli]]
+*[[Xerotricha zaratei]]
+*[[Xerotricha zujarensis]]
+}}
+=====[[Limacidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Malacolimax wiktori]]
+}}
+=====[[Orculidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Orcula fuchsi]]
+}}
+=====[[Oxychilidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Oxychilus basajauna]]
+}}
+=====[[Papillodermatidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Papilloderma altonagai]]
+}}
+=====[[Polygyridae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Ashmunella pasonis]]
+*[[Polygyra hippocrepis]]
+*[[Polygyra peregrina]]
+}}
+=====[[Pupillidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Gyliotrachela catherina]]
+*[[Pupilla ficulnea]]
+}}
+=====[[Rhytididae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Paryphanta busbyi]]
+*[[Powelliphanta marchantii]]
+*[[Tasmaphena lamproides]]
+*[[Victaphanta atramentaria]]
+}}
+=====[[Streptaxidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Gonospira bourguignati]]
+}}
+=====[[Subulinidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Beckianum sinistrum]]
+*[[Leptinaria strebeliana]]
+}}
+=====[[Succineidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Catinella arenaria]]
+*[[Succinea sanctaehelenae]]
+}}
+=====[[Trissexodontidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Oestophora ortizi]]
+}}
+=====[[Valloniidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Pupisoma sp. nov. 1]]
+*[[Vallonia declivis]]
+}}
+=====[[Vertiginidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Vertigo alabamensis]]
+*[[Vertigo arthuri]]
+*[[Vertigo hebardi]]
+*[[Vertigo hubricti]]
+*[[Vertigo occulta]]
+*[[Vertigo ovata]]
+}}
+=====[[Vitrinidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Plutonia machadoi]]
+*[[Plutonia mascaensis]]
+*[[Plutonia tuberculata]]
+}}
+=====[[Zonitidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Paravitrea clappi]]
+*[[Trochomorpha melvillensis]]
+*[[Zonites anaphiensis]]
+}}
+==[[Nemertina]]==
+===[[Enopla]]===
+====[[Hoplonemertea]]====
+=====[[Prosorhochmidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Argonemertes hillii]]
+}}
+==[[Onychophora]]==
+===[[Onychophora]]===
+====[[Onychophora]]====
+=====[[Peripatidae]]=====
+{{columns-list|style=font-style:italic;|
+*[[Plicatoperipatus jamaicensis]]
+}}
+
+==References==
+* IUCN 2009. [[IUCN Red List of Threatened Species]]. Version 2009.2. <www.iucnredlist.org>. Source of the above list (Downloaded on '''28 January 2010'''): [http://www.iucnredlist.org/apps/redlist/search/link/4b9a6a39-ddb8ecaf]
+*{{Cite web| title=IUCN Red List status, version 2018.1, Arthropoda search
+| url=http://www.iucnredlist.org/
+| website=IUCN Red List
+| accessdate=2018-08-18
+}}
+
+{{DEFAULTSORT:Iucn Red List Near Threatened Species (Animalia)}}
+
+

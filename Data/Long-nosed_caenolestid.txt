@@ -1,0 +1,93 @@
+{{Taxobox
+| name = Long-nosed caenolestid
+| status = NT
+| trend = down
+| status_system = IUCN3.1
+| status_ref = <ref name=iucn>{{IUCN2008|assessor=Diaz, M.|assessor2=Teta, P.|last-assessor-amp=yes|year=2008|id=19710|title=Rhyncholestes raphanurus|downloaded=28 December 2008}}</ref>
+| regnum = [[Animal]]ia
+| phylum = [[Chordata]]
+| classis = [[Mammal]]ia
+| infraclassis = [[Marsupialia]]
+| ordo = [[Paucituberculata]]
+| familia = [[Caenolestidae]]
+| genus = '''''Rhyncholestes'''''
+| genus_authority = [[Wilfred Hudson Osgood|Osgood]], 1924
+| species = '''''R. raphanurus'''''
+| binomial = ''Rhyncholestes raphanurus''
+| binomial_authority = [[Wilfred Hudson Osgood|Osgood]], 1924
+| subdivision_ranks = [[Subspecies]]
+| subdivision =
+''R. r. continentalis'' <small>Bublitz, 1987</small><br>
+''R. r. raphanurus'' <small>Osgood, 1924</small>
+| range_map = Chilean Caenolestid area.png
+| range_map_caption = Range of the long-nosed caenolestid 
+}}
+
+The '''long-nosed caenolestid''' (''Rhyncholestes raphanurus''), also known as the '''Chilean shrew opossum''' or '''long-nosed shrew opossum''', is a [[shrew opossum]] that occurs in [[temperate forest]]s of Argentina and southern Chile. It was first described by American zoologist [[Wilfred Hudson Osgood]] in 1924. The long-nosed caenolestid resembles ''[[Caenolestes]]'' species in morphology. It is characterized by a long, pointed [[snout]], small eyes and ears, and one claw on a [[Digit (anatomy)|digit]] of each of the thin limbs. Little is known of its behavior; it appears to be [[terrestrial animal|terrestrial]] (lives on land), [[nocturnality|nocturnal]] (active mainly at night) and [[omnivorous]]. It prefers cool, moist areas, and has a small distribution. It is classified as [[near threatened]] by the [[IUCN]].
+
+== Taxonomy and etymology ==
+The long-nosed caenolestid is the sole member of its genus, and is classified in the family [[Caenolestidae]]. It was first [[Species description|described]] by American zoologist [[Wilfred Hudson Osgood]] in 1924. Two subspecies are recognised:<ref name=msw3>{{MSW3 Paucituberculata | id = 10500016 | pages=19–20}}</ref><ref name=gardner>{{cite book|editor1-last=Gardner|editor1-first=A.L.|title=Mammals of South America|volume=1|date=2007|publisher=University of Chicago Press|location=Chicago, US|isbn=978-0-226-28242-8|pages=126–7|url={{Google Books|id=dbU3d7EUCm8C|page=126|plainurl=yes}}}}</ref>
+*''R. r. continentalis'' <small>Bublitz, 1987</small>: Occurs in [[Argentina]] and [[Chile]] ([[Type locality (biology)|type locality]]: [[Cerro la Picada]]).
+*''R. r. raphanurus'' <small>Osgood, 1924</small>: Occurs in southern [[Chiloé Island]] (off the coast of Chile).
+
+A 2013 [[phylogenetic]] study showed that the [[Incan caenolestid]] (''Lestoros inca'') and the long-nosed caenolestid form a [[clade]] [[sister taxon|sister]] to ''[[Caenolestes]]''. The cladogram below is based on this study.<ref>{{cite journal|last1=Ojala-Barbour|first1=R.|last2=Pinto|first2=C.M.|last3=Brito M.|first3=J.|last4=Albuja V.|first4=L.|last5=Lee|first5=T.E.|last6=Patterson|first6=B.D.|title=A new species of shrew-opossum (Paucituberculata: Caenolestidae) with a phylogeny of extant caenolestids|journal=Journal of Mammalogy|date=2013|volume=94|issue=5|pages=967–82|doi=10.1644/13-MAMM-A-018.1}}</ref>
+
+{{clade | style=font-size:90%;line-height:100%;
+|1={{clade
+    |1={{clade
+        |1=[[Gray short-tailed opossum]] (''Monodelphis domestica'')
+        |2=[[Brown four-eyed opossum]] (''Metachirus nudicaudatus'')
+        |3={{clade
+            |1={{clade
+                |1=[[Incan caenolestid]] (''Lestoros inca'')
+                |2='''Long-nosed caenolestid''' (''Rhyncholestes raphanurus'')
+               }}
+            |label2=''[[Caenolestes]]''
+            |2={{clade
+                |1=[[Northern caenolestid]] (''C. convelatus'')
+                |2={{clade
+                    |1=[[Dusky caenolestid]] (''C. fuliginosus'')
+                    |2={{clade
+                        |1=[[Andean caenolestid]] (''C. condorensis'')
+                        |2={{clade
+                            |1=[[Gray-bellied caenolestid]] (''C. caniventer'')
+                            |2=[[Eastern caenolestid]] (''C. sangay'')
+                           }}
+                       }}
+                    }}
+               }}
+           }}
+        }}
+   }}
+}}
+
+Caenolestid fossils date to as early as the early [[Eocene]] (nearly 55 [[Mya (unit)|mya]]). The [[Generic name (biology)|generic name]] derives from the Greek words ''rhynchos'' ("[[snout]]") and ''lestes'' ("robber", "pirate"). The specific name comes from the Greek ''raphanos'' ("cabbage"), referring to the thick tail of this caenolestid. The Spanish name for this caenolestid, ''comadrejita trompuda'', is the combination of ''comadreja'' ("weasel") and ''trompa'' ("snout").<ref name="patterson">{{cite journal|last1=Patterson|first1=B.D.|last2=Gallardo|first2=M.H.|title=''Rhyncolestes raphanurus''|journal=[[Mammalian Species]]|date=1987|volume=286|pages=1–5|url=http://www.science.smith.edu/msi/pdf/i0076-3519-286-01-0001.pdf}}</ref> Other names for this shrew opossum are Chilean shrew opossum or Chilean caenolestid.<ref name=iucn/>
+
+== Description ==
+The long-nosed caenolestid resembles ''Caenolestes'' species in morphology. In his 1824 account, Osgood recorded external measurements of three specimens. The head-and-body length ranged from {{convert|17.5|to|21.5|cm|in}}, skull length was between {{convert|3|and|3.5|cm|in}} and hind feet measured {{convert|19.5|to|23.5|cm|in}}. The smooth coat is dark greyish brown, without [[countershading]] (greater pigmentation on the upper side).<ref name=patterson/> It is characterized by a long, pointed snout, small eyes and ears, and one claw on a [[Digit (anatomy)|digit]] of each of the thin limbs.<ref name=chester>{{cite book|last1=Chester|first1=S.|title=A Wildlife Guide to Chile Continental Chile, Chilean Antarctica, Easter Island, Juan Fernandez Archipelago|date=2010|publisher=Princeton University Press|location=Princeton, US|isbn=978-1-4008-3150-0|edition=1st|url={{Google Books|id=qrI5ph6BWiIC|page=292|plainurl=yes}}}}</ref> This shrew opossum lacks a [[pouch (marsupial)|marsupium]]<ref>{{cite book|editor1-last=MacDonald|editor1-first=D.W.|title=The Encyclopedia of Mammals|date=2009|publisher=Oxford University Press|location=Oxford, UK|isbn=978-0-19-956799-7|page=18}}</ref> (young are attached to the nipples) and has seven [[nipples]], unlike the four typical of other caenolestids.<ref name=gardner/> The tail helps in balancing the body during locomotion; the relatively shorter tail could imply lesser agility in the long-nosed caenolestid in comparison to other caenolestids. Moreover, the tail can be used to store fat,<ref name=patterson/> and is reportedly thickest during early winter.<ref name=gardner/>
+ 
+A 2007 study recorded dental anomalies such as missing teeth and [[supernumerary teeth]].<ref>{{cite journal|last1=Martin|first1=G.M.|title=Dental anomalies in ''Dromiciops gliroides'' (Microbiotheria, Microbiotheriidae), ''Caenolestes fuliginosus'' and ''Rhyncholestes raphanurus'' (Paucituberculata, Caenolestidae)|journal=Revista Chilena de Historia Natural|date=2007|volume=80|issue=4|pages=393–406|doi=10.4067/S0716-078X2007000400001}}</ref> The rodent-like [[incisor tooth|incisor]]s help in killing [[vertebrate]] prey and searching for insects in crevices.<ref name=patterson/> The pattern of [[tooth eruption]] appears to be largely consistent in all caenolestids – the eruption of procumbent (trailing along the surface without spreading out roots) [[Incisor tooth|incisors]], followed by the development of closely spaced incisors that distance from one another as the mandible grows, and then the eruption of molars and premolars.<ref name=Martin>{{cite journal|last1=Martin|first1=G.M.|title=Intraspecific variability in ''Lestoros inca'' (Paucituberculata, Caenolestidae), with reports on dental anomalies and eruption pattern|journal=Journal of Mammalogy|date=2013|volume=94|issue=3|pages=601–17|doi=10.1644/12-MAMM-A-180.1}}</ref>
+
+== Ecology and behavior ==
+Little is known of the behavior of the long-nosed caenolestid. It appears to be [[terrestrial animal|terrestrial]] (lives on land) and [[nocturnality|nocturnal]] (active mainly at night). An [[omnivore]], it feeds on insects and small invertebrates as well as plant material such as fungi. The caenolestid appears to live in burrows and fallen logs;<ref name=patterson/> nests may be used temporarily. Lactating females have been reported in May as well as from October to March.<ref name=gardner/>
+
+== Distribution and status==
+The long-nosed caenolestid occurs in [[temperate forest]]s of Argentina and southern Chile, and up to altitudes of {{convert|1,135|m|ft}} above the sea level (in [[Osorno Province]], Chile). It prefers cool, moist areas.<ref name=gardner/> Known from less than 25 locations, it has a very small distribution.<ref>{{cite journal|last1=Martin|first1=G.M.|title=Geographic distribution of ''Rhyncholestes raphanurus'' Osgood, 1924 (Paucituberculata:Caenolestidae), an endemic marsupial of the Valdivian Temperate Rainforest|journal=Australian Journal of Zoology|date=2011|volume=59|issue=2|pages=118–26|doi=10.1071/ZO11038}}</ref> This shrew opossum also marks the southern limit of the distribution of caenolestids.<ref>{{cite book|editor1-last=Feldhamer|editor1-first=G.A.|editor2-last=Drickamer|editor2-first=L.C.|editor3-last=Vessey|editor3-first=S.H.|editor4-last=Merritt|editor4-first=J.F.|editor5-last=Krajewski|editor5-first=C.|title=Mammalogy: Adaptation, Diversity, Ecology|date=2015|isbn=978-1-4214-1588-8|page=254|edition=4th|url={{Google Books|id=Ugq5BgAAQBAJ|page=254|plainurl=yes}}}}</ref> Though locally abundant, the survival of the caenolestid is threatened by deforestation. Its population has declined by nearly 20% since the 1990s due to deforestation and human settlement. The [[IUCN]] classifies the long-nosed caenolestid as [[near threatened]].<ref name=iucn/>
+
+==References==
+{{Reflist|3}}
+
+==External links==
+*{{Wikispecies-inline|Rhyncholestes raphanurus}}
+*{{ITIS |id=552589 |taxon=''Rhyncholestes raphanurus''|accessdate=30 May 2016}}
+*[http://www.cricyt.edu.ar/institutos/iadiza/ojeda/marsupiales/Rhyncholestes%20raphanurus.htm ''Rhyncholestes raphanurus'' image]
+{{Portal bar|Animals|Mammals|South America}}
+{{Paucituberculata}}
+{{Taxonbar|from=Q1072880}}
+
+
+
+
+
+
+

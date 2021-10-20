@@ -1,0 +1,31 @@
+{{Speciesbox
+| image = Knipo punct 3.jpg
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref>{{cite journal | author = Crivelli, A.J. | year = 2006 | title = ''Knipowitschia punctatissima'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2006 | page = e.T11026A3239712 | doi = 10.2305/IUCN.UK.2006.RLTS.T11026A3239712.en }}</ref>
+| taxon = Knipowitschia punctatissima
+| authority = ([[Giovanni Canestrini|Canestrini]], 1864)
+| synonyms =
+* ''Gobius punctatissimus'' <small>Canestrini, 1864</small>
+* ''Orsinigobius punctatissimus'' <small>(Canestrini, 1864)</small>
+}}
+
+'''''Knipowitschia punctatissima''''', the '''Italian spring goby''', is a species of [[goby]] [[Endemism|endemic]] to [[Italy]] where it inhabits fresh, clear waters of [[Spring (hydrology)|springs]], [[streams]], and channels with slow water movements.  This species can reach a length of {{convert|4.5|cm|in}} [[fish measurement|SL]].<ref>{{FishBase |genus= Knipowitschia|species= punctatissima| month = June | year = 2013}}</ref>
+
+==References==
+{{Reflist}}
+
+{{-}}
+{{diversity of fish}}
+
+{{Taxonbar|from=Q302018}}
+
+
+
+
+
+
+
+
+
+{{Gobiidae-stub}}

@@ -1,0 +1,30 @@
+{{Speciesbox
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{Cite journal | author = Freyhof, J. | title = ''Acanthobrama lissneri'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2014 | page = e.T60802A19008348 | publisher = [[IUCN]] | date = 2014 | url = http://www.iucnredlist.org/details/60802/0 | doi = 10.2305/IUCN.UK.2014-1.RLTS.T60802A19008348.en | access-date = 5 January 2018}}</ref>
+| taxon = Acanthobrama lissneri
+| display_parents = 3
+| authority = [[Enrico Tortonese|Tortonese]], 1952
+| synonyms = 
+}}
+
+'''''Acanthobrama lissneri''''', or the '''Jordan bream''',<ref name=IUCN/> is a [[species]] of freshwater fish in the [[Cyprinidae]] family. It is found in [[Israel]] and [[Jordan]]. Its natural [[habitat]]s are rivers and lakes, and is now commonly found in reservoirs.
+
+==Distribution and threats==
+The Jordan bream is found in the [[Jordan River]] drainage basin and the on the coastal plain of Palestine in the Nahr al-Muqatta ([[Qishon River]]).<ref>{{FishBase|genus=Acanthobrama|species=lissneri|month=May|year=2014}}</ref> It has been introduced into the [[Azraq Wetland Reserve]].
+
+It is widely distributed and locally abundant, particularly in lakes such as [[Sea of Galilee|Lake Kinneret]], but there have been significant declines in riverine parts of its range. It is threatened by [[habitat loss]] as water extraction is impacting the lakes and rivers in this region. Pollution in the waters is also a threat in certain localities. Nevertheless, it is able to inhabit reservoirs and other artificial water bodies which compensates for the losses in rivers and streams.
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q1992544}}
+
+
+
+
+
+
+
+
+{{Leuciscinae-stub}}

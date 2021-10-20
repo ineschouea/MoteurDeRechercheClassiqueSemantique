@@ -1,0 +1,44 @@
+{{italic title}}
+{{Taxobox
+| name = Indian toad
+| status = NT | status_system = IUCN3.1
+| status_ref = <ref>{{Cite journal | author = Biju, S.D. | author2 = Dutta, S. | author3 = Vasudevan, K. | author4 = Vijayakumar, S.P. | author5 = Srinivasulu, C. | author6 = Bhuddhe, G.D. | title = ''Duttaphrynus parietalis'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2004 | page = e.T54725A11194867 | publisher = [[IUCN]] | date = 2004 | url = http://www.iucnredlist.org/details/54725/0 | doi = 10.2305/IUCN.UK.2004.RLTS.T54725A11194867.en | access-date = 9 January 2018}} Database entry includes a range map and justification for why this species is near threatened</ref>
+| trend = down
+| image = Bufo parietalis side.jpg
+| image2= BufoParietalis1.jpg
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[Amphibia]]
+| ordo = [[Frog|Anura]]
+| familia = [[Bufonidae]]
+| genus = ''[[Bufo]]''
+| species = '''''B. parietalis'''''
+| binomial = ''Bufo parietalis''
+| binomial_authority = ([[George Albert Boulenger|Boulenger]], 1882)
+| range_map = Duttaphrynus parietalis map-fr.svg
+| synonyms = ''Duttaphrynus parietalis''
+}}
+
+The '''Indian toad''' or '''ridged toad''' ('''''Bufo parietalis''''') is a species of [[toad]] found in the [[Western Ghats]] of [[India]].<ref>Krishna, S. N. Krishna, S. B. 2001. On the natural history of ''Bufo parietalis'' Boulenger, 1882, Amphibia: Family Bufonidae. J. Bombay Nat. Hist. Soc. 98(3):456</ref>
+
+==Description==
+[[Image:Bufo parietalis amplexus.jpg|thumb|200px|left]]
+Head with very prominent ridges, namely a canthal, a slight preorbital, a supraorbital, a postorbital, a parietal, and an orbitotympanic; parietal ridges obliquely directed inwards; snout short, blunt; interorbital space broader than the upper eyelid; tympanum distinct, two thirds the diameter of the eye. First finger extending beyond second; toes half webbed, with single subarticular tubercles; two moderate metatarsal tubercles; no tarsal fold. The tarsometatarsal articulation reaches between the eye and the tip of the snout. Upper surfaces covered with irregular warts; parotoids moderately elongate, elliptical, very prominent. Uniform brown above; beneath marbled with brown.   Male with a subgular [[vocal sac]].<ref>Boulenger, G. A. 1890. Fauna of British India. Reptilia and Batrachia.</ref>
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{Commons category|Duttaphrynus parietalis}}
+* [http://www.iucnredlist.org/apps/redlist/details/54725/0 IUCN Red List of Threatened Species: ''Bufo parietalis''] (as ''Duttaphrynus parietalis'')
+
+{{Taxonbar|from=Q28031914}}
+
+
+
+
+
+
+
+
+{{Bufonidae-stub}}

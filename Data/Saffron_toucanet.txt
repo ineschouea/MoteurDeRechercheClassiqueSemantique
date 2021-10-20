@@ -1,0 +1,79 @@
+{{Speciesbox
+| name = Saffron toucanet
+| image = Saffron Toucanet.JPG
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22682044 |title=''Pteroglossus bailloni'' |assessor=BirdLife International |assessor-link=BirdLife International |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| taxon = Pteroglossus bailloni
+| authority = ([[Louis Jean Pierre Vieillot|Vieillot]], 1819)
+| synonyms = 
+* ''Andigena bailloni''
+* ''Baillonius bailloni''
+* ''Ramphastos Bailloni''
+}}
+
+The '''saffron toucanet''' (''Pteroglossus bailloni'') is a species of [[bird]] in the family [[Ramphastides|Ramphastidae]] found in the [[Atlantic Forest]] in far north-eastern Argentina, south-eastern Brazil, and eastern Paraguay.
+
+==Taxonomy and systematics==
+This species' scientific name honors [[Louis Antoine François Baillon]].<ref>{{cite web | title = Collection ornithologique musée George-Sand de La Châtre  | work = Cahiers Naturalistes de l'Indre | url = http://cahiersnaturalistes.free.fr/oiseaux/coll_orni1.htm | accessdate = 2007-08-12}}</ref> The saffron toucanet was originally described in the genus ''[[Ramphastos]]'' and has also been placed in the genus ''[[Andigena]]'' by some authorities. It was formerly placed in the [[monotypic]] [[genus]] ''Baillonius'', but Kimura ''et al.'' (2004) were able to show that the saffron toucanet belongs in the genus ''[[Pteroglossus]]''.<ref>{{cite web | title = South American Classification Committee | work = Merge Baillonius into Pteroglossus | url = http://www.museum.lsu.edu/~remsen/SACCprop151.html | accessdate = 2007-09-07 | deadurl = yes | archiveurl = https://web.archive.org/web/20080516004433/http://www.museum.lsu.edu/~Remsen/SACCprop151.html | archivedate = 2008-05-16 | df =  }}</ref>
+
+In a later study, it was later confirmed by analyzing the molecular sequence of the saffron by Pereira ''et al''. (2008). The finding was supported by vocalization and anatomical characteristics that were similar to other Pteroglossus species.<ref name=":0">Pereira, Sergio L., and Anita Wajntal. "The Historical Biogeography of Pteroglossus Aracaris (Aves, Piciformes, Ramphastidae) Based on Bayesian Analysis of Mitochondrial DNA Sequences." Genetics and Molecular Biology 31.4 (2008): 964-73. Web. 26 Mar. 2017.</ref>
+
+Alternate names include '''Baillon's toucan''', '''banana toucan''', '''saffron-colored [[Aracari|araçari]]''' and '''yellow toucanet'''.
+
+==Description ==
+It is a relatively long-tailed [[toucan]] with a total length of 35–40&nbsp;cm (14–16&nbsp;in). As suggested by its [[common name]], it is, uniquely among toucans, overall saffron yellow. The back and tail are darker, more olive in color. The rump, [[ocular]] skin and patches on the basal half of the otherwise greenish-horn bill are red. The [[Iris (anatomy)|iris]] is pale yellowish.
+
+This species is dimorphic, meaning that males and females have distinguished looks from each other. The adult male has a golden head and breast, olive mantle (the wings, shoulder feathers and back) and red rump. They have a modestly sized bill, with green, grey blue, and yellowish-grey color all along it. Adult females are similar to the male but have more olive and less gold coloration; they also have a shorter bill. A young toucanet is mostly olive and grey colored, with brown eyes and a blotchy bill.<ref name=":1">Vitali, Liana, and Lucie Muir. "Saffron Toucanet Photos and Facts." ARKive. Environment Agency - Abu Dhabi, n.d. Web. 28 Feb. 2017.</ref>
+
+== Distribution and habitat ==
+The saffron is found in the Atlantic Forest. The viridis group, a [[Species complex|superspecies]] group that includes the saffron, was separated from the other Pteroglossus group around 3 million years ago. The topologies observed in the study showed the saffron toucanet as a member of the Pteroglossus viridis group instead of a sister lineage to all other Pteroglossus. The saffron is separated from the other species in the viridis group by the Brazilian savanna [[biome]]. It is thought that this species is part of an ancient stock that became isolated in the current Atlantic Forest from marine transgression and were not able to adapt and invade the Brazilian savanna.<ref name=":0" />
+
+It depends on forested habitats to survive.<ref name=":2">Jesus, Shayana De, Adriano Cesar Buzzato, Alexandre Bianco, Evair Legal, Fábio Gaio Chimentao, Marcio Coutinho Pelissari, and Tiago João Cadorin. "Recent Records of Endangered Birds in the State of Sao Paulo, Southeastern Brazil." Check List 10.1 (2014): 230-36. Web. 26 Mar. 2017.</ref> One study investigated whether species endemic to the Atlantic forest and with small geographic ranges were more vulnerable to [[Habitat fragmentation#Forest fragmentation|forest fragmentation]]. This species was found to be “[[Endemism|endemic]] and high sensitivity” to the fragmentation, meaning that since they are native to the land, they are more likely to be affected by the split.<ref name=":3">Anjos, Luiz Dos, Robert D. Holt, and Scott Robinson. "Position in the Distributional Range and Sensitivity to Forest Fragmentation in Birds: A Case History from the Atlantic Forest, Brazil." Bird Conservation International 20.04 (2009): 392-99. Web. 26 Mar. 2017.</ref> It was found that species at the edges of their ranges were sensitive to fragmentation as well. This may be due to fewer nearby populations for species to move to once their local populations were lost.
+
+== Behavior and ecology ==
+The saffron is a large-gape [[frugivore]]. Due to their nature, they are especially crucial for plants with larger seeds to disperse themselves to further areas. They are one of the few birds that are capable of carrying larger seeds to new locations.<ref name=":4">Galetti, M., R. Guevara, M. C. Cortes, R. Fadini, S. Von Matter, A. B. Leite, F. Labecca, T. Ribeiro, C. S. Carvalho, R. G. Collevatti, M. M. Pires, P. R. Guimaraes, P. H. Brancalion, M. C. Ribeiro, and P. Jordano. "Functional Extinction of Birds Drives Rapid Evolutionary Changes in Seed Size." Science 340.6136 (2013): 1086-090. Web. 28 Feb. 2017.</ref> One study suggests that there is a strong association between species’ contribution to network modularity and species’ number of interactions. Species with many links tend to establish interactions both within and among environments and to exhibit a greater contribution to nestedness.<ref name=":5">Vidal, Mariana M., Erica Hasui, Marco A. Pizo, Jorge Y. Tamashiro, Wesley R. Silva, and Paulo R. GuimarÃ£es. "Frugivores at Higher Risk of Extinction Are the Key Elements of a Mutualistic Network." Ecology 95.12 (2014): 3440-447. Web. 28 Feb. 2017.</ref>
+
+On average, species that contribute more to network organization, like the saffron, are at a higher risk of extinction. Without a connection between certain species of plant, there may be ecological and evolutionary consequences such as [[Coextinction|co-extinction]].<ref name=":5" />
+
+=== Breeding ===
+The saffron toucanet has been observed making nests beginning in October. The highest numbers of active nests were recorded in November. Their nests had a cavity depth of 20.0-68.0&nbsp;cm, an entrance diameter of 4.3-7.4&nbsp;cm, and a cavity height of 7.0-24.0 meters. Due to their small size, they do not need large cavities for their nests and they do not need to compete with other species for suitable spots.<ref name=":6">Bonaparte, Eugenia Bianca, and Kristina L. Cockle. "Nest Niche Overlap among the Endangered Vinaceous-breasted Parrot (Amazona Vinacea) and Sympatric Cavity-using Birds, Mammals, and Social Insects in the Subtropical Atlantic Forest, Argentina." The Condor 119.1 (2017): 58-72. Web. 28 Feb. 2017.</ref> They prefer making their nests in living trees such as the [[:pt:Apuleia leiocarpa|Garapa (Apuleia leiocarpa)]] and the [[Aspidosperma australe]]. The [[diameter at breast height]] (DBH) was between 44–132&nbsp;cm. They do not tend to reuse the same cavities for their nests.<ref name=":6" />
+
+Courtship for these birds involves the male singing and feeding the female. They will [[Preening|preen]] each other. The female will lay two or three eggs that are incubated by both parents for about 16 days.<ref name=":1" />
+
+=== Food and feeding ===
+The diet of the saffron mainly consists of fruit, like figs and palm fruits. They have also been noted to eat young birds.<ref name=":1" /> In one study, a saffron toucanet was observed entering a [[red-rumped cacique]] nest, removing the nest contents by swallowing them, and flew away. All of this occurred within 30 seconds. It is thought that their smaller bodies helped them be able to perch on the nest, enter and exit quickly.<ref name=":7">Cockle, Kristina L., Alejandro Bodrati, Martjan Lammertink, Eugenia Bianca Bonaparte, Carlos Ferreyra, and Facundo G. Di Sallo. "Predators of Bird Nests in the Atlantic Forest of Argentina and Paraguay." The Wilson Journal of Ornithology 128.1 (2016): 120-31. BioOne. Web. 15 Mar. 2017.</ref> Another study saw one unsuccessfully attempt to attack the nest of a [[White-spotted woodpecker|White-spotted Woodpecke]]<nowiki/>r.<ref name=":7" />
+
+== Status ==
+It is threatened by [[habitat loss]], degradation, hunting, and being captured.<ref name=":5" /> They are currently considered [[Near Threatened]] by [[BirdLife International]].<ref name="IUCN" /> It occurs in several protected areas, such as the [[Itatiaia National Park]] and [[Intervales State Park]]; both in south-eastern Brazil.
+
+== Threats ==
+''[[Chlamydophila psittaci]]'', a parasitic agent that can be passed between avian species, was specifically studied in the saffron toucanet, along with several of its other relatives. It has been reported in many species of wild birds; however, physical symptoms are not prevalent with this disease. Lack of symptoms can therefore make this disease easier to spread to other birds and to humans. In the saffron, it had antibodies made to fight against this disease.<ref name=":8">Raso, TÃ¢nia De Freitas, Vivian Lindmayer Ferreira, Rodrigo Hidalgo Friciello Teixeira, and Aramis Augusto Pinto. "Survey on Chlamydophila Psittaci in Captive Ramphastids in SÃ£o Paulo State, Brazil." CiÃªncia Rural 42.7 (2012): 1249-252. Web. 28 Feb. 2017.</ref> There is a lack of study concerning the toucanet in veterinary literature, so there is an interest in further study.<ref name=":8" />
+
+In Sao Paulo Zoo Foundation, the [[Hemiparasite|hemoparasite]] [[Microfilaria|microfilarie]] was found in one of the saffrons tested. Otherwise, there were no infections of enteroparasites found in the species. It is important to note that birds that are in captivity are more likely to contract a disease than wild birds, so they should be tested regularly.<ref>Chagas, C. R. Fernandes, I. H. Lima Gonzalez, P. A. Borges Salgado, C. R. Grosse Rossi Ontivero, and P. Locosque Ramos. "Occurrence of Endoparasites in Ramphastidae (Aves: Piciformes) in Sao Paulo Zoo." Helminthologia54.1 (2017): 81-86. Web. 28 Feb. 2017.</ref>
+
+Along with parasitic dangers, the species must endure man made threats. They are a popular choice for the illegal bird trade.<ref name=":2" /> They are also in danger from being hunted by humans.<ref name=":4" /> Due to deforestation, they are prone to local extinction in smaller forest fragments.<ref name=":4" /> Managers are working to reduce the loss of [[biodiversity]] with their large reserves.<ref name=":3" />
+
+== Conservation ==
+As of 1995, there is only 6% of the Atlantic Forest still alive, with at least 214 endemic species and around 46 species under threat of global extinction.<ref name=":9">Lowen, James C., Rob P. Clay, Thomas M. Brooks, Estela Z. Esquivel, Lucia Bartrina, Roger Barnes, Stuart H. M. Butchart, and Nubia I. Etcheverry. "Bird Conservation in the Paraguayan Atlantic Forest." Cotinga 4(1995): 58-64. Web. 26 Mar. 2017.</ref> It is therefore extremely important to focus a large amount of conservation efforts here. Food is also being negatively impacted thanks to human intervention. The saffron, along with other species of bird, eats the palmito fruit as a part of its diet. Recently, the palmito industry has boomed, which could impact the dietary habits of the toucanet.
+
+The Fifth [[Neotropical Ornithological Society|Neotropical Ornithological Congress]] is raising awareness for the conservation of Paraguay forest.<ref name=":9" /> Other conservation initiatives like the Private Nature Reserves are growing more popular but are still in need of publicity and financial support. Although they focus mainly on parrots, the [[World Parrot Trust]] is educating the public about the importance of conservation in Paraguay and other similarly affected areas.
+
+==References==<!-- RevBrasBiol59:75. -->
+<references/>
+
+==External links==
+*[http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&sid=855 BirdLife Species Factsheet.]
+* Mangoverde [http://mangoverde.com/birdsound/spec/spec102-20.html Photos of the Saffron Toucanet]
+
+{{Ramphastidae}}
+{{Taxonbar|from=Q1086474}}
+
+{{DEFAULTSORT:toucanet, saffron}}
+
+
+
+
+
+
+

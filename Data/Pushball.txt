@@ -1,0 +1,24 @@
+[[File:Pushball.jpg|thumb|300px|Pushball game between New York Police and Fire Departments, 1939]]
+'''Pushball''' is a [[game]] played by two sides on a field usually {{convert|140|yd|m}} long and {{convert|50|yd|m}} wide, with a ball {{convert|6|ft|m|}} in diameter and {{convert|50|lb|kg}} in weight. Occasionally, much heavier balls were used.<ref>{{cite article|journal=[[Atlas Obscura]]|author=Cara Giamo|title=The Best Sport of the Early 1900s Involved Pushing Around an Elephant-Sized Ball|date=9 December 2016|url=http://www.slate.com/blogs/atlas_obscura/2016/12/09/the_sport_pushball_was_invented_specifically_to_be_amusing_to_spectators.html}}</ref> The sides usually number eleven each, there being five forwards, two left-wings, two right-wings and two goal-keepers. The goals consist of two upright posts {{convert|18|ft|m}} high and {{convert|20|ft|m}} apart with a crossbar {{convert|7|ft|m}} from the ground. The game lasts for two periods with an intermission. Pushing the ball under the bar counts 5 points; lifting or throwing it over the bar counts 8. A touchdown behind goal for safety counts 2 to the attacking side.
+
+[[File:Pushballwedstrijd.ogv|thumb|left|thumbtime=20|A pushball game in [[Volendam]], [[Netherlands]] in 1927]]The game was invented by [[M. G. Crane]] of [[Newton, Massachusetts]], in 1891, and was taken up at [[Harvard University]] the next year, but never attained any considerable vogue. [[Emory University]] students played pushball from 1923 to 1955 before the game was retired due to its increasingly rough nature.<ref>{{cite journal|journal=Emory Magazine|url=http://www.emoryhistory.emory.edu/enigmas/Pushball.htm|title=Scoreless but not goreless|date=Autumn 2000|archiveurl=https://web.archive.org/web/20131207070601/http://emoryhistory.emory.edu/enigmas/Pushball.htm|archivedate=7 December 2013}}</ref>
+
+In the [[United Kingdom]] the first regular game was played at the [[The Crystal Palace|Crystal Palace]] in 1902 by teams of eight. The English rules are somewhat different from those obtaining in the United States. Pushball on horseback was introduced in 1902 at [[Durlands Riding Academy]] in New York, and has been played in England at the [[Military Tournament]].
+
+"Pushball on horseback" variations continued in Europe, and recently resurfaced as a growing equine activity in the United States,{{Citation needed|date=October 2009}} with variations including "horse soccer", "equine soccer", and "hoofball". The various games provide great fun for both horse and rider,{{Citation needed|date=October 2009}} while serving as a valuable training tool that can be enjoyed by one or more horsemanship team players. The most important safety factor (aside from basic horsemanship foundation and equine communication skills) requires that the ball be at least as tall as the mount's breastbone. Some play with a durable {{convert|48|in|mm|adj=mid|-diameter}} cageball – a tough bladder caged inside a separate nylon cover, available from sporting goods suppliers.
+
+==See also==
+* [[Bladderball]]
+
+==References==
+* {{EB1911|wstitle=Pushball|volume=22|page=668}}
+{{reflist}}
+
+==External links==
+* [https://archive.org/stream/nationalmagazine23brayrich#page/47/mode/1up ''Pushball: A Strenuous New Game''], C.H. Allison, '''National Magazine''', October, 1905
+* [https://babel.hathitrust.org/cgi/pt?id=loc.ark:/13960/t7jq1dx2b;view=thumb;seq=1 ''Push Ball''] Spalding's Athletic Library, 1903 at babel.hathitrust.org
+
+{{Team Sport}}
+{{DEFAULTSORT:Pushball}}
+
+

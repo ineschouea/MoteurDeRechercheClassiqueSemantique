@@ -1,0 +1,40 @@
+{{Taxobox
+| name = Caucasian toad
+| image = Bufo_verrucosissimus_Ust'-Labunsk_02.jpg
+| status = NT | status_system = IUCN3.1
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Amphibia]]
+| ordo = [[Frog|Anura]]
+| familia = [[Bufonidae]]
+| genus = ''[[Bufo]]''
+| species = '''''B. verrucosissimus'''''
+| binomial = ''Bufo verrucosissimus''
+| binomial_authority = ([[Peter Simon Pallas|Pallas]], 1814)
+| synonyms = *''Bufo colchicus'' Eichwald, 1831
+*''Rana caucasica'' Pallas, 1814
+}}
+
+The '''Caucasian toad''' (''Bufo verrucosissimus'') is a [[species]] of [[toad]] in the family [[Bufonidae]].
+It is found in [[Azerbaijan]], [[Georgia (country)|Georgia]], [[Iran]], [[Russia]], and [[Turkey]].
+Its natural [[habitat]]s are temperate [[forest]]s, [[subtropical]] or [[tropical]] moist lowland forests, intermittent [[river]]s, rural gardens, [[pond]]s, and aquaculture [[pond]]s.
+It is threatened by [[habitat loss]].
+
+==References==
+* Kuzmin, S., Stöck, M., Papenfuss, T., Rastegar-Pouyani, N., Ugurtas, I., Anderson, S., Tarkhnishvili, D., Ananjeva, N., Orlov, N. & Tuniyev, B. 2004.  [http://www.iucnredlist.org/search/details.php/39421/all Bufo verrucosissimus].   [https://web.archive.org/web/20140627000000/http://www.iucnredlist.org/ 2006 IUCN Red List of Threatened Species. ]  Downloaded on 21 July 2007.
+
+{{commonscat-inline|Bufo verrucosissimus}}
+
+{{Taxonbar|from=Q1186013}}
+
+
+
+
+
+
+
+
+
+
+
+{{Bufonidae-stub}}

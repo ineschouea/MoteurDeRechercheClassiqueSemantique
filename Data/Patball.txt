@@ -1,0 +1,128 @@
+{{Redirects|Slapball||Punchball}}
+{{Infobox sport
+| colour      = Blue
+| title       = Patball
+| image       = Black Patball.jpg
+| imagesize   =
+| caption     = A black patball
+| nickname    = "Pattball", "Wallball", "Slapball"
+| contact     = limited to none
+| team        = one person per team, each team competes against the others
+| mgender     = yes
+| category    = Competing sport, ball sport
+| equipment   = [[wall]]/court, [[hand]], [[tennis ball]]/patball
+| ball        = [[tennis ball]] or patball
+| venue       = [[playground|school playground]], Patball court
+}}
+
+'''Patball''' is a non-contact competitive [[ball game]] played in many forms using one's hands or head to hit the ball against a wall &ndash; the objective being to get the succeeding player out. The game is popular in school playgrounds during [[Recess (break)|break-time]]. Patball is played with a tennis ball, or other similar-sized specific patball, and the preferred hand, rather than any form of racquet or bat. The hand is used to "pat" the ball at the wall or at the opponent with the objective of making the ball un-returnable, similar to [[Squash (sport)|squash]]. In some variations of the game the use of the foot 'footies' is also allowed.
+
+It is very popular among London [[Public school (United Kingdom)|public schools]], most notably, private schools such as [[Dulwich College]]<ref name=cherwell> and King's College school Wimbledon.
+{{cite web|title=Patball: Oxford's youngest street sport uncovered|url=http://www.cherwell.org/sport/feature/2014/05/11/patball-oxfords-youngest-street-sport-uncovered|publisher=Cherwell Sport|accessdate=12 May 2014}}</ref> and [[Dulwich Hamlet, London|Dulwich Hamlet]].
+
+==Game==
+
+Patball, in most forms, is played by two opposing players, but multiple players at once are possible depending on space restrictions. It is played against walls of a various widths, with the exact areas usually agreed upon based on age, space availability and a size which will allow continuous play rather than repeated restarts or "second serves".
+[[File:Patball_being_held.jpg|thumb|right|Patball ball being held by Dulwich College student]]
+
+Only the players' hands may hit the ball and different shots and skills are employed to avoid the opponent being able to return the shot, at which point the opposing player is out or loses a life depending on the game version being played.
+
+The ball used is usually a standard [[tennis ball]], but at Dulwich College, a specific patball is used. This is a hollow rubber ball which can best be described as a tennis ball without the fibrous felt.
+
+Recently, new variants of patball have been invented such as 'Aces', 'Kingpin' and 'Single Dingles'. Aces is played with four players on a special [[court]] (eight equally sized squares painted on the ground) and each player uses one square. It is played just as the original version, except for the fact that the wall is on the opponent's court and "lives" are used, varying on who is playing. When a player runs short of lives, he/she becomes a "ghost". A ghost is still allowed to play but cannot lose lives or make players still in the game lose lives. When just two players remain, each player gets four of the eight squares each and continues with the number of lives that they had prior to this. The players continue playing until one of the two is knocked out.
+
+Kingpin consists of three to eight players. Much like aces you play on the ground but once you lose the point you go to the back and the aim is to become the king, who starts the rally every point. the positions are in order; King, Queen, 1st Jock, 2nd Jock, 3rd Jock, 4th Jock, 5th Jock and 6th Jock. The game ends when the end of break/lunch bell goes. Up to Twelve players could play (King, Queen, Jack and playing cards from 10 down) with 9 being a common court configuration (King in the middle). The king bounced the ball in his square and onto someone else's. If the ball double bounced, was missed or went out of court, the player was out and demoted to the bottom square.
+
+Single Dingles is played like Kingpin but with two people and it is winner stays on.
+
+==Rules==
+
+The rules of Patball will vary slightly across different areas, but these are the generally accepted rules for a standard game.
+
+===General gameplay===
+
+#Two players or more can play at any one time. An order is decided for the players, where &ndash; in chronological order &ndash; the succeeding player will attempt to shoot.
+#The first player serves by throwing the ball to the floor near the wall, making it bounce and hit the wall.
+#The second player lets the ball bounce once after hitting the wall, before hitting it to the floor again so it bounces onto the wall and back to the next player. 
+#This continues until one player misses the ball and fails to return it to the other player or hits the wall directly without letting the ball bounce (produces a "direct"). The player that failed to hit it back is out and a new "half-round" begins with the players that are not yet out (if the game consists of more than two players).
+#When the final two players (if there were other players as well) are left, they compete in rounds where the winner is declared out of two points. In some instances, the final round does not have to go through the "out-of-two" phase. Instead, the final players can decide the winner out of one point.
+#If the players decide to start a completely new round, the order is based on the players that were out first being last, e.g. if there were five players competing, the first player to get out would be fifth in the order.
+# In some variations aces will be allowed and in this instance, a serve which is un-returnable will result in an automatic elimination for the receiver.
+
+===Event rules===
+
+When the ball hits an object or a person before the returning player has a chance to hit it, "obs" (see the section [[Patball#Language|Language]], below) is declared. If a consensus is reached in that it was "obs", the round is restarted with the player that declared "obs" serving. The game-play and rules are often changed by the players. For example, some players would not allow the shooting technique of hitting the ball onto the wall without a bounce - but others could eliminate that rule so that the shooting player can hit the ball right before the bounce occurs. In any instance where the ball goes in a wild direction due to an odd surface, named "curbs" or a "dodgy bounce", a re-throw takes place. If the second player dislikes the first player's serve, they can declare a "second serve", and the first player has to re-serve. The first player can declare a "second serve" as well if they wish to. This can be thought to be useful to the first player because the first player cannot get out on the first serve.
+
+===Point-scoring patball===
+
+Patball is sometimes played with a point scoring system where the winner of each round gets a point and the person with the most points at the end is victorious, e.g. the players go through a specific number of rounds, e.g. out of ten. The players have to keep track of their points. This is often known in Dulwich College as "Aces".
+
+==Language==
+
+Patball uses a jargon language within the game, with a fairly large number of terms and usages. These jargon languages occur in many sports but Patball's jargon is very notable and commonplace.
+
+The main terms, which vary across different areas, are in the following glossary:
+
+{| class="wikitable"
+|-
+! Term !! Meaning
+|-
+| Obs || A derivation of 'obstruction'. When the ball hits an object or a person that blocks it before the returning player has a chance to hit it. The most common kind of this is "bag obs" or "bobs" in which the ball hits bags acting as posts and therefore cannot reach the wall.
+|-
+| Mids/Crease (original version only) / BC (New Versions) || The ball hitting exactly between the wall and the ground. The person who calls it remains in the game.
+|-
+| Lines/Post (newer versions only) || The ball hitting the line exactly between two opposing courts. In dingles the person who calls it serves next round.
+|-
+| Drag / Carry || When a player scoops the ball up instead of patting it. The player is then out. However, in many variations the scooping up of the ball and the rolling of it off the hand is seen as ok.
+|-
+| Volley || When a player hits the ball before letting it bounce onto the floor. This shot is not allowed, the player producing the shot is out. Although in some games this is seen as ok
+|-
+|Double Bounce Scoop-ups || When a player allows the ball to bounce twice before hitting it. This shot is normally allowed in games where players are less experienced, but in any other cases the person producing the Double Bounce is out.
+|-
+|Triple Bounce Kick-ups || Similar to Double Bounce Scoop-Ups but only with the ball bouncing thrice before a kick.
+|-
+|Blind || When a player blocks sight of the ball, so another misses the pat.
+|-
+| Direct/ straight ends || When a player hits the ball onto the wall, or into another players court, without letting it bounce, in their court first. The player is then out. 
+|-
+| Rolls || When, after the ball hits the wall, it rolls across the floor. The point is then replayed. 
+|-
+| Second Serve / Re-serves || When the first serve is considered ineligible for whatever reason, the ball is "re-served".
+|-
+| Odd Bounce/ Curbs/ dodgies || When, after the ball hits the ground, it bounces in an unpredictable way. If called before the ball is played, the point is replayed unless obvious intentional spin was put on the ball. In some versions it is not replayed.
+|-
+| Self-obs / Spike/ body bits || The ball hitting the returning player before they can hit it back themselves. '''OR:'''<br>The ball hitting the player who made the pat before hitting the wall. If this occurs, the player is out.
+|-
+| Killer / Don't want / Bad serve / Dick Serve|| A serve that can not be returned and a "Second Serve" is appointed.
+|-
+| Conditional || As the name suggests, when an unforeseen event occurs and neither player is at fault, that point is replayed.
+|- 
+| Demon || A player who is out but stands in front of the wall and can catch the ball on any shot except a serve. If the ball is caught, the demon may replace the player who hit the shot. If the ball hits the wall before being caught the catch does not count and the demon is given one "obs". If the ball hits the demon without them catching it, this is also considered an "obs". If the demon obstructs the ball twice they are no longer allowed near the wall, in which case they are out. A demon does not move from his chosen position on the wall, although this depends on the game. Demons are not generally used in games and will vary in number depending on wall size. The term 'demon' is used to mean someone who has come back to haunt the other remaining players.
+|-
+| Side-demon || Similar to a demon, a side demon is a player who is out and may stand to the side of the wall and catch the ball. The same rules apply to the side-demon as the demon. Side-demons are normally used on smaller walls where there is less space.
+|-
+| Mountains || When the ball is thrown to the ground to bounce higher than usual or to the back courts in 'king pin'.
+|-
+| Low-cut / Below-Knees || When the ball is hit and bounces below one's knees, usually winning the point. 
+|- 
+| Tips|| When the ball is played with the tips of the fingers. This is a controversial foul call, the legitimacy of which is in constant debate.
+|-
+| Purpose Obs || When a player tries to intentionally simulate the act of being 'obsed' by another person, in which case they are out.
+|-
+| Stealies || When a player purposely hits the ball off the oppositions court it is not bouncing on their own court 
+|- 
+| Savies || When a player purposely saves a player by hitting the ball off the oppositions court
+|-
+|Copy||Where a player plays the ball through his or her legs, or any other distinguishable move subsequently calling "copy."  The proceeding players then have to copy  the action. If a copy is called and the player calling the copy does a standard hit, then that player is out.
+|}
+
+==References==
+
+[https://www.pattball.com/]
+{{Reflist}}
+
+==Sources==
+* [http://www.streetgames.co.uk/games.php?article=206& Patball at Streetgames.co.uk]
+* [https://www.topendsports.com/sport/list/patball.htm]
+
+

@@ -1,0 +1,41 @@
+{{Speciesbox
+| name = Branch coral
+| image = Acropora florida.jpg| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name=iucn>{{Cite journal | author = Richards, Z.T. | author2 = Delbeek, J.T. | author3 = Lovell, E.R. | author4 = Bass, D. | author5 = Aeby, G. | author6 = Reboton, C. | last-author-amp = yes | title = ''Acropora florida'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2014 | page = e.T132869A54151400 | publisher = [[IUCN]] | date = 2014 | url = http://www.iucnredlist.org/details/132869/0 | doi = 10.2305/IUCN.UK.2014-1.RLTS.T132869A54151400.en | access-date = 5 January 2018}}</ref>
+| taxon = Acropora florida
+| authority = (Dana, 1846) <ref name=WoRMS>{{cite WoRMS |author=Hoeksema, Bert |year=2015 |title=''Acropora florida'' (Dana, 1846) |id=207058 |accessdate=8 August 2015 }}</ref>
+| synonyms = {{hidden begin|title = List}} 
+* ''Acropora affinis'' <small>(Brook, 1893)</small> 
+* ''Acropora gravida'' <small>(Dana, 1846)</small>
+* ''Acropora multiramosa'' <small>Nemenzo, 1967</small> 
+* ''Acropora polymorpha'' <small>(Brook, 1891)</small> 
+* ''Madrepora affinis'' <small>Brook, 1893</small> 
+* ''Madrepora brachyclades'' <small>Ortmann, 1888</small> 
+* ''Madrepora compressa'' <small>Bassett-Smith, 1890</small> 
+* ''Madrepora florida'' <small>Dana, 1846</small> 
+* ''Madrepora gravida'' <small>Dana, 1846</small> 
+* ''Madrepora ornata'' <small>Brook, 1891</small> 
+* ''Madrepora polymorpha'' <small>Brook, 1891</small>
+{{hidden end}}
+}}
+
+The '''branch coral''' (''Acropora florida'') is a species of [[Acroporidae|acroporid]] [[coral]] found in the southwest and northern Indian Ocean, the central [[Indo-Pacific]], Australia, Southeast Asia, Japan and the [[East China Sea]], [[Cook Islands]] and the oceanic west Pacific Ocean. It can be found in shallow reefs on the reef tops, walls and slopes to depths of 30&nbsp;m.
+
+==Description==
+[[Colony (biology)|Colonies]] of ''Acropora florida'' consist of thick upright, and sometimes horizontal, branches growing from a sprawling or encrusting base. There are side branches and small branchlets which resemble knobs. The [[corallite]]s are evenly spread. The colour of this coral varies, and may be pinkish-brown or some shade of green.<ref name=WoRMS/>
+
+==Biology==
+''Acropora florida'' is a [[Zooxanthellae|zooxanthellate]] species of coral.<ref name=WoRMS/> It obtains most of its nutritional needs from the [[Symbiosis|symbiotic]] [[dinoflagellate]]s that live inside its soft tissues. These [[Photosynthesis|photosynthetic]] organisms provide the coral with organic carbon and nitrogen, sometimes providing up to 90% of their host's energy needs for metabolism and growth. Its remaining needs are met by the [[plankton]]ic organisms caught by the tentacles of the polyps.<ref name=Ruppert>{{cite book |title=Invertebrate Zoology |edition=7th |last1=Ruppert |first1=Edward E. |last2=Fox |first2=Richard, S. |last3=Barnes |first3=Robert D. |year=2004 |publisher=Cengage Learning |isbn=978-81-315-0104-7 |page=122 }}</ref>
+
+==Status==
+This coral is a common species and no species-specific threats have been identified. The main threats faced by corals in general are related to [[climate change]] and the mechanical destruction of their coral reef habitats; increasing damage from extreme weather events, rising sea water temperatures and [[ocean acidification]]. The [[International Union for Conservation of Nature]] has assessed the conservation status of this species as being "[[near threatened]]". All corals receive protection by being listed on [[CITES Appendix II]].<ref name=iucn/>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q3945344}}
+
+
+
+

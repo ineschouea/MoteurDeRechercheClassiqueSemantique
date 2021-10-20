@@ -1,0 +1,38 @@
+[[File:Corkball2.png|thumb|right|234px|Official Corkball]]
+'''Corkball''' is a "mini-[[baseball]]" game featuring a {{convert|1.6|oz|g|adj=on}} ball, which is stitched and resembles a miniature baseball.  The bat has a barrel that measures {{convert|1.5|in|cm}} in diameter. Originally played on the streets and alleys of [[St. Louis, Missouri]] as early as 1890,<ref>{{cite news|last=McGuire|first=John M.|url=
+http://corkball.ning.com/notes/A_Love_for_Mutant_Baseball|title=A Love for Mutant Baseball|work=[[St. Louis Post-Dispatch]]|date=August 20, 2000|accessdate=2010-04-30}}</ref> today the game has leagues formed around the country as a result of St. Louis servicemen introducing the game to their buddies during [[World War II]] and the [[Korean War]]. It has many of the features of baseball, yet can be played in a very small area because there is no base-running.<ref>{{cite news|last=Pierce|first=Charles P.|url=http://www.esquire.com/sports/a1046/sport-time-forgot-0600/|title=The Sport That Time Forgot|work=[[Esquire Magazine]]|date=June 1, 2000|accessdate=2009-08-13}}</ref>
+
+==Game play==
+Corkball uses a {{convert|1.6|oz|g|adj=on}} ball, which is stitched and resembles a baseball.  The bat has a barrel that measures up to {{convert|1.5|in|cm}} in diameter and a maximum of {{convert|38|in|cm}} in length. Playing fields are traditionally {{convert|30|ft|m}} in width and {{convert|250|ft|m}} in length. Different measurements are paced off to determine hits. A batter must hit the ball at least {{convert|15|ft|m}} in order to register a hit. Any hit between {{convert|15|ft|m}} and {{convert|150|ft|m}} is a single, up to {{convert|200|ft|m}} is a double, up to {{convert|250|ft|m}} is a triple and beyond {{convert|250|ft|m}} is a home run. Measurements can be modified based on available conditions. Baserunning is non existent due to the measured hits. Teams have a minimum of two players (pitcher and catcher) and a maximum of five players on the field at a time. Fielders may wear baseball gloves but are not required to. The catcher must wear a catcher's mask while behind the plate. Pitching rubber and home plate are the same as used in baseball. "Runners" advance as many bases as the batter gets on the hit. If a runner is on first and the batter hits a double, then the resulting runners will be on second and third. If a runner is on first and the batter hits a single, then it will be first and second.
+
+==See also==
+* [[Stickball]]
+* [[Fuzzball (sport)|Fuzzball]]
+* [[Bat-and-ball games]]
+
+==References==
+{{reflist}}
+
+{{refbegin}}
+* {{cite news |url=http://www.southcountytimes.com/1editorialbody.lasso?-token.folder=2007-08-31&-token.story=69580.113117&-token.subpub=#|title=A St. Louis Favorite, Corkball Still Draws Players| last=Frese| first=Rick|date=2007-08-31 |publisher=South County Times |accessdate=2008-04-24}}
+* {{cite web |url=http://www.sportsmanscorkball.com/corkball-history.php |title=History of Corkball |publisher=Sportsman's Corkball Club |accessdate=2008-04-24}}
+* {{cite news |title=Still-Cagey Veterans - Corkball, A St. Louis Tradition, Passes Across Generations |last=Gordon |first=Jeff |date=1994-06-06 |work=St. Louis Post-Dispatch}}
+{{refend}}
+
+==External links==
+* [https://web.archive.org/web/20110207235236/http://www.playcorkball.com/ PlayCorkball.com] Corkball history, information, rules, blog and message board
+* [http://www.markwort.com/featured/corkball.asp Official Markwort Site] Only current manufacturer of Corkball equipment
+
+;Clubs and leagues
+* [http://www.angelfire.com/sports/corkball/ South Saint Louis Corkball Club]
+* [http://gatewaycorkball.wordpress.com/ Gateway Corkball Club]
+* [http://www.sportsmanscorkball.com/ Sportsman's Corkball Club]
+* [http://www.hometeamsonline.com/teams/?u=LEMAYCORKBALL&s=baseball&t=c Lemay Corkball Club]
+* [https://groups.google.com/group/RCCC-list River City Corkball Club]
+* [https://www.facebook.com/ChicagoCorkball Chicago Corkball Club]
+
+
+
+
+
+

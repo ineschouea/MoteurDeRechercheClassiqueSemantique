@@ -1,0 +1,29 @@
+{{Speciesbox
+| image = Acropora granulosa, Mer.jpg
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name="IUCNRL">{{Cite journal | author = Richards, Z.T. | author2 = Delbeek, J.T. | author3 = Lovell, E.R. | author4 = Bass, D. | author5 = Aeby, G. | author6 = Reboton, C. | last-author-amp = yes | title = ''Acropora granulosa'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2014 | page = e.T132948A54164687 | publisher = [[IUCN]] | date = 2014 | url = http://www.iucnredlist.org/details/132948/0 | doi = 10.2305/IUCN.UK.2014-1.RLTS.T132948A54164687.en | access-date = 5 January 2018}}</ref>
+| taxon = Acropora granulosa
+| authority = (Milne Edwards, 1860)
+| synonyms = * ''Madrepora clavigera'' <small>Brook, 1892</small> 
+* ''Madrepora granulosa'' <small>Milne Edwards, 1860</small>
+}}
+
+'''''Acropora granulosa''''' is a species of [[Acroporidae|acroporid]] [[coral]] found in the northern and southwest Indian Ocean, the [[Red Sea]], Australia, the [[East China Sea]], Japan, the oceanic central and western Pacific Ocean, and the central [[Indo-Pacific]]. It occurs in tropical shallow reefs, from depths of between {{convert|8|and|40|m}}. It was described by Milne Edwards in 1860 and is classified as near threatened by the IUCN.
+
+==Description==
+It is found in colonies composed of a single horizontal plate of branches with a diameter below {{convert|1|m|in}}. Branches are evenly spaced and branchlets are short and inclined. Each branchlet has at least one incipient axial and axial corallite, and its small radial corallites are pocket-shaped. There are no known similar-looking species, and it is mostly pale blue, cream or grey in colour.<ref>{{cite web|url=http://coral.aims.gov.au/factsheet.jsp?speciesCode=0033|title=''Acropora granulosa''|publisher=Australian Institute of Marine Science|accessdate=14 August 2015}}</ref>
+
+==Distribution==
+It is classed as a near threatened species on the [[IUCN Red List]] and it is believed that its population is decreasing; the species is listed under Appendix II of CITES. Figures of its population are unknown, but is likely to be threatened by the global reduction of coral reefs, the increase of temperature causing coral bleaching, climate change, human activity, the crown-of-thorns starfish (''Acanthaster planci'') and disease.<ref name="IUCNRL" /> It occurs in the northern and southwest Indian Ocean, the Red Sea, Australia, the East China Sea, Japan, the oceanic central and western Pacific Ocean, and the central Indo-Pacific. It is found at depths of between {{convert|8|and|40|m}} in tropical shallow reefs.<ref name="IUCNRL" />
+
+==Taxonomy==
+It was described as ''Madrepora granulosa'' by Milne Edwards in 1860.<ref>{{cite web|url=http://www.marinespecies.org/aphia.php?p=taxdetails&id=207093|title=''Acropora granulosa''|publisher=World Register of Marine Species|accessdate=14 August 2015}}</ref>
+
+==References==
+{{Reflist}}
+{{Taxonbar|from=Q3940227}}
+
+
+
+

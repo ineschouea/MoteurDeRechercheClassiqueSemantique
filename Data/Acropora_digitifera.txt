@@ -1,0 +1,49 @@
+{{Speciesbox
+| image = Acropora digitifera Maldives 2.jpg
+| image_caption = ''Acropora digitifera'' in [[Maldives]].
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name="IUCNRL">{{Cite journal | author = Aeby, G. | author2 = Lovell, E.R. | author3 = Richards, Z.T. | author4 = Delbeek, J.T. | author5 = Reboton, C. | author6 = Bass, D. | last-author-amp = yes | title = ''Acropora digitifera'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2014 | page = e.T133250A54223617 | publisher = [[IUCN]] | date = 2014 | url = http://www.iucnredlist.org/details/133250/0 | doi = 10.2305/IUCN.UK.2014-1.RLTS.T133250A54223617.en | access-date = 5 January 2018}}</ref>
+| taxon = Acropora digitifera
+| authority = (Dana, 1846)
+| synonyms = {{hidden begin|title = List}} 
+* ''Acropora baeodactyla'' <small>(Brook, 1892)</small> 
+* ''Acropora brevicollis'' <small>(Brook, 1892)</small> 
+* ''Acropora leptocyathus'' <small>(Brook, 1891)</small> 
+* ''Acropora pyramidalis'' <small>(Klunzinger, 1879)</small> 
+* ''Acropora schmitti'' <small>Wells, 1950</small> 
+* ''Acropora wardii'' <small>Verrill, 1902</small> 
+* ''Madrepora baeodactyla'' <small>Brook, 1892</small> 
+* ''Madrepora brevicollis'' <small>Brook, 1892</small> 
+* ''Madrepora digitifera'' <small>Dana, 1846</small> 
+* ''Madrepora leptocyathus'' <small>Brook, 1891</small> 
+* ''Madrepora pyramidalis'' <small>Klunzinger, 1879</small>
+{{hidden end}}
+}}
+
+'''''Acropora digitifera''''' is a species of [[Acroporidae|acroporid]] [[coral]] found in the [[Gulf of Aden]], the [[Red Sea]], the southwest and northern Indian Ocean, Australia, southeast Asia, the central [[Indo-Pacific]], Japan, the west Pacific Ocean and the [[East China Sea]]. It is found in shallow areas of tropical reefs in the back margins, from depths of 0 to 12&nbsp;m. It was described by Dana in 1846.
+
+==Description==
+It occurs in colonies consisting of either prostrate or upright groups of branches; colonies have diameters of up to {{convert|1|m|in}}. Its thin branches contain long axial corallites which are tube-shaped, and radial corallites are tube- or pocket-shaped and small. This coral is a digitate coral, with an elongated terminal [[corallite]] and often a blue tip. It looks like ''[[Acropora humilis]]'' but is smaller, with branching finger-like lobes. It is red-brown in colour and has either white or blue axial corallites. It also looks similar to ''[[Acropora filiformis]]''.<ref name="IUCNRL" /><ref>{{cite web|url=http://coral.aims.gov.au/factsheet.jsp?speciesCode=0023|title=''Acropora digitifera''|publisher=Australian Institute of Marine Science|accessdate=14 August 2015}}</ref>
+
+==Distribution==
+It is classed as a near threatened species on the [[IUCN Red List]]; it is believed that its population is decreasing, and it is listed under Appendix II of CITES. Figures of its population are unknown, but is likely to be threatened by the global reduction of coral reefs, the increase of temperature causing coral bleaching, climate change, human activity, the crown-of-thorns starfish (''Acanthaster planci'') and disease.<ref name="IUCNRL" /> This coral can be found in the [[Gulf of Aden]], the [[Red Sea]], the northern and southwestern [[Indian Ocean]], the central [[Indo-Pacific]], southeast Asia, Australia, [[Japan]], the west [[Pacific Ocean]] and the [[East China Sea]]. It is also found in the [[Pitcairn Islands]].<ref name="IUCNRL" />
+
+==Taxonomy==
+It was first described as ''Madrepora digitifera'' by Dana in 1846.<ref>{{cite web|url=http://www.marinespecies.org/aphia.php?p=taxdetails&id=207045|title=''Acropora digitifera''|publisher=World Register of Marine Species|accessdate=14 August 2015}}</ref>
+
+==Gallery==
+<gallery style="text-align:center;" mode="packed">
+Image:Acropora digitifera Réunion.jpg|''Acropora digitifera'' in [[Réunion island]]
+Image:Acropora digitifera Macro Maldives.jpg|In [[Maldives]]
+Image:Acropora digitifera Maldives.JPG|Close-up on the corallites. 
+</gallery>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q3942202}}
+
+
+
+

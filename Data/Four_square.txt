@@ -1,0 +1,239 @@
+{{short description|Elimination-based ball hame played in a box}}
+{{Other uses}}
+{{More citations needed|date=January 2011}}
+{{Infobox game
+| italic title = no
+| title = Four square
+| image_link = [[File:Four square court.jpg|350px]]
+| image_caption = The layout of a four square court.
+| years =
+| players = 4 
+| setup_time = 30 seconds
+| random_chance =
+| skills = [[Fine motor skill|Manual dexterity]]<br />[[Strategy]]<br />[[Social interaction|Social skills]]
+| footnotes =
+}}
+
+'''Four square''' is a [[ball game]] played among four players on a square court divided into quadrants. The objective of four square is to eliminate other players to achieve the highest rank on the court, and this is done by bouncing the ball back and fourth between quadrants.  A player is eliminated when a ball is bounced in a player's quadrant and the player is unable to touch the ball into another player's quadrant.  It is a popular game at elementary schools with little required equipment, almost no setup, and short rounds of play that can be ended at any time.
+
+==Playing environment==
+Four square is played on any hard-surfaced court, such as [[wood]], concrete or [[asphalt]]. There is no official court size, but typically courts measure between 10 and 20&nbsp;feet on a side, and divided into four smaller equal-size squares. Each of the four squares has a rank and is occupied by a single player. The ranks may be arranged so that either the highest ranking square is positioned facing the lowest ranking square, or the ranks increase as one moves clockwise (or counterclockwise).
+
+The lines on the court are boundaries. The interior lines separating player squares are [[out of bounds]]. The ball may not touch any portion of an inside line or the player who hit the ball is in error. The lines marking the outermost edges of the court are typically considered in-bounds.<ref name="squarefour">[http://www.squarefour.org/rules Official Rules of Four Square]. Squarefour.org (2004-09-10). Retrieved on 2011-06-18.</ref> These boundary rules are often described as "inside out, outside in." In recreational play, and even with a judge in tournament play, it is often difficult to determine if the ball hits the line.
+
+==Ball usage==
+Four square is played with a rubber playground ball, typically {{convert|8.5|in}} diameter, and inflated to {{convert|2|psi|abbr=on}}. However, other sizes and types of balls can be used.
+
+During regular play, or "classic," the ball must be hit with the player's hands only.
+
+In classic play, carrying, catching, or holding the ball during play is not allowed, although putting spin on the ball is allowed as long as carrying does not occur. Prolonged contact with the ball can give players unfair control over the play. Hitting the ball must create a perceptible change in the ball's velocity (speed or direction).<ref name="squarefour"/>
+
+==Elimination==
+Players may be eliminated from the court because of errors or fouls they commit. Eliminated players leave the court, the remaining players move up to the next highest square, and a new player joins the court in the lowest square. Eliminated players wait in line for their next turn.
+
+The following actions may result in elimination (although many variations exist):<ref>[https://web.archive.org/web/20150223075148/http://squarefour.org/coolrules Monstrous Collection of Cool Rules]. Squarefour.org (2010-02-23). Retrieved on 2011-06-18.</ref>
+
+* Failing to hit the ball into another square
+* Hitting the ball out of turn
+* Hitting the ball with a prohibited body part
+* Hitting the ball out of bounds (or onto an internal boundary line)
+
+==Game scalability==
+Four square is a popular game for children and school playgrounds. It is possible to scale the game's difficulty and supervision appropriately for different age groups and ability levels. Schools, churches, and camps often change the size of the court, the type of ball, or aspects of the rules to create variation in play or to suit the players' abilities.
+
+==History==
+Four square dates back to at least the 1950s.  A game called "four square" is mentioned in newspapers at least as far back as the 1950s, although the rules are not explained.<ref>{{cite news|url=https://newspaperarchive.com/us/pennsylvania/uniontown/uniontown-morning-herald/1958/09-13/page-17?tag=play+four+square&rtserp=tags/?pep=play-four-square&page=2&ndt=by&py=1950&pey=1959|work=Uniontown Morning Herald|date=13 September 1958|title=Junior Reporter Club|accessdate=4 December 2016|quote=At the playground they play four square, ride on the swings, see-saws, and sliding board, and play on the bars.}}</ref><ref>{{cite news|url=https://news.google.com/newspapers?nid=1928&dat=19590718&id=zcUgAAAAIBAJ&sjid=S2oFAAAAIBAJ&pg=994,1542685|work=Lewiston Daily Sun|date=18 July 1959|title=Crowley Lists Play Schedule For Next Week|page=2|accessdate=4 December 2016}}</ref>
+
+Four Square is described with the same rules used today in a 1963 teacher's manual.<ref>{{cite book|title=Primary Manual|publisher=Cincinnati Public Schools|date=1963<!-- The google page says 1953, but a search for dates within the book reveals cited dates after 1953  and a copyright date of 1963 -->|page=343|url=https://books.google.com/books?id=ZuBOAQAAMAAJ&dq=%22four+square%22+game&focus=searchwithinvolume&q=%22marked+off+into+four+squares%22|quote=Equipment: A large rubber ball, a court marked off into four squares labeled A, B, C, and D in sequence. Action: Four players are chosen to take up a position in each square of the court. The other players line up outside the square marked "A." The player in square "D" is the server. He begins the game by bouncing the ball in his own square and hitting it underhand, with both hands, into any other square. The receiver, in turn, attempts to hit the ball into one of the other three squares.}}</ref>
+
+The game is known as "King" in Sweden.<ref name="PewDiePie">[https://www.youtube.com/watch?v=bmecPRaL2n0&t=4m52s Visiting my hometown by PewDiePie]. Retrieved on 2019-04-03.</ref>
+
+==World championships==
+[[File:Jasper Turner.jpg|thumb|200px|Jasper Turner, the 2007 Men's World Champion.]]
+The Four Square World Championships, a competitive adult four square tournament, takes place in [[Bridgton, Maine]], USA, each winter season. The Lakes Environmental Association hosts this annual winter fundraiser to support their environment in the lakes region of Maine, USA. The competition draws athletes from the US and Canada, and has registered competitors from Israel to Bermuda. {{As of|2014|2|22|df=US}},<ref>[http://www.sunjournal.com/oxford-hills/story/991835 Nearly 100 players compete in Four Square World meet]. Sun Journal (2011-02-27). Retrieved on 2011-06-18.</ref> The results of the February 24, 2018, competition are:
+
+* 2018 Women's World Champion, Brittany Dunay, Maine, USA
+* 2018 Men's World Champion, Christian Housh, Cambridge, Massachusetts, USA
+* 2018 Women's Junior World Champion, Penny Housh, Cambridge, Massachusetts, USA
+* 2018 Men's Junior World Champion, Sabian Hallin, Maine, USA
+
+Prior world championships have been held in January or February from 2005 through 2018.<ref>[http://www.nesn.com/2010/03/world-champion-of-four-square-crowned-in-maine.html World Champion of Four Square Crowned in Maine (Video) – New England Spotlight]. NESN.com (2010-03-02). Retrieved on 2011-06-18.</ref><ref>[http://sports.espn.go.com/espn/page2/story?page=ortiz/100304_four_square_world_championships The Four Square World Championships attract a competitive and creative field of players to the annual gathering in Maine. – ESPN]. Sports.espn.go.com (2010-03-04). Retrieved on 2011-06-18.</ref>
+
+==World records==
+On August 4–5, 2012, a core group of 17 [[Needham High School]] students and alumni — assisted by 50 other [[Needham, Massachusetts|Needham]] residents at various times — broke the previous world record by playing for 34 hours,<ref>[http://hometownweekly.net/four-square-club-raises-fund-for-charity-with-recordbreaking-game-p8051-146.htm Four Square Club raises fund for charity with record-breaking game - Hometown Weekly] {{Webarchive|url=https://web.archive.org/web/20131021100533/http://hometownweekly.net/four-square-club-raises-fund-for-charity-with-recordbreaking-game-p8051-146.htm |date=2013-10-21 }}. hometownweekly.net (2012-08-09). Retrieved on 2012-08-15.</ref> the previous record being held by 15 [[Manchester College (Indiana)|Manchester College]] students who played the game for 30 hours.<ref>[http://ireport.cnn.com/docs/DOC-562039 Manchester College students try to break a World Record to raise money for church camp – CNN iReport]. Ireport.cnn.com (2011-02-25). Retrieved on 2011-06-18.</ref> The world record was previously held by eight Argentinean players for 29 hours in 2008, as recognized by [[Guinness World Records]]. The Argentinean record was preceded by a group of teens from Youngstown, OH who also played for 29 hours.
+
+==See also==
+{{Portal|Games}}
+*[[Russian four square]]
+*[[Wallball]]
+
+==References==
+{{Reflist|2}}.
+
+==External links==
+* [http://www.squarefour.org/rules Official rules]
+
+{{Outdoor games}}
+
+{{DEFAULTSORT:Four Square}}
+
+
+{{short description|Elimination-based ball hame played in a box}}
+{{Other uses}}
+{{More citations needed|date=January 2011}}
+{{Infobox game
+| italic title = no
+| title = Four square
+| image_link = [[File:Four square court.jpg|350px]]
+| image_caption = The layout of a four square court.
+| years =
+| players = 4 
+| setup_time = 30 seconds
+| random_chance =
+| skills = [[Fine motor skill|Manual dexterity]]<br />[[Strategy]]<br />[[Social interaction|Social skills]]
+| footnotes =
+}}
+
+'''Four square''' is a [[ball game]] played among four players on a square court divided into quadrants. The objective of four square is to eliminate other players to achieve the highest rank on the court, and this is done by bouncing the ball back and fourth between quadrants.  A player is eliminated when a ball is bounced in a player's quadrant and the player is unable to touch the ball into another player's quadrant.  It is a popular game at elementary schools with little required equipment, almost no setup, and short rounds of play that can be ended at any time.
+
+==Playing environment==
+Four square is played on any hard-surfaced court, such as [[wood]], concrete or [[asphalt]]. There is no official court size, but typically courts measure between 10 and 20&nbsp;feet on a side, and divided into four smaller equal-size squares. Each of the four squares has a rank and is occupied by a single player. The ranks may be arranged so that either the highest ranking square is positioned facing the lowest ranking square, or the ranks increase as one moves clockwise (or counterclockwise).
+
+The lines on the court are boundaries. The interior lines separating player squares are [[out of bounds]]. The ball may not touch any portion of an inside line or the player who hit the ball is in error. The lines marking the outermost edges of the court are typically considered in-bounds.<ref name="squarefour">[http://www.squarefour.org/rules Official Rules of Four Square]. Squarefour.org (2004-09-10). Retrieved on 2011-06-18.</ref> These boundary rules are often described as "inside out, outside in." In recreational play, and even with a judge in tournament play, it is often difficult to determine if the ball hits the line.
+
+==Ball usage==
+Four square is played with a rubber playground ball, typically {{convert|8.5|in}} diameter, and inflated to {{convert|2|psi|abbr=on}}. However, other sizes and types of balls can be used.
+
+During regular play, or "classic," the ball must be hit with the player's hands only.
+
+In classic play, carrying, catching, or holding the ball during play is not allowed, although putting spin on the ball is allowed as long as carrying does not occur. Prolonged contact with the ball can give players unfair control over the play. Hitting the ball must create a perceptible change in the ball's velocity (speed or direction).<ref name="squarefour"/>
+
+==Elimination==
+Players may be eliminated from the court because of errors or fouls they commit. Eliminated players leave the court, the remaining players move up to the next highest square, and a new player joins the court in the lowest square. Eliminated players wait in line for their next turn.
+
+The following actions may result in elimination (although many variations exist):<ref>[https://web.archive.org/web/20150223075148/http://squarefour.org/coolrules Monstrous Collection of Cool Rules]. Squarefour.org (2010-02-23). Retrieved on 2011-06-18.</ref>
+
+* Failing to hit the ball into another square
+* Hitting the ball out of turn
+* Hitting the ball with a prohibited body part
+* Hitting the ball out of bounds (or onto an internal boundary line)
+
+==Game scalability==
+Four square is a popular game for children and school playgrounds. It is possible to scale the game's difficulty and supervision appropriately for different age groups and ability levels. Schools, churches, and camps often change the size of the court, the type of ball, or aspects of the rules to create variation in play or to suit the players' abilities.
+
+==History==
+Four square dates back to at least the 1950s.  A game called "four square" is mentioned in newspapers at least as far back as the 1950s, although the rules are not explained.<ref>{{cite news|url=https://newspaperarchive.com/us/pennsylvania/uniontown/uniontown-morning-herald/1958/09-13/page-17?tag=play+four+square&rtserp=tags/?pep=play-four-square&page=2&ndt=by&py=1950&pey=1959|work=Uniontown Morning Herald|date=13 September 1958|title=Junior Reporter Club|accessdate=4 December 2016|quote=At the playground they play four square, ride on the swings, see-saws, and sliding board, and play on the bars.}}</ref><ref>{{cite news|url=https://news.google.com/newspapers?nid=1928&dat=19590718&id=zcUgAAAAIBAJ&sjid=S2oFAAAAIBAJ&pg=994,1542685|work=Lewiston Daily Sun|date=18 July 1959|title=Crowley Lists Play Schedule For Next Week|page=2|accessdate=4 December 2016}}</ref>
+
+Four Square is described with the same rules used today in a 1963 teacher's manual.<ref>{{cite book|title=Primary Manual|publisher=Cincinnati Public Schools|date=1963<!-- The google page says 1953, but a search for dates within the book reveals cited dates after 1953  and a copyright date of 1963 -->|page=343|url=https://books.google.com/books?id=ZuBOAQAAMAAJ&dq=%22four+square%22+game&focus=searchwithinvolume&q=%22marked+off+into+four+squares%22|quote=Equipment: A large rubber ball, a court marked off into four squares labeled A, B, C, and D in sequence. Action: Four players are chosen to take up a position in each square of the court. The other players line up outside the square marked "A." The player in square "D" is the server. He begins the game by bouncing the ball in his own square and hitting it underhand, with both hands, into any other square. The receiver, in turn, attempts to hit the ball into one of the other three squares.}}</ref>
+
+The game is known as "King" in Sweden.<ref name="PewDiePie">[https://www.youtube.com/watch?v=bmecPRaL2n0&t=4m52s Visiting my hometown by PewDiePie]. Retrieved on 2019-04-03.</ref>
+
+==World championships==
+[[File:Jasper Turner.jpg|thumb|200px|Jasper Turner, the 2007 Men's World Champion.]]
+The Four Square World Championships, a competitive adult four square tournament, takes place in [[Bridgton, Maine]], USA, each winter season. The Lakes Environmental Association hosts this annual winter fundraiser to support their environment in the lakes region of Maine, USA. The competition draws athletes from the US and Canada, and has registered competitors from Israel to Bermuda. {{As of|2014|2|22|df=US}},<ref>[http://www.sunjournal.com/oxford-hills/story/991835 Nearly 100 players compete in Four Square World meet]. Sun Journal (2011-02-27). Retrieved on 2011-06-18.</ref> The results of the February 24, 2018, competition are:
+
+* 2018 Women's World Champion, Brittany Dunay, Maine, USA
+* 2018 Men's World Champion, Christian Housh, Cambridge, Massachusetts, USA
+* 2018 Women's Junior World Champion, Penny Housh, Cambridge, Massachusetts, USA
+* 2018 Men's Junior World Champion, Sabian Hallin, Maine, USA
+
+Prior world championships have been held in January or February from 2005 through 2018.<ref>[http://www.nesn.com/2010/03/world-champion-of-four-square-crowned-in-maine.html World Champion of Four Square Crowned in Maine (Video) – New England Spotlight]. NESN.com (2010-03-02). Retrieved on 2011-06-18.</ref><ref>[http://sports.espn.go.com/espn/page2/story?page=ortiz/100304_four_square_world_championships The Four Square World Championships attract a competitive and creative field of players to the annual gathering in Maine. – ESPN]. Sports.espn.go.com (2010-03-04). Retrieved on 2011-06-18.</ref>
+
+==World records==
+On August 4–5, 2012, a core group of 17 [[Needham High School]] students and alumni — assisted by 50 other [[Needham, Massachusetts|Needham]] residents at various times — broke the previous world record by playing for 34 hours,<ref>[http://hometownweekly.net/four-square-club-raises-fund-for-charity-with-recordbreaking-game-p8051-146.htm Four Square Club raises fund for charity with record-breaking game - Hometown Weekly] {{Webarchive|url=https://web.archive.org/web/20131021100533/http://hometownweekly.net/four-square-club-raises-fund-for-charity-with-recordbreaking-game-p8051-146.htm |date=2013-10-21 }}. hometownweekly.net (2012-08-09). Retrieved on 2012-08-15.</ref> the previous record being held by 15 [[Manchester College (Indiana)|Manchester College]] students who played the game for 30 hours.<ref>[http://ireport.cnn.com/docs/DOC-562039 Manchester College students try to break a World Record to raise money for church camp – CNN iReport]. Ireport.cnn.com (2011-02-25). Retrieved on 2011-06-18.</ref> The world record was previously held by eight Argentinean players for 29 hours in 2008, as recognized by [[Guinness World Records]]. The Argentinean record was preceded by a group of teens from Youngstown, OH who also played for 29 hours.
+
+==See also==
+{{Portal|Games}}
+*[[Russian four square]]
+*[[Wallball]]
+
+==References==
+{{Reflist|2}}.
+
+==External links==
+* [http://www.squarefour.org/rules Official rules]
+
+{{Outdoor games}}
+
+{{DEFAULTSORT:Four Square}}
+
+
+{{Other uses}}
+{{More citations needed|date=January 2011}}
+{{Infobox game
+| italic title = no
+| title = Four square
+| image_link = [[File:Four square court.jpg|350px]]
+| image_caption = The layout of a four square court.
+| years =
+| players = 4 
+| setup_time = 30 seconds
+| random_chance =
+| skills = [[Fine motor skill|Manual dexterity]]<br />[[Strategy]]<br />[[Social interaction|Social skills]]
+| footnotes =
+}}
+
+'''Four square''' is a [[ball game]] played among four players on a square court divided into quadrants. The objective of four square is to eliminate other players to achieve the highest rank on the court, and this is done by bouncing the ball back and fourth between quadrants.  A player is eliminated when a ball is bounced in a player's quadrant and the player is unable to touch the ball into another player's quadrant.  It is a popular game at elementary schools with little required equipment, almost no setup, and short rounds of play that can be ended at any time.
+
+==Playing environment==
+Four square is played on any hard-surfaced court, such as [[wood]], concrete or [[asphalt]]. There is no official court size, but typically courts measure between 10 and 20&nbsp;feet on a side, and divided into four smaller equal-size squares. Each of the four squares has a rank and is occupied by a single player. The ranks may be arranged so that either the highest ranking square is positioned facing the lowest ranking square, or the ranks increase as one moves clockwise (or counterclockwise).
+
+The lines on the court are boundaries. The interior lines separating player squares are [[out of bounds]]. The ball may not touch any portion of an inside line or the player who hit the ball is in error. The lines marking the outermost edges of the court are typically considered in-bounds.<ref name="squarefour">[http://www.squarefour.org/rules Official Rules of Four Square]. Squarefour.org (2004-09-10). Retrieved on 2011-06-18.</ref> These boundary rules are often described as "inside out, outside in." In recreational play, and even with a judge in tournament play, it is often difficult to determine if the ball hits the line.
+
+==Ball usage==
+Four square is played with a rubber playground ball, typically {{convert|8.5|in}} diameter, and inflated to {{convert|2|psi|abbr=on}}. However, other sizes and types of balls can be used.
+
+During regular play, or "classic," the ball must be hit with the player's hands only.
+
+In classic play, carrying, catching, or holding the ball during play is not allowed, although putting spin on the ball is allowed as long as carrying does not occur. Prolonged contact with the ball can give players unfair control over the play. Hitting the ball must create a perceptible change in the ball's velocity (speed or direction).<ref name="squarefour"/>
+
+==Elimination==
+Players may be eliminated from the court because of errors or fouls they commit. Eliminated players leave the court, the remaining players move up to the next highest square, and a new player joins the court in the lowest square. Eliminated players wait in line for their next turn.
+
+The following actions may result in elimination (although many variations exist):<ref>[https://web.archive.org/web/20150223075148/http://squarefour.org/coolrules Monstrous Collection of Cool Rules]. Squarefour.org (2010-02-23). Retrieved on 2011-06-18.</ref>
+
+* Failing to hit the ball into another square
+* Hitting the ball out of turn
+* Hitting the ball with a prohibited body part
+* Hitting the ball out of bounds (or onto an internal boundary line)
+
+==Game scalability==
+Four square is a popular game for children and school playgrounds. It is possible to scale the game's difficulty and supervision appropriately for different age groups and ability levels. Schools, churches, and camps often change the size of the court, the type of ball, or aspects of the rules to create variation in play or to suit the players' abilities.
+
+==History==
+Four square dates back to at least the 1950s.  A game called "four square" is mentioned in newspapers at least as far back as the 1950s, although the rules are not explained.<ref>{{cite news|url=https://newspaperarchive.com/us/pennsylvania/uniontown/uniontown-morning-herald/1958/09-13/page-17?tag=play+four+square&rtserp=tags/?pep=play-four-square&page=2&ndt=by&py=1950&pey=1959|work=Uniontown Morning Herald|date=13 September 1958|title=Junior Reporter Club|accessdate=4 December 2016|quote=At the playground they play four square, ride on the swings, see-saws, and sliding board, and play on the bars.}}</ref><ref>{{cite news|url=https://news.google.com/newspapers?nid=1928&dat=19590718&id=zcUgAAAAIBAJ&sjid=S2oFAAAAIBAJ&pg=994,1542685|work=Lewiston Daily Sun|date=18 July 1959|title=Crowley Lists Play Schedule For Next Week|page=2|accessdate=4 December 2016}}</ref>
+
+Four Square is described with the same rules used today in a 1963 teacher's manual.<ref>{{cite book|title=Primary Manual|publisher=Cincinnati Public Schools|date=1963<!-- The google page says 1953, but a search for dates within the book reveals cited dates after 1953  and a copyright date of 1963 -->|page=343|url=https://books.google.com/books?id=ZuBOAQAAMAAJ&dq=%22four+square%22+game&focus=searchwithinvolume&q=%22marked+off+into+four+squares%22|quote=Equipment: A large rubber ball, a court marked off into four squares labeled A, B, C, and D in sequence. Action: Four players are chosen to take up a position in each square of the court. The other players line up outside the square marked "A." The player in square "D" is the server. He begins the game by bouncing the ball in his own square and hitting it underhand, with both hands, into any other square. The receiver, in turn, attempts to hit the ball into one of the other three squares.}}</ref>
+
+The game is known as "King" in Sweden.<ref name="PewDiePie">[https://www.youtube.com/watch?v=bmecPRaL2n0&t=4m52s Visiting my hometown by PewDiePie]. Retrieved on 2019-04-03.</ref>
+
+==World championships==
+[[File:Jasper Turner.jpg|thumb|200px|Jasper Turner, the 2007 Men's World Champion.]]
+The Four Square World Championships, a competitive adult four square tournament, takes place in [[Bridgton, Maine]], USA, each winter season. The Lakes Environmental Association hosts this annual winter fundraiser to support their environment in the lakes region of Maine, USA. The competition draws athletes from the US and Canada, and has registered competitors from Israel to Bermuda. {{As of|2014|2|22|df=US}},<ref>[http://www.sunjournal.com/oxford-hills/story/991835 Nearly 100 players compete in Four Square World meet]. Sun Journal (2011-02-27). Retrieved on 2011-06-18.</ref> The results of the February 24, 2018, competition are:
+
+* 2018 Women's World Champion, Brittany Dunay, Maine, USA
+* 2018 Men's World Champion, Christian Housh, Cambridge, Massachusetts, USA
+* 2018 Women's Junior World Champion, Penny Housh, Cambridge, Massachusetts, USA
+* 2018 Men's Junior World Champion, Sabian Hallin, Maine, USA
+
+Prior world championships have been held in January or February from 2005 through 2018.<ref>[http://www.nesn.com/2010/03/world-champion-of-four-square-crowned-in-maine.html World Champion of Four Square Crowned in Maine (Video) – New England Spotlight]. NESN.com (2010-03-02). Retrieved on 2011-06-18.</ref><ref>[http://sports.espn.go.com/espn/page2/story?page=ortiz/100304_four_square_world_championships The Four Square World Championships attract a competitive and creative field of players to the annual gathering in Maine. – ESPN]. Sports.espn.go.com (2010-03-04). Retrieved on 2011-06-18.</ref>
+
+==World records==
+On August 4–5, 2012, a core group of 17 [[Needham High School]] students and alumni — assisted by 50 other [[Needham, Massachusetts|Needham]] residents at various times — broke the previous world record by playing for 34 hours,<ref>[http://hometownweekly.net/four-square-club-raises-fund-for-charity-with-recordbreaking-game-p8051-146.htm Four Square Club raises fund for charity with record-breaking game - Hometown Weekly] {{Webarchive|url=https://web.archive.org/web/20131021100533/http://hometownweekly.net/four-square-club-raises-fund-for-charity-with-recordbreaking-game-p8051-146.htm |date=2013-10-21 }}. hometownweekly.net (2012-08-09). Retrieved on 2012-08-15.</ref> the previous record being held by 15 [[Manchester College (Indiana)|Manchester College]] students who played the game for 30 hours.<ref>[http://ireport.cnn.com/docs/DOC-562039 Manchester College students try to break a World Record to raise money for church camp – CNN iReport]. Ireport.cnn.com (2011-02-25). Retrieved on 2011-06-18.</ref> The world record was previously held by eight Argentinean players for 29 hours in 2008, as recognized by [[Guinness World Records]]. The Argentinean record was preceded by a group of teens from Youngstown, OH who also played for 29 hours.
+
+==See also==
+{{Portal|Games}}
+*[[Russian four square]]
+*[[Wallball]]
+
+==References==
+{{Reflist|2}}.
+
+==External links==
+* [http://www.squarefour.org/rules Official rules]
+
+{{Outdoor games}}
+
+{{DEFAULTSORT:Four Square}}
+
+

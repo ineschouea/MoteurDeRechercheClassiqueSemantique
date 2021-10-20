@@ -1,0 +1,41 @@
+{{Speciesbox
+| image = Acropora secale (Hard coral).jpg
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref>{{Cite journal | author = Richards, Z.T. | author2 = Delbeek, J.T. | author3 = Lovell, E.R. | author4 = Bass, D. | author5 = Aeby, G. | author6 = Reboton, C. | last-author-amp = yes | title = ''Acropora secale'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2014 | page = e.T132888A54156250 | publisher = [[IUCN]] | date = 2014 | url = http://www.iucnredlist.org/details/132888/0 | doi = 10.2305/IUCN.UK.2014-1.RLTS.T132888A54156250.en | access-date = 5 January 2018}}</ref>
+| taxon = Acropora secale
+| authority = (Studer, 1878)<ref name=WoRMS>{{cite WoRMS|author =van der Land, Jacob|year=2013|title=''Acropora secale'' (Studer, 1878)|id=207080 |accessdate=2013-01-05}}</ref>
+| synonyms = {{hidden begin|title = List}} 
+* ''Acropora concinna'' <small>(Brook, 1891)</small> 
+* ''Acropora diversa''<small> (Brook)</small>
+* ''Acropora otteri'' <small>Crossland, 1952</small> 
+* ''Acropora quelchi'' <small>(Brook, 1893)</small> 
+* ''Madrepora concinna'' <small>Brook, 1891</small> 
+* ''Madrepora diversa'' <small>Brook, 1891</small> 
+* ''Madrepora quelchi'' <small>Brook, 1893</small>
+* ''Madrepora secale'' <small>Studer, 1878</small> 
+* ''Madrepora violacea'' <small>Brook, 1892</small>
+{{hidden end}}
+}}
+
+'''''Acropora secale''''' is a [[species]] of branching staghorn  [[Scleractinia|stony]] [[coral]]. It is found in shallow parts of the Indo-Pacific Ocean and the [[type locality (biology)|type locality]] is Sri Lanka. The oldest fossils found date back to the [[Pleistocene]].<ref name=Wallace>{{cite book |title=Staghorn Corals of the World: A Revision of the Genus Acropora |last=Wallace |first=Carden |year=1999 |publisher=Csiro Publishing |isbn=0643102817 |url=https://books.google.com/books?hl=en&lr=&id=MSUKr0vP3lQC&oi=fnd&pg=PP23&dq=Acropora+secale&ots=afu5z3Vjny&sig=aHgm_ImhkbvxDwnDSvXMDE8ZKCo }}</ref>
+
+==Description==
+''Acropora secale'' is a [[Colony (biology)|colonial]] coral that forms low hummocks. The branches can grow to a diameter of {{convert|20|mm|1|abbr=on}} and length of {{convert|70|mm}}. They are cylindrical but gradually taper towards the tips. They grow in a [[corymb]]ose fashion with the lower branches being longer than the upper ones so that the coral has a level-topped appearance. The [[corallite]]s are of varying sizes and arranged in vertical rows, often with alternate rows of larger and smaller corallites.<ref>{{cite web |url=http://coral.aims.gov.au/speciesPages/species_metadata/0062/view |title=''Acropora secale'' |date=2011-06-24 |work=Corals of the World |publisher=Australian Institute of Marine Science |accessdate=2013-01-05}}</ref> The axial corallites are up to {{convert|3|mm}} in diameter while the radial corallites either have long tubular openings or nariform (noselike) openings. The skeleton is covered by a thin [[ectoderm]]al layer of tissue. When feeding, the polyps protrude from the corallites. Each has a single ring of twelve tentacles, one of which is longer than the others. The polyps have a mouth which opens into the coelenteron. This interconnects with other polyps through a complex system of channels, the [[coenenchyme]], inside the porous skeleton.<ref name=Wallace/> Several colour schemes occur in this coral, purple with yellow tips to the branches, pale brown with blue tips, plain green or plain brown.<ref name=Wallace/>
+
+==Distribution==
+''Acropora secale'' is found in the tropical waters of the west Indo-Pacific including the coasts of East Africa, Mozambique, [[Rodrigues]], [[Aldabra]] and [[Chagos]].<ref name=WoRMS/> It is also found further east around Singapore, Thailand, Indonesia, Japan, the Philippines, Taiwan and north and west Australia. It is a reef-building coral and occurs at depths down to {{convert|5|m}} on outer reef flats, reef slopes, reef edges and walls.<ref name=Wallace/>
+
+==Biology==
+''Acropora secale'' is a [[zooxanthellate]] species of coral.<ref name=WoRMS/> This means that it has [[Symbiosis|symbiotic]] [[dinoflagellate]]s living within its tissues.  These, combined with pigments in the tissue, are responsible for the colour of the colony.<ref name=Wallace/>
+
+''Acropora secale'' is a [[hermaphrodite]] and both female gonads and testes are present and mature once a year. The colonies release [[Egg (biology)|eggs]] and sperm simultaneously, usually six days after the full moon, in November in the Southern Hemisphere and in June in the Northern Hemisphere.<ref name=Wallace/> Fertilisation is external; the developing larvae form part of the [[plankton]] and drift with the current before settling on the seabed.<ref name=Wallace/>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q3314172}}
+
+
+
+

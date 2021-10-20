@@ -1,0 +1,623 @@
+:''Rink hockey redirects here. It should not be confused with [[rink bandy]] or [[rinkball]].''
+{{about|hockey played on quad skates|the sport in general|Roller hockey}}
+{{ infobox sport
+| name       = Roller hockey
+| image      = Argentin_player_during_2007_rink_hockey_world_championship.jpg
+| imagesize  = 300px
+| caption    = Argentine player during the [[2007 Rink Hockey World Championship]].
+| union      = 
+| nickname   = Roller Hockey, Rink Hockey, Hardball Hockey, quad
+| first      = End-19th century Britain
+| registered = 
+| contact    = No
+| team       = 5 per side, a goal-keeper and four floor players
+| mgender    = Yes, separate competitions
+| rules      = 
+| category   = [[Team sport]], [[Ball game|ball sport]]
+| ball       =
+| olympic    = Demonstration sport at [[1992 Summer Olympics]].
+| IWGA       = [[1981 World Games|1981]]{{snds}}[[1993 World Games|1993]], [[2001 World Games|2001]]
+}}
+
+'''Roller hockey''' (in [[British English]]), '''rink hockey''' (in [[American English]]) or '''quad hockey''' is a team sport that enjoys significant popularity in a number of Latin countries.
+
+Two five-man teams (four skaters and one goalkeeper) try to drive the ball with their sticks into the opponents' goal. The ball can only be put in motion by a stick, not the skate, otherwise a foul will be stated. The game has two 25-minute halves, plus up to two 5-minute periods to settle ties with the clock stopping when the ball becomes dead.
+
+Players – including the goalie – use [[quad skates]], whereas [[inline skates]] are used in [[inline hockey]]. Excessive contact between players is forbidden in rink hockey, unlike inline hockey.
+
+[[Roller hockey at the 1992 Summer Olympics|Roller Hockey]] was a [[Demonstration sport|demonstration rollersport]] in the [[1992 Summer Olympics]] in [[Barcelona]]. There have been 43 editions of the [[Roller Hockey World Cup]], with Latin countries dominating the sport since the 1940s: [[Spain national roller hockey team|Spain]] (17 World titles), [[Portugal national roller hockey team|Portugal]] (15 World titles), [[Argentina national roller hockey team|Argentina]] (5 World titles) and [[Italy men's national roller hockey team|Italy]] (4 World titles). Other countries, such as [[France national roller hockey team|France]], [[Brazil national roller hockey team|Brazil]], [[Germany national roller hockey team|Germany]], [[Switzerland national roller hockey team|Switzerland]], [[Andorra national roller hockey team|Andorra]] and [[England national roller hockey team|England]] are regular international competitors, but rarely overcome the traditional powers.
+
+Roller Hockey is a very fast sport, which may create a problem for TV transmissions, and new rinks are built using blue or white pavement to make the ball more visible on TV.
+
+== Name ==
+Roller Hockey (Quad) was referred to as Hardball Hockey in the [[United States]] until November 2008 when the [[USOC]] adopted the sport's more common name, Rink Hockey. Other names for the sport include Hardball Roller Hockey, Ball Hockey, International Style Ball hockey, International hockey, Quad Hockey, Hockey, English Roller Hockey, Hockey Sobre Patines, Hockey pista, Hóquei em patins, Hockey Skids, Traditional Hockey, Cane Hockey, Rollhockey, Rolhockey, Hokej na koturaljkama, Rulleskøjtehockey and Rulluisuhoki.
+
+== The rink ==
+[[File:Campo hockey su pista.svg|thumb|right|a rink]]
+The rink has usually a polished wooden surface, but any flat, non-abrasive and non-slippery material such as treated cement is acceptable. Likewise, it is allowed for rink owners to put advertisements in the playing area, as long as they don't interfere with ball or skate motion, which includes both physically (must be at exactly the same level as the remaining area) and visually (dark colours or any other pattern which can mask the ball).
+
+It can have one out of three standard sizes (a minimum of 34x17 meters, an average of 40x20 and a maximum of 44x22) or any size between the minimum and maximum values that has a 2:1 size ratio with a 10% margin of error.
+
+The rink has rounded corners (1 m radius) and is surrounded by a 1 m wall. The wall also has a wooden base 2&nbsp;cm wide and at least 20&nbsp;cm high. Behind the goals there is a 4 m high net, even if there are no stands (to avoid the ball bouncing back from a wall and hitting a player). If the ball hits the net, it's considered to be out of bounds.
+
+The markings are simple. The halfway line divides the rink into halves, and 22 m  from the end wall an "anti-play" line is painted. The area is a 9 X 5.40 m rectangle, placed from 2.7 to 3.3 m ahead of the end table. It has a protection area for goalkeepers, a half-circle with 1.5 m radius. All markings are 8&nbsp;cm in width. The goal (painted in fluorescent orange) is 105&nbsp;cm high by 170&nbsp;cm wide. Inside the goal there is a thick net and a bar close to ground to trap the ball inside (before, two extra referees stayed behind the goal to judge goal decisions), and 92&nbsp;cm deep. While not attached to the ground, it is extremely heavy to prevent movement.
+
+== Equipment ==
+<gallery>
+Image:Hockey_goal.jpg|Roller Hockey Goal Pad
+Image:Hockey_chest.jpg|Roller-hockey-(Quad)-Goal Chest
+Image:Hockey_elbow.jpg|Roller-hockey-(Quad)-Goal elbow
+Image:Hockey_neck.jpg|Roller-hockey-(Quad)-Goal Neck Protector
+Image:Goal_stick.jpg|Roller-hockey-(Quad)-Goal Stick
+Image:Player_stick.jpg|Roller-hockey-(Quad)-Player Stick
+Image:Palyer_pack.jpg|Roller-hockey-(Quad)-Player Gloves & Knee
+Image:Roller-hockey-(Quad)-Skate.jpg|Roller-hockey-skate
+Image:Roller-hockey-(Quad)-Ball.jpg|Roller Hockey (Quad) Ball
+
+</gallery>
+
+* The clothing is similar to that used in [[Association football]]&mdash;socks up to the knee, shorts and a shirt.
+* Sticks are different for skaters and goalkeepers. They can be of any material approved by the World Skate (although wooden sticks are still most often used), with a minimum length of 90&nbsp;cm and maximum of 115&nbsp;cm. They cannot be wider than 5&nbsp;cm or weigh over 500 g.
+* The ball is made of pressed [[Cork (material)|cork]], has a 23&nbsp;cm in circumference, and weighs 155 g.
+* The skates must have two pairs of wheels, with a minimum diameter of 3&nbsp;cm. Players are allowed to use brakes in the front of the skate, with a diameter or larger side not larger than 5&nbsp;cm.
+* Protective material includes shin guards, knee caps, jock strap and gloves. Specifications for helmets and elbow caps vary from federation to federation.
+* Goalkeepers (or netminders) use protective padding on the torso (plus shoulders) (the maximum amount is being regulated, since, as in [[ice hockey]], many goalkeepers have been using massive protection to make them larger and broader), neck guard, large shin guards (not longer than 75&nbsp;cm), gloves protecting the whole forearm and a helmet with either a grid or unbreakable transparent material. Unlike the Roller Hockey (Inline) Goalie who uses a Catch Glove to catch the shot on goal, the Roller hockey (Quad) Goalie uses a flat batting glove that provides rebound characteristics when blocking a shot on goal.
+
+== Rules ==
+World Skate provides the current rulebook at its [http://www.worldskate.org/rink-hockey/about/regulations.html website ].
+
+== History ==
+The first recorded Hardball Roller Hockey game was played in 1878 at the Denmark Rink in London, England.<ref name="rollerskatingmuseum.com">{{Cite web |url=http://www.rollerskatingmuseum.com/hockey.htm |title=Archived copy |access-date=2008-07-28 |archive-url=https://web.archive.org/web/20080509123523/http://www.rollerskatingmuseum.com/hockey.htm |archive-date=2008-05-09 |dead-url=yes |df= }}</ref><ref name="usarollersports.org">http://usarollersports.org/pages/pdf/magazine/USARS_Summer1978_Web.pdf{{Dead link|date=September 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite web|url=http://www.britannica.com/EBchecked/topic/507126/roller-skating/255268/Roller-sports#ref=ref887928|title=Roller-skating - sport|author=|date=|website=britannica.com}}</ref> It was first known as “roller polo” due to the introduction of [[Polo]] in 1876, skaters took polo to the rinks.<ref name="usarollersports.org"/><ref>{{Cite web |url=http://www.rollerskating.org/displaycommon.cfm?an=1&subarticlenbr=2 |title=Archived copy |access-date=2008-07-28 |archive-url=https://web.archive.org/web/20080422033111/http://www.rollerskating.org/displaycommon.cfm?an=1&subarticlenbr=2 |archive-date=2008-04-22 |dead-url=yes |df= }}</ref> The sport was introduced into the [[United States]] in 1882 with the formation of the National Roller Polo League in [[Dayton]], [[Ohio]], with teams in seven cities. Roller Polo League<ref name="usarollersports.org"/> In 1884 the Massachusetts Roller Polo league was operating with 14 teams<ref name="usarollersports.org"/> Organized roller skating sports developed as the popularity of roller skates increased in the late 19th and early 20th centuries. Roller hockey teams were playing throughout Europe as early as 1901.<ref name="jtaa.org">{{Cite web |url=http://www.jtaa.org/Roller_Hockey/History%20of%20Roller%20Hockey.htm |title=Archived copy |access-date=2008-07-28 |archive-url=https://web.archive.org/web/20080929075718/http://www.jtaa.org/Roller_Hockey/History%20of%20Roller%20Hockey.htm |archive-date=2008-09-29 |dead-url=yes |df= }}</ref> Roller Hockey was played by the famous silent film stars, Stan Laurel and Charlie Chaplin, in the early 1900s.<ref>{{cite web |url=http://hardballhockey.blogspot.com/2008/03/roller-hockey-for-dummies-by-linda.html |title=Archived copy |accessdate=2012-10-28 |deadurl=yes |archiveurl=https://web.archive.org/web/20110708041611/http://hardballhockey.blogspot.com/2008/03/roller-hockey-for-dummies-by-linda.html |archivedate=2011-07-08 |df= }}</ref> The first World Championships in roller hockey were held in 1936 in [[Stuttgart]], [[Germany]].<ref name="jtaa.org"/>
+
+Rink Hockey as it was called in Europe was not organized by the RSROA in the United States until 1959 and name roller hockey<ref name="usarollersports.org"/> The sport debuted at the US National Championships in 1961.<ref>{{cite web |url=http://www.rollerskatingmuseum.com/homework_help.htm |title=Archived copy |accessdate=2008-07-29 |deadurl=yes |archiveurl=https://web.archive.org/web/20080917172523/http://www.rollerskatingmuseum.com/homework_help.htm |archivedate=2008-09-17 |df= }}</ref> The [[Pan American Games]] introduced roller skating as a sport in 1979 and debuted roller hockey the same year.<ref name="rollerskatingmuseum.com"/> It was one of the [[Pan American Games sports]] in 1979, 1987, 1991 and 1995. It has since been discontinued. Roller hockey was [[Roller hockey at the 1992 Summer Olympics|present]] as an exhibition sport at the [[1992 Summer Olympics]] in [[Barcelona]], [[Spain]].<ref>http://www.la84foundation.org/6oic/OfficialReports/1992/1992s4.pdf</ref><ref>{{cite web|url=http://www.worldcat.org/title/memoria-oficial-de-los-juegos-de-la-xxv-olimpada-barcelona-1992-vol-4-los-juegos-dieciseis-das-de-verano/oclc/60284428|title=Memoria Oficial de los Juegos de la XXV Olimp??ada Barcelona 1992. dieciséis d??as de verano. Vol. 4, Vol. 4,|author=|date=17 May 1992|publisher=COOB'92|via=Open WorldCat}}</ref>
+
+== International competitions ==
+There are several international competitions with national teams. There are three world championships, one for men, the [[Roller Hockey World Cup]], one for women, the [[Women's Roller Hockey World Cup]] and the [[Roller Hockey World Cup U-20]].
+
+=== America ===
+*[[Roller Hockey Pan American Championships]]
+
+=== Asia ===
+*[[Rink Hockey Asian Championship|Asian Cup]]
+
+=== Europe ===
+*[[Rink Hockey European Championship]]
+*[[CERH European Women's Roller Hockey Championship|European Women's Roller Hockey Championship]]
+
+== Domestic competitions ==
+{{col-begin|width=725px}}
+{{col-break|width=195px}}
+
+=== Africa ===
+* [[Angolan Roller Hockey Championship|Angola]]
+* [[Egypt Roller Hockey League|Egypt]]
+* [[Mozambican Roller Hockey Championship|Mozambique]]
+* [[South African Roller Hockey Championship|South Africa]]
+{{col-break|width=195px}}
+
+=== America ===
+*[[Liga Nacional Argentina A-1|Argentina]]
+*[[Brazilian Roller Hockey National Championship|Brazil]]
+*[[Liga Nacional de Hockey Chilena|Chile]]
+*[[Colombian Roller Hockey National Championship|Colombia]]
+*[[Mexican Roller Hockey National League|Mexico]]
+*[[Uruguayan National Roller Hockey League|Uruguay]]
+*[[USA Rink Hockey National Championship|USA]]
+{{col-break|width=195px}}
+
+=== Asia ===
+*[[Indian Roller Hockey National Championship|India]]
+*[[Japanese Roller Hockey National Championship|Japan]]
+*[[Pakistan Roller Hockey National Championship|Pakistan]]
+{{col-break|width=195px}}
+
+=== Europe ===
+*[[Austrian Roller Hockey League|Austria]]
+*[[Belgium Roller Hockey League|Belgium]]
+*[[Roller Hockey Premier League|England]]
+*[[Rink Hockey French Championship|France]]
+*[[Roller Hockey Bundesliga|Germany]]
+*[[Lega Nazionale Hockey|Italy]]
+*[[Israel Roller Hockey League|Israel]]
+*[[Dutch NRB B|Netherlands]]
+*[[Portuguese Roller Hockey First Division|Portugal]]
+*[[OK Liga|Spain]]
+*[[Swiss LNA|Switzerland]]
+{{col-break|width=195px}}
+
+=== Oceania ===
+*[[Australia Roller Hockey National Championship|Australia]]
+*[[New Zealand Roller Hockey National Championship|New Zealand]]
+{{Col-end}}
+
+== Women's roller hockey ==
+*[[Women's Roller Hockey World Cup]]
+*[[CERH European Women's Roller Hockey Championship|European Women's Roller Hockey Championship]]
+
+== See also ==
+*[[Roller Hockey World Cup]]
+*[[Rink Hockey European Championship]]
+*[[Roller hockey at the 1992 Summer Olympics]]
+*[[Inline hockey]]
+*[[Skater hockey]]
+*[[Indoor field hockey]]
+*[[Hockey]]
+
+== References ==
+<references/>
+
+== External links ==
+{{Commons category|Roller hockey}}
+
+=== International ===
+*[https://web.archive.org/web/20100214134206/http://www.talkrollerhockey.net/forum/  Biggest Forum of Rink Hockey]
+*[https://web.archive.org/web/20100531182153/http://fpp.pt/index.html Federação  Portuguesa de Patinagem]
+*[http://fep.es/website/index.asp  Real Federation Espanola de Patinaje]
+*[https://web.archive.org/web/20100713025322/http://www.fihp.org/hockey/index.php  Federazione Intaliana Hockey e Pattinaggio]
+*[http://www.fap-patinagem.com/  Federação Angolana de Patinagem]
+*[http://www.capatin.com/  Confederation Argentina de Patinage]
+*[http://www.englandrollerhockey.com  National Roller Hockey Association of England]
+*[http://rinkhockey.ffrs.asso.fr/  Comité National Rink Hockey Français]
+*[http://www.hockeymexico.com.mx/  Hockey Mexico]
+*[http://www.cbhp.com.br/  Confederação Brasileira de Hóquei e Patinação]
+*[http://www.whockey.com/work/cirsa/hockey.html  The Canadian In-Line & Roller Skating Association]
+*[http://www.patinchile.cl/  Federatión Chilena de Hockey y Patinaje]
+*[https://web.archive.org/web/20100727195130/http://www.rollerhockeysa.co.za/  The South African Roller Hockey Federation]
+*[http://fudepyh.blogspot.com/ Federación Uruguaya de Patín y Hockey]
+*[http://www.usarollersports.org/pages/4581  USA Roller Sports]{{dead link|date=April 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+*[http://www.fedepatin.org./index.php  Federatión Colombiana de Patinaje]
+*[http://www.rollhockey-online.de/  Deutscher Rollsport]
+*[http://www.rolhockey.com/ Nederland Roller Hockey]
+*[https://web.archive.org/web/20100906203209/http://www.srhv.ch/index_fr.asp  Fédération Suisse de Rink-Hockey]
+*[http://www.rollerhockeyireland.com/  Irish Roller Hockey Association]
+*[http://rinkhockeyinisrael.blogspot.com/  Israel Rink Hockey Association]
+*[http://www.macauhockey.blogspot.com/  Hóquei Macau]
+*[http://www.egyptrollerhockey.4t.com/  Roller Hockey Egypt]
+*[https://web.archive.org/web/20100611213027/http://www.skateaustralia.org.au/web/disciplines.php?type=roller+hockey  Skate Australia]
+*[https://web.archive.org/web/20100609075520/http://www.rollerskating.be/homepage.htm  Federation Belge Francophone De Patinage]
+*[http://www.skatenz.org.nz/Default.aspx?ReturnUrl=%2fFramework.aspx%3fshell%3d1%26pageid%3d1shell=1&pageid=1  New Zealand Federation of Roller Sports]
+*[http://www.jrsf.com/  Japan Roller Sports Federation]
+*[https://web.archive.org/web/20110714025036/http://www.rollersports.org.hk/index.php  Hong Kong Federation of Roller Sports] (A member agency of [[Sports Federation and Olympic Committee of Hong Kong, China]])
+*[http://www.krsf.or.kr/  South Korean Federation of Roller Sports]
+*[http://skating.sport.org.cn/  Chinese Federation of Roller Sports]
+
+=== Other ===
+*[http://www.hockeypioneer.com Roller hockey Equipments ( Hockey Pioneer )]
+*[https://web.archive.org/web/20100530091626/http://cumhoquei.com/2009-10/09-10_jogos_na_tv.htm Roller Hockey LIVE Transmissions]
+*[http://www.hockeypioneer.com/ Hockey Pioneer]
+*[http://rinkhockey.net/  Roller Hockey historical databases and statistics]
+*[http://rinkhockey.net/linkshoc.htm  Roller Hockey links worldwide]
+*[https://web.archive.org/web/20100308060219/http://www.mundook.net/  Mundook-World Roller Hockey]
+*[https://web.archive.org/web/20110708091500/http://hardballhock.bravehost.com/ Hardballhock-World Roller Hockey]
+*[http://www.inforoller.com/ Inforoller World Roller Hockey]
+*[https://web.archive.org/web/20110708041529/http://hardballhockey.blogspot.com/  World Roller Hockey Blog]
+*[http://rink-hockey-news.blogspot.com/ rink-hockey-news - World Roller Hockey]
+*[https://web.archive.org/web/20091224140130/http://www.solohockey.net/ SoloHockey World Roller Hockey]
+*[http://usarinkhockey.com/ Rink Hockey in the USA]
+*[http://www.usarshardballhockey.blogspot.com USARS Hardballhockey Blog]
+*[http://www.internationalrinkhockey.blogspot.com International Rink Hockey Blog]
+* {{HoqueiPatins.cat|id=Pàgina_principal}}
+{{Rink hockey international competitions}}
+{{Team Sport}}
+
+
+
+
+
+
+
+:''Rink hockey redirects here. It should not be confused with [[rink bandy]] or [[rinkball]].''
+{{about|hockey played on quad skates|the sport in general|Roller hockey}}
+{{ infobox sport
+| name       = Roller hockey
+| image      = Argentin_player_during_2007_rink_hockey_world_championship.jpg
+| imagesize  = 300px
+| caption    = Argentine player during the [[2007 Rink Hockey World Championship]].
+| union      = 
+| nickname   = Roller Hockey, Rink Hockey, Hardball Hockey, quad
+| first      = End-19th century Britain
+| registered = 
+| contact    = No
+| team       = 5 per side, a goal-keeper and four floor players
+| mgender    = Yes, separate competitions
+| rules      = 
+| category   = [[Team sport]], [[Ball game|ball sport]]
+| ball       =
+| olympic    = Demonstration sport at [[1992 Summer Olympics]].
+| IWGA       = [[1981 World Games|1981]]{{snds}}[[1993 World Games|1993]], [[2001 World Games|2001]]
+}}
+
+'''Roller hockey''' (in [[British English]]), '''rink hockey''' (in [[American English]]) or '''quad hockey''' is a team sport that enjoys significant popularity in a number of Latin countries.
+
+Two five-man teams (four skaters and one goalkeeper) try to drive the ball with their sticks into the opponents' goal. The ball can only be put in motion by a stick, not the skate, otherwise a foul will be stated. The game has two 25-minute halves, plus up to two 5-minute periods to settle ties with the clock stopping when the ball becomes dead.
+
+Players – including the goalie – use [[quad skates]], whereas [[inline skates]] are used in [[inline hockey]]. Excessive contact between players is forbidden in rink hockey, unlike inline hockey.
+
+[[Roller hockey at the 1992 Summer Olympics|Roller Hockey]] was a [[Demonstration sport|demonstration rollersport]] in the [[1992 Summer Olympics]] in [[Barcelona]]. There have been 43 editions of the [[Roller Hockey World Cup]], with Latin countries dominating the sport since the 1940s: [[Spain national roller hockey team|Spain]] (17 World titles), [[Portugal national roller hockey team|Portugal]] (15 World titles), [[Argentina national roller hockey team|Argentina]] (5 World titles) and [[Italy men's national roller hockey team|Italy]] (4 World titles). Other countries, such as [[France national roller hockey team|France]], [[Brazil national roller hockey team|Brazil]], [[Germany national roller hockey team|Germany]], [[Switzerland national roller hockey team|Switzerland]], [[Andorra national roller hockey team|Andorra]] and [[England national roller hockey team|England]] are regular international competitors, but rarely overcome the traditional powers.
+
+Roller Hockey is a very fast sport, which may create a problem for TV transmissions, and new rinks are built using blue or white pavement to make the ball more visible on TV.
+
+== Name ==
+Roller Hockey (Quad) was referred to as Hardball Hockey in the [[United States]] until November 2008 when the [[USOC]] adopted the sport's more common name, Rink Hockey. Other names for the sport include Hardball Roller Hockey, Ball Hockey, International Style Ball hockey, International hockey, Quad Hockey, Hockey, English Roller Hockey, Hockey Sobre Patines, Hockey pista, Hóquei em patins, Hockey Skids, Traditional Hockey, Cane Hockey, Rollhockey, Rolhockey, Hokej na koturaljkama, Rulleskøjtehockey and Rulluisuhoki.
+
+== The rink ==
+[[File:Campo hockey su pista.svg|thumb|right|a rink]]
+The rink has usually a polished wooden surface, but any flat, non-abrasive and non-slippery material such as treated cement is acceptable. Likewise, it is allowed for rink owners to put advertisements in the playing area, as long as they don't interfere with ball or skate motion, which includes both physically (must be at exactly the same level as the remaining area) and visually (dark colours or any other pattern which can mask the ball).
+
+It can have one out of three standard sizes (a minimum of 34x17 meters, an average of 40x20 and a maximum of 44x22) or any size between the minimum and maximum values that has a 2:1 size ratio with a 10% margin of error.
+
+The rink has rounded corners (1 m radius) and is surrounded by a 1 m wall. The wall also has a wooden base 2&nbsp;cm wide and at least 20&nbsp;cm high. Behind the goals there is a 4 m high net, even if there are no stands (to avoid the ball bouncing back from a wall and hitting a player). If the ball hits the net, it's considered to be out of bounds.
+
+The markings are simple. The halfway line divides the rink into halves, and 22 m  from the end wall an "anti-play" line is painted. The area is a 9 X 5.40 m rectangle, placed from 2.7 to 3.3 m ahead of the end table. It has a protection area for goalkeepers, a half-circle with 1.5 m radius. All markings are 8&nbsp;cm in width. The goal (painted in fluorescent orange) is 105&nbsp;cm high by 170&nbsp;cm wide. Inside the goal there is a thick net and a bar close to ground to trap the ball inside (before, two extra referees stayed behind the goal to judge goal decisions), and 92&nbsp;cm deep. While not attached to the ground, it is extremely heavy to prevent movement.
+
+== Equipment ==
+<gallery>
+Image:Hockey_goal.jpg|Roller Hockey Goal Pad
+Image:Hockey_chest.jpg|Roller-hockey-(Quad)-Goal Chest
+Image:Hockey_elbow.jpg|Roller-hockey-(Quad)-Goal elbow
+Image:Hockey_neck.jpg|Roller-hockey-(Quad)-Goal Neck Protector
+Image:Goal_stick.jpg|Roller-hockey-(Quad)-Goal Stick
+Image:Player_stick.jpg|Roller-hockey-(Quad)-Player Stick
+Image:Palyer_pack.jpg|Roller-hockey-(Quad)-Player Gloves & Knee
+Image:Roller-hockey-(Quad)-Skate.jpg|Roller-hockey-skate
+Image:Roller-hockey-(Quad)-Ball.jpg|Roller Hockey (Quad) Ball
+
+</gallery>
+
+* The clothing is similar to that used in [[Association football]]&mdash;socks up to the knee, shorts and a shirt.
+* Sticks are different for skaters and goalkeepers. They can be of any material approved by the World Skate (although wooden sticks are still most often used), with a minimum length of 90&nbsp;cm and maximum of 115&nbsp;cm. They cannot be wider than 5&nbsp;cm or weigh over 500 g.
+* The ball is made of pressed [[Cork (material)|cork]], has a 23&nbsp;cm in circumference, and weighs 155 g.
+* The skates must have two pairs of wheels, with a minimum diameter of 3&nbsp;cm. Players are allowed to use brakes in the front of the skate, with a diameter or larger side not larger than 5&nbsp;cm.
+* Protective material includes shin guards, knee caps, jock strap and gloves. Specifications for helmets and elbow caps vary from federation to federation.
+* Goalkeepers (or netminders) use protective padding on the torso (plus shoulders) (the maximum amount is being regulated, since, as in [[ice hockey]], many goalkeepers have been using massive protection to make them larger and broader), neck guard, large shin guards (not longer than 75&nbsp;cm), gloves protecting the whole forearm and a helmet with either a grid or unbreakable transparent material. Unlike the Roller Hockey (Inline) Goalie who uses a Catch Glove to catch the shot on goal, the Roller hockey (Quad) Goalie uses a flat batting glove that provides rebound characteristics when blocking a shot on goal.
+
+== Rules ==
+World Skate provides the current rulebook at its [http://www.worldskate.org/rink-hockey/about/regulations.html website ].
+
+== History ==
+The first recorded Hardball Roller Hockey game was played in 1878 at the Denmark Rink in London, England.<ref name="rollerskatingmuseum.com">{{Cite web |url=http://www.rollerskatingmuseum.com/hockey.htm |title=Archived copy |access-date=2008-07-28 |archive-url=https://web.archive.org/web/20080509123523/http://www.rollerskatingmuseum.com/hockey.htm |archive-date=2008-05-09 |dead-url=yes |df= }}</ref><ref name="usarollersports.org">http://usarollersports.org/pages/pdf/magazine/USARS_Summer1978_Web.pdf{{Dead link|date=September 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite web|url=http://www.britannica.com/EBchecked/topic/507126/roller-skating/255268/Roller-sports#ref=ref887928|title=Roller-skating - sport|author=|date=|website=britannica.com}}</ref> It was first known as “roller polo” due to the introduction of [[Polo]] in 1876, skaters took polo to the rinks.<ref name="usarollersports.org"/><ref>{{Cite web |url=http://www.rollerskating.org/displaycommon.cfm?an=1&subarticlenbr=2 |title=Archived copy |access-date=2008-07-28 |archive-url=https://web.archive.org/web/20080422033111/http://www.rollerskating.org/displaycommon.cfm?an=1&subarticlenbr=2 |archive-date=2008-04-22 |dead-url=yes |df= }}</ref> The sport was introduced into the [[United States]] in 1882 with the formation of the National Roller Polo League in [[Dayton]], [[Ohio]], with teams in seven cities. Roller Polo League<ref name="usarollersports.org"/> In 1884 the Massachusetts Roller Polo league was operating with 14 teams<ref name="usarollersports.org"/> Organized roller skating sports developed as the popularity of roller skates increased in the late 19th and early 20th centuries. Roller hockey teams were playing throughout Europe as early as 1901.<ref name="jtaa.org">{{Cite web |url=http://www.jtaa.org/Roller_Hockey/History%20of%20Roller%20Hockey.htm |title=Archived copy |access-date=2008-07-28 |archive-url=https://web.archive.org/web/20080929075718/http://www.jtaa.org/Roller_Hockey/History%20of%20Roller%20Hockey.htm |archive-date=2008-09-29 |dead-url=yes |df= }}</ref> Roller Hockey was played by the famous silent film stars, Stan Laurel and Charlie Chaplin, in the early 1900s.<ref>{{cite web |url=http://hardballhockey.blogspot.com/2008/03/roller-hockey-for-dummies-by-linda.html |title=Archived copy |accessdate=2012-10-28 |deadurl=yes |archiveurl=https://web.archive.org/web/20110708041611/http://hardballhockey.blogspot.com/2008/03/roller-hockey-for-dummies-by-linda.html |archivedate=2011-07-08 |df= }}</ref> The first World Championships in roller hockey were held in 1936 in [[Stuttgart]], [[Germany]].<ref name="jtaa.org"/>
+
+Rink Hockey as it was called in Europe was not organized by the RSROA in the United States until 1959 and name roller hockey<ref name="usarollersports.org"/> The sport debuted at the US National Championships in 1961.<ref>{{cite web |url=http://www.rollerskatingmuseum.com/homework_help.htm |title=Archived copy |accessdate=2008-07-29 |deadurl=yes |archiveurl=https://web.archive.org/web/20080917172523/http://www.rollerskatingmuseum.com/homework_help.htm |archivedate=2008-09-17 |df= }}</ref> The [[Pan American Games]] introduced roller skating as a sport in 1979 and debuted roller hockey the same year.<ref name="rollerskatingmuseum.com"/> It was one of the [[Pan American Games sports]] in 1979, 1987, 1991 and 1995. It has since been discontinued. Roller hockey was [[Roller hockey at the 1992 Summer Olympics|present]] as an exhibition sport at the [[1992 Summer Olympics]] in [[Barcelona]], [[Spain]].<ref>http://www.la84foundation.org/6oic/OfficialReports/1992/1992s4.pdf</ref><ref>{{cite web|url=http://www.worldcat.org/title/memoria-oficial-de-los-juegos-de-la-xxv-olimpada-barcelona-1992-vol-4-los-juegos-dieciseis-das-de-verano/oclc/60284428|title=Memoria Oficial de los Juegos de la XXV Olimp??ada Barcelona 1992. dieciséis d??as de verano. Vol. 4, Vol. 4,|author=|date=17 May 1992|publisher=COOB'92|via=Open WorldCat}}</ref>
+
+== International competitions ==
+There are several international competitions with national teams. There are three world championships, one for men, the [[Roller Hockey World Cup]], one for women, the [[Women's Roller Hockey World Cup]] and the [[Roller Hockey World Cup U-20]].
+
+=== America ===
+*[[Roller Hockey Pan American Championships]]
+
+=== Asia ===
+*[[Rink Hockey Asian Championship|Asian Cup]]
+
+=== Europe ===
+*[[Rink Hockey European Championship]]
+*[[CERH European Women's Roller Hockey Championship|European Women's Roller Hockey Championship]]
+
+== Domestic competitions ==
+{{col-begin|width=725px}}
+{{col-break|width=195px}}
+
+=== Africa ===
+* [[Angolan Roller Hockey Championship|Angola]]
+* [[Egypt Roller Hockey League|Egypt]]
+* [[Mozambican Roller Hockey Championship|Mozambique]]
+* [[South African Roller Hockey Championship|South Africa]]
+{{col-break|width=195px}}
+
+=== America ===
+*[[Liga Nacional Argentina A-1|Argentina]]
+*[[Brazilian Roller Hockey National Championship|Brazil]]
+*[[Liga Nacional de Hockey Chilena|Chile]]
+*[[Colombian Roller Hockey National Championship|Colombia]]
+*[[Mexican Roller Hockey National League|Mexico]]
+*[[Uruguayan National Roller Hockey League|Uruguay]]
+*[[USA Rink Hockey National Championship|USA]]
+{{col-break|width=195px}}
+
+=== Asia ===
+*[[Indian Roller Hockey National Championship|India]]
+*[[Japanese Roller Hockey National Championship|Japan]]
+*[[Pakistan Roller Hockey National Championship|Pakistan]]
+{{col-break|width=195px}}
+
+=== Europe ===
+*[[Austrian Roller Hockey League|Austria]]
+*[[Belgium Roller Hockey League|Belgium]]
+*[[Roller Hockey Premier League|England]]
+*[[Rink Hockey French Championship|France]]
+*[[Roller Hockey Bundesliga|Germany]]
+*[[Lega Nazionale Hockey|Italy]]
+*[[Israel Roller Hockey League|Israel]]
+*[[Dutch NRB B|Netherlands]]
+*[[Portuguese Roller Hockey First Division|Portugal]]
+*[[OK Liga|Spain]]
+*[[Swiss LNA|Switzerland]]
+{{col-break|width=195px}}
+
+=== Oceania ===
+*[[Australia Roller Hockey National Championship|Australia]]
+*[[New Zealand Roller Hockey National Championship|New Zealand]]
+{{Col-end}}
+
+== Women's roller hockey ==
+*[[Women's Roller Hockey World Cup]]
+*[[CERH European Women's Roller Hockey Championship|European Women's Roller Hockey Championship]]
+
+== See also ==
+*[[Roller Hockey World Cup]]
+*[[Rink Hockey European Championship]]
+*[[Roller hockey at the 1992 Summer Olympics]]
+*[[Inline hockey]]
+*[[Skater hockey]]
+*[[Indoor field hockey]]
+*[[Hockey]]
+
+== References ==
+<references/>
+
+== External links ==
+{{Commons category|Roller hockey}}
+
+=== International ===
+*[https://web.archive.org/web/20100214134206/http://www.talkrollerhockey.net/forum/  Biggest Forum of Rink Hockey]
+*[https://web.archive.org/web/20100531182153/http://fpp.pt/index.html Federação  Portuguesa de Patinagem]
+*[http://fep.es/website/index.asp  Real Federation Espanola de Patinaje]
+*[https://web.archive.org/web/20100713025322/http://www.fihp.org/hockey/index.php  Federazione Intaliana Hockey e Pattinaggio]
+*[http://www.fap-patinagem.com/  Federação Angolana de Patinagem]
+*[http://www.capatin.com/  Confederation Argentina de Patinage]
+*[http://www.englandrollerhockey.com  National Roller Hockey Association of England]
+*[http://rinkhockey.ffrs.asso.fr/  Comité National Rink Hockey Français]
+*[http://www.hockeymexico.com.mx/  Hockey Mexico]
+*[http://www.cbhp.com.br/  Confederação Brasileira de Hóquei e Patinação]
+*[http://www.whockey.com/work/cirsa/hockey.html  The Canadian In-Line & Roller Skating Association]
+*[http://www.patinchile.cl/  Federatión Chilena de Hockey y Patinaje]
+*[https://web.archive.org/web/20100727195130/http://www.rollerhockeysa.co.za/  The South African Roller Hockey Federation]
+*[http://fudepyh.blogspot.com/ Federación Uruguaya de Patín y Hockey]
+*[http://www.usarollersports.org/pages/4581  USA Roller Sports]{{dead link|date=April 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+*[http://www.fedepatin.org./index.php  Federatión Colombiana de Patinaje]
+*[http://www.rollhockey-online.de/  Deutscher Rollsport]
+*[http://www.rolhockey.com/ Nederland Roller Hockey]
+*[https://web.archive.org/web/20100906203209/http://www.srhv.ch/index_fr.asp  Fédération Suisse de Rink-Hockey]
+*[http://www.rollerhockeyireland.com/  Irish Roller Hockey Association]
+*[http://rinkhockeyinisrael.blogspot.com/  Israel Rink Hockey Association]
+*[http://www.macauhockey.blogspot.com/  Hóquei Macau]
+*[http://www.egyptrollerhockey.4t.com/  Roller Hockey Egypt]
+*[https://web.archive.org/web/20100611213027/http://www.skateaustralia.org.au/web/disciplines.php?type=roller+hockey  Skate Australia]
+*[https://web.archive.org/web/20100609075520/http://www.rollerskating.be/homepage.htm  Federation Belge Francophone De Patinage]
+*[http://www.skatenz.org.nz/Default.aspx?ReturnUrl=%2fFramework.aspx%3fshell%3d1%26pageid%3d1shell=1&pageid=1  New Zealand Federation of Roller Sports]
+*[http://www.jrsf.com/  Japan Roller Sports Federation]
+*[https://web.archive.org/web/20110714025036/http://www.rollersports.org.hk/index.php  Hong Kong Federation of Roller Sports] (A member agency of [[Sports Federation and Olympic Committee of Hong Kong, China]])
+*[http://www.krsf.or.kr/  South Korean Federation of Roller Sports]
+*[http://skating.sport.org.cn/  Chinese Federation of Roller Sports]
+
+=== Other ===
+*[http://www.hockeypioneer.com Roller hockey Equipments ( Hockey Pioneer )]
+*[https://web.archive.org/web/20100530091626/http://cumhoquei.com/2009-10/09-10_jogos_na_tv.htm Roller Hockey LIVE Transmissions]
+*[http://www.hockeypioneer.com/ Hockey Pioneer]
+*[http://rinkhockey.net/  Roller Hockey historical databases and statistics]
+*[http://rinkhockey.net/linkshoc.htm  Roller Hockey links worldwide]
+*[https://web.archive.org/web/20100308060219/http://www.mundook.net/  Mundook-World Roller Hockey]
+*[https://web.archive.org/web/20110708091500/http://hardballhock.bravehost.com/ Hardballhock-World Roller Hockey]
+*[http://www.inforoller.com/ Inforoller World Roller Hockey]
+*[https://web.archive.org/web/20110708041529/http://hardballhockey.blogspot.com/  World Roller Hockey Blog]
+*[http://rink-hockey-news.blogspot.com/ rink-hockey-news - World Roller Hockey]
+*[https://web.archive.org/web/20091224140130/http://www.solohockey.net/ SoloHockey World Roller Hockey]
+*[http://usarinkhockey.com/ Rink Hockey in the USA]
+*[http://www.usarshardballhockey.blogspot.com USARS Hardballhockey Blog]
+*[http://www.internationalrinkhockey.blogspot.com International Rink Hockey Blog]
+* {{HoqueiPatins.cat|id=Pàgina_principal}}
+{{Rink hockey international competitions}}
+{{Team Sport}}
+
+
+
+
+
+
+
+{{about|hockey played on quad skates|the sport in general|Roller hockey}}
+{{ infobox sport
+| name       = Roller hockey
+| image      = Argentin_player_during_2007_rink_hockey_world_championship.jpg
+| imagesize  = 300px
+| caption    = Argentine player during the [[2007 Rink Hockey World Championship]].
+| union      = 
+| nickname   = Roller Hockey, Rink Hockey, Hardball Hockey, quad
+| first      = End-19th century Britain
+| registered = 
+| contact    = No
+| team       = 5 per side, a goal-keeper and four floor players
+| mgender    = Yes, separate competitions
+| rules      = 
+| category   = [[Team sport]], [[Ball game|ball sport]]
+| ball       =
+| olympic    = Demonstration sport at [[1992 Summer Olympics]].
+| IWGA       = [[1981 World Games|1981]]{{snds}}[[1993 World Games|1993]], [[2001 World Games|2001]]
+}}
+
+'''Roller hockey''' (in [[British English]]), '''rink hockey''' (in [[American English]]) or '''quad hockey''' is a team sport that enjoys significant popularity in a number of Latin countries.
+
+Two five-man teams (four skaters and one goalkeeper) try to drive the ball with their sticks into the opponents' goal. The ball can only be put in motion by a stick, not the skate, otherwise a foul will be stated. The game has two 25-minute halves, plus up to two 5-minute periods to settle ties with the clock stopping when the ball becomes dead.
+
+Players – including the goalie – use [[quad skates]], whereas [[inline skates]] are used in [[inline hockey]]. Excessive contact between players is forbidden in rink hockey, unlike inline hockey.
+
+[[Roller hockey at the 1992 Summer Olympics|Roller Hockey]] was a [[Demonstration sport|demonstration rollersport]] in the [[1992 Summer Olympics]] in [[Barcelona]]. There have been 43 editions of the [[Roller Hockey World Cup]], with Latin countries dominating the sport since the 1940s: [[Spain national roller hockey team|Spain]] (17 World titles), [[Portugal national roller hockey team|Portugal]] (15 World titles), [[Argentina national roller hockey team|Argentina]] (5 World titles) and [[Italy men's national roller hockey team|Italy]] (4 World titles). Other countries, such as [[France national roller hockey team|France]], [[Brazil national roller hockey team|Brazil]], [[Germany national roller hockey team|Germany]], [[Switzerland national roller hockey team|Switzerland]], [[Andorra national roller hockey team|Andorra]] and [[England national roller hockey team|England]] are regular international competitors, but rarely overcome the traditional powers.
+
+Roller Hockey is a very fast sport, which may create a problem for TV transmissions, and new rinks are built using blue or white pavement to make the ball more visible on TV.
+
+== Name ==
+Roller Hockey (Quad) was referred to as Hardball Hockey in the [[United States]] until November 2008 when the [[USOC]] adopted the sport's more common name, Rink Hockey. Other names for the sport include Hardball Roller Hockey, Ball Hockey, International Style Ball hockey, International hockey, Quad Hockey, Hockey, English Roller Hockey, Hockey Sobre Patines, Hockey pista, Hóquei em patins, Hockey Skids, Traditional Hockey, Cane Hockey, Rollhockey, Rolhockey, Hokej na koturaljkama, Rulleskøjtehockey and Rulluisuhoki.
+
+== The rink ==
+[[File:Campo hockey su pista.svg|thumb|right|a rink]]
+The rink has usually a polished wooden surface, but any flat, non-abrasive and non-slippery material such as treated cement is acceptable. Likewise, it is allowed for rink owners to put advertisements in the playing area, as long as they don't interfere with ball or skate motion, which includes both physically (must be at exactly the same level as the remaining area) and visually (dark colours or any other pattern which can mask the ball).
+
+It can have one out of three standard sizes (a minimum of 34x17 meters, an average of 40x20 and a maximum of 44x22) or any size between the minimum and maximum values that has a 2:1 size ratio with a 10% margin of error.
+
+The rink has rounded corners (1 m radius) and is surrounded by a 1 m wall. The wall also has a wooden base 2&nbsp;cm wide and at least 20&nbsp;cm high. Behind the goals there is a 4 m high net, even if there are no stands (to avoid the ball bouncing back from a wall and hitting a player). If the ball hits the net, it's considered to be out of bounds.
+
+The markings are simple. The halfway line divides the rink into halves, and 22 m  from the end wall an "anti-play" line is painted. The area is a 9 X 5.40 m rectangle, placed from 2.7 to 3.3 m ahead of the end table. It has a protection area for goalkeepers, a half-circle with 1.5 m radius. All markings are 8&nbsp;cm in width. The goal (painted in fluorescent orange) is 105&nbsp;cm high by 170&nbsp;cm wide. Inside the goal there is a thick net and a bar close to ground to trap the ball inside (before, two extra referees stayed behind the goal to judge goal decisions), and 92&nbsp;cm deep. While not attached to the ground, it is extremely heavy to prevent movement.
+
+== Equipment ==
+<gallery>
+Image:Hockey_goal.jpg|Roller Hockey Goal Pad
+Image:Hockey_chest.jpg|Roller-hockey-(Quad)-Goal Chest
+Image:Hockey_elbow.jpg|Roller-hockey-(Quad)-Goal elbow
+Image:Hockey_neck.jpg|Roller-hockey-(Quad)-Goal Neck Protector
+Image:Goal_stick.jpg|Roller-hockey-(Quad)-Goal Stick
+Image:Player_stick.jpg|Roller-hockey-(Quad)-Player Stick
+Image:Palyer_pack.jpg|Roller-hockey-(Quad)-Player Gloves & Knee
+Image:Roller-hockey-(Quad)-Skate.jpg|Roller-hockey-skate
+Image:Roller-hockey-(Quad)-Ball.jpg|Roller Hockey (Quad) Ball
+
+</gallery>
+
+* The clothing is similar to that used in [[Association football]]&mdash;socks up to the knee, shorts and a shirt.
+* Sticks are different for skaters and goalkeepers. They can be of any material approved by the World Skate (although wooden sticks are still most often used), with a minimum length of 90&nbsp;cm and maximum of 115&nbsp;cm. They cannot be wider than 5&nbsp;cm or weigh over 500 g.
+* The ball is made of pressed [[Cork (material)|cork]], has a 23&nbsp;cm in circumference, and weighs 155 g.
+* The skates must have two pairs of wheels, with a minimum diameter of 3&nbsp;cm. Players are allowed to use brakes in the front of the skate, with a diameter or larger side not larger than 5&nbsp;cm.
+* Protective material includes shin guards, knee caps, jock strap and gloves. Specifications for helmets and elbow caps vary from federation to federation.
+* Goalkeepers (or netminders) use protective padding on the torso (plus shoulders) (the maximum amount is being regulated, since, as in [[ice hockey]], many goalkeepers have been using massive protection to make them larger and broader), neck guard, large shin guards (not longer than 75&nbsp;cm), gloves protecting the whole forearm and a helmet with either a grid or unbreakable transparent material. Unlike the Roller Hockey (Inline) Goalie who uses a Catch Glove to catch the shot on goal, the Roller hockey (Quad) Goalie uses a flat batting glove that provides rebound characteristics when blocking a shot on goal.
+
+== Rules ==
+World Skate provides the current rulebook at its [http://www.worldskate.org/rink-hockey/about/regulations.html website ].
+
+== History ==
+The first recorded Hardball Roller Hockey game was played in 1878 at the Denmark Rink in London, England.<ref name="rollerskatingmuseum.com">{{Cite web |url=http://www.rollerskatingmuseum.com/hockey.htm |title=Archived copy |access-date=2008-07-28 |archive-url=https://web.archive.org/web/20080509123523/http://www.rollerskatingmuseum.com/hockey.htm |archive-date=2008-05-09 |dead-url=yes |df= }}</ref><ref name="usarollersports.org">http://usarollersports.org/pages/pdf/magazine/USARS_Summer1978_Web.pdf{{Dead link|date=September 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite web|url=http://www.britannica.com/EBchecked/topic/507126/roller-skating/255268/Roller-sports#ref=ref887928|title=Roller-skating - sport|author=|date=|website=britannica.com}}</ref> It was first known as “roller polo” due to the introduction of [[Polo]] in 1876, skaters took polo to the rinks.<ref name="usarollersports.org"/><ref>{{Cite web |url=http://www.rollerskating.org/displaycommon.cfm?an=1&subarticlenbr=2 |title=Archived copy |access-date=2008-07-28 |archive-url=https://web.archive.org/web/20080422033111/http://www.rollerskating.org/displaycommon.cfm?an=1&subarticlenbr=2 |archive-date=2008-04-22 |dead-url=yes |df= }}</ref> The sport was introduced into the [[United States]] in 1882 with the formation of the National Roller Polo League in [[Dayton]], [[Ohio]], with teams in seven cities. Roller Polo League<ref name="usarollersports.org"/> In 1884 the Massachusetts Roller Polo league was operating with 14 teams<ref name="usarollersports.org"/> Organized roller skating sports developed as the popularity of roller skates increased in the late 19th and early 20th centuries. Roller hockey teams were playing throughout Europe as early as 1901.<ref name="jtaa.org">{{Cite web |url=http://www.jtaa.org/Roller_Hockey/History%20of%20Roller%20Hockey.htm |title=Archived copy |access-date=2008-07-28 |archive-url=https://web.archive.org/web/20080929075718/http://www.jtaa.org/Roller_Hockey/History%20of%20Roller%20Hockey.htm |archive-date=2008-09-29 |dead-url=yes |df= }}</ref> Roller Hockey was played by the famous silent film stars, Stan Laurel and Charlie Chaplin, in the early 1900s.<ref>{{cite web |url=http://hardballhockey.blogspot.com/2008/03/roller-hockey-for-dummies-by-linda.html |title=Archived copy |accessdate=2012-10-28 |deadurl=yes |archiveurl=https://web.archive.org/web/20110708041611/http://hardballhockey.blogspot.com/2008/03/roller-hockey-for-dummies-by-linda.html |archivedate=2011-07-08 |df= }}</ref> The first World Championships in roller hockey were held in 1936 in [[Stuttgart]], [[Germany]].<ref name="jtaa.org"/>
+
+Rink Hockey as it was called in Europe was not organized by the RSROA in the United States until 1959 and name roller hockey<ref name="usarollersports.org"/> The sport debuted at the US National Championships in 1961.<ref>{{cite web |url=http://www.rollerskatingmuseum.com/homework_help.htm |title=Archived copy |accessdate=2008-07-29 |deadurl=yes |archiveurl=https://web.archive.org/web/20080917172523/http://www.rollerskatingmuseum.com/homework_help.htm |archivedate=2008-09-17 |df= }}</ref> The [[Pan American Games]] introduced roller skating as a sport in 1979 and debuted roller hockey the same year.<ref name="rollerskatingmuseum.com"/> It was one of the [[Pan American Games sports]] in 1979, 1987, 1991 and 1995. It has since been discontinued. Roller hockey was [[Roller hockey at the 1992 Summer Olympics|present]] as an exhibition sport at the [[1992 Summer Olympics]] in [[Barcelona]], [[Spain]].<ref>http://www.la84foundation.org/6oic/OfficialReports/1992/1992s4.pdf</ref><ref>{{cite web|url=http://www.worldcat.org/title/memoria-oficial-de-los-juegos-de-la-xxv-olimpada-barcelona-1992-vol-4-los-juegos-dieciseis-das-de-verano/oclc/60284428|title=Memoria Oficial de los Juegos de la XXV Olimp??ada Barcelona 1992. dieciséis d??as de verano. Vol. 4, Vol. 4,|author=|date=17 May 1992|publisher=COOB'92|via=Open WorldCat}}</ref>
+
+== International competitions ==
+There are several international competitions with national teams. There are three world championships, one for men, the [[Roller Hockey World Cup]], one for women, the [[Women's Roller Hockey World Cup]] and the [[Roller Hockey World Cup U-20]].
+
+=== America ===
+*[[Roller Hockey Pan American Championships]]
+
+=== Asia ===
+*[[Rink Hockey Asian Championship|Asian Cup]]
+
+=== Europe ===
+*[[Rink Hockey European Championship]]
+*[[CERH European Women's Roller Hockey Championship|European Women's Roller Hockey Championship]]
+
+== Domestic competitions ==
+{{col-begin|width=725px}}
+{{col-break|width=195px}}
+
+=== Africa ===
+* [[Angolan Roller Hockey Championship|Angola]]
+* [[Egypt Roller Hockey League|Egypt]]
+* [[Mozambican Roller Hockey Championship|Mozambique]]
+* [[South African Roller Hockey Championship|South Africa]]
+{{col-break|width=195px}}
+
+=== America ===
+*[[Liga Nacional Argentina A-1|Argentina]]
+*[[Brazilian Roller Hockey National Championship|Brazil]]
+*[[Liga Nacional de Hockey Chilena|Chile]]
+*[[Colombian Roller Hockey National Championship|Colombia]]
+*[[Mexican Roller Hockey National League|Mexico]]
+*[[Uruguayan National Roller Hockey League|Uruguay]]
+*[[USA Rink Hockey National Championship|USA]]
+{{col-break|width=195px}}
+
+=== Asia ===
+*[[Indian Roller Hockey National Championship|India]]
+*[[Japanese Roller Hockey National Championship|Japan]]
+*[[Pakistan Roller Hockey National Championship|Pakistan]]
+{{col-break|width=195px}}
+
+=== Europe ===
+*[[Austrian Roller Hockey League|Austria]]
+*[[Belgium Roller Hockey League|Belgium]]
+*[[Roller Hockey Premier League|England]]
+*[[Rink Hockey French Championship|France]]
+*[[Roller Hockey Bundesliga|Germany]]
+*[[Lega Nazionale Hockey|Italy]]
+*[[Israel Roller Hockey League|Israel]]
+*[[Dutch NRB B|Netherlands]]
+*[[Portuguese Roller Hockey First Division|Portugal]]
+*[[OK Liga|Spain]]
+*[[Swiss LNA|Switzerland]]
+{{col-break|width=195px}}
+
+=== Oceania ===
+*[[Australia Roller Hockey National Championship|Australia]]
+*[[New Zealand Roller Hockey National Championship|New Zealand]]
+{{Col-end}}
+
+== Women's roller hockey ==
+*[[Women's Roller Hockey World Cup]]
+*[[CERH European Women's Roller Hockey Championship|European Women's Roller Hockey Championship]]
+
+== See also ==
+*[[Roller Hockey World Cup]]
+*[[Rink Hockey European Championship]]
+*[[Roller hockey at the 1992 Summer Olympics]]
+*[[Inline hockey]]
+*[[Skater hockey]]
+*[[Indoor field hockey]]
+*[[Hockey]]
+
+== References ==
+<references/>
+
+== External links ==
+{{Commons category|Roller hockey}}
+
+=== International ===
+*[https://web.archive.org/web/20100214134206/http://www.talkrollerhockey.net/forum/  Biggest Forum of Rink Hockey]
+*[https://web.archive.org/web/20100531182153/http://fpp.pt/index.html Federação  Portuguesa de Patinagem]
+*[http://fep.es/website/index.asp  Real Federation Espanola de Patinaje]
+*[https://web.archive.org/web/20100713025322/http://www.fihp.org/hockey/index.php  Federazione Intaliana Hockey e Pattinaggio]
+*[http://www.fap-patinagem.com/  Federação Angolana de Patinagem]
+*[http://www.capatin.com/  Confederation Argentina de Patinage]
+*[http://www.englandrollerhockey.com  National Roller Hockey Association of England]
+*[http://rinkhockey.ffrs.asso.fr/  Comité National Rink Hockey Français]
+*[http://www.hockeymexico.com.mx/  Hockey Mexico]
+*[http://www.cbhp.com.br/  Confederação Brasileira de Hóquei e Patinação]
+*[http://www.whockey.com/work/cirsa/hockey.html  The Canadian In-Line & Roller Skating Association]
+*[http://www.patinchile.cl/  Federatión Chilena de Hockey y Patinaje]
+*[https://web.archive.org/web/20100727195130/http://www.rollerhockeysa.co.za/  The South African Roller Hockey Federation]
+*[http://fudepyh.blogspot.com/ Federación Uruguaya de Patín y Hockey]
+*[http://www.usarollersports.org/pages/4581  USA Roller Sports]{{dead link|date=April 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+*[http://www.fedepatin.org./index.php  Federatión Colombiana de Patinaje]
+*[http://www.rollhockey-online.de/  Deutscher Rollsport]
+*[http://www.rolhockey.com/ Nederland Roller Hockey]
+*[https://web.archive.org/web/20100906203209/http://www.srhv.ch/index_fr.asp  Fédération Suisse de Rink-Hockey]
+*[http://www.rollerhockeyireland.com/  Irish Roller Hockey Association]
+*[http://rinkhockeyinisrael.blogspot.com/  Israel Rink Hockey Association]
+*[http://www.macauhockey.blogspot.com/  Hóquei Macau]
+*[http://www.egyptrollerhockey.4t.com/  Roller Hockey Egypt]
+*[https://web.archive.org/web/20100611213027/http://www.skateaustralia.org.au/web/disciplines.php?type=roller+hockey  Skate Australia]
+*[https://web.archive.org/web/20100609075520/http://www.rollerskating.be/homepage.htm  Federation Belge Francophone De Patinage]
+*[http://www.skatenz.org.nz/Default.aspx?ReturnUrl=%2fFramework.aspx%3fshell%3d1%26pageid%3d1shell=1&pageid=1  New Zealand Federation of Roller Sports]
+*[http://www.jrsf.com/  Japan Roller Sports Federation]
+*[https://web.archive.org/web/20110714025036/http://www.rollersports.org.hk/index.php  Hong Kong Federation of Roller Sports] (A member agency of [[Sports Federation and Olympic Committee of Hong Kong, China]])
+*[http://www.krsf.or.kr/  South Korean Federation of Roller Sports]
+*[http://skating.sport.org.cn/  Chinese Federation of Roller Sports]
+
+=== Other ===
+*[http://www.hockeypioneer.com Roller hockey Equipments ( Hockey Pioneer )]
+*[https://web.archive.org/web/20100530091626/http://cumhoquei.com/2009-10/09-10_jogos_na_tv.htm Roller Hockey LIVE Transmissions]
+*[http://www.hockeypioneer.com/ Hockey Pioneer]
+*[http://rinkhockey.net/  Roller Hockey historical databases and statistics]
+*[http://rinkhockey.net/linkshoc.htm  Roller Hockey links worldwide]
+*[https://web.archive.org/web/20100308060219/http://www.mundook.net/  Mundook-World Roller Hockey]
+*[https://web.archive.org/web/20110708091500/http://hardballhock.bravehost.com/ Hardballhock-World Roller Hockey]
+*[http://www.inforoller.com/ Inforoller World Roller Hockey]
+*[https://web.archive.org/web/20110708041529/http://hardballhockey.blogspot.com/  World Roller Hockey Blog]
+*[http://rink-hockey-news.blogspot.com/ rink-hockey-news - World Roller Hockey]
+*[https://web.archive.org/web/20091224140130/http://www.solohockey.net/ SoloHockey World Roller Hockey]
+*[http://usarinkhockey.com/ Rink Hockey in the USA]
+*[http://www.usarshardballhockey.blogspot.com USARS Hardballhockey Blog]
+*[http://www.internationalrinkhockey.blogspot.com International Rink Hockey Blog]
+* {{HoqueiPatins.cat|id=Pàgina_principal}}
+{{Rink hockey international competitions}}
+{{Team Sport}}
+
+
+
+
+
+
+

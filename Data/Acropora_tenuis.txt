@@ -1,0 +1,39 @@
+{{Speciesbox
+| image = Acropora tenuis Maldives.jpg
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name="IUCNRL">{{Cite journal | author = Richards, Z.T. | author2 = Delbeek, J.T. | author3 = Lovell, E.R. | author4 = Bass, D. | author5 = Aeby, G. | author6 = Reboton, C. | last-author-amp = yes | title = ''Acropora tenuis'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2014 | page = e.T133020A54177216 | publisher = [[IUCN]] | date = 2014 | url = http://www.iucnredlist.org/details/133020/0 | doi = 10.2305/IUCN.UK.2014-1.RLTS.T133020A54177216.en | access-date = 5 January 2018}}</ref>
+| taxon = Acropora tenuis
+| authority = ([[James Dwight Dana|Dana]], 1846)
+| synonyms = {{hidden begin|title = List}} 
+* ''Acropora africana'' <small>(Brook, 1893)</small> 
+* ''Acropora kenti'' <small>(Brook, 1892)</small> 
+* ''Acropora macrostoma'' <small>(Brook, 1891)</small> 
+* ''Acropora plana'' <small>Nemenzo, 1967</small> 
+* ''Madrepora africana'' <small>Brook, 1893</small> 
+* ''Madrepora bifaria'' <small>Brook, 1892</small> 
+* ''Madrepora kenti'' <small>Brook, 1892</small> 
+* ''Madrepora macrostoma'' <small>Brook, 1891</small> 
+* ''Madrepora tenuis'' <small>Dana, 1846</small> 
+{{hidden end}}
+}}
+
+'''''Acropora tenuis''''' is a species of [[Acroporidae|acroporid]] [[coral]] found in the [[Red Sea]], the [[Gulf of Aden]], the southwest, northwest and northern Indian Ocean, the [[Persian Gulf]], the central [[Indo-Pacific]], Australia, Southeast Asia, Japan, the [[East China Sea]] and the oceanic west and central Pacific Ocean. It occurs in tropical shallow reefs on upper slopes and in subtidal habitats, at depths of {{convert|8|to|20|m}}.
+
+==Description==
+It occurs in corymbose colonies containing orderly-spaced branchlets. It has tube-shaped axial corallites and radial corallites have flaring lips. It is blue, cream, yellow or green in colour, and is similar to ''[[Acropora vermiculata]]''.<ref>{{cite web|url=http://coral.aims.gov.au/factsheet.jsp?speciesCode=0074|title=''Acropora tenuis''|publisher=Australian Institute of Marine Species|accessdate=15 August 2015}}</ref>
+
+==Distribution==
+It is classed as a near threatened species on the [[IUCN Red List]] and it is believed that its population is decreasing; the species is listed under Appendix II of CITES. Figures of its population are unknown, but is likely to be threatened by the global reduction of coral reefs, the increase of temperature causing coral bleaching, climate change, human activity, the crown-of-thorns starfish (''Acanthaster planci'') and disease.<ref name="IUCNRL" /> It occurs in the Red Sea, the Gulf of Aden, the southwest, northwest and northern Indian Ocean, the Persian Gulf, the central Indo-Pacific, Australia, Southeast Asia, Japan, the East China Sea, and the oceanic western and central Pacific Ocean. It is found at depths of between {{convert|8|and|20|m}} in tropical shallow reefs on upper slopes and in subtidal areas.<ref name="IUCNRL" />
+
+==Biology==
+''Acropora tenuis'' is a simultaneous [[hermaphrodite]]. Spawning takes place once a year and is synchronised among the colonies in any one locality. Packets of eggs and sperm are released into the [[water column]] and, being buoyant, rise to the surface. Here the packets break up and cross-fertilisation takes place with [[gamete]]s from different colonies intermixing.<ref>{{cite journal|author1=Heyward, A.J.|author2=Babcock, R.C.|year=1986|title=Self- and cross-fertilization in scleractinian corals|journal=Marine Biology|volume=90|issue=2|pages=191–195|doi=10.1007/BF00569127}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q3946173}}
+
+
+
+

@@ -1,0 +1,40 @@
+{{speciesbox
+| name = Solomons flying fox
+| image = 
+| status = NT 
+| status_system = IUCN3.1
+| status_ref = <ref name = iucn>{{cite journal|last1=Lavery| first1= T.H.| year= 2017| title= Pteropus rayneri| journal= The IUCN Red List of Threatened Species| volume= 2017| page= e.T18754A22086707| doi= 10.2305/IUCN.UK.2017-2.RLTS.T18754A22086707.en}}</ref>
+| genus = Pteropus
+| species = rayneri
+| authority = [[John Edward Gray|Gray]], 1870
+| synonyms = 
+| range_map = Distribuzione di Pteropus rayneri.tif
+| range_map_caption = Solomons flying fox range
+{{legend|brown|'''''P. r. rayneri'''''}}
+{{legend|green|'''''P. r. grandis'''''}}
+{{legend|orange|'''''P. r. rubianus'''''}}
+{{legend|#6495ed|'''''P. r. monoensis'''''}}
+{{legend|grey|'''''P. r. lavellanus'''''}}
+}}
+
+The '''Solomons flying fox''' (''Pteropus rayneri'') is a species of [[flying fox]] in the family [[Pteropodidae]]. It is [[endemic]] to the [[Solomon Islands]].  The population abundance has been marked by periodic die-offs of generally unknown cause, including a major die-off in the 1980s.  Hunting may be a significant threat to the population.<ref name = iucn/>
+
+==References==
+{{Reflist}}
+
+{{Pteropodidae|P.}}
+{{Taxonbar|from=Q669054}}
+
+
+
+
+
+
+
+
+
+
+
+
+{{fruit-bat-stub}}
+{{Solomons-stub}}

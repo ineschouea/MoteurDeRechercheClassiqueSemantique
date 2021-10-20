@@ -1,0 +1,2159 @@
+{{Infobox sport
+| name       = Tchoukball
+| image      = European Tchoukball Championships 2014.jpg
+| alt        = 
+| imagesize  = 250px
+| caption    = A tchoukball match in progress.
+| union      = [[Fédération Internationale de Tchoukball]] (FITB)
+| nickname   = 
+|MVP: Chach 
+| first      = 1970
+| firstlabel = 
+| region     = Worldwide
+| registered = 
+| clubs      = 
+| contact    = No
+| team       = 7 on Court, 5 Reserve  (bench: 5)
+| gender    = Not in international championships, but very common in some national championships
+| type       = [[Ball sport]], [[team sport]]
+| equipment  = Tchoukball, frame
+| venue      = 
+| olympic    =  No 
+| IWGA       =  Invitational sport at [[Tchoukball at the 2009 World Games|2009 World Games]]
+}}
+
+[[File:Chukbol.svg|right|thumb|100px|Symbol of Tchoukball]]
+[[File:Tchoukball vimi.jpg|right|thumb|250px|Tchoukball match in progress.]]
+
+'''Tchoukball''' {{IPAc-en|?|t?|u?|k|b|??|l}} is an indoor team sport developed in the 1970s by Swiss biologist Dr Hermann Brandt. Dr Brandt was concerned about the number of injuries in sport at the time and as part of an educational study he wanted to create a sport that reduced injuries, was not aggressive between players and enabled people of all shapes, sizes, genders, cultures, and backgrounds to play together.
+
+The sport is usually played on an indoor court measuring 27 metres by 16 metres. At each end there is a 'frame' (a device similar to a [[trampoline]] off which the ball bounces) which measures one square metre and a semicircular D-shaped forbidden zone measuring three metres in radius. Each team can score on both ends of the court, and comprises 12 players, of whom 7 may be on the court at any one time. In order to score a point, the ball must be thrown by an attacking player, hit the frame and bounce outside the 'D' without being caught by the defending team. Physical contact is prohibited, and defenders may not attempt to intercept the attacking team's passes. Players may take three steps with the ball, hold the ball for a maximum of three seconds, and teams may not pass the ball more than three times before shooting at the frame.
+
+Tchoukball has become an international sport, played in Brazil, Canada, China, the Czech Republic, Great Britain, India, Italy, Spain, Japan, Macau, Philippines, Poland, Singapore, Switzerland, Taiwan, and the United States. It is governed by the [http://www.tchoukball.org/ Féderation Internationale de Tchoukball] (FITB, founded in 1971). Taiwan hosted the 2004 World Championships and won both the women's and junior championships, with the Swiss men winning the men's championship. The 2006 European Championships were held in Switzerland, with Great Britain taking both the Men's and Under-18's titles, while the hosts won the Women's event.
+
+==History==
+Tchoukball was created in Switzerland by Hermann Brandt, who was concerned by the numerous serious injuries among athletes resulting from sports prone to aggression and physical contact. He believed that sports should not only for champions, but also contribute to the creation of a better and more humane society.<ref>Brandt, H., ''Etude scientifique des sports d’équipe'', Ed. Roulet, [[Geneva]], 1971</ref> He designed tchoukball to contain elements of handball (it is played with hands, and the balls used are similar), volleyball (as the defending team must prevent the ball from falling) and squash (since there is a rebound).
+
+==Basic Rules==
+
+'''Court'''
+
+* The court size that is generally used is 27&nbsp;m&nbsp;×&nbsp;17&nbsp;m. However, there are variations to this such as in beach tchoukball where a court size of 21&nbsp;m&nbsp;×&nbsp;12&nbsp;m is used.
+* One rebound frame is placed at each end of the field of play
+* In front of each frame, a D shaped semi-circle measuring 3&nbsp;m in radius must be drawn; it defines the limits of the 'forbidden zone'
+* The lines of the zones are considered part of the zone itself, e.g. the line marking the semicircle forbidden zone is considered part of the forbidden zone, while the line around the entire court is considered a part of the court
+
+'''Ball'''
+
+Depending on the category of players (Men/Women/M18/M15/M12), different sizes of balls are used ranging from a circumference of 54&nbsp;cm to 60&nbsp;cm and weighs between 325&nbsp;grams to 475&nbsp;grams.
+
+'''Scoring'''
+
+Two [[team]]s of 7 players each (men or women) compete to score points with the team with the most points at the end winning the game. 
+When a team gains a point, control of the ball is transferred to the other team.
+* In tchoukball either team can score at either end of the court.
+* A point is scored when the ball rebounds after hitting either of the 2 frames and touches the ground outside the forbidden zone, any part of the defending player's body below the knees, or touches the defending player while he is still in the forbidden zone.
+* A point is given to the non-attacking team when the attacking team shoots and misses the frame, or the ball rebounds outside the playing area (either out of the court or in the forbidden zone).
+* If a shot is caught by the defending team, the defending team can proceed to attack immediately.
+[[File:Frame front 30.jpg|right|thumb|100px|Frame]]
+
+==Positions==
+Each team comprises the following positions:
+* 2 Right Shooters
+* 2 Left Shooters
+* 2 or 3 defenders
+* 1 Centre (or none if 3 defenders are used)
+Each side of the court comprises a left shooter, right shooter and 1 or 2 defenders, while the centre usually stays near the middle of the court if this formation is used. The shooters are generally in charge of shooting although in some cases the defender can also take the shot. The defenders are in charge of coordinating the first line of defence while the centre pivot takes charge of the second line of defence.
+However other formations include not using a centre pivot, the team would bypass the centre and throw full length court passes directly to the shooters/inners. This gives an extra first line defender or a dedicated second line defender.
+
+==Playing the game==
+
+* The player can take 3 steps and is not allowed to bounce the ball on the ground between these steps.
+* When a pass is dropped or not completed ( the ball touches the ground), the other team gets possession
+* The defending team cannot hamper the attacking one, and is a fully non-contact sport.
+* The player with the ball is only allowed to hold the ball for 3 seconds or less
+
+==International Tchoukball Federation (FITB)==
+The FITB, founded in 1971, is based in Geneva. It now comprises 43 member associations and 16 countries with a designated FITB Representative.  It supports and advises national associations and individuals willing to implant tchoukball in new areas. For instance, tchoukball was recently integrated in the school program of some regions of [[Senegal]]. The FITB was a demonstration sport in the 2009 World Games, which took place in [[Kaohsiung]] ([[Taiwan]]).
+
+==Events==
+* http://www.tchoukball.org/
+* http://www.tchoukball.org/search-competitions
+
+==World Events==
+===World Tchoukball Championships===
+{{main|World Tchoukball Championships}}
+
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|1970
+|The 1st World Tchoukball Championships
+|{{SWI}}
+|{{FRA}}
+||-
+|-
+|1980
+|The 2nd World Tchoukball Championships
+|{{SUI}}
+|{{ROC}}
+|{{ROC}}
+|-
+|1982
+|The 3rd World Tchoukball Championships
+|{{FRA}}
+|{{ROC}}
+|{{ROC}}
+|-
+|1984
+|The 4th World Tchoukball Championships
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|-
+|1987
+|The 5th World Tchoukball Championships
+|{{SWI}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2004
+|The 6th World Tchoukball Championships
+|{{ROC}}
+|{{SWI}}
+||-
+|-
+|2011
+|The 7th World Tchoukball Championships
+|{{ITA}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2015
+|The 8th World Tchoukball Championships
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|}
+
+===World Beach Tchoukball Championships===
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2005
+|The 1st World Beach Tchoukball Championships
+|{{SWI}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2017
+|The 2nd World Beach Tchoukball Championships
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|}
+
+===Tchoukball at the World Games===
+
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|1989
+|[[Tchoukball at the World Games 1989]]
+|{{GER}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2009
+|[[Tchoukball at the World Games 2009]]
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|-
+|}
+
+===World Youth Tchoukball Championships===
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=10%|Year
+!width=20%|Competition
+!width=10%|Host Nation
+!width=10%|M-18 Boys Winner
+!width=10%|M-15 Boys Winner
+!width=10%|M-12 Boys Winner
+!width=10%|M-18 Girls Winner
+!width=10%|M-15 Girls Winner
+!width=10%|M-12 Girls Winner
+
+|-
+|2004
+|The 1st World Youth Tchoukball Championships
+|{{ROC}}
+|{{flag|Taiwan}}
+||-
+||-
+|{{ROC}} 
+||-
+||-
+|-
+|2011
+|The 2nd World Youth Tchoukball Championships
+|{{AUT}}
+|{{ITA}}
+|{{SIN}}
+|{{ROC}}
+|{{ROC}} 
+|{{ITA}}
+||-
+|-
+|2013
+|The 3rd World Youth Tchoukball Championships
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|{{ROC}} 
+|{{ROC}}
+|{{ROC}} 
+|-
+|2015
+|The 4th World Youth Tchoukball Championships
+|{{SIN}}
+|{{SIN}}
+|{{ROC}}
+|{{ROC}}
+|{{SIN}} 
+|{{ROC}}
+|{{SIN}} 
+|-
+|}
+
+===World University Tchoukball Championships===
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=10%|Year
+!width=20%|Competition
+!width=10%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2017 
+| The 1st World University Tchoukball Championships
+|{{MAS}}
+|{{ROC}}
+|{{ROC}}
+|-
+|}
+
+===World Youth Beach Tchoukball Championships===
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=10%|Year
+!width=20%|Competition
+!width=10%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2017
+|The 1st World Youth Beach Tchoukball Championships
+|{{INA}}
+|{{ROC}}
+|{{ROC}}
+|-
+|}
+
+==Regional Events==
+===Asia Pacific Tchoukball Championships===
+{{main|Asia Pacific Tchoukball Championships}}
+
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2003
+|The 1st Asia Pacific Tchoukball Championships
+|{{IND}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2006
+|The 2nd Asia Pacific Tchoukball Championships
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2007
+|The 3rd Asia Pacific Tchoukball Championships
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2010
+|The 4th Asia Pacific Tchoukball Championships
+|{{SIN}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2012
+|The 5th Asia Pacific Tchoukball Championships
+|{{PHI}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2014
+|The 6th Asia Pacific Tchoukball Championships
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2016
+|The 7th Asia Pacific Tchoukball Championships
+|{{CHN}}
+|{{ROC}}
+|{{ROC}}
+|-
+|}
+
+===Asia Pacific University Tchoukball Championships===
+{{main|Asia Pacific University Tchoukball Championships}}
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2009
+|The 1st Asia Pacific University Tchoukball Championships
+|{{HKG}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2011
+|The 2nd Asia Pacific University Tchoukball Championships
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2013
+|The 3rd Asia Pacific University Tchoukball Championships
+|{{KOR}}
+|{{PHI}}
+|{{ROC}}
+|-
+|2015
+|The 4th Asia Pacific University Tchoukball Championships
+|{{MAS}}
+|{{ROC}}
+|{{ROC}}
+|}
+
+===Asia Pacific Beach Tchoukball Championships===
+
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2013
+|The 1st Asia Pacific Beach Tchoukball Championships
+|{{THA}}
+|{{ROC}}
+|{{SIN}}
+|-
+|}
+
+===Asia Pacific Youth Tchoukball Championships===
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=10%|Year
+!width=20%|Competition
+!width=10%|Host Nation
+!width=10%|M-18 Boys Winner
+!width=10%|M-15 Boys Winner
+!width=10%|M-12 Boys Winner
+!width=10%|M-18 Girls Winner
+!width=10%|M-15 Girls Winner
+!width=10%|M-12 Girls Winner
+|-
+|2010
+|The 1st Asia Pacific Youth Tchoukball Championships
+|{{SIN}}
+|{{ROC}}
+||-
+|{{HKG}} 
+|{{ROC}} 
+||-
+|{{ROC}} 
+|-
+|2013
+|The 2nd Asia Pacific Youth Tchoukball Championships
+|{{MAS}}
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|{{SIN}} 
+|{{ROC}}
+|{{ROC}} 
+|-
+|2014
+|The 3rd Asia Pacific Youth Tchoukball Championships
+|{{SIN}}
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|{{ROC}} 
+|{{ROC}}
+|{{ROC}} 
+|-
+|2016 
+|The 4th Asia Pacific Youth Tchoukball Championships
+|{{ROC}}
+|{{ROC}} 
+|{{ROC}} 
+|{{ROC}} 
+|{{ROC}} 
+|{{ROC}} 
+|{{ROC}} 
+|-
+|}
+
+===Southeast Asia Tchoukball Championships===
+{{main|Southeast Asia Tchoukball Championships}}
+
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2009
+|The 1st Southeast Asia Tchoukball Championships
+|{{THA}}
+|{{SIN}}
+||-
+|-
+|2011
+|The 2nd Southeast Asia Tchoukball Championships
+|{{VIE}}
+|{{PHI}}
+|{{SIN}}
+|-
+|2013
+|The 3rd Southeast Asia Tchoukball Championships
+|{{THA}}
+|{{SIN}}
+|{{SIN}}
+|-
+|2015
+|The 4th Southeast Asia Tchoukball Championships
+|{{MAS}}
+|{{SIN}}
+|{{SIN}}
+|-
+|2017
+|The 5th Southeast Asia Tchoukball Championships
+|{{THA}}
+|
+|
+|-
+|}
+
+===South Asian Tchoukball Championships===
+
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2014
+|The 2nd South Asian Tchoukball Championships
+|{{NEP}}
+|{{IND}}
+||-
+|-
+|2016
+|The 3rd South Asian Tchoukball Championships
+|{{IND}}
+|{{IND}}
+||-
+|-
+|}
+
+===East Asian Tchoukball Championships===
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2016
+|The 1st East Asian Tchoukball Championships
+|{{CHN}}
+|{{ROC}}
+||-
+|-
+|2017
+|The 2nd East Asian Tchoukball Championships
+|{{KOR}}
+|
+|
+|-
+|}
+
+===European Tchoukball Championships===
+{{main|European Tchoukball Championships}}
+
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2003
+|The 1st European Tchoukball Championships
+|{{flagicon|ITA}} [[Italy]]
+|{{SUI}}
+|{{SUI}}
+|-
+|2006
+|The 2nd European Tchoukball Championships
+|{{flagicon|SUI}} [[Switzerland]]
+|{{GBR}}
+|{{SUI}}
+|-
+|2008
+|The 3rd European Tchoukball Championships
+|{{flagicon|CZE}} [[Czech Republic]]
+|{{SUI}}
+|{{SUI}}
+|-
+|2010
+|The 4th European Tchoukball Championships
+|{{flagicon|GBR}} [[United Kingdom]]
+|{{SUI}}
+|{{SUI}}
+|-
+|2014
+|The 5th European Tchoukball Championships
+|{{GER}}
+|{{AUT}}
+|{{SWI}}
+|-
+|2016
+|The 6th European Tchoukball Championships
+|{{CZE}}
+|{{AUT}}
+|{{SWI}}
+|-
+|}
+
+===European Youth Tchoukball Championships===
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=10%|Year/Dates
+!width=20%|Competition
+!width=10%|Host Nation
+!width=10%|M-18 Boys Winner
+!width=10%|M-15 Boys Winner
+!width=10%|M-12 Boys Winner
+!width=10%|M-18 Girls Winner
+!width=10%|M-15 Girls Winner
+!width=10%|M-12 Girls Winner
+|-
+|2016 
+|The 1st European Youth Tchoukball Championships
+|{{CZE}}
+|{{ITA}}
+|{{ITA}}
+|{{CZE}}
+||-
+|{{AUT}}
+||-
+|-
+|}
+
+===African Tchoukball Championships===
+{{main|African Tchoukball Championships}}
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2010
+|The 1st African Tchoukball Championships
+|{{GHA}}
+|{{TOG}}
+|{{SEN}}
+|-
+|2012
+|The 2nd African Tchoukball Championships
+|{{TOG}}
+|{{TOG}}
+|
+|-
+|2014
+|The 3rd African Tchoukball Championships
+|{{BEN}}
+|{{TOG}}
+|
+|-
+|2016
+|The 4th African Tchoukball Championships
+|{{KEN}}
+|{{CMR}}
+|
+|-
+|}
+
+===East African Tchoukball Championships===
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2014
+|The 1st East African Tchoukball Championships
+|{{UGA}}
+|{{UGA}}
+|
+|-
+|}
+
+===Pan American Tchoukball Championships===
+{{main|Pan American Tchoukball Championships}}
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2010
+|The 1st Pan American Tchoukball Championships
+|{{BRA}}
+|{{BRA}}
+|{{BRA}}
+|-
+|2012
+|The 2nd Pan American Tchoukball Championships
+|{{URU}}
+|{{BRA}}
+|{{BRA}}
+|-
+|2014
+|The 3rd Pan American Tchoukball Championships
+|{{COL}}
+|{{BRA}}
+|{{COL}}
+|-
+|2016
+|The 4th Pan American Tchoukball Championships
+|{{MEX}}
+|{{BRA}}
+|{{URU}}
+|-
+|}
+
+==Notable injuries==
+During a community match in [[Kingston, Ontario]], Canada on February 8, 2015, tchoukball player Arthur Freitas sustained serious facial injuries.  His team would go on to win the match. This is the first and only reported tchoukball-related injury.{{citation needed|date=August 2017}}
+
+==Other==
+Tchoukball was chosen as the official sport of the [[JDC West]] competition in 2014 in [[Regina, Saskatchewan]], Canada.
+
+==Notes==
+<references/>
+
+==External links==
+
+===Associations===
+*[http://www.tchoukball.org FITB - International Tchoukball Federation - official site]
+
+{{Sports of the World Games program}}
+{{Team Sport}}
+{{Main world championships}}
+{{European Championships}}
+
+{{Authority control}}
+
+
+
+
+{{Infobox sport
+| name       = Tchoukball
+| image      = European Tchoukball Championships 2014.jpg
+| alt        = 
+| imagesize  = 250px
+| caption    = A tchoukball match in progress.
+| union      = [[Fédération Internationale de Tchoukball]] (FITB)
+| nickname   = 
+|MVP: Chach 
+| first      = 1970
+| firstlabel = 
+| region     = Worldwide
+| registered = 
+| clubs      = 
+| contact    = No
+| team       = 7 on Court, 5 Reserve  (bench: 5)
+| gender    = Not in international championships, but very common in some national championships
+| type       = [[Ball sport]], [[team sport]]
+| equipment  = Tchoukball, frame
+| venue      = 
+| olympic    =  No 
+| IWGA       =  Invitational sport at [[Tchoukball at the 2009 World Games|2009 World Games]]
+}}
+
+[[File:Chukbol.svg|right|thumb|100px|Symbol of Tchoukball]]
+[[File:Tchoukball vimi.jpg|right|thumb|250px|Tchoukball match in progress.]]
+
+'''Tchoukball''' {{IPAc-en|?|t?|u?|k|b|??|l}} is an indoor team sport developed in the 1970s by Swiss biologist Dr Hermann Brandt. Dr Brandt was concerned about the number of injuries in sport at the time and as part of an educational study he wanted to create a sport that reduced injuries, was not aggressive between players and enabled people of all shapes, sizes, genders, cultures, and backgrounds to play together.
+
+The sport is usually played on an indoor court measuring 27 metres by 16 metres. At each end there is a 'frame' (a device similar to a [[trampoline]] off which the ball bounces) which measures one square metre and a semicircular D-shaped forbidden zone measuring three metres in radius. Each team can score on both ends of the court, and comprises 12 players, of whom 7 may be on the court at any one time. In order to score a point, the ball must be thrown by an attacking player, hit the frame and bounce outside the 'D' without being caught by the defending team. Physical contact is prohibited, and defenders may not attempt to intercept the attacking team's passes. Players may take three steps with the ball, hold the ball for a maximum of three seconds, and teams may not pass the ball more than three times before shooting at the frame.
+
+Tchoukball has become an international sport, played in Brazil, Canada, China, the Czech Republic, Great Britain, India, Italy, Spain, Japan, Macau, Philippines, Poland, Singapore, Switzerland, Taiwan, and the United States. It is governed by the [http://www.tchoukball.org/ Féderation Internationale de Tchoukball] (FITB, founded in 1971). Taiwan hosted the 2004 World Championships and won both the women's and junior championships, with the Swiss men winning the men's championship. The 2006 European Championships were held in Switzerland, with Great Britain taking both the Men's and Under-18's titles, while the hosts won the Women's event.
+
+==History==
+Tchoukball was created in Switzerland by Hermann Brandt, who was concerned by the numerous serious injuries among athletes resulting from sports prone to aggression and physical contact. He believed that sports should not only for champions, but also contribute to the creation of a better and more humane society.<ref>Brandt, H., ''Etude scientifique des sports d’équipe'', Ed. Roulet, [[Geneva]], 1971</ref> He designed tchoukball to contain elements of handball (it is played with hands, and the balls used are similar), volleyball (as the defending team must prevent the ball from falling) and squash (since there is a rebound).
+
+==Basic Rules==
+
+'''Court'''
+
+* The court size that is generally used is 27&nbsp;m&nbsp;×&nbsp;17&nbsp;m. However, there are variations to this such as in beach tchoukball where a court size of 21&nbsp;m&nbsp;×&nbsp;12&nbsp;m is used.
+* One rebound frame is placed at each end of the field of play
+* In front of each frame, a D shaped semi-circle measuring 3&nbsp;m in radius must be drawn; it defines the limits of the 'forbidden zone'
+* The lines of the zones are considered part of the zone itself, e.g. the line marking the semicircle forbidden zone is considered part of the forbidden zone, while the line around the entire court is considered a part of the court
+
+'''Ball'''
+
+Depending on the category of players (Men/Women/M18/M15/M12), different sizes of balls are used ranging from a circumference of 54&nbsp;cm to 60&nbsp;cm and weighs between 325&nbsp;grams to 475&nbsp;grams.
+
+'''Scoring'''
+
+Two [[team]]s of 7 players each (men or women) compete to score points with the team with the most points at the end winning the game. 
+When a team gains a point, control of the ball is transferred to the other team.
+* In tchoukball either team can score at either end of the court.
+* A point is scored when the ball rebounds after hitting either of the 2 frames and touches the ground outside the forbidden zone, any part of the defending player's body below the knees, or touches the defending player while he is still in the forbidden zone.
+* A point is given to the non-attacking team when the attacking team shoots and misses the frame, or the ball rebounds outside the playing area (either out of the court or in the forbidden zone).
+* If a shot is caught by the defending team, the defending team can proceed to attack immediately.
+[[File:Frame front 30.jpg|right|thumb|100px|Frame]]
+
+==Positions==
+Each team comprises the following positions:
+* 2 Right Shooters
+* 2 Left Shooters
+* 2 or 3 defenders
+* 1 Centre (or none if 3 defenders are used)
+Each side of the court comprises a left shooter, right shooter and 1 or 2 defenders, while the centre usually stays near the middle of the court if this formation is used. The shooters are generally in charge of shooting although in some cases the defender can also take the shot. The defenders are in charge of coordinating the first line of defence while the centre pivot takes charge of the second line of defence.
+However other formations include not using a centre pivot, the team would bypass the centre and throw full length court passes directly to the shooters/inners. This gives an extra first line defender or a dedicated second line defender.
+
+==Playing the game==
+
+* The player can take 3 steps and is not allowed to bounce the ball on the ground between these steps.
+* When a pass is dropped or not completed ( the ball touches the ground), the other team gets possession
+* The defending team cannot hamper the attacking one, and is a fully non-contact sport.
+* The player with the ball is only allowed to hold the ball for 3 seconds or less
+
+==International Tchoukball Federation (FITB)==
+The FITB, founded in 1971, is based in Geneva. It now comprises 43 member associations and 16 countries with a designated FITB Representative.  It supports and advises national associations and individuals willing to implant tchoukball in new areas. For instance, tchoukball was recently integrated in the school program of some regions of [[Senegal]]. The FITB was a demonstration sport in the 2009 World Games, which took place in [[Kaohsiung]] ([[Taiwan]]).
+
+==Events==
+* http://www.tchoukball.org/
+* http://www.tchoukball.org/search-competitions
+
+==World Events==
+===World Tchoukball Championships===
+{{main|World Tchoukball Championships}}
+
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|1970
+|The 1st World Tchoukball Championships
+|{{SWI}}
+|{{FRA}}
+||-
+|-
+|1980
+|The 2nd World Tchoukball Championships
+|{{SUI}}
+|{{ROC}}
+|{{ROC}}
+|-
+|1982
+|The 3rd World Tchoukball Championships
+|{{FRA}}
+|{{ROC}}
+|{{ROC}}
+|-
+|1984
+|The 4th World Tchoukball Championships
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|-
+|1987
+|The 5th World Tchoukball Championships
+|{{SWI}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2004
+|The 6th World Tchoukball Championships
+|{{ROC}}
+|{{SWI}}
+||-
+|-
+|2011
+|The 7th World Tchoukball Championships
+|{{ITA}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2015
+|The 8th World Tchoukball Championships
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|}
+
+===World Beach Tchoukball Championships===
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2005
+|The 1st World Beach Tchoukball Championships
+|{{SWI}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2017
+|The 2nd World Beach Tchoukball Championships
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|}
+
+===Tchoukball at the World Games===
+
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|1989
+|[[Tchoukball at the World Games 1989]]
+|{{GER}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2009
+|[[Tchoukball at the World Games 2009]]
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|-
+|}
+
+===World Youth Tchoukball Championships===
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=10%|Year
+!width=20%|Competition
+!width=10%|Host Nation
+!width=10%|M-18 Boys Winner
+!width=10%|M-15 Boys Winner
+!width=10%|M-12 Boys Winner
+!width=10%|M-18 Girls Winner
+!width=10%|M-15 Girls Winner
+!width=10%|M-12 Girls Winner
+
+|-
+|2004
+|The 1st World Youth Tchoukball Championships
+|{{ROC}}
+|{{flag|Taiwan}}
+||-
+||-
+|{{ROC}} 
+||-
+||-
+|-
+|2011
+|The 2nd World Youth Tchoukball Championships
+|{{AUT}}
+|{{ITA}}
+|{{SIN}}
+|{{ROC}}
+|{{ROC}} 
+|{{ITA}}
+||-
+|-
+|2013
+|The 3rd World Youth Tchoukball Championships
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|{{ROC}} 
+|{{ROC}}
+|{{ROC}} 
+|-
+|2015
+|The 4th World Youth Tchoukball Championships
+|{{SIN}}
+|{{SIN}}
+|{{ROC}}
+|{{ROC}}
+|{{SIN}} 
+|{{ROC}}
+|{{SIN}} 
+|-
+|}
+
+===World University Tchoukball Championships===
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=10%|Year
+!width=20%|Competition
+!width=10%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2017 
+| The 1st World University Tchoukball Championships
+|{{MAS}}
+|{{ROC}}
+|{{ROC}}
+|-
+|}
+
+===World Youth Beach Tchoukball Championships===
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=10%|Year
+!width=20%|Competition
+!width=10%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2017
+|The 1st World Youth Beach Tchoukball Championships
+|{{INA}}
+|{{ROC}}
+|{{ROC}}
+|-
+|}
+
+==Regional Events==
+===Asia Pacific Tchoukball Championships===
+{{main|Asia Pacific Tchoukball Championships}}
+
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2003
+|The 1st Asia Pacific Tchoukball Championships
+|{{IND}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2006
+|The 2nd Asia Pacific Tchoukball Championships
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2007
+|The 3rd Asia Pacific Tchoukball Championships
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2010
+|The 4th Asia Pacific Tchoukball Championships
+|{{SIN}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2012
+|The 5th Asia Pacific Tchoukball Championships
+|{{PHI}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2014
+|The 6th Asia Pacific Tchoukball Championships
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2016
+|The 7th Asia Pacific Tchoukball Championships
+|{{CHN}}
+|{{ROC}}
+|{{ROC}}
+|-
+|}
+
+===Asia Pacific University Tchoukball Championships===
+{{main|Asia Pacific University Tchoukball Championships}}
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2009
+|The 1st Asia Pacific University Tchoukball Championships
+|{{HKG}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2011
+|The 2nd Asia Pacific University Tchoukball Championships
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2013
+|The 3rd Asia Pacific University Tchoukball Championships
+|{{KOR}}
+|{{PHI}}
+|{{ROC}}
+|-
+|2015
+|The 4th Asia Pacific University Tchoukball Championships
+|{{MAS}}
+|{{ROC}}
+|{{ROC}}
+|}
+
+===Asia Pacific Beach Tchoukball Championships===
+
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2013
+|The 1st Asia Pacific Beach Tchoukball Championships
+|{{THA}}
+|{{ROC}}
+|{{SIN}}
+|-
+|}
+
+===Asia Pacific Youth Tchoukball Championships===
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=10%|Year
+!width=20%|Competition
+!width=10%|Host Nation
+!width=10%|M-18 Boys Winner
+!width=10%|M-15 Boys Winner
+!width=10%|M-12 Boys Winner
+!width=10%|M-18 Girls Winner
+!width=10%|M-15 Girls Winner
+!width=10%|M-12 Girls Winner
+|-
+|2010
+|The 1st Asia Pacific Youth Tchoukball Championships
+|{{SIN}}
+|{{ROC}}
+||-
+|{{HKG}} 
+|{{ROC}} 
+||-
+|{{ROC}} 
+|-
+|2013
+|The 2nd Asia Pacific Youth Tchoukball Championships
+|{{MAS}}
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|{{SIN}} 
+|{{ROC}}
+|{{ROC}} 
+|-
+|2014
+|The 3rd Asia Pacific Youth Tchoukball Championships
+|{{SIN}}
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|{{ROC}} 
+|{{ROC}}
+|{{ROC}} 
+|-
+|2016 
+|The 4th Asia Pacific Youth Tchoukball Championships
+|{{ROC}}
+|{{ROC}} 
+|{{ROC}} 
+|{{ROC}} 
+|{{ROC}} 
+|{{ROC}} 
+|{{ROC}} 
+|-
+|}
+
+===Southeast Asia Tchoukball Championships===
+{{main|Southeast Asia Tchoukball Championships}}
+
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2009
+|The 1st Southeast Asia Tchoukball Championships
+|{{THA}}
+|{{SIN}}
+||-
+|-
+|2011
+|The 2nd Southeast Asia Tchoukball Championships
+|{{VIE}}
+|{{PHI}}
+|{{SIN}}
+|-
+|2013
+|The 3rd Southeast Asia Tchoukball Championships
+|{{THA}}
+|{{SIN}}
+|{{SIN}}
+|-
+|2015
+|The 4th Southeast Asia Tchoukball Championships
+|{{MAS}}
+|{{SIN}}
+|{{SIN}}
+|-
+|2017
+|The 5th Southeast Asia Tchoukball Championships
+|{{THA}}
+|
+|
+|-
+|}
+
+===South Asian Tchoukball Championships===
+
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2014
+|The 2nd South Asian Tchoukball Championships
+|{{NEP}}
+|{{IND}}
+||-
+|-
+|2016
+|The 3rd South Asian Tchoukball Championships
+|{{IND}}
+|{{IND}}
+||-
+|-
+|}
+
+===East Asian Tchoukball Championships===
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2016
+|The 1st East Asian Tchoukball Championships
+|{{CHN}}
+|{{ROC}}
+||-
+|-
+|2017
+|The 2nd East Asian Tchoukball Championships
+|{{KOR}}
+|
+|
+|-
+|}
+
+===European Tchoukball Championships===
+{{main|European Tchoukball Championships}}
+
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2003
+|The 1st European Tchoukball Championships
+|{{flagicon|ITA}} [[Italy]]
+|{{SUI}}
+|{{SUI}}
+|-
+|2006
+|The 2nd European Tchoukball Championships
+|{{flagicon|SUI}} [[Switzerland]]
+|{{GBR}}
+|{{SUI}}
+|-
+|2008
+|The 3rd European Tchoukball Championships
+|{{flagicon|CZE}} [[Czech Republic]]
+|{{SUI}}
+|{{SUI}}
+|-
+|2010
+|The 4th European Tchoukball Championships
+|{{flagicon|GBR}} [[United Kingdom]]
+|{{SUI}}
+|{{SUI}}
+|-
+|2014
+|The 5th European Tchoukball Championships
+|{{GER}}
+|{{AUT}}
+|{{SWI}}
+|-
+|2016
+|The 6th European Tchoukball Championships
+|{{CZE}}
+|{{AUT}}
+|{{SWI}}
+|-
+|}
+
+===European Youth Tchoukball Championships===
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=10%|Year/Dates
+!width=20%|Competition
+!width=10%|Host Nation
+!width=10%|M-18 Boys Winner
+!width=10%|M-15 Boys Winner
+!width=10%|M-12 Boys Winner
+!width=10%|M-18 Girls Winner
+!width=10%|M-15 Girls Winner
+!width=10%|M-12 Girls Winner
+|-
+|2016 
+|The 1st European Youth Tchoukball Championships
+|{{CZE}}
+|{{ITA}}
+|{{ITA}}
+|{{CZE}}
+||-
+|{{AUT}}
+||-
+|-
+|}
+
+===African Tchoukball Championships===
+{{main|African Tchoukball Championships}}
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2010
+|The 1st African Tchoukball Championships
+|{{GHA}}
+|{{TOG}}
+|{{SEN}}
+|-
+|2012
+|The 2nd African Tchoukball Championships
+|{{TOG}}
+|{{TOG}}
+|
+|-
+|2014
+|The 3rd African Tchoukball Championships
+|{{BEN}}
+|{{TOG}}
+|
+|-
+|2016
+|The 4th African Tchoukball Championships
+|{{KEN}}
+|{{CMR}}
+|
+|-
+|}
+
+===East African Tchoukball Championships===
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2014
+|The 1st East African Tchoukball Championships
+|{{UGA}}
+|{{UGA}}
+|
+|-
+|}
+
+===Pan American Tchoukball Championships===
+{{main|Pan American Tchoukball Championships}}
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2010
+|The 1st Pan American Tchoukball Championships
+|{{BRA}}
+|{{BRA}}
+|{{BRA}}
+|-
+|2012
+|The 2nd Pan American Tchoukball Championships
+|{{URU}}
+|{{BRA}}
+|{{BRA}}
+|-
+|2014
+|The 3rd Pan American Tchoukball Championships
+|{{COL}}
+|{{BRA}}
+|{{COL}}
+|-
+|2016
+|The 4th Pan American Tchoukball Championships
+|{{MEX}}
+|{{BRA}}
+|{{URU}}
+|-
+|}
+
+==Notable injuries==
+During a community match in [[Kingston, Ontario]], Canada on February 8, 2015, tchoukball player Arthur Freitas sustained serious facial injuries.  His team would go on to win the match. This is the first and only reported tchoukball-related injury.{{citation needed|date=August 2017}}
+
+==Other==
+Tchoukball was chosen as the official sport of the [[JDC West]] competition in 2014 in [[Regina, Saskatchewan]], Canada.
+
+==Notes==
+<references/>
+
+==External links==
+
+===Associations===
+*[http://www.tchoukball.org FITB - International Tchoukball Federation - official site]
+
+{{Sports of the World Games program}}
+{{Team Sport}}
+{{Main world championships}}
+{{European Championships}}
+
+{{Authority control}}
+
+
+
+
+| name       = Tchoukball
+| image      = European Tchoukball Championships 2014.jpg
+| alt        = 
+| imagesize  = 250px
+| caption    = A tchoukball match in progress.
+| union      = [[Fédération Internationale de Tchoukball]] (FITB)
+| nickname   = 
+|MVP: Chach 
+| first      = 1970
+| firstlabel = 
+| region     = Worldwide
+| registered = 
+| clubs      = 
+| contact    = No
+| team       = 7 on Court, 5 Reserve  (bench: 5)
+| gender    = Not in international championships, but very common in some national championships
+| type       = [[Ball sport]], [[team sport]]
+| equipment  = Tchoukball, frame
+| venue      = 
+| olympic    =  No 
+| IWGA       =  Invitational sport at [[Tchoukball at the 2009 World Games|2009 World Games]]
+}}
+
+[[File:Chukbol.svg|right|thumb|100px|Symbol of Tchoukball]]
+[[File:Tchoukball vimi.jpg|right|thumb|250px|Tchoukball match in progress.]]
+
+'''Tchoukball''' {{IPAc-en|?|t?|u?|k|b|??|l}} is an indoor team sport developed in the 1970s by Swiss biologist Dr Hermann Brandt. Dr Brandt was concerned about the number of injuries in sport at the time and as part of an educational study he wanted to create a sport that reduced injuries, was not aggressive between players and enabled people of all shapes, sizes, genders, cultures, and backgrounds to play together.
+
+The sport is usually played on an indoor court measuring 27 metres by 16 metres. At each end there is a 'frame' (a device similar to a [[trampoline]] off which the ball bounces) which measures one square metre and a semicircular D-shaped forbidden zone measuring three metres in radius. Each team can score on both ends of the court, and comprises 12 players, of whom 7 may be on the court at any one time. In order to score a point, the ball must be thrown by an attacking player, hit the frame and bounce outside the 'D' without being caught by the defending team. Physical contact is prohibited, and defenders may not attempt to intercept the attacking team's passes. Players may take three steps with the ball, hold the ball for a maximum of three seconds, and teams may not pass the ball more than three times before shooting at the frame.
+
+Tchoukball has become an international sport, played in Brazil, Canada, China, the Czech Republic, Great Britain, India, Italy, Spain, Japan, Macau, Philippines, Poland, Singapore, Switzerland, Taiwan, and the United States. It is governed by the [http://www.tchoukball.org/ Féderation Internationale de Tchoukball] (FITB, founded in 1971). Taiwan hosted the 2004 World Championships and won both the women's and junior championships, with the Swiss men winning the men's championship. The 2006 European Championships were held in Switzerland, with Great Britain taking both the Men's and Under-18's titles, while the hosts won the Women's event.
+
+==History==
+Tchoukball was created in Switzerland by Hermann Brandt, who was concerned by the numerous serious injuries among athletes resulting from sports prone to aggression and physical contact. He believed that sports should not only for champions, but also contribute to the creation of a better and more humane society.<ref>Brandt, H., ''Etude scientifique des sports d’équipe'', Ed. Roulet, [[Geneva]], 1971</ref> He designed tchoukball to contain elements of handball (it is played with hands, and the balls used are similar), volleyball (as the defending team must prevent the ball from falling) and squash (since there is a rebound).
+
+==Basic Rules==
+
+'''Court'''
+
+* The court size that is generally used is 27&nbsp;m&nbsp;×&nbsp;17&nbsp;m. However, there are variations to this such as in beach tchoukball where a court size of 21&nbsp;m&nbsp;×&nbsp;12&nbsp;m is used.
+* One rebound frame is placed at each end of the field of play
+* In front of each frame, a D shaped semi-circle measuring 3&nbsp;m in radius must be drawn; it defines the limits of the 'forbidden zone'
+* The lines of the zones are considered part of the zone itself, e.g. the line marking the semicircle forbidden zone is considered part of the forbidden zone, while the line around the entire court is considered a part of the court
+
+'''Ball'''
+
+Depending on the category of players (Men/Women/M18/M15/M12), different sizes of balls are used ranging from a circumference of 54&nbsp;cm to 60&nbsp;cm and weighs between 325&nbsp;grams to 475&nbsp;grams.
+
+'''Scoring'''
+
+Two [[team]]s of 7 players each (men or women) compete to score points with the team with the most points at the end winning the game. 
+When a team gains a point, control of the ball is transferred to the other team.
+* In tchoukball either team can score at either end of the court.
+* A point is scored when the ball rebounds after hitting either of the 2 frames and touches the ground outside the forbidden zone, any part of the defending player's body below the knees, or touches the defending player while he is still in the forbidden zone.
+* A point is given to the non-attacking team when the attacking team shoots and misses the frame, or the ball rebounds outside the playing area (either out of the court or in the forbidden zone).
+* If a shot is caught by the defending team, the defending team can proceed to attack immediately.
+[[File:Frame front 30.jpg|right|thumb|100px|Frame]]
+
+==Positions==
+Each team comprises the following positions:
+* 2 Right Shooters
+* 2 Left Shooters
+* 2 or 3 defenders
+* 1 Centre (or none if 3 defenders are used)
+Each side of the court comprises a left shooter, right shooter and 1 or 2 defenders, while the centre usually stays near the middle of the court if this formation is used. The shooters are generally in charge of shooting although in some cases the defender can also take the shot. The defenders are in charge of coordinating the first line of defence while the centre pivot takes charge of the second line of defence.
+However other formations include not using a centre pivot, the team would bypass the centre and throw full length court passes directly to the shooters/inners. This gives an extra first line defender or a dedicated second line defender.
+
+==Playing the game==
+
+* The player can take 3 steps and is not allowed to bounce the ball on the ground between these steps.
+* When a pass is dropped or not completed ( the ball touches the ground), the other team gets possession
+* The defending team cannot hamper the attacking one, and is a fully non-contact sport.
+* The player with the ball is only allowed to hold the ball for 3 seconds or less
+
+==International Tchoukball Federation (FITB)==
+The FITB, founded in 1971, is based in Geneva. It now comprises 43 member associations and 16 countries with a designated FITB Representative.  It supports and advises national associations and individuals willing to implant tchoukball in new areas. For instance, tchoukball was recently integrated in the school program of some regions of [[Senegal]]. The FITB was a demonstration sport in the 2009 World Games, which took place in [[Kaohsiung]] ([[Taiwan]]).
+
+==Events==
+* http://www.tchoukball.org/
+* http://www.tchoukball.org/search-competitions
+
+==World Events==
+===World Tchoukball Championships===
+{{main|World Tchoukball Championships}}
+
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|1970
+|The 1st World Tchoukball Championships
+|{{SWI}}
+|{{FRA}}
+||-
+|-
+|1980
+|The 2nd World Tchoukball Championships
+|{{SUI}}
+|{{ROC}}
+|{{ROC}}
+|-
+|1982
+|The 3rd World Tchoukball Championships
+|{{FRA}}
+|{{ROC}}
+|{{ROC}}
+|-
+|1984
+|The 4th World Tchoukball Championships
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|-
+|1987
+|The 5th World Tchoukball Championships
+|{{SWI}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2004
+|The 6th World Tchoukball Championships
+|{{ROC}}
+|{{SWI}}
+||-
+|-
+|2011
+|The 7th World Tchoukball Championships
+|{{ITA}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2015
+|The 8th World Tchoukball Championships
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|}
+
+===World Beach Tchoukball Championships===
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2005
+|The 1st World Beach Tchoukball Championships
+|{{SWI}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2017
+|The 2nd World Beach Tchoukball Championships
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|}
+
+===Tchoukball at the World Games===
+
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|1989
+|[[Tchoukball at the World Games 1989]]
+|{{GER}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2009
+|[[Tchoukball at the World Games 2009]]
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|-
+|}
+
+===World Youth Tchoukball Championships===
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=10%|Year
+!width=20%|Competition
+!width=10%|Host Nation
+!width=10%|M-18 Boys Winner
+!width=10%|M-15 Boys Winner
+!width=10%|M-12 Boys Winner
+!width=10%|M-18 Girls Winner
+!width=10%|M-15 Girls Winner
+!width=10%|M-12 Girls Winner
+
+|-
+|2004
+|The 1st World Youth Tchoukball Championships
+|{{ROC}}
+|{{flag|Taiwan}}
+||-
+||-
+|{{ROC}} 
+||-
+||-
+|-
+|2011
+|The 2nd World Youth Tchoukball Championships
+|{{AUT}}
+|{{ITA}}
+|{{SIN}}
+|{{ROC}}
+|{{ROC}} 
+|{{ITA}}
+||-
+|-
+|2013
+|The 3rd World Youth Tchoukball Championships
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|{{ROC}} 
+|{{ROC}}
+|{{ROC}} 
+|-
+|2015
+|The 4th World Youth Tchoukball Championships
+|{{SIN}}
+|{{SIN}}
+|{{ROC}}
+|{{ROC}}
+|{{SIN}} 
+|{{ROC}}
+|{{SIN}} 
+|-
+|}
+
+===World University Tchoukball Championships===
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=10%|Year
+!width=20%|Competition
+!width=10%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2017 
+| The 1st World University Tchoukball Championships
+|{{MAS}}
+|{{ROC}}
+|{{ROC}}
+|-
+|}
+
+===World Youth Beach Tchoukball Championships===
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=10%|Year
+!width=20%|Competition
+!width=10%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2017
+|The 1st World Youth Beach Tchoukball Championships
+|{{INA}}
+|{{ROC}}
+|{{ROC}}
+|-
+|}
+
+==Regional Events==
+===Asia Pacific Tchoukball Championships===
+{{main|Asia Pacific Tchoukball Championships}}
+
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2003
+|The 1st Asia Pacific Tchoukball Championships
+|{{IND}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2006
+|The 2nd Asia Pacific Tchoukball Championships
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2007
+|The 3rd Asia Pacific Tchoukball Championships
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2010
+|The 4th Asia Pacific Tchoukball Championships
+|{{SIN}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2012
+|The 5th Asia Pacific Tchoukball Championships
+|{{PHI}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2014
+|The 6th Asia Pacific Tchoukball Championships
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2016
+|The 7th Asia Pacific Tchoukball Championships
+|{{CHN}}
+|{{ROC}}
+|{{ROC}}
+|-
+|}
+
+===Asia Pacific University Tchoukball Championships===
+{{main|Asia Pacific University Tchoukball Championships}}
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2009
+|The 1st Asia Pacific University Tchoukball Championships
+|{{HKG}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2011
+|The 2nd Asia Pacific University Tchoukball Championships
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|-
+|2013
+|The 3rd Asia Pacific University Tchoukball Championships
+|{{KOR}}
+|{{PHI}}
+|{{ROC}}
+|-
+|2015
+|The 4th Asia Pacific University Tchoukball Championships
+|{{MAS}}
+|{{ROC}}
+|{{ROC}}
+|}
+
+===Asia Pacific Beach Tchoukball Championships===
+
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2013
+|The 1st Asia Pacific Beach Tchoukball Championships
+|{{THA}}
+|{{ROC}}
+|{{SIN}}
+|-
+|}
+
+===Asia Pacific Youth Tchoukball Championships===
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=10%|Year
+!width=20%|Competition
+!width=10%|Host Nation
+!width=10%|M-18 Boys Winner
+!width=10%|M-15 Boys Winner
+!width=10%|M-12 Boys Winner
+!width=10%|M-18 Girls Winner
+!width=10%|M-15 Girls Winner
+!width=10%|M-12 Girls Winner
+|-
+|2010
+|The 1st Asia Pacific Youth Tchoukball Championships
+|{{SIN}}
+|{{ROC}}
+||-
+|{{HKG}} 
+|{{ROC}} 
+||-
+|{{ROC}} 
+|-
+|2013
+|The 2nd Asia Pacific Youth Tchoukball Championships
+|{{MAS}}
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|{{SIN}} 
+|{{ROC}}
+|{{ROC}} 
+|-
+|2014
+|The 3rd Asia Pacific Youth Tchoukball Championships
+|{{SIN}}
+|{{ROC}}
+|{{ROC}}
+|{{ROC}}
+|{{ROC}} 
+|{{ROC}}
+|{{ROC}} 
+|-
+|2016 
+|The 4th Asia Pacific Youth Tchoukball Championships
+|{{ROC}}
+|{{ROC}} 
+|{{ROC}} 
+|{{ROC}} 
+|{{ROC}} 
+|{{ROC}} 
+|{{ROC}} 
+|-
+|}
+
+===Southeast Asia Tchoukball Championships===
+{{main|Southeast Asia Tchoukball Championships}}
+
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2009
+|The 1st Southeast Asia Tchoukball Championships
+|{{THA}}
+|{{SIN}}
+||-
+|-
+|2011
+|The 2nd Southeast Asia Tchoukball Championships
+|{{VIE}}
+|{{PHI}}
+|{{SIN}}
+|-
+|2013
+|The 3rd Southeast Asia Tchoukball Championships
+|{{THA}}
+|{{SIN}}
+|{{SIN}}
+|-
+|2015
+|The 4th Southeast Asia Tchoukball Championships
+|{{MAS}}
+|{{SIN}}
+|{{SIN}}
+|-
+|2017
+|The 5th Southeast Asia Tchoukball Championships
+|{{THA}}
+|
+|
+|-
+|}
+
+===South Asian Tchoukball Championships===
+
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2014
+|The 2nd South Asian Tchoukball Championships
+|{{NEP}}
+|{{IND}}
+||-
+|-
+|2016
+|The 3rd South Asian Tchoukball Championships
+|{{IND}}
+|{{IND}}
+||-
+|-
+|}
+
+===East Asian Tchoukball Championships===
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2016
+|The 1st East Asian Tchoukball Championships
+|{{CHN}}
+|{{ROC}}
+||-
+|-
+|2017
+|The 2nd East Asian Tchoukball Championships
+|{{KOR}}
+|
+|
+|-
+|}
+
+===European Tchoukball Championships===
+{{main|European Tchoukball Championships}}
+
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2003
+|The 1st European Tchoukball Championships
+|{{flagicon|ITA}} [[Italy]]
+|{{SUI}}
+|{{SUI}}
+|-
+|2006
+|The 2nd European Tchoukball Championships
+|{{flagicon|SUI}} [[Switzerland]]
+|{{GBR}}
+|{{SUI}}
+|-
+|2008
+|The 3rd European Tchoukball Championships
+|{{flagicon|CZE}} [[Czech Republic]]
+|{{SUI}}
+|{{SUI}}
+|-
+|2010
+|The 4th European Tchoukball Championships
+|{{flagicon|GBR}} [[United Kingdom]]
+|{{SUI}}
+|{{SUI}}
+|-
+|2014
+|The 5th European Tchoukball Championships
+|{{GER}}
+|{{AUT}}
+|{{SWI}}
+|-
+|2016
+|The 6th European Tchoukball Championships
+|{{CZE}}
+|{{AUT}}
+|{{SWI}}
+|-
+|}
+
+===European Youth Tchoukball Championships===
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=10%|Year/Dates
+!width=20%|Competition
+!width=10%|Host Nation
+!width=10%|M-18 Boys Winner
+!width=10%|M-15 Boys Winner
+!width=10%|M-12 Boys Winner
+!width=10%|M-18 Girls Winner
+!width=10%|M-15 Girls Winner
+!width=10%|M-12 Girls Winner
+|-
+|2016 
+|The 1st European Youth Tchoukball Championships
+|{{CZE}}
+|{{ITA}}
+|{{ITA}}
+|{{CZE}}
+||-
+|{{AUT}}
+||-
+|-
+|}
+
+===African Tchoukball Championships===
+{{main|African Tchoukball Championships}}
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2010
+|The 1st African Tchoukball Championships
+|{{GHA}}
+|{{TOG}}
+|{{SEN}}
+|-
+|2012
+|The 2nd African Tchoukball Championships
+|{{TOG}}
+|{{TOG}}
+|
+|-
+|2014
+|The 3rd African Tchoukball Championships
+|{{BEN}}
+|{{TOG}}
+|
+|-
+|2016
+|The 4th African Tchoukball Championships
+|{{KEN}}
+|{{CMR}}
+|
+|-
+|}
+
+===East African Tchoukball Championships===
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2014
+|The 1st East African Tchoukball Championships
+|{{UGA}}
+|{{UGA}}
+|
+|-
+|}
+
+===Pan American Tchoukball Championships===
+{{main|Pan American Tchoukball Championships}}
+{| class="wikitable sortable" style="font-size:90%; width: 100%; text-align: left;"
+|-
+!width=5%|Year
+!width=20%|Competition
+!width=15%|Host Nation
+!width=15%|Men Winners
+!width=15%|Women Winners
+|-
+|2010
+|The 1st Pan American Tchoukball Championships
+|{{BRA}}
+|{{BRA}}
+|{{BRA}}
+|-
+|2012
+|The 2nd Pan American Tchoukball Championships
+|{{URU}}
+|{{BRA}}
+|{{BRA}}
+|-
+|2014
+|The 3rd Pan American Tchoukball Championships
+|{{COL}}
+|{{BRA}}
+|{{COL}}
+|-
+|2016
+|The 4th Pan American Tchoukball Championships
+|{{MEX}}
+|{{BRA}}
+|{{URU}}
+|-
+|}
+
+==Notable injuries==
+During a community match in [[Kingston, Ontario]], Canada on February 8, 2015, tchoukball player Arthur Freitas sustained serious facial injuries.  His team would go on to win the match. This is the first and only reported tchoukball-related injury.{{citation needed|date=August 2017}}
+
+==Other==
+Tchoukball was chosen as the official sport of the [[JDC West]] competition in 2014 in [[Regina, Saskatchewan]], Canada.
+
+==Notes==
+<references/>
+
+==External links==
+
+===Associations===
+*[http://www.tchoukball.org FITB - International Tchoukball Federation - official site]
+
+{{Sports of the World Games program}}
+{{Team Sport}}
+{{Main world championships}}
+{{European Championships}}
+
+{{Authority control}}
+
+
+
+

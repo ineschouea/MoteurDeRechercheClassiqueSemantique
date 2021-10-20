@@ -1,0 +1,46 @@
+{{Taxobox
+| name = Bigmouth Goby
+| image = Redigobius bikolanus(Yaizu,Shizuoka,Japan,2007).jpg
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>Larson, H. 2012. ''[http://www.iucnredlist.org/details/19388/0 Redigobius bikolanus]''. In: IUCN 2012. IUCN Red List of Threatened Species. Version 2012.2. [http://www.iucnredlist.org www.iucnredlist.org]. Downloaded on 27 October 2012.</ref>
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Actinopterygii]]
+| ordo = [[Perciformes]]
+| familia = [[Gobiidae]]
+| genus = ''[[Redigobius]]''
+| species = '''''R. bikolanus'''''
+| binomial = ''Redigobius bikolanus''
+| binomial_authority = ([[Albert William Herre|Herre]], 1927)
+| synonyms =
+* ''Vaimosa bikolana'' <small>Herre, 1927</small>
+* ''Pseudogobius bikolanus'' <small>(Herre, 1927)</small>
+* ''Gobius flavescens'' <small>De Vis, 1884</small> (Ambiguous name)
+* ''Parvigobius immeritus'' <small>Whitley, 1930</small>
+* ''Vaimosa osgoodi'' <small>Herre, 1935</small>
+* ''Vaimosa montalbani'' <small>Herre, 1936</small>
+* ''Gobius johnstoniensis'' <small>Koumans, 1940</small>
+* ''Mahidolia pagoensis'' <small>L. P. Schultz, 1943</small>
+* ''Vaimosa novaehebudorum'' <small>Fowler, 1944</small>
+* ''Stigmatogobius minutus'' <small>Takagi, 1957</small>
+* ''Stigmatogobius versicolor'' <small>J. L. B. Smith, 1959</small>
+* ''Redigobius versicolor'' <small>(J. L. B. Smith, 1959)</small>
+}}
+
+'''''Redigobius bikolanus''''', the '''Speckled goby''', is a species of [[goby]] native to marine, fresh and [[brackish]] waters along the coasts of [[Asia]] from [[Japan]] to [[Australia]] out to the [[Pacific]] islands of [[New Caledonia]] and [[Vanuatu]] and along the coast of [[South Africa]] and the [[Seychelles]].  This species inhabits streams, creeks and [[estuaries]], often being found upstream beyond the [[tidal zone]]s of rivers.  This fish can reach a length of {{convert|4.2|cm|in}} [[fish measurement|SL]].<ref>{{FishBase |genus= Redigobius|species= bikolanus| month = June | year = 2013}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q1236175}}
+
+{{DEFAULTSORT:Bigmouth Goby}}
+
+
+
+
+
+
+
+{{Gobiidae-stub}}

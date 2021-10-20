@@ -1,0 +1,123 @@
+{{Infobox sport
+| name       = Padbol
+| image      = Logo Padbol.jpg
+| imagesize  = 150px
+| caption    = 
+| union      = FIPA
+| union UK   = 
+| nickname   = Padbol
+| first      = 2008, La Plata
+| country/region = 
+| registered = 
+| clubs      = 
+| contact    = 
+| team       = Doubles
+| mgender    = 
+| category   = Outdoor/Indoor
+| equipment  = 
+| venue      = Padbol court
+| obsolete   =
+| olympic    = 
+| paralympic = 
+}}
+
+'''Padbol''' is a fusion sport created in La Plata in 2008.<ref>http://www.padbol.com/en/padbol.php?paisregion=-1p-1p2</ref> It is currently played in [[Argentina]], [[Uruguay]], [[Mexico]], [[Spain]], [[Italy]], [[Portugal]], [[Sweden]], [[Romania]], [[Australia]], [[France]], [[Denmark]], [[Switzerland]],  [[Panama]] and [[United States]].
+
+==History==
+Padbol was created in 2008 by Gustavo Miguens in [[La Plata]], [[Argentina]].
+The first track was laid in 2011 and elsewhere in Argentina such Rojas, Punta Alta, Buenos Aires.
+Then tracks in Spain, Uruguay and Italy and more recently were added in Portugal, Sweden, Mexico, Romania and England. Australia, Bolivia and France are newest countries.
+
+In 2013 was the first Padbol World Cup in La Plata. The champions were the Spanish pair, Ocaña and Palacios.
+
+In 2014 was the second edition in [[Alicante]], [[Spain]]. The champions were the Spanish pair  Ramón and Hernández.
+
+The third edition took place at [[Punta del Este]], [[Uruguay]] , in 2016
+
+== Rules ==
+
+=== Track ===
+The playing area is a rectangle 10 meters long and 6 meters wide (inside measurements). It is divided transversely by a network that is suspended by a wire of a maximum diameter of 1&nbsp;cm, whose ends are subject to two support posts, and their inner faces coincide with the lateral boundaries of the court.
+in each funds of the playing area there is a pediment and two side walls attached to it. The gable and the sidewalls should be at least 2.50 meters and be equal to each other.
+The net height is between 90 and 100 centimeters in the center and 100&nbsp;cm maximum at the ends.
+Must be at least one access to the track with a minimum width of 0.60 meters and a height of 2 meters per side. It may or may not have a door.
+
+=== Areas ===
+[[File:Areas de juego Padbol.JPG|thumb|Areas on the track]]
+There are three zones : Service Zone, Reception zone and Red Zone.
+
+Service zone : This is where the server must meet to perform their serves and is bounded by the line is 3.25 meters in the network, the sidewalls and the bottom wall.
+
+Reception area : Is located between the network, the central service line, the line that goes from side to side of the track (width) and side glass and/or close the perimeter wall. The lines marked on the floor are included in the valid Box for long.
+
+Red zone : The area that forms a meter for each side's net, delineated by a line between cut and breadth of the entire court.  It must be red.
+
+=== Ball ===
+The ball shall have a uniform outer surface and shall be white or yellow.
+Its perimeter is 670&nbsp;mm, and it should be of polyurethane; its weight can range from 380 grams to 400 grams.
+
+== Summary ==
+
+* '''Players:''' 4. Played in a doubles format.
+* '''Serves:''' Serve must be underhand. A second serve is allowed in the event a fault, as in tennis.
+* '''Score:''' Scoring method is the same as in tennis. Matches are best of three sets.
+* '''Ball:''' Soccer ball but smaller
+* '''Court:''' There are two styles of courts: indoor and outdoor
+* '''Walls:''' Walls or fences are part of the game.
+
+== Tournaments ==
+
+=== Padbol World Cup ===
+[[File:Partido de Padbol.jpg|thumb|Match in World Cup 2014 - Argentina vs Spain]]
+In March 2013 it developed the first World Cup in La Plata, Argentina. Participated sixteen couples of Argentina, Uruguay, Italy and Spain.
+In the Final, Ocaña/Palacios  won 6-1/6-1 against Saiz/Rodriguez.
+
+The second Padbol World Cup was held in November 2014 in Alicante, Spain .
+Participated 15 couples from seven countries (Argentina, Uruguay, Mexico, Spain, Italy, Portugal and Sweden).
+Ramón/Hernández won the final 6-4/7-5 against Ocaña/Palacios.
+
+The third edition will be held in Punta del Este, Uruguay, in 2016.
+
+== World Rankings ==
+
+=== Current ranking ===
+<ref>http://www.padbol.com/en/torneos-ranking.php?paisregion=-1p-1p2&paisregionFilter=-1p-1p2</ref>
+{| class="wikitable" style="font-size: 90%; float: left; margin-left: 1em;"
+|-
+| colspan="4" style="text-align:center;"|'''Best players in 2015'''
+|-
+!Position!!Couples!!Points
+|-
+! 1
+| {{flag|ARG}} Maidana/Narbaitz || style="text-align:right;"|1290
+|-
+! 2
+| {{flag|ESP}} Ocaña/Palacios || style="text-align:right;"|1130
+|-
+! 3
+| {{flag|ESP}} Almeida/Belza || style="text-align:right;"|1100
+|-
+! 3
+| {{flag|ESP}} Ramón/Hernández || style="text-align:right;"|1100
+|-
+! 5
+| {{flag|ARG}} Labayen || style="text-align:right;"|765
+|-
+|colspan=4|<center><small>[http://www.padbol.com/en/torneos-ranking.php?paisregion=-1p-1p2&paisregionFilter=-1p-1p2 Full list at padbol.com]</small></center>
+|}
+
+== See also ==
+* [[Football tennis]]
+*[[Padel (sport)|Padel]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{Commonscat|Padbol}}
+* [http://www.padbol.com Padbol Official Page]
+* [http://padbol.ro Padbol Romania]
+
+
+
+

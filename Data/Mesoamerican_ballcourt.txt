@@ -1,0 +1,452 @@
+{{Redirect|Ballcourt|courts on which other ball games are played|Court (disambiguation)#Architecture}} [[Image:Western Mexican tomb culture tableau (Tom Aleto).jpg|thumb|250px|right|Ceramic sculpture from a Western Mexican tomb showing players engaged in the Mesoamerican ballgame.]]A '''Mesoamerican ballcourt''' is a large [[masonry]] structure of a type used in [[Mesoamerica]] for over 2,700 years to play the [[Mesoamerican ballgame]], particularly the hip-ball version of the ballgame.<ref>Cohodas states that the masonry courts were used "exclusively" for the hip-ball game.</ref>  More than 1,300 ballcourts have been identified, 60% in the last 20 years alone.{{when|date=July 2016}}<ref>Taladoire, p. 98. Note that there are slightly over 200 ballcourts also identified in the [[American Southwest]] which are ''not'' included in this total, since these are outside Mesoamerica and there is significant discussion whether these areas were used for ballplaying or not.</ref>  Although there is a tremendous variation in size, in general all ballcourts are the same shape: a long narrow alley flanked by two walls with horizontal, vertical, and sloping faces. Although the alleys in early ballcourts were open-ended, later ballcourts had enclosed end-zones, giving the structure an [[Image:I, heavily serifed.png|10px]]-shape when viewed from above.
+
+Ballcourts were also used for functions other than, or in addition to, ballgames. Ceramics from western Mexico show ballcourts being used for other sporting endeavours, including what appears to be a wrestling match.<ref>Day, p. 69.</ref>   It is also known from archaeological excavations that ballcourts were the sites of sumptuous feasts, although whether these were conducted in the context of the ballgame or as another event entirely is not as yet known.<ref>Zender, p. 10, who cites John Gerard Fox (1996) "Playing with Power" in ''Current Anthropology''.</ref>   The siting of the most prominent ballcourts within the sacred precincts of cities and towns, as well as the [[votive deposit]]s found buried there, demonstrates that the ballcourt were places of spectacle and ritual.
+
+==Distribution==
+[[Image:Monte Albán-12-05oaxaca024.jpg|thumb|Ballgame court at Monte Albán]]
+[[Image:Xochicalco ballcourt 2.jpg|350px|right|thumb|One of the ballcourts at [[Xochicalco]]. Note the characteristic [[Image:I, heavily serifed.png|8px]]-shape, as well as the rings set above the apron at center court. The setting sun of the equinox shines through the ring.<ref>Uriarte, p. 23.</ref>]]
+Although ballcourts are found within most Mesoamerican sites, they are not equally distributed across time or geography. For example, the [[Mesoamerican chronology|Late Classic]] site of [[El Tajin]], the largest city of the ballgame-obsessed [[Classic Veracruz culture]], has at least 18 ballcourts while [[Cantona (Mesoamerican site)|Cantona]], a nearby contemporaneous site, sets the record with 24. In contrast, Northern [[Chiapas]]<ref>Taladoire and Colsenet.</ref> and the northern Maya Lowlands<ref>Kurjack, Maldonado C., Robertson.</ref> have relatively few, and ballcourts are conspicuously absent at some major sites, including [[Teotihuacan]], [[Bonampak]], and [[Tortuguero (Maya site)|Tortuguero]].<ref>Taladoire, p. 99.</ref>
+
+It is thought that ballcourts are an indication of decentralization of political and economic power: areas with a strong centralized state, such as the [[Aztec]] Empire, have relatively few ballcourts while areas with smaller competing polities have many.<ref>Santley et al., p. 14.</ref>  At Cantona, for example, the extraordinary number of ballcourts is likely due to the many and diverse cultures residing there under a relatively weak [[Sovereign state|state]].<ref>Day, p. 76, and Taladoire, p. 114.</ref>
+
+==Size and shape==
+Ballcourts vary considerably in size. One of the smallest, at [[Tikal]] site, is only one-sixth the size of the Great Ballcourt at Chichen Itza. Despite the variation in size, ballcourts' playing alleys are generally the same shape, with an average length-to-width ratio of 4-to-1, although some regional variation is found: Central Mexico, for example, has slightly longer playing alleys, and the Maya Northern Lowlands slightly wider.<ref>Quirarte, p.209-210.</ref>
+
+The following is a comparison of the size of the playing alleys for several well-known ballcourts.<ref>Quirarte, p. 205-208.</ref>
+
+{| class="wikitable" style="margin:auto;"
+|- 
+! Site
+! Culture
+! length (meters)
+! width (meters)
+! length-to-width ratio
+|- 
+|style="width:150px" |[[Xochicalco]]
+|style="width:100px" align="center" |Xochicalco
+|style="width:050px" align="center" |51
+| style="width:50px" align="center" |9
+| style="width:150px" align="center"|5.7
+|-
+|[[Monte Alban]]
+|align="center"|[[Zapotec civilization|Zapotec]]
+|align="center" |26
+| align="center" |5
+| align="center" |5.2
+|-
+|[[El Tajin]]
+|align="center"|[[Classic Veracruz culture|Classic Veracruz]]
+|align="center" |126
+|align="center" |25
+| align="center" |5.1
+|-
+|[[Chichen Itza]] (Grand Ballcourt)
+|align="center"|[[Maya civilization|Maya]]
+|align="center" |96
+|align="center" |30.4
+| align="center" |3.2
+|-
+|[[Tikal]] (Small ceremonial)
+|align="center"|[[Maya civilization|Maya]]
+|align="center" |16
+|align="center" |5
+| align="center" |3.2
+|-
+|[[Yaxchilan]] II
+|align="center"|[[Maya civilization|Maya]]
+|align="center" |18
+|align="center" |5
+| align="center" |3.6
+|-
+|[[Tula (Mesoamerican site)|Tula]]
+|align="center"|[[Toltec]]
+|align="center" |41
+|align="center" |10
+| align="center" |4.1
+|}
+
+=== Evolution ===
+The earliest ballcourts were doubtless temporary marked off areas of compacted soil much like those used to play the modern [[ulama (game)|ulama]] game, the Mesoamerican ballgame's descendant.
+
+[[Image:Mesoamerican Ballcourt terminology schema.svg|thumb|350px|right|Ballcourt terminology. Not all ballcourts have all these surfaces.]]
+[[Paso de la Amada]], [[Soconusco]], along the Pacific coast boasts the oldest ballcourt yet identified, dated to approximately 1400 [[Common era|BC]].<ref>See Hill, Blake, and Clark (1998); Schuster (1998).</ref>  This narrow ballcourt has an {{convert|80|x|8|m|ft|abbr=on}} flat playing alley defined by two flanking earthen mounds with "benches" running along their length.
+
+By the Early Classic, ballcourt designs began to feature an additional pair of mounds set some distance beyond the ends of the alley as if to keep errant balls from rolling too far away. By the Terminal Classic, the end zones of many ballcourts were enclosed, creating the well-known [[Image:I, heavily serifed.png|10px]]-shape.
+
+The evolution of the ballcourt is, of course, more complex than the foregoing suggests, and with over 1300 known ballcourts, there are exceptions to any generalization.  
+*Open ballcourts (i.e. without endzones) continued to be constructed into the [[Mesoamerican chronology|Terminal Classic]] and at smaller sites.
+*Some ballcourts featured only one enclosed endzone (the so-called T-shape) while some ballcourts' endzones are of different depths.<ref>[[Chinkultic]]'s northern endzone is 3 times as deep as the southern endzone, perhaps due to the stairs gracing the northern end. Taldoire and Colsenet, p. 169.</ref>
+*During the Formative period, some enclosed ballcourts were entirely rectangular, without endzones.<ref>Quirarte. Taladoire refers to this type as a ''palangana''-style ballcourts, after the Spanish word for basin (p. 106).</ref>  One such court, at [[La Lagunita]] in the Guatemala Highlands, features rounded side walls.
+
+[[Image:Mesoamerican Ballcourt cross-sections 3.svg|thumb|right|350px|Cross sections of some of the more typical ballcourts. Jacinto Quirarte has classified Copan, Uxmal, and Xochicalco at Type I, Monte Alban as Type II, Chichen Itza as Type III, and [[Toluquilla]] as Type IV.]]
+
+=== Walls and surfaces ===
+Unlike the compacted earth of the playing alley, the side walls of the formal ballcourts were lined with stone blocks. These walls featured 3 or more horizontal and sloping surfaces. Vertical surfaces are less common, but they begin to replace the sloping apron during the [[Mesoamerican chronology|Classic era]], and are a feature of several of the largest and best-known ballcourts, including the Great Ballcourt at [[Chichen Itza]] and the North and South Ballcourts at [[El Tajin]]. There the vertical surfaces were covered with elaborate reliefs showing scenes, particularly sacrificial scenes, related to the ballgame.
+
+===Orientation===
+Most prominent ballcourts were part of their town or city's central monumental precinct and as such they share the orientation of pyramids and other structures there. Since many Mesoamerican cities and towns were oriented to a few degrees east of north (roughly 15° east of north),<ref>Aveni and Gibbs. Other researchers give other estimates or averages, but there is a remarkable consistency across time and space to this general orientation.</ref> it is not surprising to find that in the [[Valley of Oaxaca]], for example, ballcourt orientations also tend to be a few degrees east of north, or at right angles to that.<ref>Kowalewski et al., p. 38.</ref>
+
+Other than this general trend, no consistent orientation of ballcourts throughout Mesoamerica has been found,<ref>Taladoire.</ref> although some patterns do emerge at the regional level. In the [[Cotzumalhuapa]] region, for example, open-ended ballcourts with a north-south orientation were earlier than east-west enclosed courts.<ref>Parsons, p. 200.</ref>
+
+[[Image:LubaantunBallmarkerPeabodyB.jpg|left|250px|thumb|Court marker from the Mayan site of [[Lubaantun]] showing two players volleying. Note the rounded bottom that anchors the marker into the court.]]
+
+==Rings, markers, and other features==
+Stone rings, [[Mortise and tenon|tenon]]ed into the wall at mid-court, appeared in the [[Mesoamerican chronology|Terminal Classic era]]. Actually sending a ball through the ring must have been a rare occurrence. The players could not use their hands or even feet to guide the ball. Moreover, the rings were only slightly larger than the ball itself and were located at no small distance from the playing alley. At Chichen Itza, for example, they were set 6 meters above the alley, while at [[Xochicalco]] they set at the top of an 11-meter-wide apron, 3 meters above the playing alley (see lead photo).<ref>Quirarte.</ref>
+
+As shown on [[Aztec codices]], court markers were also used on many ballcourts to establish the dividing line between teams – one set into the playing alley floor at exact mid-court, the other two placed against each side wall. However, such placement is not universal. Two ancient ceramic ballcourt models recovered from western Mexico show the three markers placed ''length-wise'' along the court: one (again) at exact mid-court with the remaining pair set midway between the walls at either end of the playing alley.<ref>Kelley, p. 97. An example of a Western Mexico ceramic court (without court markers, alas) can be seen [[:Image:Western Mexican tomb culture tableau (Tom Aleto).jpg|here]].</ref>  The ballcourt markers at [[Copan]] are also arranged in this manner. The ballcourt at Monte Alban, meanwhile, has only one court marker, placed at the exact center of the court.
+
+These sunken court markers are almost invariably round and usually decorated with ballgame-related scenes or iconography. Other markers were set into ballcourt walls.<ref>Whittington, p. 168-169, shows a fine example of a parrot head from Xochicalco.</ref>  Many researchers have also proposed that above-ground, moveable objects, for example stone ''[[hachas]]'', were also used as court markers.<ref>[http://www.umaine.edu/hudsonmuseum/Online%20Exhibits/Worldviews/WorldViewPalacei.htm The Hudson Museum, University of Maine website] {{webarchive|url=https://web.archive.org/web/20071201174828/http://www.umaine.edu/hudsonmuseum/Online%20Exhibits/Worldviews/WorldViewPalacei.htm |date=2007-12-01 }} and the [https://www.britishmuseum.org/explore/highlights/highlight_objects/aoa/s/stone_hacha.aspx British Museum website], among other sources.</ref>
+
+Various sculptures, [[stela]]e, and other stonework were also important components of the ballcourt. At the ballcourt at [[Tonina]], for example, 6 sculptures of prone captives overhang the apron, a pair at mid-court and a pair at each of the ends of the cornice. Unfortunately, rings, markers and sculptures are more portable and more prone to removal or destruction than the permanent ballcourt infrastructure, and at some ballcourts these features have been lost forever.  
+
+
+==Maya stairs==
+Many – or even most – Maya depictions of ballgame play are shown against a backdrop of stairs.<ref>Schele and Miller (p. 247) say that "most" Maya depictions of ballgame action include stairs.</ref>  Conversely, Maya staircases will occasionally feature reliefs of ballgame scenes or ballgame-related glyphs on their [[Stairway#Step|risers]]. The most famous of these are the Hieroglyphic Stairs at Structure 33 in [[Yaxchilan]], where 11 of the 13 risers feature ballgame-related scenes. In these scenes, it appears as if the players were actually playing the ball ''against'' the stairs in what would seem to be a Maya version of [[stoop ball]].
+
+The association of stairs and the ballgame is not well understood.  [[Linda Schele]] and [[Mary Miller (art historian)|Mary Miller]] propose that the depictions record historic events and in particular record a "form of play ... distinct from the game conducted on the courts", one that "probably followed immediately after[ward] on steps adjacent to the ballcourts".<ref>Schele and Miller, p. 247.</ref>  Other researchers are skeptical. Marvin Cohodas, for example, proposes that the "stairs" are instead stepped platforms associated with human sacrifice,<ref>This is only a brief summary of Cohodas' viewpoint – for a full version, see p. 264.</ref> while Carolyn Tate views the Yaxchilan stair scenes as "the Underworld segment of a [[cosmogram]]".<ref>Tate, p. 97.</ref>
+
+==Notes==
+{{reflist|2}}
+
+==Image gallery==
+<gallery>
+Image:Coba Ballcourt-27527.jpg|One of two Mesoamerican ballgame courts at Cobá
+Image:Tehuacalco07.JPG|The Tehuacalco Mesoamerican ball court
+Image:YagulBallCourt.jpg|Yagul Ball Court
+Image:Poctatok goal.jpg|poc-ta-tok field, Mexico
+</gallery>
+
+==References==
+
+[[Image:Chichén Itzá Goal.jpg|right|thumb|350px|A ring at Chichen Itza. This ring was set some {{convert|6|m|ft|abbr=off|sp=us}} above the playing alley, making it extremely difficult to pass the heavy ball through the hole.]]
+{{refbegin|indent=yes}}<!--BEGIN biblio format. If indent param. is used, Pls use a colon (:) instead of asterisk (*) for bullet markers in the references list --> 
+: {{cite journal| author = Aveni, Anthony F.   |authorlink=Anthony Aveni|author2=Sharon L. Gibbs|year=1976 |title=On the Orientation of Precolumbian Buildings in Central Mexico|journal=[[American Antiquity]]|location=Menasha, WI |publisher=[[Society for American Archaeology]] |volume=41|issue=4 |pages=510–517 |doi=10.2307/279020 |issn=0002-7316 |oclc=1479302| jstor = 279020}}
+: {{cite book |author=Cohodas, Marvin  |year=1991|chapter=Ballgame imagery of the Maya Lowlands: History and Iconography|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]] |pages=251–288|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite book |author=Day, Jane Stevenson   |year=2001 |chapter=Performing on the Court|title=The Sport of Life and Death: The Mesoamerican Ballgame |editor=E. Michael Whittington (ed.) |edition=Published in conjunction with an exhibition of the same name organized by the [[Mint Museum of Art]], Charlotte, NC|publisher=[[Thames & Hudson]] |location=New York |pages=65–77 |isbn=0-500-05108-9|oclc=49029226}}
+: {{cite book |author=Fox, John W.  |year=1991|chapter=The Lords of Light versus the Lords of Dark: The Postclassic Highland Maya Ballgame|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=213–238|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite book |author=Gillespie, Susan D.   |authorlink=Susan D. Gillespie|year=1991|chapter=Ballgames and Boundaries|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=317–345|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite journal |author=Hill, Warren D. |author2=Michael Blake |author3=[[John E. Clark]] |year=1998 |title=Ball court design dates back 3,400 years |journal=[[Nature (journal)|Nature]] |location=London and New York |publisher=[[Nature Publishing Group]]|volume=392 |issue=6679 |pages=878–879 |doi=10.1038/31837 |issn=0028-0836 |oclc=204441622}}
+: {{cite book |author=Kelley, J. Charles  |year=1991|chapter=The Known Archaeological Ballcourts of Durango and Zacatecas, Mexico|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=87–100|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite book |author=Kowalewski, Stephen A.; Gary M. Feinman; Laura Finsten; [[Richard E. Blanton]]  |year=1991|chapter=Pre-Hispanic Ballcourts from the Valley of Oaxaca, Mexico|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=25–44|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite book |author=Kurjack, Edward B.; Ruben Maldonado C.; [[Merle Greene Robertson]]  |year=1991|chapter=Ballcourts of the Northern Maya Lowlands|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=145–159|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite book |author=Parsons, Lee A.  |year=1991|chapter=The Ballgame in the Southern Pacific Coast Cotzumalhuapa Region and Its Impact on Kaminaljuyu During the Middle Classic|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=195–212|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite book |author=Quirarte, Jacinto   |year=1975 |chapter=The Ballcourt in Mesoamerica: Its Architectural Development |title=Pre-Columbian Art History: Selected Readings |editor=[[Alana Cordy-Collins]] and Jean Stern (eds.) |publisher=Peek Publications |location=Palo Alto, CA |pages=63–69 |isbn=0-917962-41-9 |oclc=3843930}}
+: {{cite book |author=Santley, Robert M.   |author2=Michael J. Berman |author3=Rami T. Alexander |year=1991|chapter=The Politicization of the Mesoamerican Ballgame and Its Implications for the Interpretation of the Distribution of Ballcourts in Central Mexico|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=3–24|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite journal |author=Schuster, Angela M.H.   | date=July–August 1998 |title=Newsbriefs: Mesoamerica's Oldest Ballcourt |url=http://www.archaeology.org/9807/newsbriefs/ballcourt.html |journal=[[Archaeology (magazine)|Archaeology]] |location=New York |publisher=[[Archaeological Institute of America]] |volume=41 |issue=4 |pages=22|issn=0003-8113 |oclc=89268419|accessdate=2007-06-08}}
+: {{cite book |author=Taladoire, Eric   |year=2001 |chapter=The Architectural Background of the Pre-Hispanic Ballgame |title=The Sport of Life and Death: The Mesoamerican Ballgame |editor=E. Michael Whittington (ed.) |edition=Published in conjunction with an exhibition of the same name organized by the [[Mint Museum of Art]], Charlotte, NC|publisher=[[Thames & Hudson]] |location=New York |pages=97–115 |isbn=0-500-05108-9|oclc=49029226}}
+: {{cite book |author=Taladoire, Eric   |author2=Benoit Colsenet|year=1991|chapter='Bois Ton Sang, Beaumanoir': The Political and Conflictual Aspects of the Ballgame in the Northern Chiapas Area|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=167–174|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite book |author=Tate, Carolyn E.  |authorlink=Carolyn Tate|year=1991|title=Yaxchilan: The Design of a Maya Ceremonial City|location=Austin|publisher=[[University of Texas Press]]|isbn=0-292-77041-3 |oclc=23464300}}
+: {{cite journal |author=Uriarte, Maria Teresa   | date=January 2006 |title=The Teotihuacan Ballgame and the Beginning of Time|journal=[[Ancient Mesoamerica]] |location=Cambridge|publisher=[[Cambridge University Press]] |volume=17 |issue=1 |pages=17–38 |doi=10.1017/S0956536106060032 |issn=0956-5361 |oclc=88827568}}
+: {{cite book |author=Whittington, E. Michael (ed.)   |year=2001 |title=The Sport of Life and Death: The Mesoamerican Ballgame |edition=Published in conjunction with an exhibition of the same name organized by the [[Mint Museum of Art]], Charlotte, NC |publisher=[[Thames & Hudson]] |location=New York |isbn=0-500-05108-9 |oclc=49029226}}
+: {{cite book |author=Wilkerson, S. Jeffrey K.  |year=1991|chapter=And Then They Were Sacrificed: The Ritual Ballgame of Northeastern Mesoamerica Through Time and Space|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=45–71|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite journal|author=Zender, Mark |date=Spring 2004 |title=Glyphs for "Handspan" and "Strike" in Classic Maya Ballgame Texts |url=http://www.mesoweb.com/pari/publications/journal/404/Handspan.pdf |format=[[PDF]] online reproduction |journal=[[The PARI Journal]] |location=San Francisco, CA |publisher=[[Pre-Columbian Art Research Institute]] |volume=4 |issue=4 |issn=1531-5398 |oclc=44780248 |deadurl=yes |archiveurl=https://web.archive.org/web/20080910095804/http://www.mesoweb.com/pari/publications/journal/404/Handspan.pdf |archivedate=2008-09-10 |df= }}
+ 
+{{refend}}<!-- END biblio format style -->
+
+{{DEFAULTSORT:Mesoamerican Ballcourt}}
+
+
+
+
+
+{{Redirect|Ballcourt|courts on which other ball games are played|Court (disambiguation)#Architecture}} [[Image:Western Mexican tomb culture tableau (Tom Aleto).jpg|thumb|250px|right|Ceramic sculpture from a Western Mexican tomb showing players engaged in the Mesoamerican ballgame.]]A '''Mesoamerican ballcourt''' is a large [[masonry]] structure of a type used in [[Mesoamerica]] for over 2,700 years to play the [[Mesoamerican ballgame]], particularly the hip-ball version of the ballgame.<ref>Cohodas states that the masonry courts were used "exclusively" for the hip-ball game.</ref>  More than 1,300 ballcourts have been identified, 60% in the last 20 years alone.{{when|date=July 2016}}<ref>Taladoire, p. 98. Note that there are slightly over 200 ballcourts also identified in the [[American Southwest]] which are ''not'' included in this total, since these are outside Mesoamerica and there is significant discussion whether these areas were used for ballplaying or not.</ref>  Although there is a tremendous variation in size, in general all ballcourts are the same shape: a long narrow alley flanked by two walls with horizontal, vertical, and sloping faces. Although the alleys in early ballcourts were open-ended, later ballcourts had enclosed end-zones, giving the structure an [[Image:I, heavily serifed.png|10px]]-shape when viewed from above.
+
+Ballcourts were also used for functions other than, or in addition to, ballgames. Ceramics from western Mexico show ballcourts being used for other sporting endeavours, including what appears to be a wrestling match.<ref>Day, p. 69.</ref>   It is also known from archaeological excavations that ballcourts were the sites of sumptuous feasts, although whether these were conducted in the context of the ballgame or as another event entirely is not as yet known.<ref>Zender, p. 10, who cites John Gerard Fox (1996) "Playing with Power" in ''Current Anthropology''.</ref>   The siting of the most prominent ballcourts within the sacred precincts of cities and towns, as well as the [[votive deposit]]s found buried there, demonstrates that the ballcourt were places of spectacle and ritual.
+
+==Distribution==
+[[Image:Monte Albán-12-05oaxaca024.jpg|thumb|Ballgame court at Monte Albán]]
+[[Image:Xochicalco ballcourt 2.jpg|350px|right|thumb|One of the ballcourts at [[Xochicalco]]. Note the characteristic [[Image:I, heavily serifed.png|8px]]-shape, as well as the rings set above the apron at center court. The setting sun of the equinox shines through the ring.<ref>Uriarte, p. 23.</ref>]]
+Although ballcourts are found within most Mesoamerican sites, they are not equally distributed across time or geography. For example, the [[Mesoamerican chronology|Late Classic]] site of [[El Tajin]], the largest city of the ballgame-obsessed [[Classic Veracruz culture]], has at least 18 ballcourts while [[Cantona (Mesoamerican site)|Cantona]], a nearby contemporaneous site, sets the record with 24. In contrast, Northern [[Chiapas]]<ref>Taladoire and Colsenet.</ref> and the northern Maya Lowlands<ref>Kurjack, Maldonado C., Robertson.</ref> have relatively few, and ballcourts are conspicuously absent at some major sites, including [[Teotihuacan]], [[Bonampak]], and [[Tortuguero (Maya site)|Tortuguero]].<ref>Taladoire, p. 99.</ref>
+
+It is thought that ballcourts are an indication of decentralization of political and economic power: areas with a strong centralized state, such as the [[Aztec]] Empire, have relatively few ballcourts while areas with smaller competing polities have many.<ref>Santley et al., p. 14.</ref>  At Cantona, for example, the extraordinary number of ballcourts is likely due to the many and diverse cultures residing there under a relatively weak [[Sovereign state|state]].<ref>Day, p. 76, and Taladoire, p. 114.</ref>
+
+==Size and shape==
+Ballcourts vary considerably in size. One of the smallest, at [[Tikal]] site, is only one-sixth the size of the Great Ballcourt at Chichen Itza. Despite the variation in size, ballcourts' playing alleys are generally the same shape, with an average length-to-width ratio of 4-to-1, although some regional variation is found: Central Mexico, for example, has slightly longer playing alleys, and the Maya Northern Lowlands slightly wider.<ref>Quirarte, p.209-210.</ref>
+
+The following is a comparison of the size of the playing alleys for several well-known ballcourts.<ref>Quirarte, p. 205-208.</ref>
+
+{| class="wikitable" style="margin:auto;"
+|- 
+! Site
+! Culture
+! length (meters)
+! width (meters)
+! length-to-width ratio
+|- 
+|style="width:150px" |[[Xochicalco]]
+|style="width:100px" align="center" |Xochicalco
+|style="width:050px" align="center" |51
+| style="width:50px" align="center" |9
+| style="width:150px" align="center"|5.7
+|-
+|[[Monte Alban]]
+|align="center"|[[Zapotec civilization|Zapotec]]
+|align="center" |26
+| align="center" |5
+| align="center" |5.2
+|-
+|[[El Tajin]]
+|align="center"|[[Classic Veracruz culture|Classic Veracruz]]
+|align="center" |126
+|align="center" |25
+| align="center" |5.1
+|-
+|[[Chichen Itza]] (Grand Ballcourt)
+|align="center"|[[Maya civilization|Maya]]
+|align="center" |96
+|align="center" |30.4
+| align="center" |3.2
+|-
+|[[Tikal]] (Small ceremonial)
+|align="center"|[[Maya civilization|Maya]]
+|align="center" |16
+|align="center" |5
+| align="center" |3.2
+|-
+|[[Yaxchilan]] II
+|align="center"|[[Maya civilization|Maya]]
+|align="center" |18
+|align="center" |5
+| align="center" |3.6
+|-
+|[[Tula (Mesoamerican site)|Tula]]
+|align="center"|[[Toltec]]
+|align="center" |41
+|align="center" |10
+| align="center" |4.1
+|}
+
+=== Evolution ===
+The earliest ballcourts were doubtless temporary marked off areas of compacted soil much like those used to play the modern [[ulama (game)|ulama]] game, the Mesoamerican ballgame's descendant.
+
+[[Image:Mesoamerican Ballcourt terminology schema.svg|thumb|350px|right|Ballcourt terminology. Not all ballcourts have all these surfaces.]]
+[[Paso de la Amada]], [[Soconusco]], along the Pacific coast boasts the oldest ballcourt yet identified, dated to approximately 1400 [[Common era|BC]].<ref>See Hill, Blake, and Clark (1998); Schuster (1998).</ref>  This narrow ballcourt has an {{convert|80|x|8|m|ft|abbr=on}} flat playing alley defined by two flanking earthen mounds with "benches" running along their length.
+
+By the Early Classic, ballcourt designs began to feature an additional pair of mounds set some distance beyond the ends of the alley as if to keep errant balls from rolling too far away. By the Terminal Classic, the end zones of many ballcourts were enclosed, creating the well-known [[Image:I, heavily serifed.png|10px]]-shape.
+
+The evolution of the ballcourt is, of course, more complex than the foregoing suggests, and with over 1300 known ballcourts, there are exceptions to any generalization.  
+*Open ballcourts (i.e. without endzones) continued to be constructed into the [[Mesoamerican chronology|Terminal Classic]] and at smaller sites.
+*Some ballcourts featured only one enclosed endzone (the so-called T-shape) while some ballcourts' endzones are of different depths.<ref>[[Chinkultic]]'s northern endzone is 3 times as deep as the southern endzone, perhaps due to the stairs gracing the northern end. Taldoire and Colsenet, p. 169.</ref>
+*During the Formative period, some enclosed ballcourts were entirely rectangular, without endzones.<ref>Quirarte. Taladoire refers to this type as a ''palangana''-style ballcourts, after the Spanish word for basin (p. 106).</ref>  One such court, at [[La Lagunita]] in the Guatemala Highlands, features rounded side walls.
+
+[[Image:Mesoamerican Ballcourt cross-sections 3.svg|thumb|right|350px|Cross sections of some of the more typical ballcourts. Jacinto Quirarte has classified Copan, Uxmal, and Xochicalco at Type I, Monte Alban as Type II, Chichen Itza as Type III, and [[Toluquilla]] as Type IV.]]
+
+=== Walls and surfaces ===
+Unlike the compacted earth of the playing alley, the side walls of the formal ballcourts were lined with stone blocks. These walls featured 3 or more horizontal and sloping surfaces. Vertical surfaces are less common, but they begin to replace the sloping apron during the [[Mesoamerican chronology|Classic era]], and are a feature of several of the largest and best-known ballcourts, including the Great Ballcourt at [[Chichen Itza]] and the North and South Ballcourts at [[El Tajin]]. There the vertical surfaces were covered with elaborate reliefs showing scenes, particularly sacrificial scenes, related to the ballgame.
+
+===Orientation===
+Most prominent ballcourts were part of their town or city's central monumental precinct and as such they share the orientation of pyramids and other structures there. Since many Mesoamerican cities and towns were oriented to a few degrees east of north (roughly 15° east of north),<ref>Aveni and Gibbs. Other researchers give other estimates or averages, but there is a remarkable consistency across time and space to this general orientation.</ref> it is not surprising to find that in the [[Valley of Oaxaca]], for example, ballcourt orientations also tend to be a few degrees east of north, or at right angles to that.<ref>Kowalewski et al., p. 38.</ref>
+
+Other than this general trend, no consistent orientation of ballcourts throughout Mesoamerica has been found,<ref>Taladoire.</ref> although some patterns do emerge at the regional level. In the [[Cotzumalhuapa]] region, for example, open-ended ballcourts with a north-south orientation were earlier than east-west enclosed courts.<ref>Parsons, p. 200.</ref>
+
+[[Image:LubaantunBallmarkerPeabodyB.jpg|left|250px|thumb|Court marker from the Mayan site of [[Lubaantun]] showing two players volleying. Note the rounded bottom that anchors the marker into the court.]]
+
+==Rings, markers, and other features==
+Stone rings, [[Mortise and tenon|tenon]]ed into the wall at mid-court, appeared in the [[Mesoamerican chronology|Terminal Classic era]]. Actually sending a ball through the ring must have been a rare occurrence. The players could not use their hands or even feet to guide the ball. Moreover, the rings were only slightly larger than the ball itself and were located at no small distance from the playing alley. At Chichen Itza, for example, they were set 6 meters above the alley, while at [[Xochicalco]] they set at the top of an 11-meter-wide apron, 3 meters above the playing alley (see lead photo).<ref>Quirarte.</ref>
+
+As shown on [[Aztec codices]], court markers were also used on many ballcourts to establish the dividing line between teams – one set into the playing alley floor at exact mid-court, the other two placed against each side wall. However, such placement is not universal. Two ancient ceramic ballcourt models recovered from western Mexico show the three markers placed ''length-wise'' along the court: one (again) at exact mid-court with the remaining pair set midway between the walls at either end of the playing alley.<ref>Kelley, p. 97. An example of a Western Mexico ceramic court (without court markers, alas) can be seen [[:Image:Western Mexican tomb culture tableau (Tom Aleto).jpg|here]].</ref>  The ballcourt markers at [[Copan]] are also arranged in this manner. The ballcourt at Monte Alban, meanwhile, has only one court marker, placed at the exact center of the court.
+
+These sunken court markers are almost invariably round and usually decorated with ballgame-related scenes or iconography. Other markers were set into ballcourt walls.<ref>Whittington, p. 168-169, shows a fine example of a parrot head from Xochicalco.</ref>  Many researchers have also proposed that above-ground, moveable objects, for example stone ''[[hachas]]'', were also used as court markers.<ref>[http://www.umaine.edu/hudsonmuseum/Online%20Exhibits/Worldviews/WorldViewPalacei.htm The Hudson Museum, University of Maine website] {{webarchive|url=https://web.archive.org/web/20071201174828/http://www.umaine.edu/hudsonmuseum/Online%20Exhibits/Worldviews/WorldViewPalacei.htm |date=2007-12-01 }} and the [https://www.britishmuseum.org/explore/highlights/highlight_objects/aoa/s/stone_hacha.aspx British Museum website], among other sources.</ref>
+
+Various sculptures, [[stela]]e, and other stonework were also important components of the ballcourt. At the ballcourt at [[Tonina]], for example, 6 sculptures of prone captives overhang the apron, a pair at mid-court and a pair at each of the ends of the cornice. Unfortunately, rings, markers and sculptures are more portable and more prone to removal or destruction than the permanent ballcourt infrastructure, and at some ballcourts these features have been lost forever.  
+
+
+==Maya stairs==
+Many – or even most – Maya depictions of ballgame play are shown against a backdrop of stairs.<ref>Schele and Miller (p. 247) say that "most" Maya depictions of ballgame action include stairs.</ref>  Conversely, Maya staircases will occasionally feature reliefs of ballgame scenes or ballgame-related glyphs on their [[Stairway#Step|risers]]. The most famous of these are the Hieroglyphic Stairs at Structure 33 in [[Yaxchilan]], where 11 of the 13 risers feature ballgame-related scenes. In these scenes, it appears as if the players were actually playing the ball ''against'' the stairs in what would seem to be a Maya version of [[stoop ball]].
+
+The association of stairs and the ballgame is not well understood.  [[Linda Schele]] and [[Mary Miller (art historian)|Mary Miller]] propose that the depictions record historic events and in particular record a "form of play ... distinct from the game conducted on the courts", one that "probably followed immediately after[ward] on steps adjacent to the ballcourts".<ref>Schele and Miller, p. 247.</ref>  Other researchers are skeptical. Marvin Cohodas, for example, proposes that the "stairs" are instead stepped platforms associated with human sacrifice,<ref>This is only a brief summary of Cohodas' viewpoint – for a full version, see p. 264.</ref> while Carolyn Tate views the Yaxchilan stair scenes as "the Underworld segment of a [[cosmogram]]".<ref>Tate, p. 97.</ref>
+
+==Notes==
+{{reflist|2}}
+
+==Image gallery==
+<gallery>
+Image:Coba Ballcourt-27527.jpg|One of two Mesoamerican ballgame courts at Cobá
+Image:Tehuacalco07.JPG|The Tehuacalco Mesoamerican ball court
+Image:YagulBallCourt.jpg|Yagul Ball Court
+Image:Poctatok goal.jpg|poc-ta-tok field, Mexico
+</gallery>
+
+==References==
+
+[[Image:Chichén Itzá Goal.jpg|right|thumb|350px|A ring at Chichen Itza. This ring was set some {{convert|6|m|ft|abbr=off|sp=us}} above the playing alley, making it extremely difficult to pass the heavy ball through the hole.]]
+{{refbegin|indent=yes}}<!--BEGIN biblio format. If indent param. is used, Pls use a colon (:) instead of asterisk (*) for bullet markers in the references list --> 
+: {{cite journal| author = Aveni, Anthony F.   |authorlink=Anthony Aveni|author2=Sharon L. Gibbs|year=1976 |title=On the Orientation of Precolumbian Buildings in Central Mexico|journal=[[American Antiquity]]|location=Menasha, WI |publisher=[[Society for American Archaeology]] |volume=41|issue=4 |pages=510–517 |doi=10.2307/279020 |issn=0002-7316 |oclc=1479302| jstor = 279020}}
+: {{cite book |author=Cohodas, Marvin  |year=1991|chapter=Ballgame imagery of the Maya Lowlands: History and Iconography|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]] |pages=251–288|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite book |author=Day, Jane Stevenson   |year=2001 |chapter=Performing on the Court|title=The Sport of Life and Death: The Mesoamerican Ballgame |editor=E. Michael Whittington (ed.) |edition=Published in conjunction with an exhibition of the same name organized by the [[Mint Museum of Art]], Charlotte, NC|publisher=[[Thames & Hudson]] |location=New York |pages=65–77 |isbn=0-500-05108-9|oclc=49029226}}
+: {{cite book |author=Fox, John W.  |year=1991|chapter=The Lords of Light versus the Lords of Dark: The Postclassic Highland Maya Ballgame|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=213–238|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite book |author=Gillespie, Susan D.   |authorlink=Susan D. Gillespie|year=1991|chapter=Ballgames and Boundaries|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=317–345|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite journal |author=Hill, Warren D. |author2=Michael Blake |author3=[[John E. Clark]] |year=1998 |title=Ball court design dates back 3,400 years |journal=[[Nature (journal)|Nature]] |location=London and New York |publisher=[[Nature Publishing Group]]|volume=392 |issue=6679 |pages=878–879 |doi=10.1038/31837 |issn=0028-0836 |oclc=204441622}}
+: {{cite book |author=Kelley, J. Charles  |year=1991|chapter=The Known Archaeological Ballcourts of Durango and Zacatecas, Mexico|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=87–100|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite book |author=Kowalewski, Stephen A.; Gary M. Feinman; Laura Finsten; [[Richard E. Blanton]]  |year=1991|chapter=Pre-Hispanic Ballcourts from the Valley of Oaxaca, Mexico|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=25–44|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite book |author=Kurjack, Edward B.; Ruben Maldonado C.; [[Merle Greene Robertson]]  |year=1991|chapter=Ballcourts of the Northern Maya Lowlands|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=145–159|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite book |author=Parsons, Lee A.  |year=1991|chapter=The Ballgame in the Southern Pacific Coast Cotzumalhuapa Region and Its Impact on Kaminaljuyu During the Middle Classic|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=195–212|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite book |author=Quirarte, Jacinto   |year=1975 |chapter=The Ballcourt in Mesoamerica: Its Architectural Development |title=Pre-Columbian Art History: Selected Readings |editor=[[Alana Cordy-Collins]] and Jean Stern (eds.) |publisher=Peek Publications |location=Palo Alto, CA |pages=63–69 |isbn=0-917962-41-9 |oclc=3843930}}
+: {{cite book |author=Santley, Robert M.   |author2=Michael J. Berman |author3=Rami T. Alexander |year=1991|chapter=The Politicization of the Mesoamerican Ballgame and Its Implications for the Interpretation of the Distribution of Ballcourts in Central Mexico|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=3–24|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite journal |author=Schuster, Angela M.H.   | date=July–August 1998 |title=Newsbriefs: Mesoamerica's Oldest Ballcourt |url=http://www.archaeology.org/9807/newsbriefs/ballcourt.html |journal=[[Archaeology (magazine)|Archaeology]] |location=New York |publisher=[[Archaeological Institute of America]] |volume=41 |issue=4 |pages=22|issn=0003-8113 |oclc=89268419|accessdate=2007-06-08}}
+: {{cite book |author=Taladoire, Eric   |year=2001 |chapter=The Architectural Background of the Pre-Hispanic Ballgame |title=The Sport of Life and Death: The Mesoamerican Ballgame |editor=E. Michael Whittington (ed.) |edition=Published in conjunction with an exhibition of the same name organized by the [[Mint Museum of Art]], Charlotte, NC|publisher=[[Thames & Hudson]] |location=New York |pages=97–115 |isbn=0-500-05108-9|oclc=49029226}}
+: {{cite book |author=Taladoire, Eric   |author2=Benoit Colsenet|year=1991|chapter='Bois Ton Sang, Beaumanoir': The Political and Conflictual Aspects of the Ballgame in the Northern Chiapas Area|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=167–174|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite book |author=Tate, Carolyn E.  |authorlink=Carolyn Tate|year=1991|title=Yaxchilan: The Design of a Maya Ceremonial City|location=Austin|publisher=[[University of Texas Press]]|isbn=0-292-77041-3 |oclc=23464300}}
+: {{cite journal |author=Uriarte, Maria Teresa   | date=January 2006 |title=The Teotihuacan Ballgame and the Beginning of Time|journal=[[Ancient Mesoamerica]] |location=Cambridge|publisher=[[Cambridge University Press]] |volume=17 |issue=1 |pages=17–38 |doi=10.1017/S0956536106060032 |issn=0956-5361 |oclc=88827568}}
+: {{cite book |author=Whittington, E. Michael (ed.)   |year=2001 |title=The Sport of Life and Death: The Mesoamerican Ballgame |edition=Published in conjunction with an exhibition of the same name organized by the [[Mint Museum of Art]], Charlotte, NC |publisher=[[Thames & Hudson]] |location=New York |isbn=0-500-05108-9 |oclc=49029226}}
+: {{cite book |author=Wilkerson, S. Jeffrey K.  |year=1991|chapter=And Then They Were Sacrificed: The Ritual Ballgame of Northeastern Mesoamerica Through Time and Space|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=45–71|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite journal|author=Zender, Mark |date=Spring 2004 |title=Glyphs for "Handspan" and "Strike" in Classic Maya Ballgame Texts |url=http://www.mesoweb.com/pari/publications/journal/404/Handspan.pdf |format=[[PDF]] online reproduction |journal=[[The PARI Journal]] |location=San Francisco, CA |publisher=[[Pre-Columbian Art Research Institute]] |volume=4 |issue=4 |issn=1531-5398 |oclc=44780248 |deadurl=yes |archiveurl=https://web.archive.org/web/20080910095804/http://www.mesoweb.com/pari/publications/journal/404/Handspan.pdf |archivedate=2008-09-10 |df= }}
+ 
+{{refend}}<!-- END biblio format style -->
+
+{{DEFAULTSORT:Mesoamerican Ballcourt}}
+
+
+
+
+
+
+Ballcourts were also used for functions other than, or in addition to, ballgames. Ceramics from western Mexico show ballcourts being used for other sporting endeavours, including what appears to be a wrestling match.<ref>Day, p. 69.</ref>   It is also known from archaeological excavations that ballcourts were the sites of sumptuous feasts, although whether these were conducted in the context of the ballgame or as another event entirely is not as yet known.<ref>Zender, p. 10, who cites John Gerard Fox (1996) "Playing with Power" in ''Current Anthropology''.</ref>   The siting of the most prominent ballcourts within the sacred precincts of cities and towns, as well as the [[votive deposit]]s found buried there, demonstrates that the ballcourt were places of spectacle and ritual.
+
+==Distribution==
+[[Image:Monte Albán-12-05oaxaca024.jpg|thumb|Ballgame court at Monte Albán]]
+[[Image:Xochicalco ballcourt 2.jpg|350px|right|thumb|One of the ballcourts at [[Xochicalco]]. Note the characteristic [[Image:I, heavily serifed.png|8px]]-shape, as well as the rings set above the apron at center court. The setting sun of the equinox shines through the ring.<ref>Uriarte, p. 23.</ref>]]
+Although ballcourts are found within most Mesoamerican sites, they are not equally distributed across time or geography. For example, the [[Mesoamerican chronology|Late Classic]] site of [[El Tajin]], the largest city of the ballgame-obsessed [[Classic Veracruz culture]], has at least 18 ballcourts while [[Cantona (Mesoamerican site)|Cantona]], a nearby contemporaneous site, sets the record with 24. In contrast, Northern [[Chiapas]]<ref>Taladoire and Colsenet.</ref> and the northern Maya Lowlands<ref>Kurjack, Maldonado C., Robertson.</ref> have relatively few, and ballcourts are conspicuously absent at some major sites, including [[Teotihuacan]], [[Bonampak]], and [[Tortuguero (Maya site)|Tortuguero]].<ref>Taladoire, p. 99.</ref>
+
+It is thought that ballcourts are an indication of decentralization of political and economic power: areas with a strong centralized state, such as the [[Aztec]] Empire, have relatively few ballcourts while areas with smaller competing polities have many.<ref>Santley et al., p. 14.</ref>  At Cantona, for example, the extraordinary number of ballcourts is likely due to the many and diverse cultures residing there under a relatively weak [[Sovereign state|state]].<ref>Day, p. 76, and Taladoire, p. 114.</ref>
+
+==Size and shape==
+Ballcourts vary considerably in size. One of the smallest, at [[Tikal]] site, is only one-sixth the size of the Great Ballcourt at Chichen Itza. Despite the variation in size, ballcourts' playing alleys are generally the same shape, with an average length-to-width ratio of 4-to-1, although some regional variation is found: Central Mexico, for example, has slightly longer playing alleys, and the Maya Northern Lowlands slightly wider.<ref>Quirarte, p.209-210.</ref>
+
+The following is a comparison of the size of the playing alleys for several well-known ballcourts.<ref>Quirarte, p. 205-208.</ref>
+
+{| class="wikitable" style="margin:auto;"
+|- 
+! Site
+! Culture
+! length (meters)
+! width (meters)
+! length-to-width ratio
+|- 
+|style="width:150px" |[[Xochicalco]]
+|style="width:100px" align="center" |Xochicalco
+|style="width:050px" align="center" |51
+| style="width:50px" align="center" |9
+| style="width:150px" align="center"|5.7
+|-
+|[[Monte Alban]]
+|align="center"|[[Zapotec civilization|Zapotec]]
+|align="center" |26
+| align="center" |5
+| align="center" |5.2
+|-
+|[[El Tajin]]
+|align="center"|[[Classic Veracruz culture|Classic Veracruz]]
+|align="center" |126
+|align="center" |25
+| align="center" |5.1
+|-
+|[[Chichen Itza]] (Grand Ballcourt)
+|align="center"|[[Maya civilization|Maya]]
+|align="center" |96
+|align="center" |30.4
+| align="center" |3.2
+|-
+|[[Tikal]] (Small ceremonial)
+|align="center"|[[Maya civilization|Maya]]
+|align="center" |16
+|align="center" |5
+| align="center" |3.2
+|-
+|[[Yaxchilan]] II
+|align="center"|[[Maya civilization|Maya]]
+|align="center" |18
+|align="center" |5
+| align="center" |3.6
+|-
+|[[Tula (Mesoamerican site)|Tula]]
+|align="center"|[[Toltec]]
+|align="center" |41
+|align="center" |10
+| align="center" |4.1
+|}
+
+=== Evolution ===
+The earliest ballcourts were doubtless temporary marked off areas of compacted soil much like those used to play the modern [[ulama (game)|ulama]] game, the Mesoamerican ballgame's descendant.
+
+[[Image:Mesoamerican Ballcourt terminology schema.svg|thumb|350px|right|Ballcourt terminology. Not all ballcourts have all these surfaces.]]
+[[Paso de la Amada]], [[Soconusco]], along the Pacific coast boasts the oldest ballcourt yet identified, dated to approximately 1400 [[Common era|BC]].<ref>See Hill, Blake, and Clark (1998); Schuster (1998).</ref>  This narrow ballcourt has an {{convert|80|x|8|m|ft|abbr=on}} flat playing alley defined by two flanking earthen mounds with "benches" running along their length.
+
+By the Early Classic, ballcourt designs began to feature an additional pair of mounds set some distance beyond the ends of the alley as if to keep errant balls from rolling too far away. By the Terminal Classic, the end zones of many ballcourts were enclosed, creating the well-known [[Image:I, heavily serifed.png|10px]]-shape.
+
+The evolution of the ballcourt is, of course, more complex than the foregoing suggests, and with over 1300 known ballcourts, there are exceptions to any generalization.  
+*Open ballcourts (i.e. without endzones) continued to be constructed into the [[Mesoamerican chronology|Terminal Classic]] and at smaller sites.
+*Some ballcourts featured only one enclosed endzone (the so-called T-shape) while some ballcourts' endzones are of different depths.<ref>[[Chinkultic]]'s northern endzone is 3 times as deep as the southern endzone, perhaps due to the stairs gracing the northern end. Taldoire and Colsenet, p. 169.</ref>
+*During the Formative period, some enclosed ballcourts were entirely rectangular, without endzones.<ref>Quirarte. Taladoire refers to this type as a ''palangana''-style ballcourts, after the Spanish word for basin (p. 106).</ref>  One such court, at [[La Lagunita]] in the Guatemala Highlands, features rounded side walls.
+
+[[Image:Mesoamerican Ballcourt cross-sections 3.svg|thumb|right|350px|Cross sections of some of the more typical ballcourts. Jacinto Quirarte has classified Copan, Uxmal, and Xochicalco at Type I, Monte Alban as Type II, Chichen Itza as Type III, and [[Toluquilla]] as Type IV.]]
+
+=== Walls and surfaces ===
+Unlike the compacted earth of the playing alley, the side walls of the formal ballcourts were lined with stone blocks. These walls featured 3 or more horizontal and sloping surfaces. Vertical surfaces are less common, but they begin to replace the sloping apron during the [[Mesoamerican chronology|Classic era]], and are a feature of several of the largest and best-known ballcourts, including the Great Ballcourt at [[Chichen Itza]] and the North and South Ballcourts at [[El Tajin]]. There the vertical surfaces were covered with elaborate reliefs showing scenes, particularly sacrificial scenes, related to the ballgame.
+
+===Orientation===
+Most prominent ballcourts were part of their town or city's central monumental precinct and as such they share the orientation of pyramids and other structures there. Since many Mesoamerican cities and towns were oriented to a few degrees east of north (roughly 15° east of north),<ref>Aveni and Gibbs. Other researchers give other estimates or averages, but there is a remarkable consistency across time and space to this general orientation.</ref> it is not surprising to find that in the [[Valley of Oaxaca]], for example, ballcourt orientations also tend to be a few degrees east of north, or at right angles to that.<ref>Kowalewski et al., p. 38.</ref>
+
+Other than this general trend, no consistent orientation of ballcourts throughout Mesoamerica has been found,<ref>Taladoire.</ref> although some patterns do emerge at the regional level. In the [[Cotzumalhuapa]] region, for example, open-ended ballcourts with a north-south orientation were earlier than east-west enclosed courts.<ref>Parsons, p. 200.</ref>
+
+[[Image:LubaantunBallmarkerPeabodyB.jpg|left|250px|thumb|Court marker from the Mayan site of [[Lubaantun]] showing two players volleying. Note the rounded bottom that anchors the marker into the court.]]
+
+==Rings, markers, and other features==
+Stone rings, [[Mortise and tenon|tenon]]ed into the wall at mid-court, appeared in the [[Mesoamerican chronology|Terminal Classic era]]. Actually sending a ball through the ring must have been a rare occurrence. The players could not use their hands or even feet to guide the ball. Moreover, the rings were only slightly larger than the ball itself and were located at no small distance from the playing alley. At Chichen Itza, for example, they were set 6 meters above the alley, while at [[Xochicalco]] they set at the top of an 11-meter-wide apron, 3 meters above the playing alley (see lead photo).<ref>Quirarte.</ref>
+
+As shown on [[Aztec codices]], court markers were also used on many ballcourts to establish the dividing line between teams – one set into the playing alley floor at exact mid-court, the other two placed against each side wall. However, such placement is not universal. Two ancient ceramic ballcourt models recovered from western Mexico show the three markers placed ''length-wise'' along the court: one (again) at exact mid-court with the remaining pair set midway between the walls at either end of the playing alley.<ref>Kelley, p. 97. An example of a Western Mexico ceramic court (without court markers, alas) can be seen [[:Image:Western Mexican tomb culture tableau (Tom Aleto).jpg|here]].</ref>  The ballcourt markers at [[Copan]] are also arranged in this manner. The ballcourt at Monte Alban, meanwhile, has only one court marker, placed at the exact center of the court.
+
+These sunken court markers are almost invariably round and usually decorated with ballgame-related scenes or iconography. Other markers were set into ballcourt walls.<ref>Whittington, p. 168-169, shows a fine example of a parrot head from Xochicalco.</ref>  Many researchers have also proposed that above-ground, moveable objects, for example stone ''[[hachas]]'', were also used as court markers.<ref>[http://www.umaine.edu/hudsonmuseum/Online%20Exhibits/Worldviews/WorldViewPalacei.htm The Hudson Museum, University of Maine website] {{webarchive|url=https://web.archive.org/web/20071201174828/http://www.umaine.edu/hudsonmuseum/Online%20Exhibits/Worldviews/WorldViewPalacei.htm |date=2007-12-01 }} and the [https://www.britishmuseum.org/explore/highlights/highlight_objects/aoa/s/stone_hacha.aspx British Museum website], among other sources.</ref>
+
+Various sculptures, [[stela]]e, and other stonework were also important components of the ballcourt. At the ballcourt at [[Tonina]], for example, 6 sculptures of prone captives overhang the apron, a pair at mid-court and a pair at each of the ends of the cornice. Unfortunately, rings, markers and sculptures are more portable and more prone to removal or destruction than the permanent ballcourt infrastructure, and at some ballcourts these features have been lost forever.  
+
+
+==Maya stairs==
+Many – or even most – Maya depictions of ballgame play are shown against a backdrop of stairs.<ref>Schele and Miller (p. 247) say that "most" Maya depictions of ballgame action include stairs.</ref>  Conversely, Maya staircases will occasionally feature reliefs of ballgame scenes or ballgame-related glyphs on their [[Stairway#Step|risers]]. The most famous of these are the Hieroglyphic Stairs at Structure 33 in [[Yaxchilan]], where 11 of the 13 risers feature ballgame-related scenes. In these scenes, it appears as if the players were actually playing the ball ''against'' the stairs in what would seem to be a Maya version of [[stoop ball]].
+
+The association of stairs and the ballgame is not well understood.  [[Linda Schele]] and [[Mary Miller (art historian)|Mary Miller]] propose that the depictions record historic events and in particular record a "form of play ... distinct from the game conducted on the courts", one that "probably followed immediately after[ward] on steps adjacent to the ballcourts".<ref>Schele and Miller, p. 247.</ref>  Other researchers are skeptical. Marvin Cohodas, for example, proposes that the "stairs" are instead stepped platforms associated with human sacrifice,<ref>This is only a brief summary of Cohodas' viewpoint – for a full version, see p. 264.</ref> while Carolyn Tate views the Yaxchilan stair scenes as "the Underworld segment of a [[cosmogram]]".<ref>Tate, p. 97.</ref>
+
+==Notes==
+{{reflist|2}}
+
+==Image gallery==
+<gallery>
+Image:Coba Ballcourt-27527.jpg|One of two Mesoamerican ballgame courts at Cobá
+Image:Tehuacalco07.JPG|The Tehuacalco Mesoamerican ball court
+Image:YagulBallCourt.jpg|Yagul Ball Court
+Image:Poctatok goal.jpg|poc-ta-tok field, Mexico
+</gallery>
+
+==References==
+
+[[Image:Chichén Itzá Goal.jpg|right|thumb|350px|A ring at Chichen Itza. This ring was set some {{convert|6|m|ft|abbr=off|sp=us}} above the playing alley, making it extremely difficult to pass the heavy ball through the hole.]]
+{{refbegin|indent=yes}}<!--BEGIN biblio format. If indent param. is used, Pls use a colon (:) instead of asterisk (*) for bullet markers in the references list --> 
+: {{cite journal| author = Aveni, Anthony F.   |authorlink=Anthony Aveni|author2=Sharon L. Gibbs|year=1976 |title=On the Orientation of Precolumbian Buildings in Central Mexico|journal=[[American Antiquity]]|location=Menasha, WI |publisher=[[Society for American Archaeology]] |volume=41|issue=4 |pages=510–517 |doi=10.2307/279020 |issn=0002-7316 |oclc=1479302| jstor = 279020}}
+: {{cite book |author=Cohodas, Marvin  |year=1991|chapter=Ballgame imagery of the Maya Lowlands: History and Iconography|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]] |pages=251–288|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite book |author=Day, Jane Stevenson   |year=2001 |chapter=Performing on the Court|title=The Sport of Life and Death: The Mesoamerican Ballgame |editor=E. Michael Whittington (ed.) |edition=Published in conjunction with an exhibition of the same name organized by the [[Mint Museum of Art]], Charlotte, NC|publisher=[[Thames & Hudson]] |location=New York |pages=65–77 |isbn=0-500-05108-9|oclc=49029226}}
+: {{cite book |author=Fox, John W.  |year=1991|chapter=The Lords of Light versus the Lords of Dark: The Postclassic Highland Maya Ballgame|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=213–238|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite book |author=Gillespie, Susan D.   |authorlink=Susan D. Gillespie|year=1991|chapter=Ballgames and Boundaries|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=317–345|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite journal |author=Hill, Warren D. |author2=Michael Blake |author3=[[John E. Clark]] |year=1998 |title=Ball court design dates back 3,400 years |journal=[[Nature (journal)|Nature]] |location=London and New York |publisher=[[Nature Publishing Group]]|volume=392 |issue=6679 |pages=878–879 |doi=10.1038/31837 |issn=0028-0836 |oclc=204441622}}
+: {{cite book |author=Kelley, J. Charles  |year=1991|chapter=The Known Archaeological Ballcourts of Durango and Zacatecas, Mexico|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=87–100|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite book |author=Kowalewski, Stephen A.; Gary M. Feinman; Laura Finsten; [[Richard E. Blanton]]  |year=1991|chapter=Pre-Hispanic Ballcourts from the Valley of Oaxaca, Mexico|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=25–44|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite book |author=Kurjack, Edward B.; Ruben Maldonado C.; [[Merle Greene Robertson]]  |year=1991|chapter=Ballcourts of the Northern Maya Lowlands|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=145–159|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite book |author=Parsons, Lee A.  |year=1991|chapter=The Ballgame in the Southern Pacific Coast Cotzumalhuapa Region and Its Impact on Kaminaljuyu During the Middle Classic|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=195–212|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite book |author=Quirarte, Jacinto   |year=1975 |chapter=The Ballcourt in Mesoamerica: Its Architectural Development |title=Pre-Columbian Art History: Selected Readings |editor=[[Alana Cordy-Collins]] and Jean Stern (eds.) |publisher=Peek Publications |location=Palo Alto, CA |pages=63–69 |isbn=0-917962-41-9 |oclc=3843930}}
+: {{cite book |author=Santley, Robert M.   |author2=Michael J. Berman |author3=Rami T. Alexander |year=1991|chapter=The Politicization of the Mesoamerican Ballgame and Its Implications for the Interpretation of the Distribution of Ballcourts in Central Mexico|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=3–24|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite journal |author=Schuster, Angela M.H.   | date=July–August 1998 |title=Newsbriefs: Mesoamerica's Oldest Ballcourt |url=http://www.archaeology.org/9807/newsbriefs/ballcourt.html |journal=[[Archaeology (magazine)|Archaeology]] |location=New York |publisher=[[Archaeological Institute of America]] |volume=41 |issue=4 |pages=22|issn=0003-8113 |oclc=89268419|accessdate=2007-06-08}}
+: {{cite book |author=Taladoire, Eric   |year=2001 |chapter=The Architectural Background of the Pre-Hispanic Ballgame |title=The Sport of Life and Death: The Mesoamerican Ballgame |editor=E. Michael Whittington (ed.) |edition=Published in conjunction with an exhibition of the same name organized by the [[Mint Museum of Art]], Charlotte, NC|publisher=[[Thames & Hudson]] |location=New York |pages=97–115 |isbn=0-500-05108-9|oclc=49029226}}
+: {{cite book |author=Taladoire, Eric   |author2=Benoit Colsenet|year=1991|chapter='Bois Ton Sang, Beaumanoir': The Political and Conflictual Aspects of the Ballgame in the Northern Chiapas Area|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=167–174|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite book |author=Tate, Carolyn E.  |authorlink=Carolyn Tate|year=1991|title=Yaxchilan: The Design of a Maya Ceremonial City|location=Austin|publisher=[[University of Texas Press]]|isbn=0-292-77041-3 |oclc=23464300}}
+: {{cite journal |author=Uriarte, Maria Teresa   | date=January 2006 |title=The Teotihuacan Ballgame and the Beginning of Time|journal=[[Ancient Mesoamerica]] |location=Cambridge|publisher=[[Cambridge University Press]] |volume=17 |issue=1 |pages=17–38 |doi=10.1017/S0956536106060032 |issn=0956-5361 |oclc=88827568}}
+: {{cite book |author=Whittington, E. Michael (ed.)   |year=2001 |title=The Sport of Life and Death: The Mesoamerican Ballgame |edition=Published in conjunction with an exhibition of the same name organized by the [[Mint Museum of Art]], Charlotte, NC |publisher=[[Thames & Hudson]] |location=New York |isbn=0-500-05108-9 |oclc=49029226}}
+: {{cite book |author=Wilkerson, S. Jeffrey K.  |year=1991|chapter=And Then They Were Sacrificed: The Ritual Ballgame of Northeastern Mesoamerica Through Time and Space|editor=[[Vernon Scarborough]] and David R. Wilcox (eds.) |others=|title=The Mesoamerican Ballgame|location=Tucson|publisher=[[University of Arizona Press]]|pages=45–71|isbn=0-8165-1360-0 |oclc=51873028}}
+: {{cite journal|author=Zender, Mark |date=Spring 2004 |title=Glyphs for "Handspan" and "Strike" in Classic Maya Ballgame Texts |url=http://www.mesoweb.com/pari/publications/journal/404/Handspan.pdf |format=[[PDF]] online reproduction |journal=[[The PARI Journal]] |location=San Francisco, CA |publisher=[[Pre-Columbian Art Research Institute]] |volume=4 |issue=4 |issn=1531-5398 |oclc=44780248 |deadurl=yes |archiveurl=https://web.archive.org/web/20080910095804/http://www.mesoweb.com/pari/publications/journal/404/Handspan.pdf |archivedate=2008-09-10 |df= }}
+ 
+{{refend}}<!-- END biblio format style -->
+
+{{DEFAULTSORT:Mesoamerican Ballcourt}}
+
+
+
+
+

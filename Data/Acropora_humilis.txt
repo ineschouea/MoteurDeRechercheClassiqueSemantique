@@ -1,0 +1,38 @@
+{{Speciesbox
+| image = Acropora humilis Maldives.jpg
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name="IUCNRL">{{Cite journal | author = Richards, Z.T. | author2 = Delbeek, J.T. | author3 = Lovell, E.R. | author4 = Bass, D. | author5 = Aeby, G. | author6 = Reboton, C. | last-author-amp = yes | title = ''Acropora humilis'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2014 | page = e.T132992A54172878 | publisher = [[IUCN]] | date = 2014 | url = http://www.iucnredlist.org/details/132992/0 | doi = 10.2305/IUCN.UK.2014-1.RLTS.T132992A54172878.en | access-date = 5 January 2018}}</ref>
+| taxon = Acropora humilis
+| authority = (Dana, 1846)
+| synonyms = {{hidden begin|title = List}} 
+* ''Acropora ocellata'' <small>(Klunzinger, 1879)</small> 
+* ''Acropora spectabilis'' <small>(Brook, 1892)</small> 
+* ''Madrepora fruticosa'' <small>Brook, 1892</small> 
+* ''Madrepora guppyi'' <small>Brook, 1892</small> 
+* ''Madrepora humilis'' <small>Dana, 1846</small> 
+* ''Madrepora obscura'' <small>Brook, 1893</small> 
+* ''Madrepora ocellata'' <small>Klunzinger, 1879</small> 
+* ''Madrepora spectabilis'' <small>Brook, 1892</small>
+{{hidden end}}
+}}
+
+'''''Acropora humilis''''', also known as finger coral, is a species of [[Acroporidae|acroporid]] [[coral]] found in the [[Gulf of Aden]], the [[Red Sea]], the northern and southwestern Indian Ocean, Australia, the central [[Indo-Pacific]], Japan, southeast Asia, the [[East China Sea]], the central and western Pacific Ocean, the [[Johnston Atoll]] and the northwestern [[Hawaiian Islands]]. It also occurs in the [[Raja Ampat Islands]], [[Mariana Islands]], [[Palau]], and the [[Pitcairn Islands]]. Occurring in tropical shallow reefs on upper reef flats and slopes at depths of up to {{convert|12|m}}, it was described by Dana in 1846.
+
+==Description==
+The species is found in digitate colonies of thick tapering branches. The branches contain one or more axial corallites that are large and dome-shaped, and either incipient axial corallites or branchlets at their bases. Its radial corallites are found in two different diameters, the larger of which are organised in rows. It is mainly cream, blue, brown or purple in colour and the branches have cream or blue tips.<ref>{{cite web|url=http://coral.aims.gov.au/factsheet.jsp?speciesCode=0035|title=''Acropora humilis''|publisher=Australian Institute of Marine Species|accessdate=14 August 2015}}</ref>
+
+==Distribution==
+It is classed as a Near Threatened species on the [[IUCN Red List]] and it is believed that its population is decreasing; the species is also listed under Appendix II of CITES. Figures of its population are unknown, but is likely to be threatened by the global reduction of coral reefs, the increase of temperature causing coral bleaching, climate change, human activity, the crown-of-thorns starfish (''Acanthaster planci'') and disease.<ref name="IUCNRL" /> It occurs in the Gulf of Aden, the Red Sea, the northern and southwestern Indian Ocean, Australia, the central Indo-Pacific, Japan, southeast Asia, the East China Sea, the central and western Pacific Ocean, the Johnston Atoll and the northwestern Hawaiian Islands. It is present in the and the Raja Ampat Islands, Mariana Islands, Palau, and the Pitcairn Islands. The species occurs at depths of up to {{convert|12|m}} on tropical upper reef flats and slopes and is exported to aquariums.<ref name="IUCNRL" />
+
+==Taxonomy==
+It was described as ''Madrepora humilis'' by Dana in 1846.<ref>{{cite web|url=http://www.marinespecies.org/aphia.php?p=taxdetails&id=207094|title=''Acropora humilis''|publisher=World Register of Marine Species|accessdate=14 August 2015}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q3940467}}
+
+
+
+

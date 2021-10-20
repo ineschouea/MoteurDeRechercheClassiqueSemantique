@@ -1,0 +1,34 @@
+{{Speciesbox
+| image = Acropora lutkeni Maldives.jpg
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name="IUCNRL">{{Cite journal | author = Richards, Z.T. | author2 = Delbeek, J.T. | author3 = Lovell, E.R. | author4 = Bass, D. | author5 = Aeby, G. | author6 = Reboton, C. | last-author-amp = yes | title = ''Acropora lutkeni'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2014 | page = e.T133303A54232897 | publisher = [[IUCN]] | date = 2014 | url = http://www.iucnredlist.org/details/133303/0 | doi = 10.2305/IUCN.UK.2014-1.RLTS.T133303A54232897.en | access-date = 5 January 2018}}</ref>
+| taxon = Acropora lutkeni
+| authority = Crossland, 1952
+}}
+
+'''''Acropora lutkeni''''' is a species of [[Acroporidae|acroporid]] [[coral]] found in the central [[Indo-Pacific]], Japan, Australia, the northern Indian Ocean, the [[East China Sea]], southeast Asia, and the central and western Pacific Ocean. The species also occurs in the south [[Mariana Islands]], [[American Samoa]], [[Palau]], the [[Andaman Islands]], [[Fiji]], the Philippines, the [[Banggai Islands Regency|Banggai Islands]], [[Samoa]], the [[Raja Ampat Islands]], the [[Line Islands]], Papua New Guinea, and the [[Chagos Archipelago]]. It exists in tropical shallow reefs on upper slopes that are exposed to the action of strong waves or currents, and subtidally on edges of reefs and in submerged reefs. It exists at depths of between {{convert|3|and|12|m}} and probably spawns in October.
+
+==Description==
+It is found in corymbose colonies in plate structures with tapered branches. Axial corallites are present and rounded, radial corallites are not orderly and have a variety of diameters and shapes. The species is grey, purple, or cream-brown in colour, and it looks similar to ''[[Acropora forskali]]''.<ref>{{cite web|url=http://coral.aims.gov.au/factsheet.jsp?speciesCode=0044|title=''Acropora lutkeni''|publisher=Australian Institute of Marine Science|accessdate=14 August 2015}}</ref>
+
+==Distribution==
+It is classed as a Near Threatened species on the [[IUCN Red List]] and it is believed that its population is decreasing; the species is also listed under Appendix II of CITES. Figures of its population are unknown, but is likely to be threatened by the global reduction of coral reefs, the increase of temperature causing coral bleaching, climate change, human activity, the crown-of-thorns starfish (''Acanthaster planci'') and disease.<ref name="IUCNRL" /> It occurs in the central [[Indo-Pacific]], [[Japan]], [[Australia]], the northern [[Indian Ocean]], the [[East China Sea]], [[southeast Asia]], and the central and western [[Pacific Ocean]]. The species also occurs in the south [[Mariana Islands]], [[American Samoa]], [[Palau]], the [[Andaman Islands]], [[Fiji]], the [[Philippines]], the [[Banggai Islands Regency|Banggai Islands]], [[Samoa]], the [[Raja Ampat Islands]], the [[Line Islands]], [[Papua New Guinea]], and the [[Chagos Archipelago]]. It exists at depths of between {{convert|3|and|12|m}} and is found on upper slopes that are exposed to wave action and currents, on edges of reefs, and on submerged reefs.<ref name="IUCNRL" />
+
+==Taxonomy==
+''Acropora lutkeni'' was described by Crossland in 1952.<ref>{{cite web|url=http://www.marinespecies.org/aphia.php?p=taxdetails&id=206994|title=''Acropora lutkeni''|publisher=World Register of Marine Species|accessdate=14 August 2015}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q13227593}}
+
+
+
+
+
+
+
+
+
+

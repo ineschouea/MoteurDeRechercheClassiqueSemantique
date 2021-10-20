@@ -1,0 +1,48 @@
+{{Taxobox
+| name = Blue ground beetle
+| image = Carabus_intricatus 6 (US).jpg
+| status = LR/nt
+| status_system = IUCN2.3
+| status_ref = <ref name="IUCN">{{Cite journal | author = World Conservation Monitoring Centre | author-link = World Conservation Monitoring Centre | title = ''Carabus intricatus'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 1996 | page = e.T3845A10120005 | publisher = [[IUCN]] | date = 1996 | url = http://www.iucnredlist.org/details/3845/0 | doi = 10.2305/IUCN.UK.1996.RLTS.T3845A10120005.en | access-date = 27 December 2017}}</ref>
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Beetle|Coleoptera]]
+| familia = [[Ground beetle|Carabidae]]
+| genus = ''[[Carabus]]''
+{{!}}-valign="top"
+{{!}}  Division:
+{{!}} ''[[Multistriati]]''
+{{!}}-valign="top"
+{{!}}  Subdivision:
+{{!}} ''[[Arciferi]]''
+|subgenus = ''[[Chaetocarabus]]''
+| species = '''''C. intricatus'''''
+| binomial = ''Carabus intricatus''
+| binomial_authority = [[Carl Linnaeus|Linnaeus]], 1761
+}}
+
+The '''blue ground beetle''', '''''Carabus intricatus''''', is a species of [[ground beetle]] found in [[Europe]].<ref name="IUCN"/><ref>[http://carabidae.org/taxa/intricatus-linne-1761 "Carabidae of the World"]</ref>
+
+It is a large beetle ({{convert|24|-|35|mm|1|disp=or}} in length), with a metallic purple or blue and roughly surfaced [[elytra]]; the second pair of wings (which are used by [[beetle]]s for [[insect flight|flying]]) under the elytra are reduced. In Britain it was only recorded three times in the twenty years up to 1993 and was considered extinct there. But in 1994 it was found in a couple of places near [[Dartmoor]].<ref name="ARKive">{{cite web |url=http://www.arkive.org/species/ARK/invertebrates_terrestrial_and_freshwater/Carabus_intricatus/more_info.html |title=''Carabus intricatus'' |publisher=[[ARKive]] |accessdate=June 28, 2010 |archive-url=https://web.archive.org/web/20080821061757/http://www.arkive.org/species/ARK/invertebrates_terrestrial_and_freshwater/Carabus_intricatus/more_info.html |archive-date=2008-08-21 |dead-url=yes |df= }}</ref>
+
+''C. intricatus'' are nocturnal carnivores that are mainly active in the spring and early summer.  Tests have shown they prefer slugs from the genus ''[[Limax]]'', especially ''[[Limax marginatus]]''. They were also found to have a taste for liver, dog food, and crabsticks.<ref name="ARKive"/>
+In the wild, the adults are found under bark on dead wood, and under rocks. It does not require ground vegetation, and likes damp, rotten, moss-covered wood.<ref name="ARKive"/>
+
+The beetles seem to be active throughout the year and a fully-grown larva has been found in summer. This specimen also ate slugs prior to [[pupa]]ting, and emerged as an adult some three weeks later. It is thought that it may take two years to complete its life cycle. The adults are very long-lived.<ref name="ARKive"/>
+
+==References==
+{{Commons|Carabus intricatus}}
+{{Reflist}}
+
+==External links==
+* [https://www.biolib.cz/cz/taxon/id4/ Photo gallery]
+
+{{Taxonbar|from=Q1265900}}
+
+
+
+
+
+
+

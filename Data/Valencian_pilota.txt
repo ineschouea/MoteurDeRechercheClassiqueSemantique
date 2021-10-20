@@ -1,0 +1,446 @@
+{{refimprove|date=August 2011}}
+'''Valencian pilota''' ({{lang-ca-valencia|pilota valenciana}} {{IPA-ca|pi?l?ta valensi?ana|}} "Valencian ball") is a traditional handball [[sport]] played in the [[Valencian Community]].<ref name="història">{{citation|url=http://fedpival.es/historia/completa|title=History of the Valencian Pilota|work=[[Federació de Pilota Valenciana]]|language=ca|accessdate=5 December 2013}}</ref> Its origins are not known.
+
+[[File:Trinquet-Eliana02.jpg|right|thumb|Valencian pilota match]]
+
+Rules variations within the generic ''Pilota Valenciana'' category are frequent from area to area but the common trait is that the ball is struck with a bare, or almost bare, hand (only minimal protection is applied in some versions of the sport). The general rule involves two teams made from two up to five players each (the numbers depend on the particular version played). Exceptionally, individual matches are also played (mostly in [[Escala i corda]] and [[Raspall]]) between the most renowned players.
+
+The second characteristic is that it is not played against a wall. Instead, similar to modern tennis, two individuals or teams are placed face to face separated either by a line on the ground or a net in all of modern modalities except for the [[frontó]].
+A distinctive trait of Valencian pilota is that the spectators are often seated or standing very close to the court which means that they may be hit by the ball and thus become an (unwilling) part of the game.
+
+== History ==
+[[Image:Joc de pilota, de Josep Bru i Albinyana.jpg|250px|right|thumb|"''Joc de pilota''", 1881, [[llargues]].]]
+The origins of Valencian pilota are not known with certainty, but it is commonly supposed to have been derived from the medieval [[Jeu de paume]] along with several other European handball sports (for example the [[Basque pelota|Basque]] ''laxoa'', French [[Longue paume]], [[Frisian handball]] and Italian [[Pallone]]) similar to the actual Valencian [[llargues]] variant.
+
+''Jeu de paume'' is documented at [[Paris]] in 1292 since there were 13 ball workshops and many ''tripots'' (courtfields); it was first played with the hands, and the scoring system was very similar to the current Valencian one. There were so many resemblances with the ''Valencian pilota'' sport that, in the 16th century, the [[Humanism|humanist]] [[Joan Lluís Vives]] compared both games in his ''Dialogues'' and claimed them to be exactly the same despite some minor differences.
+
+[[Image:Benissanó 1925.jpg|right|thumb|[[Escala i corda]] match, 1925]]
+Being played by low-class people and high-class nobles, ''Valencian pilota'' was very popular: On June 14, 1391 the [[Valencia, Spain|Valencia City]] ''Council'' fruitlessly forbade it to be played on the streets, but this caused the expansion of [[Valencian trinquet|trinquets]] (courtfields); there were as many as 13 in that city alone in the 16th century. Later on, nobles abandoned the handball game in favour of '"'cleaner''" sports and so ''pilota'' became the property of the middle and lower classes, which led to the appearance of the first professional players and the rise of gambling and challenge matches.<ref name="història" />
+
+The break between indoor and outdoor forms caused many variants to diverge from the original [[Llargues]] version. Thus ''Perxa'' evolved into [[Galotxa]], and which in turn gave rise to [[Escala i corda]], while [[Raspall]] was still played in both courtfields. ''llargues'' is the only variant that uses the original "''ratlles''" rule, the others using a net to separate two sides on the playing area (as ''galotxa'', and ''escala i corda''), or with no court division at all (''raspall''). Another case is the [[Valencian frontó|Frontó]] variety, which was first documented in the late 19th century, influenced by the popularity of the main [[Basque pelota]] variant, which involves players throwing the ball against a wall.
+
+[[Image:Llosa de Ranes-Raspall.JPG|right|thumb|[[Raspall]] match, 2007]]
+Nowadays, ''Valencian pilota'' is played in the whole [[Valencian Community]], but every area has its preferred variety. Professional players of [[Escala i corda]] and [[Raspall]] are hired to play at the [[List of Valencian trinquets|trinquets]] or in streets during the towns' festivals. The popularity of this sport is rising again with the building of new cortifields at schools, weekly broadcasts on [[Canal Nou|Valencian public TV]], the management of a professional company ([[ValNet]]) and the [[Handball International Championships]] with countries where these sports with a common origin are played.
+
+== Playing area ==
+There are two basic versions of the sport depending whether it is played outdoors in a designated street or indoors.
+
+*Variations of the game played in the street are [[Galotxa]], [[Llargues]] and [[Raspall]]. The streets must be long and wide (''Llargues'' or "longs" is the one which needs the most elongated playing ground). If the streets have some irregularities, such as balconies, lights, sidewalks, traffic signals, etc., they may be used in order to score. Some municipalities have built "fake streets" which look like real ones but are meant only for pilota games.
+*As for the ones played indoors there are:
+** [[Frare]]: Is a short Valencian ''frontó'' with bevels on the corners that cause the ball to bounce unexpectedly. Mostly played in the North of the [[Castellón (province)|Castelló province]].
+** [[Valencian frontó|Frontó]]: Valencian ''frontons'' {{convert|20| to| 30|m|ftin|adj=on}} long courts with a {{convert|6|m|adj=on}} high wall, ''frontis'', against which the players bounce the ball off a rear wall where the ball may be bounced as well and another wall at the left of the players. The ''frontis'' has a {{convert|1|m|adj=on}} high line which marks the lowest point where a [[bouncing ball]] may hit.
+** [[Galotxetes]]: Played in a {{convert|20|x|3.5| m|ftin|adj=on}} space with a {{convert|1|m|adj=on}} high net in the middle.  On the four corners there are open holes resembling doors where points are scored. Now it is only played in the [[Vinalopó Mitjà]] [[comarca]], but the oldest court still in use dates from 1772 in [[Abdet]] ([[Marina Baixa]]). <br />[[Image:Trinquete Pedreguer.jpg|right|thumb|[[Valencian trinquet|Trinquet]] ready for an [[Escala i corda]] game]]
+** [[Valencian trinquet|Trinquet]]: There is a {{convert|60|x|10|m|ftin|adj=on}} four walled court with stairs (''escala'') on one side for the spectators to sit. There are also two galleries over each of the ''frontons'' (shortest walls) for people to sit. There is a bottom balcony (''llotgeta'') where reputed people or professional betters may sit, similar to a box in other stadiums. Next to the ''llotgeta'' a square is drawn on the ground: the ''dau'', where players start the game. In order to play [[Escala i corda]] rules a {{convert|2|m||adj=on}} high net (''corda'') must be placed in the middle of the court. One of the most reputed is the [[Pelayo trinquet]] in [[Valencia, Spain|Valencia]]. See also the [[List of Valencian trinquets]].
+
+== Variations ==
+With the basic set of rules for either street or indoor ''pilota'', there are many different variations, some of them are played only locally, but most of them are played in wider areas. The only modalities with professional players are [[Escala i corda]] and [[Raspall]].
+
+Another way to categorize variations is whether they are ''direct'' or ''indirect''. The '''direct games''' are those whose players are opposed face-to-face in different sides of the court, which is sometimes divided by a net; the '''indirect games''' are those with a wall where both teams throw the ball from a shared court. The traditional variations of ''Pilota Valenciana'' are direct, even though recently some indirect games ("Frontó" and "Frares") have been introduced based on the [[Basque Pelota]].
+
+=== Direct games ===
+[[Image:TrofeuNadal-06.jpg|right|thumb|Escala i corda]]
+
+*[[File:Foto Jugadors IES Maritim.jpg|thumb]]'''[[Escala i corda]]''': A more prestigious game and (alongside Raspall) the only one played professionally. It is played in a [[Valencian trinquet|trinquet]] where a 1.8m high net is placed in the middle of the field. The ball must be thrown between players over the net, but can be aimed anywhere, mostly to special places such as the ''galeries'' or the ''llotgeta'' where a direct point is scored.<ref>{{Cite web |url=http://www.pilotavalenciana.com/CircuitPortada0607.html |title=Circuit Bancaixa 2006/07 |access-date=2007-01-05 |archive-url=https://web.archive.org/web/20070310233232/http://www.pilotavalenciana.com/CircuitPortada0607.html |archive-date=2007-03-10 |dead-url=yes |df= }}</ref>
+* '''[[Galotxa]]''': This can be played in both regular streets or fake streets built solely for playing. The game resembles ''Escala i corda'' but with two nets and many more tricks, such as using irregularities in the street (like bumps or existing features from daily life like traffic signs) to score.
+* '''[[Galotxetes]]''': Now it's only played in [[Monòver]], [[Pinoso]] and [[La Romana, Alicante|La Romana]], all in the [[Vinalopó Mitjà]] [[comarca]], similar to ''Escala i corda'' but shorter and with a different ball.
+[[Image:Pilota de llargues a Sant Joan d'Alacant 3.jpg|right|thumb|[[Llargues]] game at [[Sant Joan d'Alacant]]]]
+* '''[[Llargues]]''': This version can only be played in regular streets. It's said to be the oldest game. There is no net or field separating the teams. Each point is won twice: The first time the ball is stopped a ''ratlla'' (line) is marked on the ground. The second time the ball is stopped it has been thrown over that ''ratlla,'' the point is won by the sender.
+* '''[[Raspall]]''': Similar to ''Escala i corda'' as it's played in a ''trinquet'', but without any net and the ball may bounce as many times as needed. Since players are forced to play stooped many times, it is considered the hardest variation to play. For example, ''Escala i corda'' games are won by the team who gets 60 points, but ''Raspall'' are played until 40.<ref>[http://www.pilotavalenciana.com/RaspallBancaixa2006.htm One-on-one 2006 League]</ref>
+
+=== Indirect games ===
+* '''[[Frare]]'''
+* '''[[Valencian fronto|Frontó]]'''
+
+== International games ==
+
+=== Llargues, international game and fronton ===
+The only Valencian pilota variety played outside the Valencian community is [[Llargues]]. Every year a European championship is held by the [[International Ball game Confederation]] with players from Valencia, [[Belgium]], [[France]], [[Italy]], and the [[Netherlands]]. There is also a world championship with those teams plus [[Argentina]], [[Colombia]], [[Mexico]] and [[Peru]].
+
+The [[Handball International Championships]] combine local handball variations from all over Europe to create the "[[international game]]" using the shared traits from all the sports related or derived from the ''jeu de paume''. Valencian professional players do not need much adaptation, since ''Llargues'' is very close to the international rules.
+
+Another case is the [[international fronton]], another invented variety that takes back the ''indirect style'' to its basics: one wall where the ball must bounce.
+
+=== Relationship with Basque pelota ===
+From the [[Basque Pelota]] modalities played in the [[Basque Country (autonomous community)|Basque Country]] the ones called "bote luzea", "mahi jokoa" are extinct but, by all accounts they were extremely similar to what has been preserved in Valencian Pilota as [[Llargues]], but using a bigger and heavier ball.
+
+An example of the compatibility there used to be between Valencian ''Llargues'' and Basque ''a la larga'' modalities was the existence during the 19th century of a sort of early professional side to the sport, with players from elsewhere earning high amounts of money, such as [[Aragon]]ese Lagasa and [[Valencian Community|Valencian]] Amigó, who, for example, toured in [[Navarre]] during September 1680.
+
+In October 2006, for the first time, a Navarrese youth team played ''Llargues'' against a Valencian one during the "Pilota Day" celebrated in [[Valencia, Spain|Valencia]] (in the adult match, the Valencian community team played [[Frisian handball|the Frisian team from the Netherlands]]). At the moment the only exchanges between both sports are friendly matches of [[Valencian frontó|Frontó]], which is the main modality for Basques but a mostly irrelevant one for Valencians. In summer, or for special events, exhibition matches are organized, as the "Open Ciutat de València", with particular rules (such as the length of the court), and balls of intermediate size and diameter (70 gr.) between the kinds that both regions are accustomed to.
+
+=== 1992 Summer Olympics ===
+The Valencian pilota was a [[demonstration sport]] in the [[1992 Summer Olympics]] hosted in [[Barcelona]].
+
+== Balls ==
+[[Image:Pilotes.jpg|right|thumb|Left to right: [[Vaqueta ball|Vaqueta]], badana, tec and galotxetes balls. Below left is a leather glove]]
+Every version of the game uses its own kind of ball. Each kind is different in weight, size, the way it bounces and other aspects. They are all handmade by specialized crafters.
+* '''Badana ball''': Used for [[Llargues]], it is a soft ball which can be played without any protection, since llargues are played on the streets. The bounce is very irregular, causing the ball to be almost incapable of regular bouncing. It is made of rags and sheep skin, and usually weighs 39&nbsp;grams with a diameter of 38&nbsp;mm.
+* '''Galotxetes ball''': Used only for [[Galotxetes]], it is very big and heavy, but it can be played without protection. It cannot bounce. It is made of rags with sticking pasters. It weighs 60&nbsp;grams with a diameter of 70&nbsp;mm.
+* '''Tec ball''': Used for [[Valencian frontó]], it is a very fast bouncing ball. Because it is very hard, protection is required. The ball takes its name from its characteristic sound. It is made of wood, and covered with goat skin. The ball usually weighs 48-50&nbsp;grams and has a diameter of 50&nbsp;mm.
+* '''[[Vaqueta ball]]''': Used for [[Escala i corda]] and [[Raspall]], it is a very fast ball and bounces well. Players must wear protective equipment. It is made of wood and covered with leather. It weighs 40-42&nbsp;grams and has a diameter of 42&nbsp;mm.
+
+== Betting ==
+Betting is inherent to the sport in its professional version and it is arguably the main factor which has kept the game alive, unlike similar games played elsewhere which ended up fading away. This is because betting allows professional players to exist, which creates rivalries and increases the entertaining dimension of the sport for the audience. Spectators of Valencian pilota can bet on one of the two sides, and the [[Valencian trinquet|trinquets]] and the [[Bookmaker|''marxador'']] gets a commission from these bets.
+
+The two teams dress either with red or blue shirts. Bets are made for one color (red or blue) winning, for a certain margin of victory points, or for an expected way to score each particular point.
+
+Remarkably high amounts of money may be bet during relevant games involving famous players. The more famous players become, the more betting is involved and so their personal revenue.
+
+== Players ==
+''Valencian pilota'' players are called ''pilotaris'' or ''pilotaires''. Usually amateur players are only proficient in one variant, but professional players tend to be hired for social events and exhibitions in other variants. There are now only two variants with professional players: [[Escala i corda]] and [[Raspall]].
+
+Traditionally, each player managed his own agenda and arranged his fees, but in 2005 a new company, [[ValNet]], presided over by the retired pilotari [[Alfred Hernando|Fredi]] contracted almost all professional players.
+
+For a list of relevant historical or active players, see [[Valencian pilotaris]]. Also, see below for the existing professional leagues and competitions.
+
+=== Renowned active pilotaris ===
+* [[Álvaro Navarro Serra|Álvaro]]
+* [[José María Sarasol|Sarasol II]]
+* [[Waldo Vila Gilabert|Waldo]]
+
+=== Retired pilotaris ===
+* [[Paco Cabanes Pastor|Genovés I]]
+* [[Julio Palau Lozano|Juliet d'Alginet]]
+* [[José Vicente Riera Calatayud|Nel de Murla]]
+* [[Alberto Arnal|Quart]]
+* [[Antonio Reig|Rovellet]]
+* [[Enric Sarasol|Sarasol I]]
+
+== Professional Leagues and competitions ==
+
+Escala i Corda
+* [[Trofeu Individual Bancaixa]], singles
+** [[Trofeu Individual Bancaixa 2007]]
+* [[Circuit Bancaixa]], teams
+** [[Circuit Bancaixa 07/08]]
+Raspall
+* [[Raspall team championship]], teams
+* [[Raspall singles championship]], singles
+
+== See also ==
+{{commons|Pilota valenciana}}
+* [[Basque Pelota]]
+* [[Frisian handball]]
+* [[Longue paume]]
+* [[Tuscan Pelota]]
+* [[Pallone]]
+
+== References ==
+<references/>
+
+== External links ==
+* {{ca icon}} {{es icon}} [http://www.fedpival.es/ Valencian pilota federation]
+* {{ca icon}} [http://www.pilotavalenciana.es News about Valencian pilota]
+* {{ca icon}} [http://www.pilotavalenciana.com News and shop about Valencian pilota]
+* [http://www.museupilota.com/multimedia.asp Online one-on-one ''Escala i corda'' game, videos and 3D views of a ''trinquet]
+* {{es icon}} [http://club.telepolis.com/pedroelzurdo/ Personal site of Pedro, a Valencian pilotari]
+* {{es icon}} [http://www.ucv.es/pilota2007/default_esp.asp II Handball World Meeting]
+
+==Videos==
+*[https://www.youtube.com/results?search_query=genov%C3%A9s+sarasol&search= Youtube: 7 videos featuring the 1993 Escala i Corda Individual final match, Genovés I vs. Sarasol I]
+*[http://video.google.com/videoplay?docid=3445727755287964427 Pilota valenciana: Joc i tradició. 15 minutes documentary]
+
+{{Culture of Valencian Community}}
+
+{{DEFAULTSORT:Valencian Pilota}}
+
+
+
+
+
+{{refimprove|date=August 2011}}
+'''Valencian pilota''' ({{lang-ca-valencia|pilota valenciana}} {{IPA-ca|pi?l?ta valensi?ana|}} "Valencian ball") is a traditional handball [[sport]] played in the [[Valencian Community]].<ref name="història">{{citation|url=http://fedpival.es/historia/completa|title=History of the Valencian Pilota|work=[[Federació de Pilota Valenciana]]|language=ca|accessdate=5 December 2013}}</ref> Its origins are not known.
+
+[[File:Trinquet-Eliana02.jpg|right|thumb|Valencian pilota match]]
+
+Rules variations within the generic ''Pilota Valenciana'' category are frequent from area to area but the common trait is that the ball is struck with a bare, or almost bare, hand (only minimal protection is applied in some versions of the sport). The general rule involves two teams made from two up to five players each (the numbers depend on the particular version played). Exceptionally, individual matches are also played (mostly in [[Escala i corda]] and [[Raspall]]) between the most renowned players.
+
+The second characteristic is that it is not played against a wall. Instead, similar to modern tennis, two individuals or teams are placed face to face separated either by a line on the ground or a net in all of modern modalities except for the [[frontó]].
+A distinctive trait of Valencian pilota is that the spectators are often seated or standing very close to the court which means that they may be hit by the ball and thus become an (unwilling) part of the game.
+
+== History ==
+[[Image:Joc de pilota, de Josep Bru i Albinyana.jpg|250px|right|thumb|"''Joc de pilota''", 1881, [[llargues]].]]
+The origins of Valencian pilota are not known with certainty, but it is commonly supposed to have been derived from the medieval [[Jeu de paume]] along with several other European handball sports (for example the [[Basque pelota|Basque]] ''laxoa'', French [[Longue paume]], [[Frisian handball]] and Italian [[Pallone]]) similar to the actual Valencian [[llargues]] variant.
+
+''Jeu de paume'' is documented at [[Paris]] in 1292 since there were 13 ball workshops and many ''tripots'' (courtfields); it was first played with the hands, and the scoring system was very similar to the current Valencian one. There were so many resemblances with the ''Valencian pilota'' sport that, in the 16th century, the [[Humanism|humanist]] [[Joan Lluís Vives]] compared both games in his ''Dialogues'' and claimed them to be exactly the same despite some minor differences.
+
+[[Image:Benissanó 1925.jpg|right|thumb|[[Escala i corda]] match, 1925]]
+Being played by low-class people and high-class nobles, ''Valencian pilota'' was very popular: On June 14, 1391 the [[Valencia, Spain|Valencia City]] ''Council'' fruitlessly forbade it to be played on the streets, but this caused the expansion of [[Valencian trinquet|trinquets]] (courtfields); there were as many as 13 in that city alone in the 16th century. Later on, nobles abandoned the handball game in favour of '"'cleaner''" sports and so ''pilota'' became the property of the middle and lower classes, which led to the appearance of the first professional players and the rise of gambling and challenge matches.<ref name="història" />
+
+The break between indoor and outdoor forms caused many variants to diverge from the original [[Llargues]] version. Thus ''Perxa'' evolved into [[Galotxa]], and which in turn gave rise to [[Escala i corda]], while [[Raspall]] was still played in both courtfields. ''llargues'' is the only variant that uses the original "''ratlles''" rule, the others using a net to separate two sides on the playing area (as ''galotxa'', and ''escala i corda''), or with no court division at all (''raspall''). Another case is the [[Valencian frontó|Frontó]] variety, which was first documented in the late 19th century, influenced by the popularity of the main [[Basque pelota]] variant, which involves players throwing the ball against a wall.
+
+[[Image:Llosa de Ranes-Raspall.JPG|right|thumb|[[Raspall]] match, 2007]]
+Nowadays, ''Valencian pilota'' is played in the whole [[Valencian Community]], but every area has its preferred variety. Professional players of [[Escala i corda]] and [[Raspall]] are hired to play at the [[List of Valencian trinquets|trinquets]] or in streets during the towns' festivals. The popularity of this sport is rising again with the building of new cortifields at schools, weekly broadcasts on [[Canal Nou|Valencian public TV]], the management of a professional company ([[ValNet]]) and the [[Handball International Championships]] with countries where these sports with a common origin are played.
+
+== Playing area ==
+There are two basic versions of the sport depending whether it is played outdoors in a designated street or indoors.
+
+*Variations of the game played in the street are [[Galotxa]], [[Llargues]] and [[Raspall]]. The streets must be long and wide (''Llargues'' or "longs" is the one which needs the most elongated playing ground). If the streets have some irregularities, such as balconies, lights, sidewalks, traffic signals, etc., they may be used in order to score. Some municipalities have built "fake streets" which look like real ones but are meant only for pilota games.
+*As for the ones played indoors there are:
+** [[Frare]]: Is a short Valencian ''frontó'' with bevels on the corners that cause the ball to bounce unexpectedly. Mostly played in the North of the [[Castellón (province)|Castelló province]].
+** [[Valencian frontó|Frontó]]: Valencian ''frontons'' {{convert|20| to| 30|m|ftin|adj=on}} long courts with a {{convert|6|m|adj=on}} high wall, ''frontis'', against which the players bounce the ball off a rear wall where the ball may be bounced as well and another wall at the left of the players. The ''frontis'' has a {{convert|1|m|adj=on}} high line which marks the lowest point where a [[bouncing ball]] may hit.
+** [[Galotxetes]]: Played in a {{convert|20|x|3.5| m|ftin|adj=on}} space with a {{convert|1|m|adj=on}} high net in the middle.  On the four corners there are open holes resembling doors where points are scored. Now it is only played in the [[Vinalopó Mitjà]] [[comarca]], but the oldest court still in use dates from 1772 in [[Abdet]] ([[Marina Baixa]]). <br />[[Image:Trinquete Pedreguer.jpg|right|thumb|[[Valencian trinquet|Trinquet]] ready for an [[Escala i corda]] game]]
+** [[Valencian trinquet|Trinquet]]: There is a {{convert|60|x|10|m|ftin|adj=on}} four walled court with stairs (''escala'') on one side for the spectators to sit. There are also two galleries over each of the ''frontons'' (shortest walls) for people to sit. There is a bottom balcony (''llotgeta'') where reputed people or professional betters may sit, similar to a box in other stadiums. Next to the ''llotgeta'' a square is drawn on the ground: the ''dau'', where players start the game. In order to play [[Escala i corda]] rules a {{convert|2|m||adj=on}} high net (''corda'') must be placed in the middle of the court. One of the most reputed is the [[Pelayo trinquet]] in [[Valencia, Spain|Valencia]]. See also the [[List of Valencian trinquets]].
+
+== Variations ==
+With the basic set of rules for either street or indoor ''pilota'', there are many different variations, some of them are played only locally, but most of them are played in wider areas. The only modalities with professional players are [[Escala i corda]] and [[Raspall]].
+
+Another way to categorize variations is whether they are ''direct'' or ''indirect''. The '''direct games''' are those whose players are opposed face-to-face in different sides of the court, which is sometimes divided by a net; the '''indirect games''' are those with a wall where both teams throw the ball from a shared court. The traditional variations of ''Pilota Valenciana'' are direct, even though recently some indirect games ("Frontó" and "Frares") have been introduced based on the [[Basque Pelota]].
+
+=== Direct games ===
+[[Image:TrofeuNadal-06.jpg|right|thumb|Escala i corda]]
+
+*[[File:Foto Jugadors IES Maritim.jpg|thumb]]'''[[Escala i corda]]''': A more prestigious game and (alongside Raspall) the only one played professionally. It is played in a [[Valencian trinquet|trinquet]] where a 1.8m high net is placed in the middle of the field. The ball must be thrown between players over the net, but can be aimed anywhere, mostly to special places such as the ''galeries'' or the ''llotgeta'' where a direct point is scored.<ref>{{Cite web |url=http://www.pilotavalenciana.com/CircuitPortada0607.html |title=Circuit Bancaixa 2006/07 |access-date=2007-01-05 |archive-url=https://web.archive.org/web/20070310233232/http://www.pilotavalenciana.com/CircuitPortada0607.html |archive-date=2007-03-10 |dead-url=yes |df= }}</ref>
+* '''[[Galotxa]]''': This can be played in both regular streets or fake streets built solely for playing. The game resembles ''Escala i corda'' but with two nets and many more tricks, such as using irregularities in the street (like bumps or existing features from daily life like traffic signs) to score.
+* '''[[Galotxetes]]''': Now it's only played in [[Monòver]], [[Pinoso]] and [[La Romana, Alicante|La Romana]], all in the [[Vinalopó Mitjà]] [[comarca]], similar to ''Escala i corda'' but shorter and with a different ball.
+[[Image:Pilota de llargues a Sant Joan d'Alacant 3.jpg|right|thumb|[[Llargues]] game at [[Sant Joan d'Alacant]]]]
+* '''[[Llargues]]''': This version can only be played in regular streets. It's said to be the oldest game. There is no net or field separating the teams. Each point is won twice: The first time the ball is stopped a ''ratlla'' (line) is marked on the ground. The second time the ball is stopped it has been thrown over that ''ratlla,'' the point is won by the sender.
+* '''[[Raspall]]''': Similar to ''Escala i corda'' as it's played in a ''trinquet'', but without any net and the ball may bounce as many times as needed. Since players are forced to play stooped many times, it is considered the hardest variation to play. For example, ''Escala i corda'' games are won by the team who gets 60 points, but ''Raspall'' are played until 40.<ref>[http://www.pilotavalenciana.com/RaspallBancaixa2006.htm One-on-one 2006 League]</ref>
+
+=== Indirect games ===
+* '''[[Frare]]'''
+* '''[[Valencian fronto|Frontó]]'''
+
+== International games ==
+
+=== Llargues, international game and fronton ===
+The only Valencian pilota variety played outside the Valencian community is [[Llargues]]. Every year a European championship is held by the [[International Ball game Confederation]] with players from Valencia, [[Belgium]], [[France]], [[Italy]], and the [[Netherlands]]. There is also a world championship with those teams plus [[Argentina]], [[Colombia]], [[Mexico]] and [[Peru]].
+
+The [[Handball International Championships]] combine local handball variations from all over Europe to create the "[[international game]]" using the shared traits from all the sports related or derived from the ''jeu de paume''. Valencian professional players do not need much adaptation, since ''Llargues'' is very close to the international rules.
+
+Another case is the [[international fronton]], another invented variety that takes back the ''indirect style'' to its basics: one wall where the ball must bounce.
+
+=== Relationship with Basque pelota ===
+From the [[Basque Pelota]] modalities played in the [[Basque Country (autonomous community)|Basque Country]] the ones called "bote luzea", "mahi jokoa" are extinct but, by all accounts they were extremely similar to what has been preserved in Valencian Pilota as [[Llargues]], but using a bigger and heavier ball.
+
+An example of the compatibility there used to be between Valencian ''Llargues'' and Basque ''a la larga'' modalities was the existence during the 19th century of a sort of early professional side to the sport, with players from elsewhere earning high amounts of money, such as [[Aragon]]ese Lagasa and [[Valencian Community|Valencian]] Amigó, who, for example, toured in [[Navarre]] during September 1680.
+
+In October 2006, for the first time, a Navarrese youth team played ''Llargues'' against a Valencian one during the "Pilota Day" celebrated in [[Valencia, Spain|Valencia]] (in the adult match, the Valencian community team played [[Frisian handball|the Frisian team from the Netherlands]]). At the moment the only exchanges between both sports are friendly matches of [[Valencian frontó|Frontó]], which is the main modality for Basques but a mostly irrelevant one for Valencians. In summer, or for special events, exhibition matches are organized, as the "Open Ciutat de València", with particular rules (such as the length of the court), and balls of intermediate size and diameter (70 gr.) between the kinds that both regions are accustomed to.
+
+=== 1992 Summer Olympics ===
+The Valencian pilota was a [[demonstration sport]] in the [[1992 Summer Olympics]] hosted in [[Barcelona]].
+
+== Balls ==
+[[Image:Pilotes.jpg|right|thumb|Left to right: [[Vaqueta ball|Vaqueta]], badana, tec and galotxetes balls. Below left is a leather glove]]
+Every version of the game uses its own kind of ball. Each kind is different in weight, size, the way it bounces and other aspects. They are all handmade by specialized crafters.
+* '''Badana ball''': Used for [[Llargues]], it is a soft ball which can be played without any protection, since llargues are played on the streets. The bounce is very irregular, causing the ball to be almost incapable of regular bouncing. It is made of rags and sheep skin, and usually weighs 39&nbsp;grams with a diameter of 38&nbsp;mm.
+* '''Galotxetes ball''': Used only for [[Galotxetes]], it is very big and heavy, but it can be played without protection. It cannot bounce. It is made of rags with sticking pasters. It weighs 60&nbsp;grams with a diameter of 70&nbsp;mm.
+* '''Tec ball''': Used for [[Valencian frontó]], it is a very fast bouncing ball. Because it is very hard, protection is required. The ball takes its name from its characteristic sound. It is made of wood, and covered with goat skin. The ball usually weighs 48-50&nbsp;grams and has a diameter of 50&nbsp;mm.
+* '''[[Vaqueta ball]]''': Used for [[Escala i corda]] and [[Raspall]], it is a very fast ball and bounces well. Players must wear protective equipment. It is made of wood and covered with leather. It weighs 40-42&nbsp;grams and has a diameter of 42&nbsp;mm.
+
+== Betting ==
+Betting is inherent to the sport in its professional version and it is arguably the main factor which has kept the game alive, unlike similar games played elsewhere which ended up fading away. This is because betting allows professional players to exist, which creates rivalries and increases the entertaining dimension of the sport for the audience. Spectators of Valencian pilota can bet on one of the two sides, and the [[Valencian trinquet|trinquets]] and the [[Bookmaker|''marxador'']] gets a commission from these bets.
+
+The two teams dress either with red or blue shirts. Bets are made for one color (red or blue) winning, for a certain margin of victory points, or for an expected way to score each particular point.
+
+Remarkably high amounts of money may be bet during relevant games involving famous players. The more famous players become, the more betting is involved and so their personal revenue.
+
+== Players ==
+''Valencian pilota'' players are called ''pilotaris'' or ''pilotaires''. Usually amateur players are only proficient in one variant, but professional players tend to be hired for social events and exhibitions in other variants. There are now only two variants with professional players: [[Escala i corda]] and [[Raspall]].
+
+Traditionally, each player managed his own agenda and arranged his fees, but in 2005 a new company, [[ValNet]], presided over by the retired pilotari [[Alfred Hernando|Fredi]] contracted almost all professional players.
+
+For a list of relevant historical or active players, see [[Valencian pilotaris]]. Also, see below for the existing professional leagues and competitions.
+
+=== Renowned active pilotaris ===
+* [[Álvaro Navarro Serra|Álvaro]]
+* [[José María Sarasol|Sarasol II]]
+* [[Waldo Vila Gilabert|Waldo]]
+
+=== Retired pilotaris ===
+* [[Paco Cabanes Pastor|Genovés I]]
+* [[Julio Palau Lozano|Juliet d'Alginet]]
+* [[José Vicente Riera Calatayud|Nel de Murla]]
+* [[Alberto Arnal|Quart]]
+* [[Antonio Reig|Rovellet]]
+* [[Enric Sarasol|Sarasol I]]
+
+== Professional Leagues and competitions ==
+
+Escala i Corda
+* [[Trofeu Individual Bancaixa]], singles
+** [[Trofeu Individual Bancaixa 2007]]
+* [[Circuit Bancaixa]], teams
+** [[Circuit Bancaixa 07/08]]
+Raspall
+* [[Raspall team championship]], teams
+* [[Raspall singles championship]], singles
+
+== See also ==
+{{commons|Pilota valenciana}}
+* [[Basque Pelota]]
+* [[Frisian handball]]
+* [[Longue paume]]
+* [[Tuscan Pelota]]
+* [[Pallone]]
+
+== References ==
+<references/>
+
+== External links ==
+* {{ca icon}} {{es icon}} [http://www.fedpival.es/ Valencian pilota federation]
+* {{ca icon}} [http://www.pilotavalenciana.es News about Valencian pilota]
+* {{ca icon}} [http://www.pilotavalenciana.com News and shop about Valencian pilota]
+* [http://www.museupilota.com/multimedia.asp Online one-on-one ''Escala i corda'' game, videos and 3D views of a ''trinquet]
+* {{es icon}} [http://club.telepolis.com/pedroelzurdo/ Personal site of Pedro, a Valencian pilotari]
+* {{es icon}} [http://www.ucv.es/pilota2007/default_esp.asp II Handball World Meeting]
+
+==Videos==
+*[https://www.youtube.com/results?search_query=genov%C3%A9s+sarasol&search= Youtube: 7 videos featuring the 1993 Escala i Corda Individual final match, Genovés I vs. Sarasol I]
+*[http://video.google.com/videoplay?docid=3445727755287964427 Pilota valenciana: Joc i tradició. 15 minutes documentary]
+
+{{Culture of Valencian Community}}
+
+{{DEFAULTSORT:Valencian Pilota}}
+
+
+
+
+
+'''Valencian pilota''' ({{lang-ca-valencia|pilota valenciana}} {{IPA-ca|pi?l?ta valensi?ana|}} "Valencian ball") is a traditional handball [[sport]] played in the [[Valencian Community]].<ref name="història">{{citation|url=http://fedpival.es/historia/completa|title=History of the Valencian Pilota|work=[[Federació de Pilota Valenciana]]|language=ca|accessdate=5 December 2013}}</ref> Its origins are not known.
+
+[[File:Trinquet-Eliana02.jpg|right|thumb|Valencian pilota match]]
+
+Rules variations within the generic ''Pilota Valenciana'' category are frequent from area to area but the common trait is that the ball is struck with a bare, or almost bare, hand (only minimal protection is applied in some versions of the sport). The general rule involves two teams made from two up to five players each (the numbers depend on the particular version played). Exceptionally, individual matches are also played (mostly in [[Escala i corda]] and [[Raspall]]) between the most renowned players.
+
+The second characteristic is that it is not played against a wall. Instead, similar to modern tennis, two individuals or teams are placed face to face separated either by a line on the ground or a net in all of modern modalities except for the [[frontó]].
+A distinctive trait of Valencian pilota is that the spectators are often seated or standing very close to the court which means that they may be hit by the ball and thus become an (unwilling) part of the game.
+
+== History ==
+[[Image:Joc de pilota, de Josep Bru i Albinyana.jpg|250px|right|thumb|"''Joc de pilota''", 1881, [[llargues]].]]
+The origins of Valencian pilota are not known with certainty, but it is commonly supposed to have been derived from the medieval [[Jeu de paume]] along with several other European handball sports (for example the [[Basque pelota|Basque]] ''laxoa'', French [[Longue paume]], [[Frisian handball]] and Italian [[Pallone]]) similar to the actual Valencian [[llargues]] variant.
+
+''Jeu de paume'' is documented at [[Paris]] in 1292 since there were 13 ball workshops and many ''tripots'' (courtfields); it was first played with the hands, and the scoring system was very similar to the current Valencian one. There were so many resemblances with the ''Valencian pilota'' sport that, in the 16th century, the [[Humanism|humanist]] [[Joan Lluís Vives]] compared both games in his ''Dialogues'' and claimed them to be exactly the same despite some minor differences.
+
+[[Image:Benissanó 1925.jpg|right|thumb|[[Escala i corda]] match, 1925]]
+Being played by low-class people and high-class nobles, ''Valencian pilota'' was very popular: On June 14, 1391 the [[Valencia, Spain|Valencia City]] ''Council'' fruitlessly forbade it to be played on the streets, but this caused the expansion of [[Valencian trinquet|trinquets]] (courtfields); there were as many as 13 in that city alone in the 16th century. Later on, nobles abandoned the handball game in favour of '"'cleaner''" sports and so ''pilota'' became the property of the middle and lower classes, which led to the appearance of the first professional players and the rise of gambling and challenge matches.<ref name="història" />
+
+The break between indoor and outdoor forms caused many variants to diverge from the original [[Llargues]] version. Thus ''Perxa'' evolved into [[Galotxa]], and which in turn gave rise to [[Escala i corda]], while [[Raspall]] was still played in both courtfields. ''llargues'' is the only variant that uses the original "''ratlles''" rule, the others using a net to separate two sides on the playing area (as ''galotxa'', and ''escala i corda''), or with no court division at all (''raspall''). Another case is the [[Valencian frontó|Frontó]] variety, which was first documented in the late 19th century, influenced by the popularity of the main [[Basque pelota]] variant, which involves players throwing the ball against a wall.
+
+[[Image:Llosa de Ranes-Raspall.JPG|right|thumb|[[Raspall]] match, 2007]]
+Nowadays, ''Valencian pilota'' is played in the whole [[Valencian Community]], but every area has its preferred variety. Professional players of [[Escala i corda]] and [[Raspall]] are hired to play at the [[List of Valencian trinquets|trinquets]] or in streets during the towns' festivals. The popularity of this sport is rising again with the building of new cortifields at schools, weekly broadcasts on [[Canal Nou|Valencian public TV]], the management of a professional company ([[ValNet]]) and the [[Handball International Championships]] with countries where these sports with a common origin are played.
+
+== Playing area ==
+There are two basic versions of the sport depending whether it is played outdoors in a designated street or indoors.
+
+*Variations of the game played in the street are [[Galotxa]], [[Llargues]] and [[Raspall]]. The streets must be long and wide (''Llargues'' or "longs" is the one which needs the most elongated playing ground). If the streets have some irregularities, such as balconies, lights, sidewalks, traffic signals, etc., they may be used in order to score. Some municipalities have built "fake streets" which look like real ones but are meant only for pilota games.
+*As for the ones played indoors there are:
+** [[Frare]]: Is a short Valencian ''frontó'' with bevels on the corners that cause the ball to bounce unexpectedly. Mostly played in the North of the [[Castellón (province)|Castelló province]].
+** [[Valencian frontó|Frontó]]: Valencian ''frontons'' {{convert|20| to| 30|m|ftin|adj=on}} long courts with a {{convert|6|m|adj=on}} high wall, ''frontis'', against which the players bounce the ball off a rear wall where the ball may be bounced as well and another wall at the left of the players. The ''frontis'' has a {{convert|1|m|adj=on}} high line which marks the lowest point where a [[bouncing ball]] may hit.
+** [[Galotxetes]]: Played in a {{convert|20|x|3.5| m|ftin|adj=on}} space with a {{convert|1|m|adj=on}} high net in the middle.  On the four corners there are open holes resembling doors where points are scored. Now it is only played in the [[Vinalopó Mitjà]] [[comarca]], but the oldest court still in use dates from 1772 in [[Abdet]] ([[Marina Baixa]]). <br />[[Image:Trinquete Pedreguer.jpg|right|thumb|[[Valencian trinquet|Trinquet]] ready for an [[Escala i corda]] game]]
+** [[Valencian trinquet|Trinquet]]: There is a {{convert|60|x|10|m|ftin|adj=on}} four walled court with stairs (''escala'') on one side for the spectators to sit. There are also two galleries over each of the ''frontons'' (shortest walls) for people to sit. There is a bottom balcony (''llotgeta'') where reputed people or professional betters may sit, similar to a box in other stadiums. Next to the ''llotgeta'' a square is drawn on the ground: the ''dau'', where players start the game. In order to play [[Escala i corda]] rules a {{convert|2|m||adj=on}} high net (''corda'') must be placed in the middle of the court. One of the most reputed is the [[Pelayo trinquet]] in [[Valencia, Spain|Valencia]]. See also the [[List of Valencian trinquets]].
+
+== Variations ==
+With the basic set of rules for either street or indoor ''pilota'', there are many different variations, some of them are played only locally, but most of them are played in wider areas. The only modalities with professional players are [[Escala i corda]] and [[Raspall]].
+
+Another way to categorize variations is whether they are ''direct'' or ''indirect''. The '''direct games''' are those whose players are opposed face-to-face in different sides of the court, which is sometimes divided by a net; the '''indirect games''' are those with a wall where both teams throw the ball from a shared court. The traditional variations of ''Pilota Valenciana'' are direct, even though recently some indirect games ("Frontó" and "Frares") have been introduced based on the [[Basque Pelota]].
+
+=== Direct games ===
+[[Image:TrofeuNadal-06.jpg|right|thumb|Escala i corda]]
+
+*[[File:Foto Jugadors IES Maritim.jpg|thumb]]'''[[Escala i corda]]''': A more prestigious game and (alongside Raspall) the only one played professionally. It is played in a [[Valencian trinquet|trinquet]] where a 1.8m high net is placed in the middle of the field. The ball must be thrown between players over the net, but can be aimed anywhere, mostly to special places such as the ''galeries'' or the ''llotgeta'' where a direct point is scored.<ref>{{Cite web |url=http://www.pilotavalenciana.com/CircuitPortada0607.html |title=Circuit Bancaixa 2006/07 |access-date=2007-01-05 |archive-url=https://web.archive.org/web/20070310233232/http://www.pilotavalenciana.com/CircuitPortada0607.html |archive-date=2007-03-10 |dead-url=yes |df= }}</ref>
+* '''[[Galotxa]]''': This can be played in both regular streets or fake streets built solely for playing. The game resembles ''Escala i corda'' but with two nets and many more tricks, such as using irregularities in the street (like bumps or existing features from daily life like traffic signs) to score.
+* '''[[Galotxetes]]''': Now it's only played in [[Monòver]], [[Pinoso]] and [[La Romana, Alicante|La Romana]], all in the [[Vinalopó Mitjà]] [[comarca]], similar to ''Escala i corda'' but shorter and with a different ball.
+[[Image:Pilota de llargues a Sant Joan d'Alacant 3.jpg|right|thumb|[[Llargues]] game at [[Sant Joan d'Alacant]]]]
+* '''[[Llargues]]''': This version can only be played in regular streets. It's said to be the oldest game. There is no net or field separating the teams. Each point is won twice: The first time the ball is stopped a ''ratlla'' (line) is marked on the ground. The second time the ball is stopped it has been thrown over that ''ratlla,'' the point is won by the sender.
+* '''[[Raspall]]''': Similar to ''Escala i corda'' as it's played in a ''trinquet'', but without any net and the ball may bounce as many times as needed. Since players are forced to play stooped many times, it is considered the hardest variation to play. For example, ''Escala i corda'' games are won by the team who gets 60 points, but ''Raspall'' are played until 40.<ref>[http://www.pilotavalenciana.com/RaspallBancaixa2006.htm One-on-one 2006 League]</ref>
+
+=== Indirect games ===
+* '''[[Frare]]'''
+* '''[[Valencian fronto|Frontó]]'''
+
+== International games ==
+
+=== Llargues, international game and fronton ===
+The only Valencian pilota variety played outside the Valencian community is [[Llargues]]. Every year a European championship is held by the [[International Ball game Confederation]] with players from Valencia, [[Belgium]], [[France]], [[Italy]], and the [[Netherlands]]. There is also a world championship with those teams plus [[Argentina]], [[Colombia]], [[Mexico]] and [[Peru]].
+
+The [[Handball International Championships]] combine local handball variations from all over Europe to create the "[[international game]]" using the shared traits from all the sports related or derived from the ''jeu de paume''. Valencian professional players do not need much adaptation, since ''Llargues'' is very close to the international rules.
+
+Another case is the [[international fronton]], another invented variety that takes back the ''indirect style'' to its basics: one wall where the ball must bounce.
+
+=== Relationship with Basque pelota ===
+From the [[Basque Pelota]] modalities played in the [[Basque Country (autonomous community)|Basque Country]] the ones called "bote luzea", "mahi jokoa" are extinct but, by all accounts they were extremely similar to what has been preserved in Valencian Pilota as [[Llargues]], but using a bigger and heavier ball.
+
+An example of the compatibility there used to be between Valencian ''Llargues'' and Basque ''a la larga'' modalities was the existence during the 19th century of a sort of early professional side to the sport, with players from elsewhere earning high amounts of money, such as [[Aragon]]ese Lagasa and [[Valencian Community|Valencian]] Amigó, who, for example, toured in [[Navarre]] during September 1680.
+
+In October 2006, for the first time, a Navarrese youth team played ''Llargues'' against a Valencian one during the "Pilota Day" celebrated in [[Valencia, Spain|Valencia]] (in the adult match, the Valencian community team played [[Frisian handball|the Frisian team from the Netherlands]]). At the moment the only exchanges between both sports are friendly matches of [[Valencian frontó|Frontó]], which is the main modality for Basques but a mostly irrelevant one for Valencians. In summer, or for special events, exhibition matches are organized, as the "Open Ciutat de València", with particular rules (such as the length of the court), and balls of intermediate size and diameter (70 gr.) between the kinds that both regions are accustomed to.
+
+=== 1992 Summer Olympics ===
+The Valencian pilota was a [[demonstration sport]] in the [[1992 Summer Olympics]] hosted in [[Barcelona]].
+
+== Balls ==
+[[Image:Pilotes.jpg|right|thumb|Left to right: [[Vaqueta ball|Vaqueta]], badana, tec and galotxetes balls. Below left is a leather glove]]
+Every version of the game uses its own kind of ball. Each kind is different in weight, size, the way it bounces and other aspects. They are all handmade by specialized crafters.
+* '''Badana ball''': Used for [[Llargues]], it is a soft ball which can be played without any protection, since llargues are played on the streets. The bounce is very irregular, causing the ball to be almost incapable of regular bouncing. It is made of rags and sheep skin, and usually weighs 39&nbsp;grams with a diameter of 38&nbsp;mm.
+* '''Galotxetes ball''': Used only for [[Galotxetes]], it is very big and heavy, but it can be played without protection. It cannot bounce. It is made of rags with sticking pasters. It weighs 60&nbsp;grams with a diameter of 70&nbsp;mm.
+* '''Tec ball''': Used for [[Valencian frontó]], it is a very fast bouncing ball. Because it is very hard, protection is required. The ball takes its name from its characteristic sound. It is made of wood, and covered with goat skin. The ball usually weighs 48-50&nbsp;grams and has a diameter of 50&nbsp;mm.
+* '''[[Vaqueta ball]]''': Used for [[Escala i corda]] and [[Raspall]], it is a very fast ball and bounces well. Players must wear protective equipment. It is made of wood and covered with leather. It weighs 40-42&nbsp;grams and has a diameter of 42&nbsp;mm.
+
+== Betting ==
+Betting is inherent to the sport in its professional version and it is arguably the main factor which has kept the game alive, unlike similar games played elsewhere which ended up fading away. This is because betting allows professional players to exist, which creates rivalries and increases the entertaining dimension of the sport for the audience. Spectators of Valencian pilota can bet on one of the two sides, and the [[Valencian trinquet|trinquets]] and the [[Bookmaker|''marxador'']] gets a commission from these bets.
+
+The two teams dress either with red or blue shirts. Bets are made for one color (red or blue) winning, for a certain margin of victory points, or for an expected way to score each particular point.
+
+Remarkably high amounts of money may be bet during relevant games involving famous players. The more famous players become, the more betting is involved and so their personal revenue.
+
+== Players ==
+''Valencian pilota'' players are called ''pilotaris'' or ''pilotaires''. Usually amateur players are only proficient in one variant, but professional players tend to be hired for social events and exhibitions in other variants. There are now only two variants with professional players: [[Escala i corda]] and [[Raspall]].
+
+Traditionally, each player managed his own agenda and arranged his fees, but in 2005 a new company, [[ValNet]], presided over by the retired pilotari [[Alfred Hernando|Fredi]] contracted almost all professional players.
+
+For a list of relevant historical or active players, see [[Valencian pilotaris]]. Also, see below for the existing professional leagues and competitions.
+
+=== Renowned active pilotaris ===
+* [[Álvaro Navarro Serra|Álvaro]]
+* [[José María Sarasol|Sarasol II]]
+* [[Waldo Vila Gilabert|Waldo]]
+
+=== Retired pilotaris ===
+* [[Paco Cabanes Pastor|Genovés I]]
+* [[Julio Palau Lozano|Juliet d'Alginet]]
+* [[José Vicente Riera Calatayud|Nel de Murla]]
+* [[Alberto Arnal|Quart]]
+* [[Antonio Reig|Rovellet]]
+* [[Enric Sarasol|Sarasol I]]
+
+== Professional Leagues and competitions ==
+
+Escala i Corda
+* [[Trofeu Individual Bancaixa]], singles
+** [[Trofeu Individual Bancaixa 2007]]
+* [[Circuit Bancaixa]], teams
+** [[Circuit Bancaixa 07/08]]
+Raspall
+* [[Raspall team championship]], teams
+* [[Raspall singles championship]], singles
+
+== See also ==
+{{commons|Pilota valenciana}}
+* [[Basque Pelota]]
+* [[Frisian handball]]
+* [[Longue paume]]
+* [[Tuscan Pelota]]
+* [[Pallone]]
+
+== References ==
+<references/>
+
+== External links ==
+* {{ca icon}} {{es icon}} [http://www.fedpival.es/ Valencian pilota federation]
+* {{ca icon}} [http://www.pilotavalenciana.es News about Valencian pilota]
+* {{ca icon}} [http://www.pilotavalenciana.com News and shop about Valencian pilota]
+* [http://www.museupilota.com/multimedia.asp Online one-on-one ''Escala i corda'' game, videos and 3D views of a ''trinquet]
+* {{es icon}} [http://club.telepolis.com/pedroelzurdo/ Personal site of Pedro, a Valencian pilotari]
+* {{es icon}} [http://www.ucv.es/pilota2007/default_esp.asp II Handball World Meeting]
+
+==Videos==
+*[https://www.youtube.com/results?search_query=genov%C3%A9s+sarasol&search= Youtube: 7 videos featuring the 1993 Escala i Corda Individual final match, Genovés I vs. Sarasol I]
+*[http://video.google.com/videoplay?docid=3445727755287964427 Pilota valenciana: Joc i tradició. 15 minutes documentary]
+
+{{Culture of Valencian Community}}
+
+{{DEFAULTSORT:Valencian Pilota}}
+
+
+
+
+

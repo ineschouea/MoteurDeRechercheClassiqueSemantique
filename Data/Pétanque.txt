@@ -1,0 +1,725 @@
+{{Infobox sport
+| image=
+| imagesize=
+| caption=
+| union=[http://fipjp.org/index.php/en/ Fédération Internationale de Pétanque et Jeu Provençal]
+| nickname=
+| first= Provence, France
+| first team= 
+| registered=
+| clubs=
+| contact=Non-contact
+| team=Individual, doubles and triples
+| mgender=
+| category=[[Boules]]
+| ball=Boules (balls) & cochonnet (little ball)
+| olympic= No
+| IWGA   = [[1985 World Games|1985]]–present
+}}
+[[File:Petanque-marseille-2017.jpg|427x427px|The sport of Pétanque being played in Marseille|alt=|thumb]]
+'''Pétanque''' ({{IPA-fr|pet??k}}; {{lang-oc|petanca}} {{IPA-oc|pe?ta?k?|}}) is a sport that falls into the category of [[boules]] sports, along with [[Raffa (boules)|raffa]], [[bocce]], boule lyonnaise, [[Bowls|lawn bowls]] and [[Crown green bowls|crown green bowling]]. All of these sports share something in common, in that players or teams play their boules/balls towards a target ball.
+
+In Pétanque the objective is to score points by having boules closer to the target than your opponent after all boules have been thrown. This is achieved by projecting boules closer to the target, called a cochonnet,<ref>The cochonnet is also sometimes called a ''bouchon'' (literally "little ball", from the [[Occitan]] ''bochon'') or ''le petit'' ("the small one").</ref> or by hitting the opponents' boules away from the target, while standing inside a circle with both feet on the ground.
+
+The game is normally played on hard dirt or gravel.  It can be played in public areas in parks, or in dedicated facilities called ''boulodromes''.
+
+[[File:Dscn0054-boules-in-action 600x800.jpg|thumb|300px|right|Pétanque players on the beach in [[Nice]]]]
+
+The current form of the game originated in 1907 or 1910 in [[La Ciotat]], in [[Provence]], France. The French name ''pétanque'' (borrowed into English, with or without the acute accent) comes from ''petanca'' in the [[Provençal dialect]] of the [[Occitan]] language, deriving from the expression ''pès tancats'' {{IPA|[?p?s ta??kats]}}, meaning 'feet fixed' or 'feet planted' (on the ground).<ref>{{cite web|url=https://petanque.wordpress.com/2014/09/20/origin-of-word-petanque/|title=Terminology – Origin of the word pétanque|date=21 September 2014|publisher=}}</ref>
+
+== History ==
+=== Invention of the game ===
+Boules games have [[Boules#Boules games in history|a very long history]], dating back through the Middle Ages to ancient Rome, and before that to ancient Greece and Egypt.
+
+In France in the second half of the 19th century a form of boules known as [[Jeu Provençal|''jeu provençal'']] (or ''boule lyonnaise'') was extremely popular.  In this form of the game players rolled their boules or ran three steps before throwing a boule.  Pétanque originally developed as an offshoot or variant of  ''jeu provençal'' in 1910, in what is now called the ''Jules Lenoir Boulodrome'' in the town of [[La Ciotat]] near Marseilles.  A former ''jeu provençal'' player named Jules Lenoir was afflicted by  rheumatism so severe that he could no longer run before throwing a boule.  In fact, he could barely stand. A good friend named Ernest Pitiot was a local café owner.  In order to accommodate his friend Lenoir, Pitiot developed a variant form of the game in which the length of the pitch or field was reduced by roughly half, and a player, instead of running to throw a boule, stood, stationary, in a circle. They called the game ''pieds tanqués'', "feet planted" (on the ground), a name that eventually evolved into the game's current name, ''pétanque''.<ref>{{cite journal |first=Charles |last=Giol |title=La pétanque |work=Historia |date=November 2011}}</ref>
+
+The first pétanque tournament was organized by Ernest Pitiot, along with his brother Joseph Pitiot, in 1910 in La Ciotat. After that the game spread quickly and soon became the most popular form of boules in France.
+
+Before the mid-1800s, European boules games were played with solid wooden balls, usually made from boxwood root, a very hard wood. The late 1800s saw the introduction of cheap mass-manufactured nails, and wooden boules gradually began to be covered with nails, producing ''boules cloutées'' ("nailed boules").  After World War I, cannonball manufacturing technology was adapted to allow the manufacture of hollow, all-metal boules.  The first all-metal boule, ''la Boule Intégrale'', was introduced in the mid-1920s by Paul Courtieu.  The ''Intégrale'' was cast in a single piece from a bronze-aluminum alloy.  Shortly thereafter Jean Blanc invented a process of manufacturing steel boules by stamping two steel blanks into hemispheres and then welding the two hemispheres together to create a boule.  With this technological advance, hollow all-metal balls rapidly became the norm.<ref>See [http://petanque.wordpress.com/2012/08/26/the-birth-of-petanque The Birth of Petanque]</ref>
+
+=== Global spread of the game ===
+After the development of the all-metal boule, pétanque spread rapidly from Provence to the rest of France, then to the rest of Europe, and then to Francophone colonies and countries around the globe. Today, many countries have their own national governing bodies.
+
+[[Image:Pétanque players in Cannes (France) 2003.jpg|thumb|400px|right|Pétanque players in [[Cannes]]]]In France, the ''Fédération Française de Pétanque et Jeu Provençal'' ([https://web.archive.org/web/20180306223901/http://ffpjp.net/  FFPJP]) has more than 300,000 licensed members.
+
+There are strong national federations in [http://www.petanque-dpv.de/ Germany], [http://www.fepetanca.com/ Spain], and [http://www.englishpetanque.org.uk/ England].  Petanque is actively played in many nations with histories of [[French colonialism|French colonial]] influence, especially in [[Southeast Asia]], including [[Laos]], [[Thailand]], [[Vietnam]], [[Cambodia]], and [[Puducherry, India]], as well as some parts of Africa.  Today, some of the strongest players in the world come from [http://www.kanetystar.com/ Madagascar] and [http://www.pongpansport.com/index.php%3Fmo%3D59%26id%3D962324&usg=ALkJrhiOtnRRHigbCgbcyCzWZSqsht8TDQ Thailand].
+
+Pétanque was featured at the [[2015 All-Africa Games]], which were hosted by the [[Republic of Congo]], a former French colony.<ref>{{cite web|last1=Okamba|first1=Louis|last2=Imray|first2=Gerald|title=All Africa Games return to roots in Republic of Congo|url=http://www.timesunion.com/sports/article/All-Africa-Games-return-to-roots-in-Republic-of-6486997.php|website=Times Union|publisher=Associated Press|accessdate=6 September 2015}}</ref>
+
+Petanque is not widely played in the Americas.  There is a [http://www.petanquecanada.com/ Canadian petanque federation] based in [[Québec]]. In the United States the Federation of Petanque USA [http://www.fpusa.org (FPUSA)] reports that about 30,000 play nationwide. As of December 1, 2015, FPUSA counted 2141 members in the US, in 52 affiliated clubs.<ref>FPUSA 2015/16. Annual Publication of the Federation of Petanque, USA</ref>
+
+On the international level, the [[Sport governing body|governing body]] of petanque is the ''Fédération Internationale de Pétanque et Jeu Provençal'' ([http://www.fipjp.com FIPJP]).  It was founded in 1958 in [[Marseille]] and has about 600,000 members in 52 countries {{as of|2002|lc=y}}.
+
+'''In popular culture''': The game makes an appearance in the 1966 French crime film ''Le deuxieme souffle''.
+
+=== National and international competitions ===
+There are a number of important world championship tournaments.
+
+The [[Pétanque World Championships|FIPJP world championships]] take place every two years.  Men's championships are held in even-numbered years, while Women's and Youth championships are held in odd-numbered years.<ref>[http://www.fipjp.com/en/world-championships ''Les Championnats du Monde de Pétanque ''] {{webarchive|url=https://web.archive.org/web/20121215041507/http://www.fipjp.com/en/world-championships |date=2012-12-15 }} at the FIPJP web site.</ref>
+
+Perhaps the best-known international championship is the ''[[Mondial la Marseillaise à Pétanque]]'', which takes place every year in [[Marseille, France]], with more than 10,000 participants and more than 150,000 spectators.<ref>{{Cite web |url=http://www.flyprovence.com/en/Mondial_La_Marseillaise_a_Petanque_-agenda-sports-215-13.html |title=Archived copy |access-date=2013-03-08 |archive-url=https://web.archive.org/web/20140323224900/http://www.flyprovence.com/en/Mondial_La_Marseillaise_a_Petanque_-agenda-sports-215-13.html |archive-date=2014-03-23 |dead-url=yes |df= }}</ref>
+
+The largest annual tournament in the United States is the [http://ameliaisland.com/petanque Petanque Amelia Island Open] (formerly the Petanque America Open), held in each year in November at [[Amelia Island, Florida]].
+
+[http://labritishopenpetanque.uk/ La British Open] is a major Pétanque tournament held in the North of England, in the [[United Kingdom]]. So far, this attracts players from across the UK and Europe.
+
+Pétanque is not currently an [[Olympic Games|Olympic]] sport, although the [[Confédération Mondiale des Sports de Boules]]&mdash;which was created in 1985 by several international boules organizations specifically for this purpose&mdash;has been lobbying the Olympic committee since 1985 to make it part of the summer Olympics.<ref>[http://www.fipjp.com/en/modern_history History of the FIPJP] {{webarchive|url=https://web.archive.org/web/20120810000056/http://www.fipjp.com/en/modern_history |date=2012-08-10 }} at the FIPJP web site.</ref><ref>{{cite web|url=https://petanque.wordpress.com/cmsb/|title=CMSB|date=7 October 2014|publisher=}}</ref>
+
+==Playing the game==
+{{Unreferenced section|date=February 2018}}
+
+===Equipment ===
+Pétanque is played by two teams, where each team consists of one, two, or three players.
+
+In the singles and doubles games each player plays with three metal boules.  In triples each player uses only two.
+
+The area where a pétanque game is played is called a ''terrain''.  A game can be played in an open area like a public park, where the boundaries of the terrain are not marked, or more formally on a "marked terrain" where the terrain boundaries are marked (traditionally, by strings tightly strung between nails driven into the ground).
+
+[[File:Petanque - throwing from the circle.jpg|thumb|Pétanque player throwing from a prefabricated circle]]
+In pétanque, players throw while standing in a circle.  Traditionally, the circle was simply scratched in the dirt.  Starting around 2005, red plastic "prefabricated" circles were introduced and are now widely used in formal games.  A circle drawn on the ground must be {{Convert|35-50|cm||abbr=on}} in diameter, while a plastic circle must have an inside diameter of {{Convert|50|cm||abbr=on}}.
+
+===The "ends"===
+A game consists of several ''mènes''.  The French word ''mène'' is usually translated into English as "end" or "round".
+
+An end consists of the throwing out of the jack (the little wooden target ball), followed by the two teams throwing their boules.
+
+After both teams have thrown all of their boules, the team with the boule closest to the jack wins the end.  The winning team scores one point for each of its boules that is closer than the opposing team's closest boule.  That means that the winning team could in theory score as many as six points in an end, although a score of one or two points is more typical.
+
+As the game progresses, each team accumulates points until one of the teams reaches 13, the winning number of points.
+
+===Order of play===
+
+A game begins with a coin toss to determine which team plays first.  The team that wins the toss begins the game by placing the circle, then standing in the circle and throwing the jack to a distance of {{Convert|6-10|m|}}. A player from the team that threw the jack, throws the first boule. Then a player from the opposing team throws a boule.
+
+From that point on, the team with the boule that is closest to the jack is said to "have the point". The team that does not have the point, throws the next boule. That team continues to throw boules until it either gains the point, or runs out of boules.
+
+If at any point the closest boules from each team are equidistant from the jack, then the team that threw the last boule throws again. If the boules are still equidistant then the teams play alternately until the tie is broken. If the boules are still equidistant at the end of the ''mène'' then neither team scores any points.
+
+The team that won the end, starts the next end. A player from the winning team places (or draws) a circle around the jack. He/she then picks up the jack, stands in the circle, and throws the jack to start the next end.
+
+===Scoring=== 
+[[Image:Petanque scoring example 1 point.png|thumb|left|Team Red has the boule closest to the jack, but the second-closest boule belongs to Team Blue.  Red scores one point.  Blue scores nothing.]][[Image:Petanque scoring example 2 points.png|thumb|right|Team Red has two boules closer than Team Blue's closest boule.  Red scores two points. Blue scores nothing.]] An end is complete when both teams have played all of their boules, or when the jack is knocked out of play (goes "dead").
+
+If the end finishes in the usual way—with the jack still alive and one team with the closest boule—then the team with the closest boule wins the end and scores one point for each of its boules that is closer to the jack than other team's closest boule.
+
+If the jack is alive but there is an "equidistant boules" situation at the end of the mène, then neither team scores any points.  If the jack is dead at the finish of the end, then if one (and only one) team still has boules left to play, that team scores one point for each boule that it still has in hand. Otherwise neither team scores any points in the end (like an inning in baseball in which neither team scores any runs).
+
+{{clear}}
+
+===Miscellaneous rules===
+
+*Boules can be thrown in any way that the player wishes, but the traditional way is to hold the boule with the palm of the hand downwards, and then to throw with an under-arm swing of the arm ending in an upward flick of the wrist.  Throwing this way puts backspin on the boule and gives the player the maximum amount of control and flexibility when throwing.
+*The boule can be rolled, thrown to a moderate height, or even thrown to a great height (a high lob or ''portée'').
+*Players usually carry a tape measure for measuring close points.
+*At the beginning of an end, before throwing the jack, if there isn't enough room for the player to throw the jack to the maximum legal distance of {{Convert|10|m|}}, then the player is allowed to move the circle back to a point where there ''is'' enough room.
+*On a terrain with boundaries marked with strings, a boule or jack must ''completely'' cross the boundary string before it is considered to be out-of-bounds and dead.
+
+== Equipment specifications ==
+[[Image:Boule.kugel.jpg|thumb|right|Jack (''cochonnet'') and boule]]{{Unreferenced section|date=February 2018}}
+
+=== Boules ===
+'''Leisure boules''' are boules that do not meet the FIPJP standards for competition boules, but are less expensive than competition boules and completely adequate for "backyard" games.  Unlike competition boules, leisure boules are a "one size fits all" affair&mdash;they come in one weight and size.
+
+'''Competition boules''' must meet specifications set by the FIPJP.  They must be hollow and made of metal (usually steel) with a diameter between {{Convert|70.5 and 80|mm||abbr=on}} and a weight between {{Convert|650 and 800|g||abbr=on}}. When purchasing competition boules, a purchaser has a choice of a number of characteristics of the boules, including the size, weight, and hardness of the boules, as well as the striations (patterned grooves on the surface of the boules).
+
+=== Cochonnet ===
+The jack, or target ball, is a small ball made of wood, traditionally boxwood or beechwood, {{Convert|30|mm||abbr=on}} in diameter.<ref>In 2002 the FIPJP began certifying non-wooden "synthetic" or "resin" jacks, and in 2013 began certifying synthetic jacks capable of being picked up by a magnet.  In 2016, however, synthetic jacks were effectively outlawed because of their weight. For a review of the evolution of the rules governing the jack, see https://petanquerules.wordpress.com/2015/02/15/evolution-of-the-jack/</ref>  In the past jacks were often left "natural"—unfinished or with a clear finish—but nowadays they are often painted in bright colors.  In French, the jack is known by a variety of names, including ''but'' (goal or target), ''cochonnet'' (piglet), ''bouchon'' ("little ball" in [[provençal language]], not related to the french word "bouchon" that designates a bottle stopper), ''le petit'' (the little one), and ''gari'' ("[[rat]]", also in provençal language).
+
+===Playing area===
+
+Pétanque can be played on almost any flat, open space. The ground may be irregular and interrupted by trees or rocks, and the surface is likely to be uneven, with some areas hard and smooth and other areas rough and stony. When an area is constructed specifically for the purposes of playing petanque, the playing surface is typically loose gravel, decomposed granite, brick grog or crushed sea shell.   Sandy beaches are not suitable, although light plastic boules are sometimes used to adapt the game for the beach. There is no requirement for backboards or sideboards (as in bocce), but dedicated playing areas are often enclosed in boards or some other structural barrier.
+
+In France, village squares and park pathways are often used as pétanque playing areas.  In addition, many towns have recreational facilities (''boulodromes'') constructed especially for playing pétanque.
+
+An area where a single pétanque game is played is called a 'piste'.  A ''terrain'' is an area where one or more petanque games are being played. At any given time a ''terrain'' may be hosting one or more ''pistes''.
+
+For tournaments, a large playing area is subdivided and marked off (typically using nails and string) into rectangular ''marked terrains'' (also known as "lanes" (''cadres'') or "pistes") so that multiple games may be carried on simultaneously. For tournament play, a marked terrain is a rectangle at least {{Convert|4|m|}} wide and {{Convert|15|m|}} long.
+
+In the United States, proponents of pétanque such as author Byron Putman often urge the use of non-dedicated public terrains&mdash;public walking paths, playground areas, dirt/gravel parking lots, and baseball infields &ndash; as terrains.
+
+== Strategy ==
+{{Unreferenced section|date=February 2018}}
+
+=== Pointing and shooting ===
+Generally speaking, a player throws a boule with one of two objectives.
+* To make his boule come to rest in a particular spot, usually as close as possible to the jack. This is called ''pointing''. 
+* To make his boule directly hit an opponent's boule with the goal of knocking it away from the jack.  This is called ''shooting''.
+The best throw of all is called a ''carreau''.  It is a shot that knocks away the opponent's boule, leaving the thrown boule exactly in its place.
+
+Players who are skillful enough to shoot effectively are called ''shooters''; players who usually point are called ''pointers''.  (The French terms are ''tireur'' and ''pointeur'', respectively.)  As a matter of strategy, pointers play first and shooters are held in reserve in case the opponents place well.  Good pointing is what scores points, but national and international championships are usually dominated by skillful shooters, who target any opposing boule that comes close to scoring.
+
+===Throwing a boule===
+Some strategic considerations involved in the throw of a boule include:
+
+* Traditionally, a fundamental rule of petanque is ''boule devant, boule d'argent'' ("A ball in front is a money ball."). A boule located in front of the jack is much more valuable than one behind the jack.  A boule in front blocks the opposing team from easy access to the jack, and it may also (intentionally or accidentally) be hit and pushed closer to the jack.
+* As a pointer, if you point a boule ''very'' close to the jack, you force the opposing shooter to shoot it immediately.  That may be a bad thing if you really wanted to keep that boule.  Or it may be a good thing if you're trying to force the opposing shooter to exhaust his supply of boules.
+* Generally speaking, it is a bad idea to shoot with your team's last boule.  In most cases, the better strategy is to "limit the damage" by pointing your team's last boule close enough to the jack to limit the opposing team to winning only one point.
+
+===Throwing the jack===
+Strategic considerations involved in the throw of the jack include:
+
+* Throw the jack to a distance at which your own shooter is most comfortable, or the opposing shooter is least comfortable. 
+* Aim for a location on the terrain that your own pointers favor, or that might be difficult for the opposing team's pointers.
+* Disorient the opposing team by refusing to get in a rut.  At each opportunity, throw the jack to a new position on the terrain, and alternate long and short distances.
+
+== Glossary of special terms ==
+{{Unreferenced section|date=February 2018}}
+*'''to have the point'''
+:A team is said to "have the point" if one of its boules is closer to the jack than any of the opposing team's boules.  A team that has the point is basically in a winning position, so the team that does NOT have the point throws the next boule and attempts to gain the point.
+
+*'''''boule devant, boule d'argent'''''
+:Roughly "A ball in front is a money ball". This maxim reminds players that when pointing, the most valuable place for a boule is in front of the jack.  In that location, it prevents opponents from throwing directly toward the jack, and hitting it will push it even closer to the jack.
+
+*'''to point'''
+:To throw one's boule with the intent of stopping near the jack (also known as placing).
+
+*'''to shoot'''
+:To throw one's boule at an opponent's boule (or at the jack) in an attempt to knock it out of play.  When the opposing team has a boule positioned very close to the jack, often the best strategy is to attempt to shoot it.  A team in a desperate situation may attempt to save itself by shooting the jack out of bounds.
+
+*'''to lob'''
+: (French: ''une portée'') To throw one's boule in a high arc so that when it lands it only rolls minimally. Video: [https://www.youtube.com/watch?v=rxrMy9XFLXE Marco Foyot demonstrates the high lob.]
+
+*'''''carreau'''''
+:(pronounced ''care-ROW'').  A shot that knocks an opposing boule away from the jack and replaces it (in very nearly the same spot) with the thrower's own boule.  Basically, the perfect shot.  Video: [https://www.youtube.com/watch?v=Hm9MoYTqwHY&t=1m48s Diego Rizzi demonstrates a perfect carreau.]
+
+[[File:Fanny Le Rituel.jpg|thumb|right|A man kissing Fanny.]]
+
+*'''to fanny''' (''mettre fanny'' in French)
+:To win a game without the opposing team scoring any points; a shutout game.  When a player loses 13 to 0, he is said to ''fanny'' ("''il est fanny''", he's fanny, or "''il a fait fanny''", he made fanny) and must kiss the bottom of a girl named Fanny.  Virtually everywhere in Provence where pétanque is played, you will find a picture, woodcarving, or pottery figure of a bare-bottomed lass named Fanny.  Often, the team that made "fanny" has to buy a round of drinks for the winning team ("''Fanny paie à boire!''", "the fanny pays for the drinks!").
+
+==Image gallery==
+<gallery>
+Image:Pétanque a Aigues-Mortes-France.JPG|Playing pétanque in the late afternoon at [[Aigues-Mortes]]
+Image:Toulon Playing Boules.jpg|Men playing pétanque next to the Fort St. Louis in [[Toulon]].
+Image:Pétanque Championnats du monde à Grenoble (308551840).jpg|The 2006 Pétanque World Championship in [[Grenoble]], France
+Image:Petanque batignolles.jpg|Action on the Pétanque field in [[Batignolles]].
+Image:Petanque in brighton.JPG|Players of the Brighton & Hove Petanque Club on the Peace Statue Terrain, [[Brighton & Hove]], [[UK]]
+Image:Boulespieler am Hafen von Bonifacio im August 1975 (retouched).jpg|Pétanque players at the port of [[Bonifacio, Corse-du-Sud|Bonifacio]] in 1975
+</gallery>
+
+==See also==
+* [[Boules]]
+* [[Bocce]]
+* [[Boccia]]
+* [[Curling]]
+* [[Kubb]], a Swedish throwing game
+* [[Bowls]]
+* [[Bolas criollas]]
+* [[Pétanque World Championships]]
+* [[Mondial la Marseillaise de pétanque]]
+* [[Swedish pétanque championships]]
+* [[Tejo (sporty)|Tejo]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+<!--Please add club links under clubs and add petanque interest sites under General-->
+
+{{commons|Pétanque}}
+* [http://fipjp.org/index.php/en/ FIPJP - Fédération Internationale de Pétanque et Jeu Provençal] is the international governing body for pétanque.  Its web site contains a variety of useful information, including the official international rules of pétanque and a list of its national members.
+* [http://www.cep-petanque.com/ CEP - Confédération Européenne de Pétanque (CEP)] is the European Governing body for Pétanque.
+* [http://www.ffpjp.info FFPJP - Fédération Francais de Pétanque et Jeu Provençal] is the governing body for Pétanque in France, and the most important national member of FIPJP.
+* [http://www.usapetanque.org FPUSA - Federation of Petanque U.S.A.] is the governing body for Pétanque in the United States.  It is a member of FIPJP.
+* [http://petanque.wordpress.com/about/ Petanque overview] at ''All about Petanque''
+* [http://www.petanquetube.com/ Petanque videos] at ''PetanqueTube''
+* [http://www.beachmedia.com/epetstra.html More on strategy] at Pétanque USA
+* [http://www.petanquerules.wordpress.com Rules of Petanque (English)] - collection/archive of the rules of petanque in English
+
+{{Bowling}}
+{{Team Sport}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Petanque}}
+
+
+
+
+
+
+
+
+{{Infobox sport
+| image=
+| imagesize=
+| caption=
+| union=[http://fipjp.org/index.php/en/ Fédération Internationale de Pétanque et Jeu Provençal]
+| nickname=
+| first= Provence, France
+| first team= 
+| registered=
+| clubs=
+| contact=Non-contact
+| team=Individual, doubles and triples
+| mgender=
+| category=[[Boules]]
+| ball=Boules (balls) & cochonnet (little ball)
+| olympic= No
+| IWGA   = [[1985 World Games|1985]]–present
+}}
+[[File:Petanque-marseille-2017.jpg|427x427px|The sport of Pétanque being played in Marseille|alt=|thumb]]
+'''Pétanque''' ({{IPA-fr|pet??k}}; {{lang-oc|petanca}} {{IPA-oc|pe?ta?k?|}}) is a sport that falls into the category of [[boules]] sports, along with [[Raffa (boules)|raffa]], [[bocce]], boule lyonnaise, [[Bowls|lawn bowls]] and [[Crown green bowls|crown green bowling]]. All of these sports share something in common, in that players or teams play their boules/balls towards a target ball.
+
+In Pétanque the objective is to score points by having boules closer to the target than your opponent after all boules have been thrown. This is achieved by projecting boules closer to the target, called a cochonnet,<ref>The cochonnet is also sometimes called a ''bouchon'' (literally "little ball", from the [[Occitan]] ''bochon'') or ''le petit'' ("the small one").</ref> or by hitting the opponents' boules away from the target, while standing inside a circle with both feet on the ground.
+
+The game is normally played on hard dirt or gravel.  It can be played in public areas in parks, or in dedicated facilities called ''boulodromes''.
+
+[[File:Dscn0054-boules-in-action 600x800.jpg|thumb|300px|right|Pétanque players on the beach in [[Nice]]]]
+
+The current form of the game originated in 1907 or 1910 in [[La Ciotat]], in [[Provence]], France. The French name ''pétanque'' (borrowed into English, with or without the acute accent) comes from ''petanca'' in the [[Provençal dialect]] of the [[Occitan]] language, deriving from the expression ''pès tancats'' {{IPA|[?p?s ta??kats]}}, meaning 'feet fixed' or 'feet planted' (on the ground).<ref>{{cite web|url=https://petanque.wordpress.com/2014/09/20/origin-of-word-petanque/|title=Terminology – Origin of the word pétanque|date=21 September 2014|publisher=}}</ref>
+
+== History ==
+=== Invention of the game ===
+Boules games have [[Boules#Boules games in history|a very long history]], dating back through the Middle Ages to ancient Rome, and before that to ancient Greece and Egypt.
+
+In France in the second half of the 19th century a form of boules known as [[Jeu Provençal|''jeu provençal'']] (or ''boule lyonnaise'') was extremely popular.  In this form of the game players rolled their boules or ran three steps before throwing a boule.  Pétanque originally developed as an offshoot or variant of  ''jeu provençal'' in 1910, in what is now called the ''Jules Lenoir Boulodrome'' in the town of [[La Ciotat]] near Marseilles.  A former ''jeu provençal'' player named Jules Lenoir was afflicted by  rheumatism so severe that he could no longer run before throwing a boule.  In fact, he could barely stand. A good friend named Ernest Pitiot was a local café owner.  In order to accommodate his friend Lenoir, Pitiot developed a variant form of the game in which the length of the pitch or field was reduced by roughly half, and a player, instead of running to throw a boule, stood, stationary, in a circle. They called the game ''pieds tanqués'', "feet planted" (on the ground), a name that eventually evolved into the game's current name, ''pétanque''.<ref>{{cite journal |first=Charles |last=Giol |title=La pétanque |work=Historia |date=November 2011}}</ref>
+
+The first pétanque tournament was organized by Ernest Pitiot, along with his brother Joseph Pitiot, in 1910 in La Ciotat. After that the game spread quickly and soon became the most popular form of boules in France.
+
+Before the mid-1800s, European boules games were played with solid wooden balls, usually made from boxwood root, a very hard wood. The late 1800s saw the introduction of cheap mass-manufactured nails, and wooden boules gradually began to be covered with nails, producing ''boules cloutées'' ("nailed boules").  After World War I, cannonball manufacturing technology was adapted to allow the manufacture of hollow, all-metal boules.  The first all-metal boule, ''la Boule Intégrale'', was introduced in the mid-1920s by Paul Courtieu.  The ''Intégrale'' was cast in a single piece from a bronze-aluminum alloy.  Shortly thereafter Jean Blanc invented a process of manufacturing steel boules by stamping two steel blanks into hemispheres and then welding the two hemispheres together to create a boule.  With this technological advance, hollow all-metal balls rapidly became the norm.<ref>See [http://petanque.wordpress.com/2012/08/26/the-birth-of-petanque The Birth of Petanque]</ref>
+
+=== Global spread of the game ===
+After the development of the all-metal boule, pétanque spread rapidly from Provence to the rest of France, then to the rest of Europe, and then to Francophone colonies and countries around the globe. Today, many countries have their own national governing bodies.
+
+[[Image:Pétanque players in Cannes (France) 2003.jpg|thumb|400px|right|Pétanque players in [[Cannes]]]]In France, the ''Fédération Française de Pétanque et Jeu Provençal'' ([https://web.archive.org/web/20180306223901/http://ffpjp.net/  FFPJP]) has more than 300,000 licensed members.
+
+There are strong national federations in [http://www.petanque-dpv.de/ Germany], [http://www.fepetanca.com/ Spain], and [http://www.englishpetanque.org.uk/ England].  Petanque is actively played in many nations with histories of [[French colonialism|French colonial]] influence, especially in [[Southeast Asia]], including [[Laos]], [[Thailand]], [[Vietnam]], [[Cambodia]], and [[Puducherry, India]], as well as some parts of Africa.  Today, some of the strongest players in the world come from [http://www.kanetystar.com/ Madagascar] and [http://www.pongpansport.com/index.php%3Fmo%3D59%26id%3D962324&usg=ALkJrhiOtnRRHigbCgbcyCzWZSqsht8TDQ Thailand].
+
+Pétanque was featured at the [[2015 All-Africa Games]], which were hosted by the [[Republic of Congo]], a former French colony.<ref>{{cite web|last1=Okamba|first1=Louis|last2=Imray|first2=Gerald|title=All Africa Games return to roots in Republic of Congo|url=http://www.timesunion.com/sports/article/All-Africa-Games-return-to-roots-in-Republic-of-6486997.php|website=Times Union|publisher=Associated Press|accessdate=6 September 2015}}</ref>
+
+Petanque is not widely played in the Americas.  There is a [http://www.petanquecanada.com/ Canadian petanque federation] based in [[Québec]]. In the United States the Federation of Petanque USA [http://www.fpusa.org (FPUSA)] reports that about 30,000 play nationwide. As of December 1, 2015, FPUSA counted 2141 members in the US, in 52 affiliated clubs.<ref>FPUSA 2015/16. Annual Publication of the Federation of Petanque, USA</ref>
+
+On the international level, the [[Sport governing body|governing body]] of petanque is the ''Fédération Internationale de Pétanque et Jeu Provençal'' ([http://www.fipjp.com FIPJP]).  It was founded in 1958 in [[Marseille]] and has about 600,000 members in 52 countries {{as of|2002|lc=y}}.
+
+'''In popular culture''': The game makes an appearance in the 1966 French crime film ''Le deuxieme souffle''.
+
+=== National and international competitions ===
+There are a number of important world championship tournaments.
+
+The [[Pétanque World Championships|FIPJP world championships]] take place every two years.  Men's championships are held in even-numbered years, while Women's and Youth championships are held in odd-numbered years.<ref>[http://www.fipjp.com/en/world-championships ''Les Championnats du Monde de Pétanque ''] {{webarchive|url=https://web.archive.org/web/20121215041507/http://www.fipjp.com/en/world-championships |date=2012-12-15 }} at the FIPJP web site.</ref>
+
+Perhaps the best-known international championship is the ''[[Mondial la Marseillaise à Pétanque]]'', which takes place every year in [[Marseille, France]], with more than 10,000 participants and more than 150,000 spectators.<ref>{{Cite web |url=http://www.flyprovence.com/en/Mondial_La_Marseillaise_a_Petanque_-agenda-sports-215-13.html |title=Archived copy |access-date=2013-03-08 |archive-url=https://web.archive.org/web/20140323224900/http://www.flyprovence.com/en/Mondial_La_Marseillaise_a_Petanque_-agenda-sports-215-13.html |archive-date=2014-03-23 |dead-url=yes |df= }}</ref>
+
+The largest annual tournament in the United States is the [http://ameliaisland.com/petanque Petanque Amelia Island Open] (formerly the Petanque America Open), held in each year in November at [[Amelia Island, Florida]].
+
+[http://labritishopenpetanque.uk/ La British Open] is a major Pétanque tournament held in the North of England, in the [[United Kingdom]]. So far, this attracts players from across the UK and Europe.
+
+Pétanque is not currently an [[Olympic Games|Olympic]] sport, although the [[Confédération Mondiale des Sports de Boules]]&mdash;which was created in 1985 by several international boules organizations specifically for this purpose&mdash;has been lobbying the Olympic committee since 1985 to make it part of the summer Olympics.<ref>[http://www.fipjp.com/en/modern_history History of the FIPJP] {{webarchive|url=https://web.archive.org/web/20120810000056/http://www.fipjp.com/en/modern_history |date=2012-08-10 }} at the FIPJP web site.</ref><ref>{{cite web|url=https://petanque.wordpress.com/cmsb/|title=CMSB|date=7 October 2014|publisher=}}</ref>
+
+==Playing the game==
+{{Unreferenced section|date=February 2018}}
+
+===Equipment ===
+Pétanque is played by two teams, where each team consists of one, two, or three players.
+
+In the singles and doubles games each player plays with three metal boules.  In triples each player uses only two.
+
+The area where a pétanque game is played is called a ''terrain''.  A game can be played in an open area like a public park, where the boundaries of the terrain are not marked, or more formally on a "marked terrain" where the terrain boundaries are marked (traditionally, by strings tightly strung between nails driven into the ground).
+
+[[File:Petanque - throwing from the circle.jpg|thumb|Pétanque player throwing from a prefabricated circle]]
+In pétanque, players throw while standing in a circle.  Traditionally, the circle was simply scratched in the dirt.  Starting around 2005, red plastic "prefabricated" circles were introduced and are now widely used in formal games.  A circle drawn on the ground must be {{Convert|35-50|cm||abbr=on}} in diameter, while a plastic circle must have an inside diameter of {{Convert|50|cm||abbr=on}}.
+
+===The "ends"===
+A game consists of several ''mènes''.  The French word ''mène'' is usually translated into English as "end" or "round".
+
+An end consists of the throwing out of the jack (the little wooden target ball), followed by the two teams throwing their boules.
+
+After both teams have thrown all of their boules, the team with the boule closest to the jack wins the end.  The winning team scores one point for each of its boules that is closer than the opposing team's closest boule.  That means that the winning team could in theory score as many as six points in an end, although a score of one or two points is more typical.
+
+As the game progresses, each team accumulates points until one of the teams reaches 13, the winning number of points.
+
+===Order of play===
+
+A game begins with a coin toss to determine which team plays first.  The team that wins the toss begins the game by placing the circle, then standing in the circle and throwing the jack to a distance of {{Convert|6-10|m|}}. A player from the team that threw the jack, throws the first boule. Then a player from the opposing team throws a boule.
+
+From that point on, the team with the boule that is closest to the jack is said to "have the point". The team that does not have the point, throws the next boule. That team continues to throw boules until it either gains the point, or runs out of boules.
+
+If at any point the closest boules from each team are equidistant from the jack, then the team that threw the last boule throws again. If the boules are still equidistant then the teams play alternately until the tie is broken. If the boules are still equidistant at the end of the ''mène'' then neither team scores any points.
+
+The team that won the end, starts the next end. A player from the winning team places (or draws) a circle around the jack. He/she then picks up the jack, stands in the circle, and throws the jack to start the next end.
+
+===Scoring=== 
+[[Image:Petanque scoring example 1 point.png|thumb|left|Team Red has the boule closest to the jack, but the second-closest boule belongs to Team Blue.  Red scores one point.  Blue scores nothing.]][[Image:Petanque scoring example 2 points.png|thumb|right|Team Red has two boules closer than Team Blue's closest boule.  Red scores two points. Blue scores nothing.]] An end is complete when both teams have played all of their boules, or when the jack is knocked out of play (goes "dead").
+
+If the end finishes in the usual way—with the jack still alive and one team with the closest boule—then the team with the closest boule wins the end and scores one point for each of its boules that is closer to the jack than other team's closest boule.
+
+If the jack is alive but there is an "equidistant boules" situation at the end of the mène, then neither team scores any points.  If the jack is dead at the finish of the end, then if one (and only one) team still has boules left to play, that team scores one point for each boule that it still has in hand. Otherwise neither team scores any points in the end (like an inning in baseball in which neither team scores any runs).
+
+{{clear}}
+
+===Miscellaneous rules===
+
+*Boules can be thrown in any way that the player wishes, but the traditional way is to hold the boule with the palm of the hand downwards, and then to throw with an under-arm swing of the arm ending in an upward flick of the wrist.  Throwing this way puts backspin on the boule and gives the player the maximum amount of control and flexibility when throwing.
+*The boule can be rolled, thrown to a moderate height, or even thrown to a great height (a high lob or ''portée'').
+*Players usually carry a tape measure for measuring close points.
+*At the beginning of an end, before throwing the jack, if there isn't enough room for the player to throw the jack to the maximum legal distance of {{Convert|10|m|}}, then the player is allowed to move the circle back to a point where there ''is'' enough room.
+*On a terrain with boundaries marked with strings, a boule or jack must ''completely'' cross the boundary string before it is considered to be out-of-bounds and dead.
+
+== Equipment specifications ==
+[[Image:Boule.kugel.jpg|thumb|right|Jack (''cochonnet'') and boule]]{{Unreferenced section|date=February 2018}}
+
+=== Boules ===
+'''Leisure boules''' are boules that do not meet the FIPJP standards for competition boules, but are less expensive than competition boules and completely adequate for "backyard" games.  Unlike competition boules, leisure boules are a "one size fits all" affair&mdash;they come in one weight and size.
+
+'''Competition boules''' must meet specifications set by the FIPJP.  They must be hollow and made of metal (usually steel) with a diameter between {{Convert|70.5 and 80|mm||abbr=on}} and a weight between {{Convert|650 and 800|g||abbr=on}}. When purchasing competition boules, a purchaser has a choice of a number of characteristics of the boules, including the size, weight, and hardness of the boules, as well as the striations (patterned grooves on the surface of the boules).
+
+=== Cochonnet ===
+The jack, or target ball, is a small ball made of wood, traditionally boxwood or beechwood, {{Convert|30|mm||abbr=on}} in diameter.<ref>In 2002 the FIPJP began certifying non-wooden "synthetic" or "resin" jacks, and in 2013 began certifying synthetic jacks capable of being picked up by a magnet.  In 2016, however, synthetic jacks were effectively outlawed because of their weight. For a review of the evolution of the rules governing the jack, see https://petanquerules.wordpress.com/2015/02/15/evolution-of-the-jack/</ref>  In the past jacks were often left "natural"—unfinished or with a clear finish—but nowadays they are often painted in bright colors.  In French, the jack is known by a variety of names, including ''but'' (goal or target), ''cochonnet'' (piglet), ''bouchon'' ("little ball" in [[provençal language]], not related to the french word "bouchon" that designates a bottle stopper), ''le petit'' (the little one), and ''gari'' ("[[rat]]", also in provençal language).
+
+===Playing area===
+
+Pétanque can be played on almost any flat, open space. The ground may be irregular and interrupted by trees or rocks, and the surface is likely to be uneven, with some areas hard and smooth and other areas rough and stony. When an area is constructed specifically for the purposes of playing petanque, the playing surface is typically loose gravel, decomposed granite, brick grog or crushed sea shell.   Sandy beaches are not suitable, although light plastic boules are sometimes used to adapt the game for the beach. There is no requirement for backboards or sideboards (as in bocce), but dedicated playing areas are often enclosed in boards or some other structural barrier.
+
+In France, village squares and park pathways are often used as pétanque playing areas.  In addition, many towns have recreational facilities (''boulodromes'') constructed especially for playing pétanque.
+
+An area where a single pétanque game is played is called a 'piste'.  A ''terrain'' is an area where one or more petanque games are being played. At any given time a ''terrain'' may be hosting one or more ''pistes''.
+
+For tournaments, a large playing area is subdivided and marked off (typically using nails and string) into rectangular ''marked terrains'' (also known as "lanes" (''cadres'') or "pistes") so that multiple games may be carried on simultaneously. For tournament play, a marked terrain is a rectangle at least {{Convert|4|m|}} wide and {{Convert|15|m|}} long.
+
+In the United States, proponents of pétanque such as author Byron Putman often urge the use of non-dedicated public terrains&mdash;public walking paths, playground areas, dirt/gravel parking lots, and baseball infields &ndash; as terrains.
+
+== Strategy ==
+{{Unreferenced section|date=February 2018}}
+
+=== Pointing and shooting ===
+Generally speaking, a player throws a boule with one of two objectives.
+* To make his boule come to rest in a particular spot, usually as close as possible to the jack. This is called ''pointing''. 
+* To make his boule directly hit an opponent's boule with the goal of knocking it away from the jack.  This is called ''shooting''.
+The best throw of all is called a ''carreau''.  It is a shot that knocks away the opponent's boule, leaving the thrown boule exactly in its place.
+
+Players who are skillful enough to shoot effectively are called ''shooters''; players who usually point are called ''pointers''.  (The French terms are ''tireur'' and ''pointeur'', respectively.)  As a matter of strategy, pointers play first and shooters are held in reserve in case the opponents place well.  Good pointing is what scores points, but national and international championships are usually dominated by skillful shooters, who target any opposing boule that comes close to scoring.
+
+===Throwing a boule===
+Some strategic considerations involved in the throw of a boule include:
+
+* Traditionally, a fundamental rule of petanque is ''boule devant, boule d'argent'' ("A ball in front is a money ball."). A boule located in front of the jack is much more valuable than one behind the jack.  A boule in front blocks the opposing team from easy access to the jack, and it may also (intentionally or accidentally) be hit and pushed closer to the jack.
+* As a pointer, if you point a boule ''very'' close to the jack, you force the opposing shooter to shoot it immediately.  That may be a bad thing if you really wanted to keep that boule.  Or it may be a good thing if you're trying to force the opposing shooter to exhaust his supply of boules.
+* Generally speaking, it is a bad idea to shoot with your team's last boule.  In most cases, the better strategy is to "limit the damage" by pointing your team's last boule close enough to the jack to limit the opposing team to winning only one point.
+
+===Throwing the jack===
+Strategic considerations involved in the throw of the jack include:
+
+* Throw the jack to a distance at which your own shooter is most comfortable, or the opposing shooter is least comfortable. 
+* Aim for a location on the terrain that your own pointers favor, or that might be difficult for the opposing team's pointers.
+* Disorient the opposing team by refusing to get in a rut.  At each opportunity, throw the jack to a new position on the terrain, and alternate long and short distances.
+
+== Glossary of special terms ==
+{{Unreferenced section|date=February 2018}}
+*'''to have the point'''
+:A team is said to "have the point" if one of its boules is closer to the jack than any of the opposing team's boules.  A team that has the point is basically in a winning position, so the team that does NOT have the point throws the next boule and attempts to gain the point.
+
+*'''''boule devant, boule d'argent'''''
+:Roughly "A ball in front is a money ball". This maxim reminds players that when pointing, the most valuable place for a boule is in front of the jack.  In that location, it prevents opponents from throwing directly toward the jack, and hitting it will push it even closer to the jack.
+
+*'''to point'''
+:To throw one's boule with the intent of stopping near the jack (also known as placing).
+
+*'''to shoot'''
+:To throw one's boule at an opponent's boule (or at the jack) in an attempt to knock it out of play.  When the opposing team has a boule positioned very close to the jack, often the best strategy is to attempt to shoot it.  A team in a desperate situation may attempt to save itself by shooting the jack out of bounds.
+
+*'''to lob'''
+: (French: ''une portée'') To throw one's boule in a high arc so that when it lands it only rolls minimally. Video: [https://www.youtube.com/watch?v=rxrMy9XFLXE Marco Foyot demonstrates the high lob.]
+
+*'''''carreau'''''
+:(pronounced ''care-ROW'').  A shot that knocks an opposing boule away from the jack and replaces it (in very nearly the same spot) with the thrower's own boule.  Basically, the perfect shot.  Video: [https://www.youtube.com/watch?v=Hm9MoYTqwHY&t=1m48s Diego Rizzi demonstrates a perfect carreau.]
+
+[[File:Fanny Le Rituel.jpg|thumb|right|A man kissing Fanny.]]
+
+*'''to fanny''' (''mettre fanny'' in French)
+:To win a game without the opposing team scoring any points; a shutout game.  When a player loses 13 to 0, he is said to ''fanny'' ("''il est fanny''", he's fanny, or "''il a fait fanny''", he made fanny) and must kiss the bottom of a girl named Fanny.  Virtually everywhere in Provence where pétanque is played, you will find a picture, woodcarving, or pottery figure of a bare-bottomed lass named Fanny.  Often, the team that made "fanny" has to buy a round of drinks for the winning team ("''Fanny paie à boire!''", "the fanny pays for the drinks!").
+
+==Image gallery==
+<gallery>
+Image:Pétanque a Aigues-Mortes-France.JPG|Playing pétanque in the late afternoon at [[Aigues-Mortes]]
+Image:Toulon Playing Boules.jpg|Men playing pétanque next to the Fort St. Louis in [[Toulon]].
+Image:Pétanque Championnats du monde à Grenoble (308551840).jpg|The 2006 Pétanque World Championship in [[Grenoble]], France
+Image:Petanque batignolles.jpg|Action on the Pétanque field in [[Batignolles]].
+Image:Petanque in brighton.JPG|Players of the Brighton & Hove Petanque Club on the Peace Statue Terrain, [[Brighton & Hove]], [[UK]]
+Image:Boulespieler am Hafen von Bonifacio im August 1975 (retouched).jpg|Pétanque players at the port of [[Bonifacio, Corse-du-Sud|Bonifacio]] in 1975
+</gallery>
+
+==See also==
+* [[Boules]]
+* [[Bocce]]
+* [[Boccia]]
+* [[Curling]]
+* [[Kubb]], a Swedish throwing game
+* [[Bowls]]
+* [[Bolas criollas]]
+* [[Pétanque World Championships]]
+* [[Mondial la Marseillaise de pétanque]]
+* [[Swedish pétanque championships]]
+* [[Tejo (sporty)|Tejo]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+<!--Please add club links under clubs and add petanque interest sites under General-->
+
+{{commons|Pétanque}}
+* [http://fipjp.org/index.php/en/ FIPJP - Fédération Internationale de Pétanque et Jeu Provençal] is the international governing body for pétanque.  Its web site contains a variety of useful information, including the official international rules of pétanque and a list of its national members.
+* [http://www.cep-petanque.com/ CEP - Confédération Européenne de Pétanque (CEP)] is the European Governing body for Pétanque.
+* [http://www.ffpjp.info FFPJP - Fédération Francais de Pétanque et Jeu Provençal] is the governing body for Pétanque in France, and the most important national member of FIPJP.
+* [http://www.usapetanque.org FPUSA - Federation of Petanque U.S.A.] is the governing body for Pétanque in the United States.  It is a member of FIPJP.
+* [http://petanque.wordpress.com/about/ Petanque overview] at ''All about Petanque''
+* [http://www.petanquetube.com/ Petanque videos] at ''PetanqueTube''
+* [http://www.beachmedia.com/epetstra.html More on strategy] at Pétanque USA
+* [http://www.petanquerules.wordpress.com Rules of Petanque (English)] - collection/archive of the rules of petanque in English
+
+{{Bowling}}
+{{Team Sport}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Petanque}}
+
+
+
+
+
+
+
+
+| image=
+| imagesize=
+| caption=
+| union=[http://fipjp.org/index.php/en/ Fédération Internationale de Pétanque et Jeu Provençal]
+| nickname=
+| first= Provence, France
+| first team= 
+| registered=
+| clubs=
+| contact=Non-contact
+| team=Individual, doubles and triples
+| mgender=
+| category=[[Boules]]
+| ball=Boules (balls) & cochonnet (little ball)
+| olympic= No
+| IWGA   = [[1985 World Games|1985]]–present
+}}
+[[File:Petanque-marseille-2017.jpg|427x427px|The sport of Pétanque being played in Marseille|alt=|thumb]]
+'''Pétanque''' ({{IPA-fr|pet??k}}; {{lang-oc|petanca}} {{IPA-oc|pe?ta?k?|}}) is a sport that falls into the category of [[boules]] sports, along with [[Raffa (boules)|raffa]], [[bocce]], boule lyonnaise, [[Bowls|lawn bowls]] and [[Crown green bowls|crown green bowling]]. All of these sports share something in common, in that players or teams play their boules/balls towards a target ball.
+
+In Pétanque the objective is to score points by having boules closer to the target than your opponent after all boules have been thrown. This is achieved by projecting boules closer to the target, called a cochonnet,<ref>The cochonnet is also sometimes called a ''bouchon'' (literally "little ball", from the [[Occitan]] ''bochon'') or ''le petit'' ("the small one").</ref> or by hitting the opponents' boules away from the target, while standing inside a circle with both feet on the ground.
+
+The game is normally played on hard dirt or gravel.  It can be played in public areas in parks, or in dedicated facilities called ''boulodromes''.
+
+[[File:Dscn0054-boules-in-action 600x800.jpg|thumb|300px|right|Pétanque players on the beach in [[Nice]]]]
+
+The current form of the game originated in 1907 or 1910 in [[La Ciotat]], in [[Provence]], France. The French name ''pétanque'' (borrowed into English, with or without the acute accent) comes from ''petanca'' in the [[Provençal dialect]] of the [[Occitan]] language, deriving from the expression ''pès tancats'' {{IPA|[?p?s ta??kats]}}, meaning 'feet fixed' or 'feet planted' (on the ground).<ref>{{cite web|url=https://petanque.wordpress.com/2014/09/20/origin-of-word-petanque/|title=Terminology – Origin of the word pétanque|date=21 September 2014|publisher=}}</ref>
+
+== History ==
+=== Invention of the game ===
+Boules games have [[Boules#Boules games in history|a very long history]], dating back through the Middle Ages to ancient Rome, and before that to ancient Greece and Egypt.
+
+In France in the second half of the 19th century a form of boules known as [[Jeu Provençal|''jeu provençal'']] (or ''boule lyonnaise'') was extremely popular.  In this form of the game players rolled their boules or ran three steps before throwing a boule.  Pétanque originally developed as an offshoot or variant of  ''jeu provençal'' in 1910, in what is now called the ''Jules Lenoir Boulodrome'' in the town of [[La Ciotat]] near Marseilles.  A former ''jeu provençal'' player named Jules Lenoir was afflicted by  rheumatism so severe that he could no longer run before throwing a boule.  In fact, he could barely stand. A good friend named Ernest Pitiot was a local café owner.  In order to accommodate his friend Lenoir, Pitiot developed a variant form of the game in which the length of the pitch or field was reduced by roughly half, and a player, instead of running to throw a boule, stood, stationary, in a circle. They called the game ''pieds tanqués'', "feet planted" (on the ground), a name that eventually evolved into the game's current name, ''pétanque''.<ref>{{cite journal |first=Charles |last=Giol |title=La pétanque |work=Historia |date=November 2011}}</ref>
+
+The first pétanque tournament was organized by Ernest Pitiot, along with his brother Joseph Pitiot, in 1910 in La Ciotat. After that the game spread quickly and soon became the most popular form of boules in France.
+
+Before the mid-1800s, European boules games were played with solid wooden balls, usually made from boxwood root, a very hard wood. The late 1800s saw the introduction of cheap mass-manufactured nails, and wooden boules gradually began to be covered with nails, producing ''boules cloutées'' ("nailed boules").  After World War I, cannonball manufacturing technology was adapted to allow the manufacture of hollow, all-metal boules.  The first all-metal boule, ''la Boule Intégrale'', was introduced in the mid-1920s by Paul Courtieu.  The ''Intégrale'' was cast in a single piece from a bronze-aluminum alloy.  Shortly thereafter Jean Blanc invented a process of manufacturing steel boules by stamping two steel blanks into hemispheres and then welding the two hemispheres together to create a boule.  With this technological advance, hollow all-metal balls rapidly became the norm.<ref>See [http://petanque.wordpress.com/2012/08/26/the-birth-of-petanque The Birth of Petanque]</ref>
+
+=== Global spread of the game ===
+After the development of the all-metal boule, pétanque spread rapidly from Provence to the rest of France, then to the rest of Europe, and then to Francophone colonies and countries around the globe. Today, many countries have their own national governing bodies.
+
+[[Image:Pétanque players in Cannes (France) 2003.jpg|thumb|400px|right|Pétanque players in [[Cannes]]]]In France, the ''Fédération Française de Pétanque et Jeu Provençal'' ([https://web.archive.org/web/20180306223901/http://ffpjp.net/  FFPJP]) has more than 300,000 licensed members.
+
+There are strong national federations in [http://www.petanque-dpv.de/ Germany], [http://www.fepetanca.com/ Spain], and [http://www.englishpetanque.org.uk/ England].  Petanque is actively played in many nations with histories of [[French colonialism|French colonial]] influence, especially in [[Southeast Asia]], including [[Laos]], [[Thailand]], [[Vietnam]], [[Cambodia]], and [[Puducherry, India]], as well as some parts of Africa.  Today, some of the strongest players in the world come from [http://www.kanetystar.com/ Madagascar] and [http://www.pongpansport.com/index.php%3Fmo%3D59%26id%3D962324&usg=ALkJrhiOtnRRHigbCgbcyCzWZSqsht8TDQ Thailand].
+
+Pétanque was featured at the [[2015 All-Africa Games]], which were hosted by the [[Republic of Congo]], a former French colony.<ref>{{cite web|last1=Okamba|first1=Louis|last2=Imray|first2=Gerald|title=All Africa Games return to roots in Republic of Congo|url=http://www.timesunion.com/sports/article/All-Africa-Games-return-to-roots-in-Republic-of-6486997.php|website=Times Union|publisher=Associated Press|accessdate=6 September 2015}}</ref>
+
+Petanque is not widely played in the Americas.  There is a [http://www.petanquecanada.com/ Canadian petanque federation] based in [[Québec]]. In the United States the Federation of Petanque USA [http://www.fpusa.org (FPUSA)] reports that about 30,000 play nationwide. As of December 1, 2015, FPUSA counted 2141 members in the US, in 52 affiliated clubs.<ref>FPUSA 2015/16. Annual Publication of the Federation of Petanque, USA</ref>
+
+On the international level, the [[Sport governing body|governing body]] of petanque is the ''Fédération Internationale de Pétanque et Jeu Provençal'' ([http://www.fipjp.com FIPJP]).  It was founded in 1958 in [[Marseille]] and has about 600,000 members in 52 countries {{as of|2002|lc=y}}.
+
+'''In popular culture''': The game makes an appearance in the 1966 French crime film ''Le deuxieme souffle''.
+
+=== National and international competitions ===
+There are a number of important world championship tournaments.
+
+The [[Pétanque World Championships|FIPJP world championships]] take place every two years.  Men's championships are held in even-numbered years, while Women's and Youth championships are held in odd-numbered years.<ref>[http://www.fipjp.com/en/world-championships ''Les Championnats du Monde de Pétanque ''] {{webarchive|url=https://web.archive.org/web/20121215041507/http://www.fipjp.com/en/world-championships |date=2012-12-15 }} at the FIPJP web site.</ref>
+
+Perhaps the best-known international championship is the ''[[Mondial la Marseillaise à Pétanque]]'', which takes place every year in [[Marseille, France]], with more than 10,000 participants and more than 150,000 spectators.<ref>{{Cite web |url=http://www.flyprovence.com/en/Mondial_La_Marseillaise_a_Petanque_-agenda-sports-215-13.html |title=Archived copy |access-date=2013-03-08 |archive-url=https://web.archive.org/web/20140323224900/http://www.flyprovence.com/en/Mondial_La_Marseillaise_a_Petanque_-agenda-sports-215-13.html |archive-date=2014-03-23 |dead-url=yes |df= }}</ref>
+
+The largest annual tournament in the United States is the [http://ameliaisland.com/petanque Petanque Amelia Island Open] (formerly the Petanque America Open), held in each year in November at [[Amelia Island, Florida]].
+
+[http://labritishopenpetanque.uk/ La British Open] is a major Pétanque tournament held in the North of England, in the [[United Kingdom]]. So far, this attracts players from across the UK and Europe.
+
+Pétanque is not currently an [[Olympic Games|Olympic]] sport, although the [[Confédération Mondiale des Sports de Boules]]&mdash;which was created in 1985 by several international boules organizations specifically for this purpose&mdash;has been lobbying the Olympic committee since 1985 to make it part of the summer Olympics.<ref>[http://www.fipjp.com/en/modern_history History of the FIPJP] {{webarchive|url=https://web.archive.org/web/20120810000056/http://www.fipjp.com/en/modern_history |date=2012-08-10 }} at the FIPJP web site.</ref><ref>{{cite web|url=https://petanque.wordpress.com/cmsb/|title=CMSB|date=7 October 2014|publisher=}}</ref>
+
+==Playing the game==
+{{Unreferenced section|date=February 2018}}
+
+===Equipment ===
+Pétanque is played by two teams, where each team consists of one, two, or three players.
+
+In the singles and doubles games each player plays with three metal boules.  In triples each player uses only two.
+
+The area where a pétanque game is played is called a ''terrain''.  A game can be played in an open area like a public park, where the boundaries of the terrain are not marked, or more formally on a "marked terrain" where the terrain boundaries are marked (traditionally, by strings tightly strung between nails driven into the ground).
+
+[[File:Petanque - throwing from the circle.jpg|thumb|Pétanque player throwing from a prefabricated circle]]
+In pétanque, players throw while standing in a circle.  Traditionally, the circle was simply scratched in the dirt.  Starting around 2005, red plastic "prefabricated" circles were introduced and are now widely used in formal games.  A circle drawn on the ground must be {{Convert|35-50|cm||abbr=on}} in diameter, while a plastic circle must have an inside diameter of {{Convert|50|cm||abbr=on}}.
+
+===The "ends"===
+A game consists of several ''mènes''.  The French word ''mène'' is usually translated into English as "end" or "round".
+
+An end consists of the throwing out of the jack (the little wooden target ball), followed by the two teams throwing their boules.
+
+After both teams have thrown all of their boules, the team with the boule closest to the jack wins the end.  The winning team scores one point for each of its boules that is closer than the opposing team's closest boule.  That means that the winning team could in theory score as many as six points in an end, although a score of one or two points is more typical.
+
+As the game progresses, each team accumulates points until one of the teams reaches 13, the winning number of points.
+
+===Order of play===
+
+A game begins with a coin toss to determine which team plays first.  The team that wins the toss begins the game by placing the circle, then standing in the circle and throwing the jack to a distance of {{Convert|6-10|m|}}. A player from the team that threw the jack, throws the first boule. Then a player from the opposing team throws a boule.
+
+From that point on, the team with the boule that is closest to the jack is said to "have the point". The team that does not have the point, throws the next boule. That team continues to throw boules until it either gains the point, or runs out of boules.
+
+If at any point the closest boules from each team are equidistant from the jack, then the team that threw the last boule throws again. If the boules are still equidistant then the teams play alternately until the tie is broken. If the boules are still equidistant at the end of the ''mène'' then neither team scores any points.
+
+The team that won the end, starts the next end. A player from the winning team places (or draws) a circle around the jack. He/she then picks up the jack, stands in the circle, and throws the jack to start the next end.
+
+===Scoring=== 
+[[Image:Petanque scoring example 1 point.png|thumb|left|Team Red has the boule closest to the jack, but the second-closest boule belongs to Team Blue.  Red scores one point.  Blue scores nothing.]][[Image:Petanque scoring example 2 points.png|thumb|right|Team Red has two boules closer than Team Blue's closest boule.  Red scores two points. Blue scores nothing.]] An end is complete when both teams have played all of their boules, or when the jack is knocked out of play (goes "dead").
+
+If the end finishes in the usual way—with the jack still alive and one team with the closest boule—then the team with the closest boule wins the end and scores one point for each of its boules that is closer to the jack than other team's closest boule.
+
+If the jack is alive but there is an "equidistant boules" situation at the end of the mène, then neither team scores any points.  If the jack is dead at the finish of the end, then if one (and only one) team still has boules left to play, that team scores one point for each boule that it still has in hand. Otherwise neither team scores any points in the end (like an inning in baseball in which neither team scores any runs).
+
+{{clear}}
+
+===Miscellaneous rules===
+
+*Boules can be thrown in any way that the player wishes, but the traditional way is to hold the boule with the palm of the hand downwards, and then to throw with an under-arm swing of the arm ending in an upward flick of the wrist.  Throwing this way puts backspin on the boule and gives the player the maximum amount of control and flexibility when throwing.
+*The boule can be rolled, thrown to a moderate height, or even thrown to a great height (a high lob or ''portée'').
+*Players usually carry a tape measure for measuring close points.
+*At the beginning of an end, before throwing the jack, if there isn't enough room for the player to throw the jack to the maximum legal distance of {{Convert|10|m|}}, then the player is allowed to move the circle back to a point where there ''is'' enough room.
+*On a terrain with boundaries marked with strings, a boule or jack must ''completely'' cross the boundary string before it is considered to be out-of-bounds and dead.
+
+== Equipment specifications ==
+[[Image:Boule.kugel.jpg|thumb|right|Jack (''cochonnet'') and boule]]{{Unreferenced section|date=February 2018}}
+
+=== Boules ===
+'''Leisure boules''' are boules that do not meet the FIPJP standards for competition boules, but are less expensive than competition boules and completely adequate for "backyard" games.  Unlike competition boules, leisure boules are a "one size fits all" affair&mdash;they come in one weight and size.
+
+'''Competition boules''' must meet specifications set by the FIPJP.  They must be hollow and made of metal (usually steel) with a diameter between {{Convert|70.5 and 80|mm||abbr=on}} and a weight between {{Convert|650 and 800|g||abbr=on}}. When purchasing competition boules, a purchaser has a choice of a number of characteristics of the boules, including the size, weight, and hardness of the boules, as well as the striations (patterned grooves on the surface of the boules).
+
+=== Cochonnet ===
+The jack, or target ball, is a small ball made of wood, traditionally boxwood or beechwood, {{Convert|30|mm||abbr=on}} in diameter.<ref>In 2002 the FIPJP began certifying non-wooden "synthetic" or "resin" jacks, and in 2013 began certifying synthetic jacks capable of being picked up by a magnet.  In 2016, however, synthetic jacks were effectively outlawed because of their weight. For a review of the evolution of the rules governing the jack, see https://petanquerules.wordpress.com/2015/02/15/evolution-of-the-jack/</ref>  In the past jacks were often left "natural"—unfinished or with a clear finish—but nowadays they are often painted in bright colors.  In French, the jack is known by a variety of names, including ''but'' (goal or target), ''cochonnet'' (piglet), ''bouchon'' ("little ball" in [[provençal language]], not related to the french word "bouchon" that designates a bottle stopper), ''le petit'' (the little one), and ''gari'' ("[[rat]]", also in provençal language).
+
+===Playing area===
+
+Pétanque can be played on almost any flat, open space. The ground may be irregular and interrupted by trees or rocks, and the surface is likely to be uneven, with some areas hard and smooth and other areas rough and stony. When an area is constructed specifically for the purposes of playing petanque, the playing surface is typically loose gravel, decomposed granite, brick grog or crushed sea shell.   Sandy beaches are not suitable, although light plastic boules are sometimes used to adapt the game for the beach. There is no requirement for backboards or sideboards (as in bocce), but dedicated playing areas are often enclosed in boards or some other structural barrier.
+
+In France, village squares and park pathways are often used as pétanque playing areas.  In addition, many towns have recreational facilities (''boulodromes'') constructed especially for playing pétanque.
+
+An area where a single pétanque game is played is called a 'piste'.  A ''terrain'' is an area where one or more petanque games are being played. At any given time a ''terrain'' may be hosting one or more ''pistes''.
+
+For tournaments, a large playing area is subdivided and marked off (typically using nails and string) into rectangular ''marked terrains'' (also known as "lanes" (''cadres'') or "pistes") so that multiple games may be carried on simultaneously. For tournament play, a marked terrain is a rectangle at least {{Convert|4|m|}} wide and {{Convert|15|m|}} long.
+
+In the United States, proponents of pétanque such as author Byron Putman often urge the use of non-dedicated public terrains&mdash;public walking paths, playground areas, dirt/gravel parking lots, and baseball infields &ndash; as terrains.
+
+== Strategy ==
+{{Unreferenced section|date=February 2018}}
+
+=== Pointing and shooting ===
+Generally speaking, a player throws a boule with one of two objectives.
+* To make his boule come to rest in a particular spot, usually as close as possible to the jack. This is called ''pointing''. 
+* To make his boule directly hit an opponent's boule with the goal of knocking it away from the jack.  This is called ''shooting''.
+The best throw of all is called a ''carreau''.  It is a shot that knocks away the opponent's boule, leaving the thrown boule exactly in its place.
+
+Players who are skillful enough to shoot effectively are called ''shooters''; players who usually point are called ''pointers''.  (The French terms are ''tireur'' and ''pointeur'', respectively.)  As a matter of strategy, pointers play first and shooters are held in reserve in case the opponents place well.  Good pointing is what scores points, but national and international championships are usually dominated by skillful shooters, who target any opposing boule that comes close to scoring.
+
+===Throwing a boule===
+Some strategic considerations involved in the throw of a boule include:
+
+* Traditionally, a fundamental rule of petanque is ''boule devant, boule d'argent'' ("A ball in front is a money ball."). A boule located in front of the jack is much more valuable than one behind the jack.  A boule in front blocks the opposing team from easy access to the jack, and it may also (intentionally or accidentally) be hit and pushed closer to the jack.
+* As a pointer, if you point a boule ''very'' close to the jack, you force the opposing shooter to shoot it immediately.  That may be a bad thing if you really wanted to keep that boule.  Or it may be a good thing if you're trying to force the opposing shooter to exhaust his supply of boules.
+* Generally speaking, it is a bad idea to shoot with your team's last boule.  In most cases, the better strategy is to "limit the damage" by pointing your team's last boule close enough to the jack to limit the opposing team to winning only one point.
+
+===Throwing the jack===
+Strategic considerations involved in the throw of the jack include:
+
+* Throw the jack to a distance at which your own shooter is most comfortable, or the opposing shooter is least comfortable. 
+* Aim for a location on the terrain that your own pointers favor, or that might be difficult for the opposing team's pointers.
+* Disorient the opposing team by refusing to get in a rut.  At each opportunity, throw the jack to a new position on the terrain, and alternate long and short distances.
+
+== Glossary of special terms ==
+{{Unreferenced section|date=February 2018}}
+*'''to have the point'''
+:A team is said to "have the point" if one of its boules is closer to the jack than any of the opposing team's boules.  A team that has the point is basically in a winning position, so the team that does NOT have the point throws the next boule and attempts to gain the point.
+
+*'''''boule devant, boule d'argent'''''
+:Roughly "A ball in front is a money ball". This maxim reminds players that when pointing, the most valuable place for a boule is in front of the jack.  In that location, it prevents opponents from throwing directly toward the jack, and hitting it will push it even closer to the jack.
+
+*'''to point'''
+:To throw one's boule with the intent of stopping near the jack (also known as placing).
+
+*'''to shoot'''
+:To throw one's boule at an opponent's boule (or at the jack) in an attempt to knock it out of play.  When the opposing team has a boule positioned very close to the jack, often the best strategy is to attempt to shoot it.  A team in a desperate situation may attempt to save itself by shooting the jack out of bounds.
+
+*'''to lob'''
+: (French: ''une portée'') To throw one's boule in a high arc so that when it lands it only rolls minimally. Video: [https://www.youtube.com/watch?v=rxrMy9XFLXE Marco Foyot demonstrates the high lob.]
+
+*'''''carreau'''''
+:(pronounced ''care-ROW'').  A shot that knocks an opposing boule away from the jack and replaces it (in very nearly the same spot) with the thrower's own boule.  Basically, the perfect shot.  Video: [https://www.youtube.com/watch?v=Hm9MoYTqwHY&t=1m48s Diego Rizzi demonstrates a perfect carreau.]
+
+[[File:Fanny Le Rituel.jpg|thumb|right|A man kissing Fanny.]]
+
+*'''to fanny''' (''mettre fanny'' in French)
+:To win a game without the opposing team scoring any points; a shutout game.  When a player loses 13 to 0, he is said to ''fanny'' ("''il est fanny''", he's fanny, or "''il a fait fanny''", he made fanny) and must kiss the bottom of a girl named Fanny.  Virtually everywhere in Provence where pétanque is played, you will find a picture, woodcarving, or pottery figure of a bare-bottomed lass named Fanny.  Often, the team that made "fanny" has to buy a round of drinks for the winning team ("''Fanny paie à boire!''", "the fanny pays for the drinks!").
+
+==Image gallery==
+<gallery>
+Image:Pétanque a Aigues-Mortes-France.JPG|Playing pétanque in the late afternoon at [[Aigues-Mortes]]
+Image:Toulon Playing Boules.jpg|Men playing pétanque next to the Fort St. Louis in [[Toulon]].
+Image:Pétanque Championnats du monde à Grenoble (308551840).jpg|The 2006 Pétanque World Championship in [[Grenoble]], France
+Image:Petanque batignolles.jpg|Action on the Pétanque field in [[Batignolles]].
+Image:Petanque in brighton.JPG|Players of the Brighton & Hove Petanque Club on the Peace Statue Terrain, [[Brighton & Hove]], [[UK]]
+Image:Boulespieler am Hafen von Bonifacio im August 1975 (retouched).jpg|Pétanque players at the port of [[Bonifacio, Corse-du-Sud|Bonifacio]] in 1975
+</gallery>
+
+==See also==
+* [[Boules]]
+* [[Bocce]]
+* [[Boccia]]
+* [[Curling]]
+* [[Kubb]], a Swedish throwing game
+* [[Bowls]]
+* [[Bolas criollas]]
+* [[Pétanque World Championships]]
+* [[Mondial la Marseillaise de pétanque]]
+* [[Swedish pétanque championships]]
+* [[Tejo (sporty)|Tejo]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+<!--Please add club links under clubs and add petanque interest sites under General-->
+
+{{commons|Pétanque}}
+* [http://fipjp.org/index.php/en/ FIPJP - Fédération Internationale de Pétanque et Jeu Provençal] is the international governing body for pétanque.  Its web site contains a variety of useful information, including the official international rules of pétanque and a list of its national members.
+* [http://www.cep-petanque.com/ CEP - Confédération Européenne de Pétanque (CEP)] is the European Governing body for Pétanque.
+* [http://www.ffpjp.info FFPJP - Fédération Francais de Pétanque et Jeu Provençal] is the governing body for Pétanque in France, and the most important national member of FIPJP.
+* [http://www.usapetanque.org FPUSA - Federation of Petanque U.S.A.] is the governing body for Pétanque in the United States.  It is a member of FIPJP.
+* [http://petanque.wordpress.com/about/ Petanque overview] at ''All about Petanque''
+* [http://www.petanquetube.com/ Petanque videos] at ''PetanqueTube''
+* [http://www.beachmedia.com/epetstra.html More on strategy] at Pétanque USA
+* [http://www.petanquerules.wordpress.com Rules of Petanque (English)] - collection/archive of the rules of petanque in English
+
+{{Bowling}}
+{{Team Sport}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Petanque}}
+
+
+
+
+
+
+
+

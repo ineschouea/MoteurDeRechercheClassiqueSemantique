@@ -1,0 +1,40 @@
+{{Speciesbox
+| image = 
+| status = LR/nt | status_system = IUCN2.3
+| status_ref = <ref name=iucn>{{cite journal | author = Wager, R. | title = ''Galaxiella munda'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 1996 | page = e.T8821A12934437 | publisher = [[IUCN]] | date = 1996 | url = http://www.iucnredlist.org/details/8821/0 | doi = 10.2305/IUCN.UK.1996.RLTS.T8821A12934437.en | access-date = 5 December 2017}}</ref>
+| taxon = Galaxiella munda
+| authority = [[Robert M. McDowall|McDowall]], 1978<ref name="ITIS">{{ITIS |id=623472 |taxon=Galaxiella munda |accessdate=3 January 2009}}</ref><ref name="FishBase"/>
+| synonyms = 
+}}
+
+'''''Galaxiella munda''''' is a species of [[fish]] in the [[Galaxiidae]] family. It is [[Endemism|endemic]] to inland waters of southwest [[Western Australia]], and known as the '''Western mud minnow'''.  
+In 1999 the Mud Minnow was not included in the list of threatened species under the Environment Protection and Biodiversity Conservation Act, but is listed as near threatened on the [[IUCN Red List]].<ref name=fishes />
+
+== Description ==
+This species has a maximum length of {{convert|6|cm|in|0}}.<ref name="FishBase"/> The Mud Minnow has an elongated scaleless body, a white belly and a grey-brown back. A distinctive broad brown stripe starts from behind the eye and ends tailfins base.
+The fish has a one-year life-cycle.<ref>{{cite web|url=http://www.environment.gov.au/biodiversity/threatened/species/pubs/galaxiella-munda-advice.pdf|title=Advice to the Minister of Environment and Heritage from TSSC|year=2006|accessdate=2007-10-02}}</ref>
+
+A number of informal names exist for this species, Galaxias, the Western dwarf galaxias, and Western mud minnow. The name '''mud minnow''' also refers to the [[Lepidogalaxiidae]] family, while '''Swan galaxias''' can refer to either ''Galaxiella munda'' or the ''[[Galaxias]]'' species ''[[Galaxias fontanus|G. fontanus]]''.<ref name="FishBase">{{FishBase species alt|9464}}</ref>
+
+==Habit==
+This species is only found in the South West corner of Western Australia, preferring swift-flowing streams in Karri forest.<ref name=fishes /> It inhabits coastal rivers, streams, ponds, swamps and ditches between Albany and Ellen Brook. It can tolerate acidic water that is tannin stained and with a pH as low as 3.0.
+
+== Diet ==
+''Galaxiella munda'' is carnivorous and mainly feeds on small insects, aquatic insect larvae and micro-crustaceans.<ref name=fishes>{{cite web|last1=Bray|first1=Dianne|last2=Gomon|first2=Martin|title=Western Dwarf Galaxias, Galaxiella munda|url=http://www.fishesofaustralia.net.au/home/species/3683|website=Fishes of Australia|accessdate=6 October 2014}}</ref>
+
+==References==
+{{Reflist}}
+* Wager, R. 1996.  [http://www.iucnredlist.org/search/details.php/8821/all ''Galaxiella munda''].   [https://web.archive.org/web/20140627000000/http://www.iucnredlist.org/ 2006 IUCN Red List of Threatened Species. ]  Downloaded on 4 August 2007.
+
+{{Taxonbar|from=Q44463}}
+
+
+
+
+
+
+
+
+
+
+{{Osmeriformes-stub}}

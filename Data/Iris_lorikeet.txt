@@ -1,0 +1,53 @@
+{{speciesbox
+ | name                = Iris lorikeet
+ | status              = NT
+ | status_system       = IUCN3.1
+ | status_ref          = <ref>{{IUCN|id=22684573 |title=''Psitteuteles iris'' |assessor=BirdLife International |assessor-link=BirdLife International |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+ | image               = Psitteuteles iris.jpg
+ | image_caption       = At [[San Diego Zoo]]
+ | genus               = Psitteuteles
+ | species             = iris
+ | authority           = ([[Coenraad Jacob Temminck|Temminck]], 1835)
+}}
+
+The '''iris lorikeet''' (''Psitteuteles iris'') is a small, up to 20&nbsp;cm long, green [[Lories and lorikeets|lorikeet]]. The male has a red forehead, yellow nape, purple band back from eye between nape and cheek, and yellowish below. The female almost similar with red-marked green forecrown and yellowish green cheek.
+
+The iris lorikeet is distributed in the forests and woodlands on the islands of [[Wetar]] and [[Timor]] in the [[Lesser Sunda Islands|Lesser Sundas]]. It is found from sea level to altitude of 1,500m. The iris lorikeet is usually found in small flocks.
+
+Due to ongoing habitat loss, limited range and illegal trapping for the caged-bird trade, the iris lorikeet is evaluated as Near Threatened on [[IUCN Red List]] of Threatened Species. It is listed on Appendix II of [[CITES]].
+
+==Taxonomy==
+There are two or three poorly differentiated subspecies:<ref name = zoonomen>{{cite web | url =http://www.zoonomen.net/avtax/psit.html |title = Zoological Nomenclature Resource: Psittaciformes (Version 9.004) |date =2 October 2009 |publisher = www.zoonomen.net }}</ref><ref name="Forshaw (2006). plate 14."/>
+*''T.i iris'' (West Timor) -
+*''T.i. wetterensis'' (Wetar) -  larger area of darker green on side of head.
+*''T.i. rubripileum'' (East Timor) - hindcrown also red, violet-blue band on hindneck.
+
+==Description==
+The iris lorikeet is {{convert|20|cm|in|round=0.5|abbr=on}} long. It is mostly green with pale-green transverse striations on its underside. The head is red above the eye and there is a purple band from the eyes extending over the ears. The beak is red-orange, the iris is orange, and the legs are bluish-grey. The male and female are almost identical, but the red on the head of the female is paler and less extensive. Juveniles resemble females, but have a brownish bill, brown irises, duller purple bands and less red on the head. The extent and shade of the red and purple on the head varies between two or three subspecies.<ref name="Forshaw (2006). plate 14.">Forshaw (2006). plate 14.</ref>
+
+==References==
+{{Reflist}}
+
+==Cited texts==
+* {{Cite book |first=Joseph M. |last=Forshaw | authorlink=Joseph Forshaw |title=Parrots of the World; an Identification Guide|others =Illustrated by [[Frank Knight (artist)|Frank Knight]]|publisher=[[Princeton University Press]] |isbn=0-691-09251-6 |page= |nopp = yes| year=2006 }}
+
+== External links ==
+{{Commons category|Psitteuteles iris}}
+* [http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&sid=1355&m=0 BirdLife Species Factsheet]
+* [http://orientalbirdimages.org/search.php?Bird_ID=476 Oriental Bird Images: ''Iris Lorikeet'']  Selected photos
+
+{{Lories and lorikeets}}
+{{Use dmy dates|date=May 2012}}
+
+{{Taxonbar|from=Q1261434}}
+
+{{DEFAULTSORT:lorikeet, iris}}
+
+
+
+
+
+
+
+
+{{parrot-stub}}

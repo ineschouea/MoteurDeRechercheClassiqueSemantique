@@ -1,0 +1,59 @@
+{{Speciesbox
+| name = Olrog's gull
+| image =Larus atlanticus1.jpg
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22694286 |title=''Larus atlanticus'' |assessor=BirdLife International |assessor-link=BirdLife International |version=2013.2 |year=2013 |accessdate=26 November 2013}}</ref>
+| taxon = Larus atlanticus
+| authority = Olrog, 1958
+| synonyms =
+}}
+
+'''Olrog's gull''' (''Larus atlanticus'') is a species of [[gull]] found along the [[Atlantic]] coast of southern [[Brazil]], [[Uruguay]] and northern [[Argentina]]. It was formerly considered a [[subspecies]] of the very similar ''[[Belcher's gull|L. belcheri]]''. It is a large gull with a black back and wings, white head and underparts, a black band in the otherwise white tail, and a yellow bill with a red and black tip. Non-breeding adults have a blackish head and a white eye-ring. The species is named after Swedish-Argentine biologist Claes C. Olrog.<ref name = "Auk">{{Cite journal
+  | last = Handford | first = P. 
+  | title = In Memoriam: Claes Christian Olrog, 1912-1985
+  | journal = [[The Auk]] | volume = 104 | issue = 2 | pages = 319–320
+  | publisher =  | date = April 1987
+  | jstor = 4087042
+  | doi =    | mr =  | zbl =  | jfm =}}</ref><ref name = "Beolens">{{Cite book
+  | last = Beolens | first = Bo |author2=Watkins, Michael |author3=Grayson, Michael
+  | title = The Eponym Dictionary of Mammals
+  | publisher = [[The Johns Hopkins University Press]]
+  | date = 2009-09-28 | location = [[Baltimore]] | pages = 592 (see p. 298)
+  | url = http://google.com/books?id=I-kSmWLc6vYC&pg=PA298
+  | doi =    | isbn = 978-0-8018-9304-9| oclc = 270129903}}</ref>
+It has a rather restricted breeding range and is threatened by [[habitat loss]], and the [[IUCN]] rate it as being "[[Near Threatened]]".
+
+==Description==
+Olrog’s gull is a large gull with a white head, neck, rump, breast and belly. The back and wings are black except for a white trailing edge to the wings. The tail is white with a broad black band at the back. The beak is yellow with a black band and red tip. The eyes are brown with a red orbital ring and the legs and feet are dull yellow. The length of this gull is {{Convert|50|to|60|cm}} and it has a wingspan of {{convert|130|to|140|cm}}. Males are a little larger than females. Juveniles have black heads and brownish plumage.<ref name=Cornell>{{cite web |url=http://neotropical.birds.cornell.edu/portal/species/identification?p_p_spp=22670 |title=''Larus atlanticus'' |work=NeoTropical Birds |publisher=The Cornell Lab of Ornithology |accessdate=2013-12-13}}</ref>
+
+==Distribution==
+[[File:Olrog's Gull.jpg|thumb|left|South Brazil]]
+Olrog’s Gull is native to the Atlantic coast of Argentina, Uruguay and southern Brazil. It breeds at a very limited number of colonies between 38.49° and 45.11°S, about two thirds of which are in the estuary of the [[Bahía Blanca|Bahia Blanca River]]. It nests on the ground just above high-water mark, on low islands and islets. At other times it is to be seen on rocky coasts, harbours, beaches, coastal lagoons, brackish water and estuaries.<ref name=BLI>{{cite web |url=http://www.birdlife.org/datazone/speciesfactsheet.php?id=3210 |title=Species factsheet: ''Larus atlanticus'' |publisher=BirdLife International |accessdate=2013-12-13}}</ref>
+
+==Behavior==
+During the breeding season, Olrog’s gull feeds largely on [[crab]]s which are picked up from the exposed shore or the seabed while walking or swimming, or dipping under the surface of shallow water. This particular diet gives the gull its name in its native range: ''gaviota cangrejera'', or crabeater gull.
+
+At other times of year it supplements its crab diet with [[Bivalvia|bivalve molluscs]] and [[Polychaeta|polychaete worms]]. Other prey items include insects, [[Gastropoda|gastropod molluscs]], fish and fish waste and the birds sometimes visit sewage outlets and refuse dumps.<ref name=Lifehistory>{{cite web |url=http://neotropical.birds.cornell.edu/portal/species/lifehistory?p_p_spp=22670 |title=''Larus atlanticus'' |work=NeoTropical Birds |publisher=The Cornell Lab of Ornithology |accessdate=2013-12-13}}</ref>
+
+Breeding starts in September and October. Olrog’s gull is [[Monogamy|monogamous]] and nests in dense colonies. The nest is on rock, sand or shingle and is usually lined with vegetation but sometimes with seaweed, feathers, shells or bones. Two or three olive-brown eggs with brown splotches are laid and the [[Egg incubation|incubation]] period is about thirty days. Fledging takes place between November and January according to the location of the colony.<ref name=Lifehistory/>
+
+==References==
+{{Reflist}}
+*{{cite journal |author=José Fernando Pacheco |author2=Joaquim Olinto Branco |author3=Vitor de Queiroz Piacentini |last-author-amp=yes |year=2009 |title=Olrog’s Gull ''Larus atlanticus'' in Santa Catarina, Brazil: northernmost occurrence and first state record |journal=[[Cotinga (journal)|Cotinga]] |publisher= |volume=31 |pages=80–81 |url=http://www.neotropicalbirdclub.org/pages/journal.asp?IssueID=31&Article_Link=Pacheco}}
+
+==External links==
+*[http://www.birdlife.org/datazone/search/species_search.html?action=SpcHTMDetails.asp&sid=3210&m=0 BirdLife Species Factsheet.]
+
+{{Gulls}}
+
+{{Taxonbar|from=Q1273165}}
+
+{{DEFAULTSORT:gull, Olrog's}}
+
+
+
+
+
+
+

@@ -1,0 +1,464 @@
+{{infobox sport
+| name = Newcomb in my hand
+| image = Newcomb Handbook.jpg
+| imagesize = 200px
+| caption = Newcomb featured in [[Spalding (sports equipment)|Spalding's]] Red Cover series of athletic handbooks in 1914
+| union = National Newcomb Advisory Committee (now defunct)
+| nickname = Nuke 'em
+| first = 1895
+| registered = 
+| contact = No
+| team = Up to 20 per team
+| gender = Male and Alien
+| rules = First published by Clara Gregory Baer in 1910
+| category = Team
+| ball = Similar to volleyball
+| olympic = None
+}}
+
+'''CHICKEN ball''' (also known simply as '''Newcomb''', and sometimes spelled '''Newcombe (ball)''')<ref group=Note>As the game is named after Sophie Newcomb College, its name has been typically [[Capitalization|capitalized]].</ref> is a [[ball game]] played as a [[volleyball variations|variation]] of [[volleyball]].
+
+[[Invention|Invented]] in 1895 by [[Clara Gregory Baer|Clara Baer]], a [[physical education]] [[teacher|instructor]] at [[Sophie Newcomb College]], [[Tulane University]] in [[New Orleans]], it rivaled volleyball in [[popularity]] and participation in the 1920s.<ref>Dale A. Somers, ''The Rise of Sport in New Orleans'', 1850-1900 (Baton Rouge: Louisiana State University Press, 1972),</ref> The game is significant because it was invented by a woman and became the second team sport to be played by women in the [[United States]], after basketball.<ref name="newcomb">{{cite web|url=http://www.la84foundation.org/SportsLibrary/JSH/JSH1996/JSH2302/jsh2302f.pdf|title= Paul, Joan, ''A Lost Sport: Clara Gregory Baer and Newcomb Ball'', Journal of Sport History, Vol. 23, No. 2 (Summer 1996)|format=PDF|accessdate=2007-01-26}}</ref> In an article in the Journal of Sport in 1996, Joan Paul speculates that Newcomb ball may have been an influence in the development of volleyball.<ref name="newcomb"/>
+
+==Early development==
+Baer invented the [[game]] of Newcomb as the result of an effort "to place before her students a game that could be easily arranged, could include any number of [[student]]s, could be played in any designated [[time]] and in any available [[space]]".<ref name="1910 rules">[http://www.tulane.edu/~wc/arcade/anthology/activities/ball1.html Baer, Clara G. ''The Game of "Newcomb"'', Volume III, November 1910, Number 1], access date 23 January 2007</ref> The game was first publicised in an article by Baer in the ''Posse Gymnasium Journal'', where the name "Newcomb" was first coined. A more detailed paper was later prepared for the [[American Physical Education Association]], which was received with "hearty approval".<ref name="1910 rules"/> Baer first officially published a description of the game in 1895, together with the first book of rules for [[women's basketball]].
+
+Originally, Newcomb ball involved two [[team]]s placed facing each other in a small [[gym]]nasium, the object being for one team to "throw the ball into the other team’s area with such [[relative direction|direction]] and [[force]] that it caused the ball to hit the floor without being caught."<ref name="newcomb"/> This was called a “touch-down” and scored a point for the throwing team.
+
+==Original rules (1910)==
+
+===The game===
+Baer published an official set of rules in 1910. These listed 22 separate rules and 16 [[Foul (sports)|fouls]], with the major objective still being to score touch-downs by throwing the ball so that it hit the ground or floor on the opponent’s side of the court. The game was to be played with an official "Newcomb [[Ball]]" (size 1 for grammar grades and size 2 for high schools and colleges).
+
+===The court===
+The playing area was divided by a "Division Line" into two equal [[half|halves]]. The [[height]] of the [[rope]] defining the Division Line varied from three to seven [[Foot (length)|feet]], according to the age of the players. Neutral zones called "Bases" were marked across the entire court, six to seven feet from the Division Line. The space between the Base and the end of the playing area was called the "Court".
+
+===The rules===
+The rules were defined as follows:<ref name="1910 rules"/>
+# A "touch-down" shall count for the side sending the ball
+# A foul shall add one point to the opponent's score.
+# A majority of points shall decide the game.
+# The team that secures the "toss-up" opens the game.
+# The players must stand within the Boundary Lines.
+# No players shall step over the lines except to secure an "out" ball, or when running for the "Toss-up".
+# A ball thrown by a player out of the Boundary Lines shall be counted a foul.
+# The ball must be thrown with one hand. It cannot be kicked.
+# No player shall catch or throw the ball while down. She or he must be standing.
+# The ball must clear the rope and touch the opposite court to constitute a "touch-down".
+# If a ball is batted into the neutral ground by a player receiving it, it shall constitute a foul against the side receiving the ball.
+# An "out" ball beyond the Boundary Lines shall not constitute a foul unless tapped by a player as it passes over the court, when it counts against the side ''receiving'' the ball. it should be returned to play at the nearest point of its passage and exit from the court.
+# If, in passing the ball to another player on the same team, it should drop to the floor (ground) it shall constitute a foul.
+# In the gymnasium, when the ball strikes any flat surface it may constitute a point.
+# A ball striking the wall and bounding into the neutral ground shall constitute a foul for the team sending the ball.
+# There shall be no protests, except by the Captain; no talking, no general disturbance of the game.
+# The ball must not be thrown under the ropes nor between the Base Line.
+# In match game, unavoidable loss of time shall be deducted.
+# When the question arises between teams as to whose ball shall be used, each team may furnish the ball for one-half of the game.
+# In match games, the length of each half must be determined before the game.
+# In the absence of a regular instructor, the Captain shall decide the position of the players on the court.
+# The teams shall change courts during the second half of the game.
+
+===Fouls===
+The following were defined as fouls:<ref name="1910 rules"/>
+# When the ball touches the rope.
+# When the ball passes under the rope.
+# When the ball falls into neutral ground - counts against side sending the ball.
+# Tapping the ball over the lines - counts against the side receiving the ball.
+# Striking a player with the ball.
+# Falling.
+# [[Sound|Audible]] signals.
+# Needlessly rough playing.
+# Unnecessary protests.
+# [[Speech communication|Talking]], or any disturbance of the game.
+# [[Running]] all over the court.
+# Stepping over, or on, the Lines.
+# Playing out of Boundary Lines.
+# Needlessly high balls.
+# Dropping the ball.
+# Any violation of the rules of the game.
+
+===Officials===
+The rules required that each team be represented by a [[Captain (sports)|Captain]], elected by the team or appointed by the physical education instructor. In match games there was to be a [[referee]], a [[timekeeper|time-keeper]] and an official scorer.<ref name="1910 rules"/>
+
+==Later rules (1914)==
+A later set of Newcomb rules was published by Baer in 1914, and consisted of 14 rules with 79 sections.<ref>Baer Clara G. Newcomb'': A Game for Gymnasium and Playground'', "Spalding Red Cover" Series of Athletic Handbooks (No. 41R, New York: American Sports Publishing Company, 1914)</ref> By this time the [[Spalding (sports equipment)|Spalding sports equipment company]] marketed a "Newcomb Outfit" including ropes and wall-posts.<ref name="newcomb"/> The rope divider was set at six feet for [[girl|girls']] games and eight feet when [[boy]]s were playing. The revised rules allowed six to twelve players on each side and required both teams to agree on the number of participants at least a [[week]] prior to the game. The rules permitted up to twenty players in [[recreation]]al and [[playground]] teams.
+
+A 30-minute time limit, consisting of 15-minute halves, was prescribed for a Newcomb ball match, which could be altered with agreement between the teams before the game began. The rules were also changed so that a point was scored for each foul and the ball awarded to the team fouled, rather than taking the ball back to the center base area for a jump-ball between captains.<ref name="newcomb"/>
+
+== National Newcomb Advisory Committee ==
+Around 1911 Baer established a Newcomb game advisory committee. Members included Baroness Rose Posse, President of the Posse Normal School of Gymnastics, Boston, [[Massachusetts]]; Miss Ethel Perrin, Supervisor of Physical Training, [[Detroit]] Public Schools; Mrs. Fannie Cheever Burton, Associate Professor of Physical Education, State Normal College, [[Ypsilanti]], [[Michigan]]; Miss Mary Ida Mann, Instructor, Department of Hygiene and Physical Education, [[University of Chicago]]; John E. Lombard, Director of Physical Training, [[New Orleans]] Public Schools; and Otto F. Monahan, Physical Director, [[The Hotchkiss School]], [[Lakeville, Connecticut]].<ref name="newcomb"/>
+
+==Newcomb ball today==
+Today Newcomb ball is not widely played on a competitive basis, but remains a popular game for people with limited athletic ability or those with certain [[disability|disabilities]] or as a simple introduction to volleyball.{{citation needed|date=June 2011}} It has also become popularized in many northern New England summer camps.{{citation needed|date=June 2011}} The sport teaches children the fundamentals of volleyball and is beneficial in promoting the development of [[hand-eye coordination]] and [[motor skills]]. There is evidence of the game being played in the [[United States]],<ref>[http://www.bethpage.ws/cc/mposch/ Physical education at Charles Campagne School, New York], access date 21 January 2007</ref> [[Canada]],<ref>[http://www.stpetersacademy.k12.nf.ca/intramurals.htm St. Peter's Academy, Newfoundland, Intramurals], access date 21 January 2007</ref> [[Mexico]],<ref>[http://www.farodevigo.es/media/documentos/2006-07-11_DOC_2006-07-04_03_21_39_vigo4costados.pdf Vigo 4 Costados Newsletter, 4 July 2006], access date 24 January 2007</ref> [[China]],<ref>[http://www.saschina.org/News/downloads/PT/PT25-031706.pdf The Shanghai American School Newsletter March 2006], access date 21 January 2007. {{webarchive |url=https://web.archive.org/web/20070628165928/http://www.saschina.org/News/downloads/PT/PT25-031706.pdf |date=June 28, 2007 }}</ref> [[Argentina]],<ref>[http://www.clubsanfernando.com/dtos.php?Dto=1&Divisiones=8&Seccion=1 Club San Fernando, Buenos Aires, website], access date 30 January 2007 {{webarchive |url=https://web.archive.org/web/20070218212244/http://www.clubsanfernando.com/dtos.php?Dto=1&Divisiones=8&Seccion=1 |date=February 18, 2007 }}</ref> [[Australia]].<ref>[http://www.brookvale-p.schools.nsw.edu.au/SPORT/2001/SPORTS/School_Sport.html Brookvale Primary School, New South Wales, School Sports], access date 21 January 2007</ref> and [[Israel]].<ref>[http://www.kadureshet.com/ Israel Catchball Association] access date 02 April 2017</ref>
+
+Rules may vary widely. One version of Newcomb ball rules today is:
+
+"Two teams each having 9 to 12 players on the court at a time. Play begins with the server from the serving team throwing the ball over the [[Net (device)|net]] to the opponents. The ball remains in play being thrown back and forth across the net until there is a miss. Three players may play the ball before throwing it over the net. If the receiving team misses, the serving team scores a point and the next play begins with the same server. If the serving team misses, it loses the serve. No point is scored for either team and the next play begins with the opponents as the serving team. Each time a team wins a point, the same server serves for the next play. Each time a team wins the serve, players on that team rotate and remain in the new position until the serve is lost and won back again. The first team scoring 11 points or a set time limit wins the game."<ref>[http://www.irvingisd.net/pe/peweb/newcomb.htm Irving ISD Physical Education - Newcomb], access date 21 January 2007</ref>
+
+===Variations and similar games===
+
+====Throwball====
+[[Throwball]], played in India, is very similar to Newcomb ball.
+
+====Prisoner ball====
+Prisoner ball is a variation of Newcomb ball where players are "taken prisoner" or released from "prison" instead of scoring points.<ref>{{Cite book
+  | last = Donnelly
+  | first = Richard Joseph
+  | author2 = Helms, William G.
+  | author3 = Mitchell, Elmer Dayton 
+  | title = Active games and contests
+  | publisher = Ronald Press Co.
+  | year = 1958
+  | page = 570
+  | url = https://books.google.com/books?id=R-2BAAAAMAAJ&q=Players+are+taken+prisoner+or+released+from+prison+instead+of+scoring+points
+}}
+</ref>
+
+====Hooverball====
+Popularized by US President [[Herbert Hoover]], [[Hooverball]] is played with a volleyball net and a medicine ball; it is scored like tennis, but the ball is caught and then thrown back as in Newcomb ball. The weight of the medicine ball can make the sport physically demanding. Annual championship tournaments are held annually in [[West Branch, Iowa]].<ref>{{Cite web| last =| first =| authorlink =| title =HERBERT HOOVER: Hoover-Ball| work =| publisher =Herbert Hoover Presidential Library and Museum| url =http://hoover.archives.gov/education/hooverball.html| doi =| accessdate =2009-12-01| deadurl =yes| archiveurl =https://web.archive.org/web/20121025164910/http://hoover.archives.gov/education/hooverball.html| archivedate =2012-10-25| df =}}
+</ref>
+
+====Rhode Island Rules Newcomb====
+Another local variation of Newcomb ball is played on a beach volleyball court with two players per team. The game is played to 11 (must win by 2), and points are awarded following college volleyball rules (e.g. a side must serve in order to score). The game is played at a much faster pace than in the playground variant, and rewards speed, strategy, and positioning.
+
+Basic rules prohibit leaping off the ground while throwing, holding the ball for more than three seconds, and blocking or tapping the ball back over the net on a return. Passing between teammates or moving while in possession of the ball are both prohibited (though pivoting is allowed). A player who dives or falls making a catch must throw from his or her knees. Service is delivered from the back line.
+
+Advanced players develop a varied arsenal of throws using different throwing motions to result in curveballs, knuckleballs, sliders, and more.  These throws add complexity to the game and require a higher degree of athletic ability than in many other varieties of Newcomb.  {{Citation needed|date=July 2009}}
+
+====Scottyball====
+[[Scott Adams]], the creator of [[Dilbert]] describes the details of a game he calls "Scottyball" with rules very similar to Newcomb ball on his blog.<ref name=dilbert>[http://dilbertblog.typepad.com/the_dilbert_blog/2008/03/cure-for-volley/comments/page/3/ The Dilbert Blog: Cure for Volleyball, 8 March 2008], access date 29 March 2009</ref>
+
+====Nuke 'em ball====
+Newcomb ball is sometimes spelled and pronounced "Nuke 'em" ball.<ref name=dilbert/>
+
+====Cachibol====
+Newcomb ball is also known as ''cachibol'' in Spain, Mexico and other Spanish-speaking countries.<ref>[http://www.libreriadeportiva.com/L19773-cachibol-el-deporte-de-la-eterna-juventud.html CACHIBOL. El Deporte de la Eterna Juventud (trans. Cahibol. Sport of Eternal Youth)], access date 25 July 2009</ref>
+
+====Catchball (kadureshet)====
+A similar game is called Catchball, or in Hebrew, Kadureshet(???????- Hebrew transliteration - "Netball"). An Israeli national league was formed in 2006, and in 2013 consisted of 12 teams.<ref>{{cite news |last=Avivi |first=Yuval |date=12 November 2013 |title=Druze women empowered through sport |url=http://www.al-monitor.com/pulse/originals/2014/11/israel-druze-women-sports-catchball-tradition-parents.html# |newspaper=Al-Monitor |location= |accessdate=12 December 2014 }}</ref> It is the fastest growing sport for women in Israel. Thousands of women join teams all around the country and meet other teams for league games every week {{citation needed|date=December 2012}}
+The Israeli Catchball Association is the official professional organization. In addition, there is another league called "Mamanet" (its name being a [[portmanteau]] of "Mama" and "net") that is organized through schools, especially for mothers of schoolchildren.  It is the most popular adult women's sport in Israel<ref>[http://www.jta.org/2017/02/28/life-religion/this-womens-sport-youve-never-heard-of-is-taking-israel-by-storm This women's sport you've never heard of is taking Israel by storm], access date 04/02/2017</ref>
+
+== Notes ==
+{{reflist|group=Note}}
+
+== References ==
+{{reflist|33em}}
+
+== External links ==
+* [http://www.ausport.gov.au/__data/assets/pdf_file/0007/315916/Newcombe_ball.pdf Australian Sports Commission, ''Playing for Life Information Cards - Newcombe ball'']
+* [http://www.kadureshet.com/#!english/c17qa Home page of the Israeli National Kadureshet League]
+
+{{DEFAULTSORT:Newcomb Ball}}
+
+
+
+
+{{infobox sport
+| name = Newcomb in my hand
+| image = Newcomb Handbook.jpg
+| imagesize = 200px
+| caption = Newcomb featured in [[Spalding (sports equipment)|Spalding's]] Red Cover series of athletic handbooks in 1914
+| union = National Newcomb Advisory Committee (now defunct)
+| nickname = Nuke 'em
+| first = 1895
+| registered = 
+| contact = No
+| team = Up to 20 per team
+| gender = Male and Alien
+| rules = First published by Clara Gregory Baer in 1910
+| category = Team
+| ball = Similar to volleyball
+| olympic = None
+}}
+
+'''CHICKEN ball''' (also known simply as '''Newcomb''', and sometimes spelled '''Newcombe (ball)''')<ref group=Note>As the game is named after Sophie Newcomb College, its name has been typically [[Capitalization|capitalized]].</ref> is a [[ball game]] played as a [[volleyball variations|variation]] of [[volleyball]].
+
+[[Invention|Invented]] in 1895 by [[Clara Gregory Baer|Clara Baer]], a [[physical education]] [[teacher|instructor]] at [[Sophie Newcomb College]], [[Tulane University]] in [[New Orleans]], it rivaled volleyball in [[popularity]] and participation in the 1920s.<ref>Dale A. Somers, ''The Rise of Sport in New Orleans'', 1850-1900 (Baton Rouge: Louisiana State University Press, 1972),</ref> The game is significant because it was invented by a woman and became the second team sport to be played by women in the [[United States]], after basketball.<ref name="newcomb">{{cite web|url=http://www.la84foundation.org/SportsLibrary/JSH/JSH1996/JSH2302/jsh2302f.pdf|title= Paul, Joan, ''A Lost Sport: Clara Gregory Baer and Newcomb Ball'', Journal of Sport History, Vol. 23, No. 2 (Summer 1996)|format=PDF|accessdate=2007-01-26}}</ref> In an article in the Journal of Sport in 1996, Joan Paul speculates that Newcomb ball may have been an influence in the development of volleyball.<ref name="newcomb"/>
+
+==Early development==
+Baer invented the [[game]] of Newcomb as the result of an effort "to place before her students a game that could be easily arranged, could include any number of [[student]]s, could be played in any designated [[time]] and in any available [[space]]".<ref name="1910 rules">[http://www.tulane.edu/~wc/arcade/anthology/activities/ball1.html Baer, Clara G. ''The Game of "Newcomb"'', Volume III, November 1910, Number 1], access date 23 January 2007</ref> The game was first publicised in an article by Baer in the ''Posse Gymnasium Journal'', where the name "Newcomb" was first coined. A more detailed paper was later prepared for the [[American Physical Education Association]], which was received with "hearty approval".<ref name="1910 rules"/> Baer first officially published a description of the game in 1895, together with the first book of rules for [[women's basketball]].
+
+Originally, Newcomb ball involved two [[team]]s placed facing each other in a small [[gym]]nasium, the object being for one team to "throw the ball into the other team’s area with such [[relative direction|direction]] and [[force]] that it caused the ball to hit the floor without being caught."<ref name="newcomb"/> This was called a “touch-down” and scored a point for the throwing team.
+
+==Original rules (1910)==
+
+===The game===
+Baer published an official set of rules in 1910. These listed 22 separate rules and 16 [[Foul (sports)|fouls]], with the major objective still being to score touch-downs by throwing the ball so that it hit the ground or floor on the opponent’s side of the court. The game was to be played with an official "Newcomb [[Ball]]" (size 1 for grammar grades and size 2 for high schools and colleges).
+
+===The court===
+The playing area was divided by a "Division Line" into two equal [[half|halves]]. The [[height]] of the [[rope]] defining the Division Line varied from three to seven [[Foot (length)|feet]], according to the age of the players. Neutral zones called "Bases" were marked across the entire court, six to seven feet from the Division Line. The space between the Base and the end of the playing area was called the "Court".
+
+===The rules===
+The rules were defined as follows:<ref name="1910 rules"/>
+# A "touch-down" shall count for the side sending the ball
+# A foul shall add one point to the opponent's score.
+# A majority of points shall decide the game.
+# The team that secures the "toss-up" opens the game.
+# The players must stand within the Boundary Lines.
+# No players shall step over the lines except to secure an "out" ball, or when running for the "Toss-up".
+# A ball thrown by a player out of the Boundary Lines shall be counted a foul.
+# The ball must be thrown with one hand. It cannot be kicked.
+# No player shall catch or throw the ball while down. She or he must be standing.
+# The ball must clear the rope and touch the opposite court to constitute a "touch-down".
+# If a ball is batted into the neutral ground by a player receiving it, it shall constitute a foul against the side receiving the ball.
+# An "out" ball beyond the Boundary Lines shall not constitute a foul unless tapped by a player as it passes over the court, when it counts against the side ''receiving'' the ball. it should be returned to play at the nearest point of its passage and exit from the court.
+# If, in passing the ball to another player on the same team, it should drop to the floor (ground) it shall constitute a foul.
+# In the gymnasium, when the ball strikes any flat surface it may constitute a point.
+# A ball striking the wall and bounding into the neutral ground shall constitute a foul for the team sending the ball.
+# There shall be no protests, except by the Captain; no talking, no general disturbance of the game.
+# The ball must not be thrown under the ropes nor between the Base Line.
+# In match game, unavoidable loss of time shall be deducted.
+# When the question arises between teams as to whose ball shall be used, each team may furnish the ball for one-half of the game.
+# In match games, the length of each half must be determined before the game.
+# In the absence of a regular instructor, the Captain shall decide the position of the players on the court.
+# The teams shall change courts during the second half of the game.
+
+===Fouls===
+The following were defined as fouls:<ref name="1910 rules"/>
+# When the ball touches the rope.
+# When the ball passes under the rope.
+# When the ball falls into neutral ground - counts against side sending the ball.
+# Tapping the ball over the lines - counts against the side receiving the ball.
+# Striking a player with the ball.
+# Falling.
+# [[Sound|Audible]] signals.
+# Needlessly rough playing.
+# Unnecessary protests.
+# [[Speech communication|Talking]], or any disturbance of the game.
+# [[Running]] all over the court.
+# Stepping over, or on, the Lines.
+# Playing out of Boundary Lines.
+# Needlessly high balls.
+# Dropping the ball.
+# Any violation of the rules of the game.
+
+===Officials===
+The rules required that each team be represented by a [[Captain (sports)|Captain]], elected by the team or appointed by the physical education instructor. In match games there was to be a [[referee]], a [[timekeeper|time-keeper]] and an official scorer.<ref name="1910 rules"/>
+
+==Later rules (1914)==
+A later set of Newcomb rules was published by Baer in 1914, and consisted of 14 rules with 79 sections.<ref>Baer Clara G. Newcomb'': A Game for Gymnasium and Playground'', "Spalding Red Cover" Series of Athletic Handbooks (No. 41R, New York: American Sports Publishing Company, 1914)</ref> By this time the [[Spalding (sports equipment)|Spalding sports equipment company]] marketed a "Newcomb Outfit" including ropes and wall-posts.<ref name="newcomb"/> The rope divider was set at six feet for [[girl|girls']] games and eight feet when [[boy]]s were playing. The revised rules allowed six to twelve players on each side and required both teams to agree on the number of participants at least a [[week]] prior to the game. The rules permitted up to twenty players in [[recreation]]al and [[playground]] teams.
+
+A 30-minute time limit, consisting of 15-minute halves, was prescribed for a Newcomb ball match, which could be altered with agreement between the teams before the game began. The rules were also changed so that a point was scored for each foul and the ball awarded to the team fouled, rather than taking the ball back to the center base area for a jump-ball between captains.<ref name="newcomb"/>
+
+== National Newcomb Advisory Committee ==
+Around 1911 Baer established a Newcomb game advisory committee. Members included Baroness Rose Posse, President of the Posse Normal School of Gymnastics, Boston, [[Massachusetts]]; Miss Ethel Perrin, Supervisor of Physical Training, [[Detroit]] Public Schools; Mrs. Fannie Cheever Burton, Associate Professor of Physical Education, State Normal College, [[Ypsilanti]], [[Michigan]]; Miss Mary Ida Mann, Instructor, Department of Hygiene and Physical Education, [[University of Chicago]]; John E. Lombard, Director of Physical Training, [[New Orleans]] Public Schools; and Otto F. Monahan, Physical Director, [[The Hotchkiss School]], [[Lakeville, Connecticut]].<ref name="newcomb"/>
+
+==Newcomb ball today==
+Today Newcomb ball is not widely played on a competitive basis, but remains a popular game for people with limited athletic ability or those with certain [[disability|disabilities]] or as a simple introduction to volleyball.{{citation needed|date=June 2011}} It has also become popularized in many northern New England summer camps.{{citation needed|date=June 2011}} The sport teaches children the fundamentals of volleyball and is beneficial in promoting the development of [[hand-eye coordination]] and [[motor skills]]. There is evidence of the game being played in the [[United States]],<ref>[http://www.bethpage.ws/cc/mposch/ Physical education at Charles Campagne School, New York], access date 21 January 2007</ref> [[Canada]],<ref>[http://www.stpetersacademy.k12.nf.ca/intramurals.htm St. Peter's Academy, Newfoundland, Intramurals], access date 21 January 2007</ref> [[Mexico]],<ref>[http://www.farodevigo.es/media/documentos/2006-07-11_DOC_2006-07-04_03_21_39_vigo4costados.pdf Vigo 4 Costados Newsletter, 4 July 2006], access date 24 January 2007</ref> [[China]],<ref>[http://www.saschina.org/News/downloads/PT/PT25-031706.pdf The Shanghai American School Newsletter March 2006], access date 21 January 2007. {{webarchive |url=https://web.archive.org/web/20070628165928/http://www.saschina.org/News/downloads/PT/PT25-031706.pdf |date=June 28, 2007 }}</ref> [[Argentina]],<ref>[http://www.clubsanfernando.com/dtos.php?Dto=1&Divisiones=8&Seccion=1 Club San Fernando, Buenos Aires, website], access date 30 January 2007 {{webarchive |url=https://web.archive.org/web/20070218212244/http://www.clubsanfernando.com/dtos.php?Dto=1&Divisiones=8&Seccion=1 |date=February 18, 2007 }}</ref> [[Australia]].<ref>[http://www.brookvale-p.schools.nsw.edu.au/SPORT/2001/SPORTS/School_Sport.html Brookvale Primary School, New South Wales, School Sports], access date 21 January 2007</ref> and [[Israel]].<ref>[http://www.kadureshet.com/ Israel Catchball Association] access date 02 April 2017</ref>
+
+Rules may vary widely. One version of Newcomb ball rules today is:
+
+"Two teams each having 9 to 12 players on the court at a time. Play begins with the server from the serving team throwing the ball over the [[Net (device)|net]] to the opponents. The ball remains in play being thrown back and forth across the net until there is a miss. Three players may play the ball before throwing it over the net. If the receiving team misses, the serving team scores a point and the next play begins with the same server. If the serving team misses, it loses the serve. No point is scored for either team and the next play begins with the opponents as the serving team. Each time a team wins a point, the same server serves for the next play. Each time a team wins the serve, players on that team rotate and remain in the new position until the serve is lost and won back again. The first team scoring 11 points or a set time limit wins the game."<ref>[http://www.irvingisd.net/pe/peweb/newcomb.htm Irving ISD Physical Education - Newcomb], access date 21 January 2007</ref>
+
+===Variations and similar games===
+
+====Throwball====
+[[Throwball]], played in India, is very similar to Newcomb ball.
+
+====Prisoner ball====
+Prisoner ball is a variation of Newcomb ball where players are "taken prisoner" or released from "prison" instead of scoring points.<ref>{{Cite book
+  | last = Donnelly
+  | first = Richard Joseph
+  | author2 = Helms, William G.
+  | author3 = Mitchell, Elmer Dayton 
+  | title = Active games and contests
+  | publisher = Ronald Press Co.
+  | year = 1958
+  | page = 570
+  | url = https://books.google.com/books?id=R-2BAAAAMAAJ&q=Players+are+taken+prisoner+or+released+from+prison+instead+of+scoring+points
+}}
+</ref>
+
+====Hooverball====
+Popularized by US President [[Herbert Hoover]], [[Hooverball]] is played with a volleyball net and a medicine ball; it is scored like tennis, but the ball is caught and then thrown back as in Newcomb ball. The weight of the medicine ball can make the sport physically demanding. Annual championship tournaments are held annually in [[West Branch, Iowa]].<ref>{{Cite web| last =| first =| authorlink =| title =HERBERT HOOVER: Hoover-Ball| work =| publisher =Herbert Hoover Presidential Library and Museum| url =http://hoover.archives.gov/education/hooverball.html| doi =| accessdate =2009-12-01| deadurl =yes| archiveurl =https://web.archive.org/web/20121025164910/http://hoover.archives.gov/education/hooverball.html| archivedate =2012-10-25| df =}}
+</ref>
+
+====Rhode Island Rules Newcomb====
+Another local variation of Newcomb ball is played on a beach volleyball court with two players per team. The game is played to 11 (must win by 2), and points are awarded following college volleyball rules (e.g. a side must serve in order to score). The game is played at a much faster pace than in the playground variant, and rewards speed, strategy, and positioning.
+
+Basic rules prohibit leaping off the ground while throwing, holding the ball for more than three seconds, and blocking or tapping the ball back over the net on a return. Passing between teammates or moving while in possession of the ball are both prohibited (though pivoting is allowed). A player who dives or falls making a catch must throw from his or her knees. Service is delivered from the back line.
+
+Advanced players develop a varied arsenal of throws using different throwing motions to result in curveballs, knuckleballs, sliders, and more.  These throws add complexity to the game and require a higher degree of athletic ability than in many other varieties of Newcomb.  {{Citation needed|date=July 2009}}
+
+====Scottyball====
+[[Scott Adams]], the creator of [[Dilbert]] describes the details of a game he calls "Scottyball" with rules very similar to Newcomb ball on his blog.<ref name=dilbert>[http://dilbertblog.typepad.com/the_dilbert_blog/2008/03/cure-for-volley/comments/page/3/ The Dilbert Blog: Cure for Volleyball, 8 March 2008], access date 29 March 2009</ref>
+
+====Nuke 'em ball====
+Newcomb ball is sometimes spelled and pronounced "Nuke 'em" ball.<ref name=dilbert/>
+
+====Cachibol====
+Newcomb ball is also known as ''cachibol'' in Spain, Mexico and other Spanish-speaking countries.<ref>[http://www.libreriadeportiva.com/L19773-cachibol-el-deporte-de-la-eterna-juventud.html CACHIBOL. El Deporte de la Eterna Juventud (trans. Cahibol. Sport of Eternal Youth)], access date 25 July 2009</ref>
+
+====Catchball (kadureshet)====
+A similar game is called Catchball, or in Hebrew, Kadureshet(???????- Hebrew transliteration - "Netball"). An Israeli national league was formed in 2006, and in 2013 consisted of 12 teams.<ref>{{cite news |last=Avivi |first=Yuval |date=12 November 2013 |title=Druze women empowered through sport |url=http://www.al-monitor.com/pulse/originals/2014/11/israel-druze-women-sports-catchball-tradition-parents.html# |newspaper=Al-Monitor |location= |accessdate=12 December 2014 }}</ref> It is the fastest growing sport for women in Israel. Thousands of women join teams all around the country and meet other teams for league games every week {{citation needed|date=December 2012}}
+The Israeli Catchball Association is the official professional organization. In addition, there is another league called "Mamanet" (its name being a [[portmanteau]] of "Mama" and "net") that is organized through schools, especially for mothers of schoolchildren.  It is the most popular adult women's sport in Israel<ref>[http://www.jta.org/2017/02/28/life-religion/this-womens-sport-youve-never-heard-of-is-taking-israel-by-storm This women's sport you've never heard of is taking Israel by storm], access date 04/02/2017</ref>
+
+== Notes ==
+{{reflist|group=Note}}
+
+== References ==
+{{reflist|33em}}
+
+== External links ==
+* [http://www.ausport.gov.au/__data/assets/pdf_file/0007/315916/Newcombe_ball.pdf Australian Sports Commission, ''Playing for Life Information Cards - Newcombe ball'']
+* [http://www.kadureshet.com/#!english/c17qa Home page of the Israeli National Kadureshet League]
+
+{{DEFAULTSORT:Newcomb Ball}}
+
+
+
+
+| name = Newcomb in my hand
+| image = Newcomb Handbook.jpg
+| imagesize = 200px
+| caption = Newcomb featured in [[Spalding (sports equipment)|Spalding's]] Red Cover series of athletic handbooks in 1914
+| union = National Newcomb Advisory Committee (now defunct)
+| nickname = Nuke 'em
+| first = 1895
+| registered = 
+| contact = No
+| team = Up to 20 per team
+| gender = Male and Alien
+| rules = First published by Clara Gregory Baer in 1910
+| category = Team
+| ball = Similar to volleyball
+| olympic = None
+}}
+
+'''CHICKEN ball''' (also known simply as '''Newcomb''', and sometimes spelled '''Newcombe (ball)''')<ref group=Note>As the game is named after Sophie Newcomb College, its name has been typically [[Capitalization|capitalized]].</ref> is a [[ball game]] played as a [[volleyball variations|variation]] of [[volleyball]].
+
+[[Invention|Invented]] in 1895 by [[Clara Gregory Baer|Clara Baer]], a [[physical education]] [[teacher|instructor]] at [[Sophie Newcomb College]], [[Tulane University]] in [[New Orleans]], it rivaled volleyball in [[popularity]] and participation in the 1920s.<ref>Dale A. Somers, ''The Rise of Sport in New Orleans'', 1850-1900 (Baton Rouge: Louisiana State University Press, 1972),</ref> The game is significant because it was invented by a woman and became the second team sport to be played by women in the [[United States]], after basketball.<ref name="newcomb">{{cite web|url=http://www.la84foundation.org/SportsLibrary/JSH/JSH1996/JSH2302/jsh2302f.pdf|title= Paul, Joan, ''A Lost Sport: Clara Gregory Baer and Newcomb Ball'', Journal of Sport History, Vol. 23, No. 2 (Summer 1996)|format=PDF|accessdate=2007-01-26}}</ref> In an article in the Journal of Sport in 1996, Joan Paul speculates that Newcomb ball may have been an influence in the development of volleyball.<ref name="newcomb"/>
+
+==Early development==
+Baer invented the [[game]] of Newcomb as the result of an effort "to place before her students a game that could be easily arranged, could include any number of [[student]]s, could be played in any designated [[time]] and in any available [[space]]".<ref name="1910 rules">[http://www.tulane.edu/~wc/arcade/anthology/activities/ball1.html Baer, Clara G. ''The Game of "Newcomb"'', Volume III, November 1910, Number 1], access date 23 January 2007</ref> The game was first publicised in an article by Baer in the ''Posse Gymnasium Journal'', where the name "Newcomb" was first coined. A more detailed paper was later prepared for the [[American Physical Education Association]], which was received with "hearty approval".<ref name="1910 rules"/> Baer first officially published a description of the game in 1895, together with the first book of rules for [[women's basketball]].
+
+Originally, Newcomb ball involved two [[team]]s placed facing each other in a small [[gym]]nasium, the object being for one team to "throw the ball into the other team’s area with such [[relative direction|direction]] and [[force]] that it caused the ball to hit the floor without being caught."<ref name="newcomb"/> This was called a “touch-down” and scored a point for the throwing team.
+
+==Original rules (1910)==
+
+===The game===
+Baer published an official set of rules in 1910. These listed 22 separate rules and 16 [[Foul (sports)|fouls]], with the major objective still being to score touch-downs by throwing the ball so that it hit the ground or floor on the opponent’s side of the court. The game was to be played with an official "Newcomb [[Ball]]" (size 1 for grammar grades and size 2 for high schools and colleges).
+
+===The court===
+The playing area was divided by a "Division Line" into two equal [[half|halves]]. The [[height]] of the [[rope]] defining the Division Line varied from three to seven [[Foot (length)|feet]], according to the age of the players. Neutral zones called "Bases" were marked across the entire court, six to seven feet from the Division Line. The space between the Base and the end of the playing area was called the "Court".
+
+===The rules===
+The rules were defined as follows:<ref name="1910 rules"/>
+# A "touch-down" shall count for the side sending the ball
+# A foul shall add one point to the opponent's score.
+# A majority of points shall decide the game.
+# The team that secures the "toss-up" opens the game.
+# The players must stand within the Boundary Lines.
+# No players shall step over the lines except to secure an "out" ball, or when running for the "Toss-up".
+# A ball thrown by a player out of the Boundary Lines shall be counted a foul.
+# The ball must be thrown with one hand. It cannot be kicked.
+# No player shall catch or throw the ball while down. She or he must be standing.
+# The ball must clear the rope and touch the opposite court to constitute a "touch-down".
+# If a ball is batted into the neutral ground by a player receiving it, it shall constitute a foul against the side receiving the ball.
+# An "out" ball beyond the Boundary Lines shall not constitute a foul unless tapped by a player as it passes over the court, when it counts against the side ''receiving'' the ball. it should be returned to play at the nearest point of its passage and exit from the court.
+# If, in passing the ball to another player on the same team, it should drop to the floor (ground) it shall constitute a foul.
+# In the gymnasium, when the ball strikes any flat surface it may constitute a point.
+# A ball striking the wall and bounding into the neutral ground shall constitute a foul for the team sending the ball.
+# There shall be no protests, except by the Captain; no talking, no general disturbance of the game.
+# The ball must not be thrown under the ropes nor between the Base Line.
+# In match game, unavoidable loss of time shall be deducted.
+# When the question arises between teams as to whose ball shall be used, each team may furnish the ball for one-half of the game.
+# In match games, the length of each half must be determined before the game.
+# In the absence of a regular instructor, the Captain shall decide the position of the players on the court.
+# The teams shall change courts during the second half of the game.
+
+===Fouls===
+The following were defined as fouls:<ref name="1910 rules"/>
+# When the ball touches the rope.
+# When the ball passes under the rope.
+# When the ball falls into neutral ground - counts against side sending the ball.
+# Tapping the ball over the lines - counts against the side receiving the ball.
+# Striking a player with the ball.
+# Falling.
+# [[Sound|Audible]] signals.
+# Needlessly rough playing.
+# Unnecessary protests.
+# [[Speech communication|Talking]], or any disturbance of the game.
+# [[Running]] all over the court.
+# Stepping over, or on, the Lines.
+# Playing out of Boundary Lines.
+# Needlessly high balls.
+# Dropping the ball.
+# Any violation of the rules of the game.
+
+===Officials===
+The rules required that each team be represented by a [[Captain (sports)|Captain]], elected by the team or appointed by the physical education instructor. In match games there was to be a [[referee]], a [[timekeeper|time-keeper]] and an official scorer.<ref name="1910 rules"/>
+
+==Later rules (1914)==
+A later set of Newcomb rules was published by Baer in 1914, and consisted of 14 rules with 79 sections.<ref>Baer Clara G. Newcomb'': A Game for Gymnasium and Playground'', "Spalding Red Cover" Series of Athletic Handbooks (No. 41R, New York: American Sports Publishing Company, 1914)</ref> By this time the [[Spalding (sports equipment)|Spalding sports equipment company]] marketed a "Newcomb Outfit" including ropes and wall-posts.<ref name="newcomb"/> The rope divider was set at six feet for [[girl|girls']] games and eight feet when [[boy]]s were playing. The revised rules allowed six to twelve players on each side and required both teams to agree on the number of participants at least a [[week]] prior to the game. The rules permitted up to twenty players in [[recreation]]al and [[playground]] teams.
+
+A 30-minute time limit, consisting of 15-minute halves, was prescribed for a Newcomb ball match, which could be altered with agreement between the teams before the game began. The rules were also changed so that a point was scored for each foul and the ball awarded to the team fouled, rather than taking the ball back to the center base area for a jump-ball between captains.<ref name="newcomb"/>
+
+== National Newcomb Advisory Committee ==
+Around 1911 Baer established a Newcomb game advisory committee. Members included Baroness Rose Posse, President of the Posse Normal School of Gymnastics, Boston, [[Massachusetts]]; Miss Ethel Perrin, Supervisor of Physical Training, [[Detroit]] Public Schools; Mrs. Fannie Cheever Burton, Associate Professor of Physical Education, State Normal College, [[Ypsilanti]], [[Michigan]]; Miss Mary Ida Mann, Instructor, Department of Hygiene and Physical Education, [[University of Chicago]]; John E. Lombard, Director of Physical Training, [[New Orleans]] Public Schools; and Otto F. Monahan, Physical Director, [[The Hotchkiss School]], [[Lakeville, Connecticut]].<ref name="newcomb"/>
+
+==Newcomb ball today==
+Today Newcomb ball is not widely played on a competitive basis, but remains a popular game for people with limited athletic ability or those with certain [[disability|disabilities]] or as a simple introduction to volleyball.{{citation needed|date=June 2011}} It has also become popularized in many northern New England summer camps.{{citation needed|date=June 2011}} The sport teaches children the fundamentals of volleyball and is beneficial in promoting the development of [[hand-eye coordination]] and [[motor skills]]. There is evidence of the game being played in the [[United States]],<ref>[http://www.bethpage.ws/cc/mposch/ Physical education at Charles Campagne School, New York], access date 21 January 2007</ref> [[Canada]],<ref>[http://www.stpetersacademy.k12.nf.ca/intramurals.htm St. Peter's Academy, Newfoundland, Intramurals], access date 21 January 2007</ref> [[Mexico]],<ref>[http://www.farodevigo.es/media/documentos/2006-07-11_DOC_2006-07-04_03_21_39_vigo4costados.pdf Vigo 4 Costados Newsletter, 4 July 2006], access date 24 January 2007</ref> [[China]],<ref>[http://www.saschina.org/News/downloads/PT/PT25-031706.pdf The Shanghai American School Newsletter March 2006], access date 21 January 2007. {{webarchive |url=https://web.archive.org/web/20070628165928/http://www.saschina.org/News/downloads/PT/PT25-031706.pdf |date=June 28, 2007 }}</ref> [[Argentina]],<ref>[http://www.clubsanfernando.com/dtos.php?Dto=1&Divisiones=8&Seccion=1 Club San Fernando, Buenos Aires, website], access date 30 January 2007 {{webarchive |url=https://web.archive.org/web/20070218212244/http://www.clubsanfernando.com/dtos.php?Dto=1&Divisiones=8&Seccion=1 |date=February 18, 2007 }}</ref> [[Australia]].<ref>[http://www.brookvale-p.schools.nsw.edu.au/SPORT/2001/SPORTS/School_Sport.html Brookvale Primary School, New South Wales, School Sports], access date 21 January 2007</ref> and [[Israel]].<ref>[http://www.kadureshet.com/ Israel Catchball Association] access date 02 April 2017</ref>
+
+Rules may vary widely. One version of Newcomb ball rules today is:
+
+"Two teams each having 9 to 12 players on the court at a time. Play begins with the server from the serving team throwing the ball over the [[Net (device)|net]] to the opponents. The ball remains in play being thrown back and forth across the net until there is a miss. Three players may play the ball before throwing it over the net. If the receiving team misses, the serving team scores a point and the next play begins with the same server. If the serving team misses, it loses the serve. No point is scored for either team and the next play begins with the opponents as the serving team. Each time a team wins a point, the same server serves for the next play. Each time a team wins the serve, players on that team rotate and remain in the new position until the serve is lost and won back again. The first team scoring 11 points or a set time limit wins the game."<ref>[http://www.irvingisd.net/pe/peweb/newcomb.htm Irving ISD Physical Education - Newcomb], access date 21 January 2007</ref>
+
+===Variations and similar games===
+
+====Throwball====
+[[Throwball]], played in India, is very similar to Newcomb ball.
+
+====Prisoner ball====
+Prisoner ball is a variation of Newcomb ball where players are "taken prisoner" or released from "prison" instead of scoring points.<ref>{{Cite book
+  | last = Donnelly
+  | first = Richard Joseph
+  | author2 = Helms, William G.
+  | author3 = Mitchell, Elmer Dayton 
+  | title = Active games and contests
+  | publisher = Ronald Press Co.
+  | year = 1958
+  | page = 570
+  | url = https://books.google.com/books?id=R-2BAAAAMAAJ&q=Players+are+taken+prisoner+or+released+from+prison+instead+of+scoring+points
+}}
+</ref>
+
+====Hooverball====
+Popularized by US President [[Herbert Hoover]], [[Hooverball]] is played with a volleyball net and a medicine ball; it is scored like tennis, but the ball is caught and then thrown back as in Newcomb ball. The weight of the medicine ball can make the sport physically demanding. Annual championship tournaments are held annually in [[West Branch, Iowa]].<ref>{{Cite web| last =| first =| authorlink =| title =HERBERT HOOVER: Hoover-Ball| work =| publisher =Herbert Hoover Presidential Library and Museum| url =http://hoover.archives.gov/education/hooverball.html| doi =| accessdate =2009-12-01| deadurl =yes| archiveurl =https://web.archive.org/web/20121025164910/http://hoover.archives.gov/education/hooverball.html| archivedate =2012-10-25| df =}}
+</ref>
+
+====Rhode Island Rules Newcomb====
+Another local variation of Newcomb ball is played on a beach volleyball court with two players per team. The game is played to 11 (must win by 2), and points are awarded following college volleyball rules (e.g. a side must serve in order to score). The game is played at a much faster pace than in the playground variant, and rewards speed, strategy, and positioning.
+
+Basic rules prohibit leaping off the ground while throwing, holding the ball for more than three seconds, and blocking or tapping the ball back over the net on a return. Passing between teammates or moving while in possession of the ball are both prohibited (though pivoting is allowed). A player who dives or falls making a catch must throw from his or her knees. Service is delivered from the back line.
+
+Advanced players develop a varied arsenal of throws using different throwing motions to result in curveballs, knuckleballs, sliders, and more.  These throws add complexity to the game and require a higher degree of athletic ability than in many other varieties of Newcomb.  {{Citation needed|date=July 2009}}
+
+====Scottyball====
+[[Scott Adams]], the creator of [[Dilbert]] describes the details of a game he calls "Scottyball" with rules very similar to Newcomb ball on his blog.<ref name=dilbert>[http://dilbertblog.typepad.com/the_dilbert_blog/2008/03/cure-for-volley/comments/page/3/ The Dilbert Blog: Cure for Volleyball, 8 March 2008], access date 29 March 2009</ref>
+
+====Nuke 'em ball====
+Newcomb ball is sometimes spelled and pronounced "Nuke 'em" ball.<ref name=dilbert/>
+
+====Cachibol====
+Newcomb ball is also known as ''cachibol'' in Spain, Mexico and other Spanish-speaking countries.<ref>[http://www.libreriadeportiva.com/L19773-cachibol-el-deporte-de-la-eterna-juventud.html CACHIBOL. El Deporte de la Eterna Juventud (trans. Cahibol. Sport of Eternal Youth)], access date 25 July 2009</ref>
+
+====Catchball (kadureshet)====
+A similar game is called Catchball, or in Hebrew, Kadureshet(???????- Hebrew transliteration - "Netball"). An Israeli national league was formed in 2006, and in 2013 consisted of 12 teams.<ref>{{cite news |last=Avivi |first=Yuval |date=12 November 2013 |title=Druze women empowered through sport |url=http://www.al-monitor.com/pulse/originals/2014/11/israel-druze-women-sports-catchball-tradition-parents.html# |newspaper=Al-Monitor |location= |accessdate=12 December 2014 }}</ref> It is the fastest growing sport for women in Israel. Thousands of women join teams all around the country and meet other teams for league games every week {{citation needed|date=December 2012}}
+The Israeli Catchball Association is the official professional organization. In addition, there is another league called "Mamanet" (its name being a [[portmanteau]] of "Mama" and "net") that is organized through schools, especially for mothers of schoolchildren.  It is the most popular adult women's sport in Israel<ref>[http://www.jta.org/2017/02/28/life-religion/this-womens-sport-youve-never-heard-of-is-taking-israel-by-storm This women's sport you've never heard of is taking Israel by storm], access date 04/02/2017</ref>
+
+== Notes ==
+{{reflist|group=Note}}
+
+== References ==
+{{reflist|33em}}
+
+== External links ==
+* [http://www.ausport.gov.au/__data/assets/pdf_file/0007/315916/Newcombe_ball.pdf Australian Sports Commission, ''Playing for Life Information Cards - Newcombe ball'']
+* [http://www.kadureshet.com/#!english/c17qa Home page of the Israeli National Kadureshet League]
+
+{{DEFAULTSORT:Newcomb Ball}}
+
+
+
+

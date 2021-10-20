@@ -1,0 +1,29 @@
+{{Multiple issues|
+{{more citations needed|date=August 2009}}
+{{notability|date=August 2009}}
+{{Underlinked|date=October 2015}}
+}}
+
+'''Nok Hockey''' is a tabletop game that was first introduced in 1942.<ref>{{Cite web|url=https://carrom.com/news-and-media/carrom-nok-hockey-celebrating-75-years/|title=Celebrating 75 Years of Nok Hockey - Carrom Company|website=carrom.com|language=en-US|access-date=2018-08-16}}</ref> The game has been produced by the [[Carrom Company]] since 1947.<ref>{{cite book|title=Toys: celebrating 100 years of the power of play|first=Chris|last=Byrne|publisher=Toy Industry Association|year=2003|page=93|isbn=9780972696319}}</ref> It has its roots in the ancient game of [[carrom]], but combines the basic "strike and pocket" gameplay with a hockey theme.<ref>[http://www.carrom.com/Site-Content/carrom-history "Carrom Company History"] {{webarchive|url=https://web.archive.org/web/20110701134959/http://www.carrom.com/Site-Content/carrom-history |date=2011-07-01 }} - Carrom website</ref>
+
+==Description and Construction of Playing Surface==
+Nok Hockey is a two player action board game. It is played in a [[Ice hockey rink|"rink"]], constructed by enclosing a 2'x3' section of smooth hardboard wall panel (playing surface) within a perimeter of 1"x2"x"L" wooden siderails (the walls). Each narrow end is fitted with a 4" wide cut out "slot" flush with the playing surface, which allows the [[Hockey puck|puck]] to pass through. Each inside corner is fitted with a wooden "wall" which allows the puck to carom off the corners. A 2"x2"x1" square wooden block (the [[Goaltender|"goalie"]]) is mounted approximately 3" in front of each end slot in diamond pattern. A line is normally drawn on the playing surface midway between the goals ("center ice") to denote each players half of the rink. The rink is normally unfooted and played on a flat surface, such as a table or floor. NOTE: The dimensions and materials used may vary.
+
+The "puck" is a 2" diameter circular piece of wood. The miniature "hockey sticks" included with the game were originally made of wood as well; later on, the sticks were made of plastic.
+
+==Rules==
+The object of the game is to knock the puck into the opponent's goal. Each player takes turns attempting to score a goal.  If any portion of the puck crosses the plane defined by the outside wall of the Nok Hockey board, it is considered a goal. It is possible to take a direct shot into the goal, but more often, a player must bank the puck off the wall, corner or goal block. After a goal is scored, a face-off occurs. In a face-off, one player drops the puck on the center circle. The two players then fight for the puck. In the face off, you may not score. A player is not allowed to hit the puck when it is in their opponent's defense area. If a player hits the puck out of bounds, that puck is put into play in the defense area belonging to the player who hit the shot. Players must stay directly behind the goal and may not move along the sides of the board.<ref>{{cite web |url= https://carrom.com/wp-content/uploads/2015/08/Nok-Hockey-Playing-Instructions.pdf|title= "Play Instructions"|author=<!--Not stated--> |date= April 2015|website= Carrom Company|publisher= Carrom Company|access-date= 2018-05-09|quote=}}</ref>
+
+==Playground rules==
+This version of the game is played in many playgrounds in the [[Northeastern United States|northeast United States]]. Games are usually played up to 11, 15, or 21 points. The puck is placed in the middle circle and the players have a face-off. Players take turns hitting the puck until one scores, regardless of where the puck lands after a shot. When scored upon, a player takes the next shot from the middle circle. If the puck goes out of play, the player with the next shot shoots from the middle circle. To score, the puck does not have to go entirely through the goal; if can be moved by swiping a stick down flush against the back of the board, then a goal is counted.
+
+==Alternative playground rules==
+Playground rules vary widely.  Points to win, winning margin, definition of a point (partially or fully through the slot), regular shot points, corner shot points, diamond shot points etc.., are usually agreed upon by the players prior to a match. Sticks or thumbs or a combination of both are also agreed upon.
+
+==Electronic version==
+In 2009, an electronic version of Nok Hockey was released into Apple's [[App Store (iOS)|App Store]]. This version, created by TNT Apps Inc., is the first and only version that has been accepted and approved by Apple. As of May 1, 2010, over 15,000 downloads of the AppStore version of Nok Hockey have been downloaded onto [[iPhone]]s, [[iPad]]s, and [[iPod Touch]]es.
+
+== References ==
+{{Reflist}}
+
+

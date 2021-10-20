@@ -1,0 +1,80 @@
+<!-- REFERENCES NEEDED -->
+{{refimprove|date=December 2011}}
+<!-- REFERENCES NEEDED -->
+{{Infobox sport
+| image      = [[File:kvadrat.gif]]
+| imagesize  = 306x268
+| caption    = A schematic layout of Russian four square.
+| union      =
+| nickname   = Russian Foursquare, RFS
+| first      = Mid-20th century Soviet Russia
+| registered =
+| clubs      =
+| contact    = yes
+| team       = none, players fly solo
+| mgender    = Yes, separate competitions
+| category   = [[amateur sports]], [[Ball game|ball sport]]
+| equipment  = Soccer ball, or volleyball
+| venue      =
+| olympic    =
+}}
+
+'''Russian four square''' was started in the [[Soviet Union]]. It is a variation of the Russian game ??????? (square).
+
+==General information==
+
+===Game requirements===
+To play Russian four square, you need:
+*a ball
+*4 or more people
+*a flat surface (divided into four squares)
+
+===Goal of the game===
+Each player starts off with 5 points. The goal is to get to the king's square and stay there. When you do so, you become the [[czar]] or [[dictator]]. You must throw off your opposition and destroy uprisings.
+
+===Position of the players===
+Each square that is divided is a position for the players:
+
+1st: Peasant's square
+2nd: Duke's square
+3rd: Prince's square
+4th: King's square
+
+==Rules of the game==
+The "peasant" starts off by serving the ball diagonally into the middle square using his/her hands, the "duke" then hits the ball into someone else's square, and the game has begun.
+
+===Penalty points===
+Penalty points are counted in the following order:
+(if you hit the ball into someone else's square, and they miss it, the number of points they lose depends on what body part you used to hit it with):
+
+The knee is two points,
+The head is three points,
+Both knees are four points,
+The solid middle square is five points,
+and everything else is one point.
+
+Penalty points: player 1 touches the ball with his arm or hand (besides serving).
+The ball bounces twice in player 1's square or player 1 causes the ball to bounce twice in "no-mans-land" (the area around the squares).
+The ball bounces in someone else's square once and player 1 hits it (playing someone else's square).
+Player 1 causes the ball to land in the solid square/the very middle (this is an automatic deduction of all five of the players points, but requires two or more witnesses to do so).
+
+If at any time the ball hits a player's arm below the shoulder, the player automatically loses one point. If for example someone hits a three into a player's square and you catch it or hit it with your hand, if a player doesn't lose one point, you lose three.
+When a player loses all five of your points you have lost the round and must go to the end of the line. If there is no line you go back to the 1st square.
+
+===Score keeper===
+The next person in line may keep the score with rocks set in the same position as the players on the court. If someone loses one point a stone is placed in his miniature square. The score keeper can be called keeper of the stones, or simply the stoner. No one can argue with the stoner. The stoner is of the highest authority, however two or more witnesses can overrule the stoner.
+
+===Winning The game===
+The game is ends when at least one player scores 20 points. The person who, at this point, has the fewest points is the winner.<ref>{{cite news | url=http://www.kis-brys.ru/t/349/l/0| title=??????? (????) | publisher=www.kis-brys.ru (archived) |date=July 21, 2006 | first=Olga | last=Yasko | accessdate = 2011-12-13}}</ref>
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* http://www.kis-brys.ru/t/349/l/0
+* http://www.pozdravleniya.biz/konkurs/dvor/15.html
+* http://www.90th.ru/content/kvadrat.html
+
+
+
+

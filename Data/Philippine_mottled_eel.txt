@@ -1,0 +1,32 @@
+{{Taxobox
+| image = 
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{Cite journal | author = Jacoby, D. | author2 = Gollock, M. | last-author-amp = yes | title = ''Anguilla luzonensis'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2014 | page = e.T18435966A45833133 | publisher = [[IUCN]] | date = 2014 | url = http://www.iucnredlist.org/details/18435966/0 | doi = 10.2305/IUCN.UK.2014-1.RLTS.T18435966A45833133.en | access-date = 5 January 2018}}</ref>
+| regnum = [[Animal]]ia
+| phylum = [[Chordata]]
+| classis = [[Actinopterygii]]
+| ordo = [[Anguilliformes]]
+| familia = [[Anguillidae]]
+| genus = ''Anguilla''
+| species = '''''A. luzonensis'''''
+| binomial = ''Anguilla luzonensis''
+| binomial_authority = Watanabe, Aoyama & Tsukamoto, 2009
+| synonyms_ref = <ref>[http://fishbase.mnhn.fr/Nomenclature/SynonymsList.php?ID=65262&SynCode=163510&GenusName=Anguilla&SpeciesName=luzonensis Synonyms of ''Anguilla luzonensis''] {{webarchive|url=https://web.archive.org/web/20160306025011/http://fishbase.mnhn.fr/Nomenclature/SynonymsList.php?ID=65262&SynCode=163510&GenusName=Anguilla&SpeciesName=luzonensis |date=2016-03-06 }} at www.fishbase.org.</ref>
+| synonyms = * ''Anguilla huangi'' <small>Teng, Lin & Tzeng, 2009</small>
+}}
+The '''Philippine mottled eel''' (''Anguilla luzonensis'') is an [[eel]] in the family [[Anguillidae]].<ref name="Fishbase">[http://fishbase.mnhn.fr/summary/Anguilla-luzonensis.html ''Anguilla luzonensis''] at www.fishbase.org.</ref> It was described by [[Shun Watanabe]], [[Jun Aoyama (ichthyologist)|Jun Aoyama]], and [[Katsumi Tsukamoto]] in 2009.<ref name="Watanabe, Aoyama & Tsukamoto, 2009">Watanabe, S., J. Aoyama and K. Tsukamoto, 2009 (Mar.) [ref. 30611] ''A new species of freshwater eel Anguilla luzonensis (Teleostei: Anguillidae) from Luzon Island of the Philippines.'' Fisheries Science (Tokyo) v. 75: 387-392.</ref> It is a [[tropical]] eel known from the [[Pinacanauan River]] system on [[Luzon Island]] (from which the [[Specific name (zoology)|species epithet]] is derived), in the [[Philippines]]. The eels spend most of their lives in [[freshwater]] but [[catadromous|migrate to the ocean to breed.]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q6399895}}
+
+
+
+
+
+
+
+
+{{Anguilliformes-stub}}

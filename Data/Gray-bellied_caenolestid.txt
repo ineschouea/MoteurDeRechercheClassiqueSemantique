@@ -1,0 +1,83 @@
+{{Taxobox
+| name = Gray-bellied caenolestid
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name=iucn>{{IUCN2008|assessor=Patterson, B.|assessor2=Solari, S.|last-assessor-amp=yes|year=2008|id=40521|title=Caenolestes caniventer|downloaded=28 December 2008}}</ref>
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Mammalia]]
+| ordo = [[Paucituberculata]]
+| familia = [[Caenolestidae]]
+| genus = ''[[Caenolestes]]''
+| species = '''''C. caniventer'''''
+| binomial = ''Caenolestes caniventer''
+| binomial_authority = [[Harold Elmer Anthony|Anthony]], 1921
+| synonyms = 
+| range_map = Gray-bellied Shrew Opossum area.png
+| range_map_caption = Range of the gray-bellied caenolestid
+}}
+
+The '''gray-bellied caenolestid''' (''Caenolestes caniventer''), or '''grey-bellied shrew opossum''', is a [[shrew opossum]] found in humid, [[temperate]] forests and moist grasslands of western [[Ecuador]] and northwestern [[Peru]]. It was first [[Species description|described]] by American zoologist [[Harold Elmer Anthony]] in 1921. Little is known about the behavior of the gray-bellied caenolestid. It appears to be [[terrestrial animal|terrestrial]] (land-living) and [[crepuscular]] (active around twilight) or [[nocturnal]] (active at night). Diet consists of [[invertebrate]] larvae, small [[vertebrate]]s and plant material. The [[IUCN]] classifies the gray-bellied caenolestid as [[near threatened]].
+
+== Taxonomy and etymology ==
+The gray-bellied caenolestid is one of the five members of ''[[Caenolestes]]'', and is placed in the family [[Caenolestidae]] (shrew opossums). It was first [[Species description|described]] by American zoologist [[Harold Elmer Anthony]] in 1921.<ref name=msw3>{{MSW3 Paucituberculata | id = 10500004 | page = 19}}</ref> In the latter part of 20th century, scientists believed that ''Caenolestes'' is closely related to ''Lestoros'' (the [[Incan caenolestid]]).<ref>{{cite journal|last1=Simpson|first1=G.G.|title=The Argyrolagidae, extinct South American marsupials|journal=Bulletin of the Museum of Comparative Zoology|date=1970|volume=139|pages=1–86}}</ref><ref>{{cite journal|last1=Marshall|first1=L.G.|title=Systematics of the South American marsupial family Caenolestidae|journal=Fieldiana: Geology |series=New Series|date=1980|volume=5|pages=1–145}}</ref> Over the years, it became clear that ''Lestoros'' is morphologically different from ''Caenolestes''.<ref name=gardner>{{cite book|editor1-last=Gardner|editor1-first=A.L.|title=Mammals of South America|volume=1|date=2007|publisher=University of Chicago Press|location=Chicago, US|isbn=978-0-226-28242-8|pages=121; 124–6|url={{Google Books|id=dbU3d7EUCm8C|page=121|plainurl=yes}}}}</ref> A 2013 [[phylogenetic]] study showed that the Incan caenolestid and the [[long-nosed caenolestid]] (''Rhyncholestes raphanurus'') form a [[clade]] [[sister taxon|sister]] to ''Caenolestes''. The cladogram below is based on this study.<ref>{{cite journal|last1=Ojala-Barbour|first1=R.|last2=Pinto|first2=C.M.|last3=Brito M.|first3=J.|last4=Albuja V.|first4=L.|last5=Lee|first5=T.E.|last6=Patterson|first6=B.D.|title=A new species of shrew-opossum (Paucituberculata: Caenolestidae) with a phylogeny of extant caenolestids|journal=Journal of Mammalogy|date=2013|volume=94|issue=5|pages=967–82|doi=10.1644/13-MAMM-A-018.1}}</ref>
+
+{{clade | style=font-size:90%;line-height:100%;
+|1={{clade
+    |1={{clade
+        |1=[[Gray short-tailed opossum]] (''Monodelphis domestica'')
+        |2=[[Brown four-eyed opossum]] (''Metachirus nudicaudatus'')
+        |3={{clade
+            |1={{clade
+                |1=[[Incan caenolestid]] (''Lestoros inca'')
+                |2=[[Long-nosed caenolestid]] (''Rhyncholestes raphanurus'')
+               }}
+            |label2=''[[Caenolestes]]''
+            |2={{clade
+                |1=[[Northern caenolestid]] (''C. convelatus'')
+                |2={{clade
+                    |1=[[Dusky caenolestid]] (''C. fuliginosus'')
+                    |2={{clade
+                        |1=[[Andean caenolestid]] (''C. condorensis'')
+                        |2={{clade
+                            |1='''Gray-bellied caenolestid''' (''C. caniventer'')
+                            |2=[[Eastern caenolestid]] (''C. sangay'')
+                           }}
+                       }}
+                    }}
+               }}
+           }}
+        }}
+   }}
+}}
+
+Caenolestid fossils date to as early as the early [[Eocene]] (nearly 55 [[Mya (unit)|mya]]). The [[Generic name (biology)|generic name]] ''Caenolestes'' derives from the Greek words ''kainos'' ("new") and ''lestes'' ("robber", "pirate").<ref name="patterson">{{cite journal|last1=Patterson|first1=B.D.|last2=Gallardo|first2=M.H.|title=''Rhyncolestes raphanurus''|journal=[[Mammalian Species]]|date=1987|volume=286|pages=1–5|url=http://www.science.smith.edu/msi/pdf/i0076-3519-286-01-0001.pdf}}</ref>
+
+==Ecology and behavior==
+Little is known about the behavior of the gray-bellied caenolestid. It appears to be [[terrestrial animal|terrestrial]] (land-living) and [[crepuscular]] (active around twilight) or [[nocturnal]] (active at night).<ref name=iucn/> It appears to be an "opportunistic feeder". Analysis of stomach contents of individuals from [[Peru]] suggested a diet comprised largely (up to 75%) by [[invertebrate]] larvae (such as [[arachnid]]s and [[centipede]]s); small [[vertebrate]]s and plant material are also consumed.<ref name=barkley>{{cite journal|last1=Barkley|first1=L.J.|last2=Whitaker|first2=J.O.|title=Confirmation of ''Caenolestes'' in Peru with Information on diet|journal=Journal of Mammalogy|date=1984|volume=65|issue=2|pages=328–30|doi=10.2307/1381173}}</ref> A pregnant female captured in [[Ecuador]] was found to have two fetuses in its womb.<ref>{{cite journal|last1=Barnett|first1=A.A.|title=Records of the grey-bellied shrew opossum, ''Caenolestes caniventer'' and Tate's shrew opossum, ''Caenolestes tatei'' (Caenolestidae, Marsupialia), from Ecuadorian montane forests|journal=Mammalia|date=1991|volume=55|issue=3|pages=443–5|doi=10.1515/mamm.1991.55.3.433|url=http://www.rebeccashapley.com/akodon/reprint_pdfs/91EcuadorCaenolestes.pdf}}</ref>
+
+== Distribution and status ==
+The gray-bellied caenolestid inhabit cool, moist areas with good cover; it is known from humid, [[temperate forest]]s at altitudes of up to {{convert|2,900|m|ft}}, and moist grasslands in the [[subtropics]]. It occurs in small tunnels under tree roots by streams.<ref name=barkley/> The range covers western Ecuador and northwestern Peru. The [[IUCN]] classifies the gray-bellied caenolestid as [[near threatened]]. Its population has decreased by nearly 20% since the 1990s; numbers are feared to be declining due to deforestation and [[agricultural expansion]].<ref name=iucn/> The gray-bellied caenolestid occurs in [[Cajas National Park]] and Mazán Ecological Reserve.<ref>{{cite journal|last1=Barnett|first1=A.A.|title=Small mammals of the Cajas Plateau. southern Ecuador: ecology and natural history|journal=Bulletin of the Florida Museum of Natural History|date=1999|volume=42|issue=4|pages=161–217|url=http://www.rebeccashapley.com/akodon/reprint_pdfs/99EcuadorLasCaJasSmallMammals.pdf}}</ref>
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*{{Wikispecies-inline|Caenolestes caniventer}}
+
+{{Portal bar|Animals|Mammals|South America}}
+
+{{Paucituberculata}}
+
+{{Taxonbar|from=Q194365}}
+
+
+
+
+
+
+
+
+
+
+[[es:Caenolestes#Caenolestes caniventer]]

@@ -1,0 +1,251 @@
+{{Infobox sport overview
+| boxwidth      = 
+| title         = Lacrosse in Canada
+| image         = Coquitlam Percy Perry Stadium ILFU19.jpg
+| imagesize     = 275
+| image_alt     = <!-- alt text, which will be seen when hovering over the image -->
+| caption       = A [[lacrosse]] game between [[Canada men's national lacrosse team|Canada]] and the [[United States men's national lacrosse team|United States]] at the [[2008 Men's U-19 World Lacrosse Championship|2008 Men's]] [[Under-19 World Lacrosse Championships]]
+| union         = [[Canadian Lacrosse Association]]
+| country       = Canada 
+| sport         = Lacrosse
+| noncountry    = <!-- other country this country represents -->
+| teamlabel1    = <!-- overrides the "National team" label with custom label -->
+| nationalteam  = 
+* [[Canada men's national lacrosse team|Men's field team]] 
+* [[Canada national indoor lacrosse team|Men's indoor team]] 
+* Women's national team
+| teamlabel2    = <!-- overrides the "Representative team" label with customer label -->
+| repteam       = <!-- overrides the representative team link, requires full wikitext syntax -->
+| nickname      = <!-- nicknames -->
+| first         = First documented in 1600s
+| registered    =  
+| clubs         = 
+| national_list = 
+* [[Mann Cup]] 
+* [[Minto Cup]]
+| intl_list     = 
+* [[Women's Lacrosse World Cup]]
+* [[World Lacrosse Championship]]
+* [[World Indoor Lacrosse Championship]]
+| club_list     =  
+* [[National Lacrosse League]]
+| match         = 
+| league        = 
+}}
+
+Modern '''lacrosse in Canada''' has been a popular sport since the mid 1800s. Only [[field lacrosse]] was played until the 1930s, when [[box lacrosse]] was invented. In 1994 Parliament passed the ''National Sports of Canada Act'' which declared [[lacrosse]] to be "Canada's National Summer Sport", with [[ice hockey]] as the National Winter Sport.<ref name="CAencyclopedia" />
+
+==History==
+{{see also|History of lacrosse}}
+Lacrosse was played by [[First Nations]] peoples before the arrival of European colonists. The first documented description of the game was in 1637. The game was called ''baggataway'' and ''tewaarathon'', which was played by two teams with 100 to 1,000 men each on a field that stretched from about {{convert|500|m|ft|abbr=on}} to {{convert|3|km|mi|abbr=on}} long.<ref name=CAencyclopedia>{{cite web |url=http://www.thecanadianencyclopedia.ca/en/article/lacrosse/ |title=Lacrosse |work=The Canadian Encyclopedia |first=Barbara K. |last=Adamski}}</ref>
+[[File:1908 Olympics Lacrosse 1.jpg|thumb|left|A lacrosse game between the British and [[Canada men's national lacrosse team|Canadian]] national teams during the [[1908 Summer Olympics]].]]
+The Anglophone middle class of Montreal adopted the game in the mid 1800s. The first known game between whites and First Nations took place in 1843.<ref>Alan Metcalfe, "Sport and Athletics: A Case Study of Lacrosse in Canada, 1840-1889," ''Journal of Sport History,'' (1976) 3#1 pp 1-19.</ref><ref>"Highlights in the Development of Canadian Lacrosse to 1931," ''Canadian Journal of History of Sport and Physical Education,'' (1974) 5#2 pp 31-47</ref><ref>Bryan Eddington, "Little Brother of War," ''Beaver'' (2000) 80#5 pp8-14</ref>
+
+In 1856, the Montreal lacrosse club was established; by the mid-1860s there were active teams in eastern Ontario. The National Lacrosse Association was formed in 1875; in 1880 the league became the National Amateur Lacrosse Association.<ref>Don Morrow, "The Institutionalization of Sport: A Case Study of Canadian Lacrosse, 1844-1914," ''International Journal of the History of Sport'' (1992) 9#2 pp 236-251</ref>  By the 1880s the organized sport was found nationwide, and had become a popular spectator sport. To deal with the violence, middle class promoters spoke in [[Social Gospel]] terms about the ideal of "muscular Christianity."  As working class players and spectators became more prominent, the rhetoric focused on winning at all costs.<ref>Alan Metcalfe, "Sport and Athletics: A Case Study of Lacrosse in Canada, 1840-1889," ''Journal of Sport History,'' (1976) 3#1 pp 1-19.</ref>
+
+The 1860s the Montreal Shamrocks introduced a new level of aggressiveness; it was Irish, Catholic, and fought to win.<ref>{{cite book|author=John Nauright and Charles Parrish|title=Sports Around the World: History, Culture, and Practice|url=https://books.google.com/books?id=IkLYDgTnMxEC&pg=RA2-PA289|year=2012|publisher=ABC-CLIO|page=2}}</ref> During the 1870s and 1880s the Shamrocks had bloody confrontations with the middle-class Protestant Montreal and Toronto Lacrosse Clubs.  Field lacrosse was spread across Canada by Anglophone migrants from Ontario and Quebec. In February 1887, the Toronto Lacrosse Club began using [[ice hockey|hockey]] as a form of exercise during the winter months.<ref>{{Citation | last = | first = | author-link = | last2 = | first2 = | author2-link = | title =  Notes Of Sport| newspaper = The Ottawa  Journal  | pages = 3| date = February 5, 1887|url = https://www.newspapers.com/image/43336194/?terms=hockey| accessdate = July 31, 2014|postscript=<!--None-->}}</ref> By the early 1890s it was the most popular summer game in Canada; the 1900s were the golden years, as two professional leagues were set up.<ref>Michael A. Robidoux, "Imagining a Canadian Identity through Sport: A Historical Interpretation of Lacrosse and Hockey" ''The Journal of American Folklore,'' Vol. 115, (Spring, 2002), pp.209-225</ref>   Escalating violence led to the collapse of the professional leagues in 1914, and the game's base of support shrank to Montreal, Victoria, Vancouver, New Westminster, and a few small-towns. Its failure to establish a solid base derived from a thin organizational infrastructure; for example, it was not played by schools or churches.<ref>N. B.  Bouchier, " Idealized middle-class sport for a young nation: Lacrosse in nineteenth-century Ontario Towns, 1871-1891," ''Journal of Canadian studies'' 1994 -</ref>
+The [[Canadian Lacrosse Association]], founded in 1925, is the governing body of lacrosse in Canada. It presently conducts national junior and senior championship tournaments for men and women in both field and box lacrosse. 
+[[File:Titans at Roughnecks.JPG|thumb|A [[box lacrosse]] at [[Scotiabank Saddledome]] in [[Calgary]]. [[Box lacrosse]] is an indoor variant of the sport first introduced in 1931.]]
+In 1931, big city hockey promoters introduced "[[box lacrosse]]" to turn winter hockey fans into a year-round audience. Box lacrosse was played in a smaller indoor arena space, and competitions could also be held in baseball stadiums, and again, the play was violent. Not enough cities could support teams, however, and the hard times of the Great Depression in the 1930s reduced the number of fans. Entrepreneurs, while failing to make a major commercial success, transformed Canadian amateur lacrosse, making it quite different from field lacrosse as played in the United States, Britain, and Australia. In 1987 the National Lacrosse League began; it has clubs in twelve cities in the United States and Canada.<ref>Donald M. Fisher, "'[http://www.humankinetics.com/acucustom/sitename/Documents/DocumentItem/5223.pdf Splendid but Undesirable Isolation': Recasting Canada's National Game as Box Lacrosse, 1931-1932]," ''Sport History Review'' 2005 36(2): 115-129.</ref>
+
+===21st century===
+In 2003, Canada participated in the inaugural World Indoor Lacrosse Championship.
+
+The CLA along with 5 other National sporting association had their charitable status revoked in June 2010 as part of a Revenue Canada crackdown on Parklane Financial's tax shelter scheme, in which charitable organizations issued receipts far in excess of any material donations. The fact that the CLA Board of Directors agreed to participate in such a scheme may in part be due to the fact that the CLA Board of Directors is largely made up of elected lacrosse representatives, with no particular expertise in legal or financial matters of governance.
+
+At the provincial level, the Ontario Lacrosse Association controls the majority of lacrosse in Ontario. The OLA is governed by a larger Board than the CLA, though also populated largely by members with a strong lacrosse background. OLA lacrosse officials are sanctioned by the OLA, and represented by the Ontario Lacrosse Referees Association (OLRA).  Unlike typical referee associations, the OLRA has a governing structure that is open only to Box lacrosse officials who officiate Junior/Senior/Major-series games, though the vast majority of officials do not officiate at that level. The OLRA is an extension of the OLA, and does not represent an independent officiating union.
+
+The [[National Lacrosse League]] is a professional [[box lacrosse]] league, with franchises in Canada and the United States. The [[2006 World Lacrosse Championship]] was held in [[London, Ontario]]. Canada beat the United States 15-10 in the final to break a 28-year U.S. winning streak. One of the best lacrosse players of all time, [[Gary Gait]] was born in [[Victoria, British Columbia]] and has won every possible major lacrosse championship. Great achievements in Canadian Lacrosse are recognized by the [[Canadian Lacrosse Hall of Fame]].
+
+==See also==
+*[[Sports in Canada]]
+
+==Notes==
+<references/>
+
+==Further reading==
+* Fisher, Donald M. ''Lacrosse: A History of the Game'' (Johns Hopkins U.P., 2002)
+* Metcalfe, Alan. "Sport and Athletics: A Case Study of Lacrosse in Canada, 1840-1889," ''Journal of Sport History'' (1976) 3#1 pp 1–19.
+* Metcalfe, Alan.  ''Canada Learns To Play: The Emergence of Organized Sport, 1807-1914''  (1987).
+* Morrow, Don, and Kevin Wamsley. ''Sport in Canada: A History'' (2005). 318 pp.
+* Mott, Morris, ed.  ''Sports in Canada: Historical Readings'' (1989).
+* Robidoux, Michael A. "Imagining a Canadian Identity through Sport: A Historical Interpretation of Lacrosse and Hockey" ''The Journal of American Folklore,'' Vol. 115 #456, (Spring, 2002), pp.&nbsp;209–225 [http://muse.jhu.edu/journals/journal_of_american_folklore/summary/v115/115.456robidoux.html in Project MUSE]
+
+==External links==
+{{wikisource|Lacrosse: The National Game of Canada}}
+* [http://www.cbc.ca/archives/categories/sports/lacrosse/lacrosse-a-history-of-canadas-game/not-just-a-game-for-boys.html CBC Digital Archives - Lacrosse: A History of Canada's Game]
+* {{cite web |url=http://www.thecanadianencyclopedia.ca/en/article/lacrosse/ |title=Lacrosse |work=The Canadian Encyclopedia |first=Barbara K. |last=Adamski}}
+
+{{Lacrosse topics}}
+{{Sport in Canada}}
+
+
+
+
+{{Infobox sport overview
+| boxwidth      = 
+| title         = Lacrosse in Canada
+| image         = Coquitlam Percy Perry Stadium ILFU19.jpg
+| imagesize     = 275
+| image_alt     = <!-- alt text, which will be seen when hovering over the image -->
+| caption       = A [[lacrosse]] game between [[Canada men's national lacrosse team|Canada]] and the [[United States men's national lacrosse team|United States]] at the [[2008 Men's U-19 World Lacrosse Championship|2008 Men's]] [[Under-19 World Lacrosse Championships]]
+| union         = [[Canadian Lacrosse Association]]
+| country       = Canada 
+| sport         = Lacrosse
+| noncountry    = <!-- other country this country represents -->
+| teamlabel1    = <!-- overrides the "National team" label with custom label -->
+| nationalteam  = 
+* [[Canada men's national lacrosse team|Men's field team]] 
+* [[Canada national indoor lacrosse team|Men's indoor team]] 
+* Women's national team
+| teamlabel2    = <!-- overrides the "Representative team" label with customer label -->
+| repteam       = <!-- overrides the representative team link, requires full wikitext syntax -->
+| nickname      = <!-- nicknames -->
+| first         = First documented in 1600s
+| registered    =  
+| clubs         = 
+| national_list = 
+* [[Mann Cup]] 
+* [[Minto Cup]]
+| intl_list     = 
+* [[Women's Lacrosse World Cup]]
+* [[World Lacrosse Championship]]
+* [[World Indoor Lacrosse Championship]]
+| club_list     =  
+* [[National Lacrosse League]]
+| match         = 
+| league        = 
+}}
+
+Modern '''lacrosse in Canada''' has been a popular sport since the mid 1800s. Only [[field lacrosse]] was played until the 1930s, when [[box lacrosse]] was invented. In 1994 Parliament passed the ''National Sports of Canada Act'' which declared [[lacrosse]] to be "Canada's National Summer Sport", with [[ice hockey]] as the National Winter Sport.<ref name="CAencyclopedia" />
+
+==History==
+{{see also|History of lacrosse}}
+Lacrosse was played by [[First Nations]] peoples before the arrival of European colonists. The first documented description of the game was in 1637. The game was called ''baggataway'' and ''tewaarathon'', which was played by two teams with 100 to 1,000 men each on a field that stretched from about {{convert|500|m|ft|abbr=on}} to {{convert|3|km|mi|abbr=on}} long.<ref name=CAencyclopedia>{{cite web |url=http://www.thecanadianencyclopedia.ca/en/article/lacrosse/ |title=Lacrosse |work=The Canadian Encyclopedia |first=Barbara K. |last=Adamski}}</ref>
+[[File:1908 Olympics Lacrosse 1.jpg|thumb|left|A lacrosse game between the British and [[Canada men's national lacrosse team|Canadian]] national teams during the [[1908 Summer Olympics]].]]
+The Anglophone middle class of Montreal adopted the game in the mid 1800s. The first known game between whites and First Nations took place in 1843.<ref>Alan Metcalfe, "Sport and Athletics: A Case Study of Lacrosse in Canada, 1840-1889," ''Journal of Sport History,'' (1976) 3#1 pp 1-19.</ref><ref>"Highlights in the Development of Canadian Lacrosse to 1931," ''Canadian Journal of History of Sport and Physical Education,'' (1974) 5#2 pp 31-47</ref><ref>Bryan Eddington, "Little Brother of War," ''Beaver'' (2000) 80#5 pp8-14</ref>
+
+In 1856, the Montreal lacrosse club was established; by the mid-1860s there were active teams in eastern Ontario. The National Lacrosse Association was formed in 1875; in 1880 the league became the National Amateur Lacrosse Association.<ref>Don Morrow, "The Institutionalization of Sport: A Case Study of Canadian Lacrosse, 1844-1914," ''International Journal of the History of Sport'' (1992) 9#2 pp 236-251</ref>  By the 1880s the organized sport was found nationwide, and had become a popular spectator sport. To deal with the violence, middle class promoters spoke in [[Social Gospel]] terms about the ideal of "muscular Christianity."  As working class players and spectators became more prominent, the rhetoric focused on winning at all costs.<ref>Alan Metcalfe, "Sport and Athletics: A Case Study of Lacrosse in Canada, 1840-1889," ''Journal of Sport History,'' (1976) 3#1 pp 1-19.</ref>
+
+The 1860s the Montreal Shamrocks introduced a new level of aggressiveness; it was Irish, Catholic, and fought to win.<ref>{{cite book|author=John Nauright and Charles Parrish|title=Sports Around the World: History, Culture, and Practice|url=https://books.google.com/books?id=IkLYDgTnMxEC&pg=RA2-PA289|year=2012|publisher=ABC-CLIO|page=2}}</ref> During the 1870s and 1880s the Shamrocks had bloody confrontations with the middle-class Protestant Montreal and Toronto Lacrosse Clubs.  Field lacrosse was spread across Canada by Anglophone migrants from Ontario and Quebec. In February 1887, the Toronto Lacrosse Club began using [[ice hockey|hockey]] as a form of exercise during the winter months.<ref>{{Citation | last = | first = | author-link = | last2 = | first2 = | author2-link = | title =  Notes Of Sport| newspaper = The Ottawa  Journal  | pages = 3| date = February 5, 1887|url = https://www.newspapers.com/image/43336194/?terms=hockey| accessdate = July 31, 2014|postscript=<!--None-->}}</ref> By the early 1890s it was the most popular summer game in Canada; the 1900s were the golden years, as two professional leagues were set up.<ref>Michael A. Robidoux, "Imagining a Canadian Identity through Sport: A Historical Interpretation of Lacrosse and Hockey" ''The Journal of American Folklore,'' Vol. 115, (Spring, 2002), pp.209-225</ref>   Escalating violence led to the collapse of the professional leagues in 1914, and the game's base of support shrank to Montreal, Victoria, Vancouver, New Westminster, and a few small-towns. Its failure to establish a solid base derived from a thin organizational infrastructure; for example, it was not played by schools or churches.<ref>N. B.  Bouchier, " Idealized middle-class sport for a young nation: Lacrosse in nineteenth-century Ontario Towns, 1871-1891," ''Journal of Canadian studies'' 1994 -</ref>
+The [[Canadian Lacrosse Association]], founded in 1925, is the governing body of lacrosse in Canada. It presently conducts national junior and senior championship tournaments for men and women in both field and box lacrosse. 
+[[File:Titans at Roughnecks.JPG|thumb|A [[box lacrosse]] at [[Scotiabank Saddledome]] in [[Calgary]]. [[Box lacrosse]] is an indoor variant of the sport first introduced in 1931.]]
+In 1931, big city hockey promoters introduced "[[box lacrosse]]" to turn winter hockey fans into a year-round audience. Box lacrosse was played in a smaller indoor arena space, and competitions could also be held in baseball stadiums, and again, the play was violent. Not enough cities could support teams, however, and the hard times of the Great Depression in the 1930s reduced the number of fans. Entrepreneurs, while failing to make a major commercial success, transformed Canadian amateur lacrosse, making it quite different from field lacrosse as played in the United States, Britain, and Australia. In 1987 the National Lacrosse League began; it has clubs in twelve cities in the United States and Canada.<ref>Donald M. Fisher, "'[http://www.humankinetics.com/acucustom/sitename/Documents/DocumentItem/5223.pdf Splendid but Undesirable Isolation': Recasting Canada's National Game as Box Lacrosse, 1931-1932]," ''Sport History Review'' 2005 36(2): 115-129.</ref>
+
+===21st century===
+In 2003, Canada participated in the inaugural World Indoor Lacrosse Championship.
+
+The CLA along with 5 other National sporting association had their charitable status revoked in June 2010 as part of a Revenue Canada crackdown on Parklane Financial's tax shelter scheme, in which charitable organizations issued receipts far in excess of any material donations. The fact that the CLA Board of Directors agreed to participate in such a scheme may in part be due to the fact that the CLA Board of Directors is largely made up of elected lacrosse representatives, with no particular expertise in legal or financial matters of governance.
+
+At the provincial level, the Ontario Lacrosse Association controls the majority of lacrosse in Ontario. The OLA is governed by a larger Board than the CLA, though also populated largely by members with a strong lacrosse background. OLA lacrosse officials are sanctioned by the OLA, and represented by the Ontario Lacrosse Referees Association (OLRA).  Unlike typical referee associations, the OLRA has a governing structure that is open only to Box lacrosse officials who officiate Junior/Senior/Major-series games, though the vast majority of officials do not officiate at that level. The OLRA is an extension of the OLA, and does not represent an independent officiating union.
+
+The [[National Lacrosse League]] is a professional [[box lacrosse]] league, with franchises in Canada and the United States. The [[2006 World Lacrosse Championship]] was held in [[London, Ontario]]. Canada beat the United States 15-10 in the final to break a 28-year U.S. winning streak. One of the best lacrosse players of all time, [[Gary Gait]] was born in [[Victoria, British Columbia]] and has won every possible major lacrosse championship. Great achievements in Canadian Lacrosse are recognized by the [[Canadian Lacrosse Hall of Fame]].
+
+==See also==
+*[[Sports in Canada]]
+
+==Notes==
+<references/>
+
+==Further reading==
+* Fisher, Donald M. ''Lacrosse: A History of the Game'' (Johns Hopkins U.P., 2002)
+* Metcalfe, Alan. "Sport and Athletics: A Case Study of Lacrosse in Canada, 1840-1889," ''Journal of Sport History'' (1976) 3#1 pp 1–19.
+* Metcalfe, Alan.  ''Canada Learns To Play: The Emergence of Organized Sport, 1807-1914''  (1987).
+* Morrow, Don, and Kevin Wamsley. ''Sport in Canada: A History'' (2005). 318 pp.
+* Mott, Morris, ed.  ''Sports in Canada: Historical Readings'' (1989).
+* Robidoux, Michael A. "Imagining a Canadian Identity through Sport: A Historical Interpretation of Lacrosse and Hockey" ''The Journal of American Folklore,'' Vol. 115 #456, (Spring, 2002), pp.&nbsp;209–225 [http://muse.jhu.edu/journals/journal_of_american_folklore/summary/v115/115.456robidoux.html in Project MUSE]
+
+==External links==
+{{wikisource|Lacrosse: The National Game of Canada}}
+* [http://www.cbc.ca/archives/categories/sports/lacrosse/lacrosse-a-history-of-canadas-game/not-just-a-game-for-boys.html CBC Digital Archives - Lacrosse: A History of Canada's Game]
+* {{cite web |url=http://www.thecanadianencyclopedia.ca/en/article/lacrosse/ |title=Lacrosse |work=The Canadian Encyclopedia |first=Barbara K. |last=Adamski}}
+
+{{Lacrosse topics}}
+{{Sport in Canada}}
+
+
+
+
+| boxwidth      = 
+| title         = Lacrosse in Canada
+| image         = Coquitlam Percy Perry Stadium ILFU19.jpg
+| imagesize     = 275
+| image_alt     = <!-- alt text, which will be seen when hovering over the image -->
+| caption       = A [[lacrosse]] game between [[Canada men's national lacrosse team|Canada]] and the [[United States men's national lacrosse team|United States]] at the [[2008 Men's U-19 World Lacrosse Championship|2008 Men's]] [[Under-19 World Lacrosse Championships]]
+| union         = [[Canadian Lacrosse Association]]
+| country       = Canada 
+| sport         = Lacrosse
+| noncountry    = <!-- other country this country represents -->
+| teamlabel1    = <!-- overrides the "National team" label with custom label -->
+| nationalteam  = 
+* [[Canada men's national lacrosse team|Men's field team]] 
+* [[Canada national indoor lacrosse team|Men's indoor team]] 
+* Women's national team
+| teamlabel2    = <!-- overrides the "Representative team" label with customer label -->
+| repteam       = <!-- overrides the representative team link, requires full wikitext syntax -->
+| nickname      = <!-- nicknames -->
+| first         = First documented in 1600s
+| registered    =  
+| clubs         = 
+| national_list = 
+* [[Mann Cup]] 
+* [[Minto Cup]]
+| intl_list     = 
+* [[Women's Lacrosse World Cup]]
+* [[World Lacrosse Championship]]
+* [[World Indoor Lacrosse Championship]]
+| club_list     =  
+* [[National Lacrosse League]]
+| match         = 
+| league        = 
+}}
+
+Modern '''lacrosse in Canada''' has been a popular sport since the mid 1800s. Only [[field lacrosse]] was played until the 1930s, when [[box lacrosse]] was invented. In 1994 Parliament passed the ''National Sports of Canada Act'' which declared [[lacrosse]] to be "Canada's National Summer Sport", with [[ice hockey]] as the National Winter Sport.<ref name="CAencyclopedia" />
+
+==History==
+{{see also|History of lacrosse}}
+Lacrosse was played by [[First Nations]] peoples before the arrival of European colonists. The first documented description of the game was in 1637. The game was called ''baggataway'' and ''tewaarathon'', which was played by two teams with 100 to 1,000 men each on a field that stretched from about {{convert|500|m|ft|abbr=on}} to {{convert|3|km|mi|abbr=on}} long.<ref name=CAencyclopedia>{{cite web |url=http://www.thecanadianencyclopedia.ca/en/article/lacrosse/ |title=Lacrosse |work=The Canadian Encyclopedia |first=Barbara K. |last=Adamski}}</ref>
+[[File:1908 Olympics Lacrosse 1.jpg|thumb|left|A lacrosse game between the British and [[Canada men's national lacrosse team|Canadian]] national teams during the [[1908 Summer Olympics]].]]
+The Anglophone middle class of Montreal adopted the game in the mid 1800s. The first known game between whites and First Nations took place in 1843.<ref>Alan Metcalfe, "Sport and Athletics: A Case Study of Lacrosse in Canada, 1840-1889," ''Journal of Sport History,'' (1976) 3#1 pp 1-19.</ref><ref>"Highlights in the Development of Canadian Lacrosse to 1931," ''Canadian Journal of History of Sport and Physical Education,'' (1974) 5#2 pp 31-47</ref><ref>Bryan Eddington, "Little Brother of War," ''Beaver'' (2000) 80#5 pp8-14</ref>
+
+In 1856, the Montreal lacrosse club was established; by the mid-1860s there were active teams in eastern Ontario. The National Lacrosse Association was formed in 1875; in 1880 the league became the National Amateur Lacrosse Association.<ref>Don Morrow, "The Institutionalization of Sport: A Case Study of Canadian Lacrosse, 1844-1914," ''International Journal of the History of Sport'' (1992) 9#2 pp 236-251</ref>  By the 1880s the organized sport was found nationwide, and had become a popular spectator sport. To deal with the violence, middle class promoters spoke in [[Social Gospel]] terms about the ideal of "muscular Christianity."  As working class players and spectators became more prominent, the rhetoric focused on winning at all costs.<ref>Alan Metcalfe, "Sport and Athletics: A Case Study of Lacrosse in Canada, 1840-1889," ''Journal of Sport History,'' (1976) 3#1 pp 1-19.</ref>
+
+The 1860s the Montreal Shamrocks introduced a new level of aggressiveness; it was Irish, Catholic, and fought to win.<ref>{{cite book|author=John Nauright and Charles Parrish|title=Sports Around the World: History, Culture, and Practice|url=https://books.google.com/books?id=IkLYDgTnMxEC&pg=RA2-PA289|year=2012|publisher=ABC-CLIO|page=2}}</ref> During the 1870s and 1880s the Shamrocks had bloody confrontations with the middle-class Protestant Montreal and Toronto Lacrosse Clubs.  Field lacrosse was spread across Canada by Anglophone migrants from Ontario and Quebec. In February 1887, the Toronto Lacrosse Club began using [[ice hockey|hockey]] as a form of exercise during the winter months.<ref>{{Citation | last = | first = | author-link = | last2 = | first2 = | author2-link = | title =  Notes Of Sport| newspaper = The Ottawa  Journal  | pages = 3| date = February 5, 1887|url = https://www.newspapers.com/image/43336194/?terms=hockey| accessdate = July 31, 2014|postscript=<!--None-->}}</ref> By the early 1890s it was the most popular summer game in Canada; the 1900s were the golden years, as two professional leagues were set up.<ref>Michael A. Robidoux, "Imagining a Canadian Identity through Sport: A Historical Interpretation of Lacrosse and Hockey" ''The Journal of American Folklore,'' Vol. 115, (Spring, 2002), pp.209-225</ref>   Escalating violence led to the collapse of the professional leagues in 1914, and the game's base of support shrank to Montreal, Victoria, Vancouver, New Westminster, and a few small-towns. Its failure to establish a solid base derived from a thin organizational infrastructure; for example, it was not played by schools or churches.<ref>N. B.  Bouchier, " Idealized middle-class sport for a young nation: Lacrosse in nineteenth-century Ontario Towns, 1871-1891," ''Journal of Canadian studies'' 1994 -</ref>
+The [[Canadian Lacrosse Association]], founded in 1925, is the governing body of lacrosse in Canada. It presently conducts national junior and senior championship tournaments for men and women in both field and box lacrosse. 
+[[File:Titans at Roughnecks.JPG|thumb|A [[box lacrosse]] at [[Scotiabank Saddledome]] in [[Calgary]]. [[Box lacrosse]] is an indoor variant of the sport first introduced in 1931.]]
+In 1931, big city hockey promoters introduced "[[box lacrosse]]" to turn winter hockey fans into a year-round audience. Box lacrosse was played in a smaller indoor arena space, and competitions could also be held in baseball stadiums, and again, the play was violent. Not enough cities could support teams, however, and the hard times of the Great Depression in the 1930s reduced the number of fans. Entrepreneurs, while failing to make a major commercial success, transformed Canadian amateur lacrosse, making it quite different from field lacrosse as played in the United States, Britain, and Australia. In 1987 the National Lacrosse League began; it has clubs in twelve cities in the United States and Canada.<ref>Donald M. Fisher, "'[http://www.humankinetics.com/acucustom/sitename/Documents/DocumentItem/5223.pdf Splendid but Undesirable Isolation': Recasting Canada's National Game as Box Lacrosse, 1931-1932]," ''Sport History Review'' 2005 36(2): 115-129.</ref>
+
+===21st century===
+In 2003, Canada participated in the inaugural World Indoor Lacrosse Championship.
+
+The CLA along with 5 other National sporting association had their charitable status revoked in June 2010 as part of a Revenue Canada crackdown on Parklane Financial's tax shelter scheme, in which charitable organizations issued receipts far in excess of any material donations. The fact that the CLA Board of Directors agreed to participate in such a scheme may in part be due to the fact that the CLA Board of Directors is largely made up of elected lacrosse representatives, with no particular expertise in legal or financial matters of governance.
+
+At the provincial level, the Ontario Lacrosse Association controls the majority of lacrosse in Ontario. The OLA is governed by a larger Board than the CLA, though also populated largely by members with a strong lacrosse background. OLA lacrosse officials are sanctioned by the OLA, and represented by the Ontario Lacrosse Referees Association (OLRA).  Unlike typical referee associations, the OLRA has a governing structure that is open only to Box lacrosse officials who officiate Junior/Senior/Major-series games, though the vast majority of officials do not officiate at that level. The OLRA is an extension of the OLA, and does not represent an independent officiating union.
+
+The [[National Lacrosse League]] is a professional [[box lacrosse]] league, with franchises in Canada and the United States. The [[2006 World Lacrosse Championship]] was held in [[London, Ontario]]. Canada beat the United States 15-10 in the final to break a 28-year U.S. winning streak. One of the best lacrosse players of all time, [[Gary Gait]] was born in [[Victoria, British Columbia]] and has won every possible major lacrosse championship. Great achievements in Canadian Lacrosse are recognized by the [[Canadian Lacrosse Hall of Fame]].
+
+==See also==
+*[[Sports in Canada]]
+
+==Notes==
+<references/>
+
+==Further reading==
+* Fisher, Donald M. ''Lacrosse: A History of the Game'' (Johns Hopkins U.P., 2002)
+* Metcalfe, Alan. "Sport and Athletics: A Case Study of Lacrosse in Canada, 1840-1889," ''Journal of Sport History'' (1976) 3#1 pp 1–19.
+* Metcalfe, Alan.  ''Canada Learns To Play: The Emergence of Organized Sport, 1807-1914''  (1987).
+* Morrow, Don, and Kevin Wamsley. ''Sport in Canada: A History'' (2005). 318 pp.
+* Mott, Morris, ed.  ''Sports in Canada: Historical Readings'' (1989).
+* Robidoux, Michael A. "Imagining a Canadian Identity through Sport: A Historical Interpretation of Lacrosse and Hockey" ''The Journal of American Folklore,'' Vol. 115 #456, (Spring, 2002), pp.&nbsp;209–225 [http://muse.jhu.edu/journals/journal_of_american_folklore/summary/v115/115.456robidoux.html in Project MUSE]
+
+==External links==
+{{wikisource|Lacrosse: The National Game of Canada}}
+* [http://www.cbc.ca/archives/categories/sports/lacrosse/lacrosse-a-history-of-canadas-game/not-just-a-game-for-boys.html CBC Digital Archives - Lacrosse: A History of Canada's Game]
+* {{cite web |url=http://www.thecanadianencyclopedia.ca/en/article/lacrosse/ |title=Lacrosse |work=The Canadian Encyclopedia |first=Barbara K. |last=Adamski}}
+
+{{Lacrosse topics}}
+{{Sport in Canada}}
+
+
+
+

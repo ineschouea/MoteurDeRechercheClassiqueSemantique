@@ -1,0 +1,917 @@
+{{short description|Form of basketball}}
+{{NPOV|date=November 2018}}
+{{Use dmy dates|date=February 2012}}
+
+{{Infobox sport
+| name       = SlamBall
+| image      = Corey vs Ivan in 2008.jpg
+| imagesize  = 350px
+| caption    = Slashers Handler Corey Beezhold going in for a [[slam dunk]].
+| union      = 
+| nickname   = 
+| registered = 
+| clubs      = 
+| contact    = 
+| teams      = Hombres, Mob, Slashers, Maulers, Rumble and Bouncers
+| mgender    = 
+| category   = 
+| ball       = [[Wilson Sporting Goods|Wilson]] Custom – All-White "Wave" [[Basketball (ball)|Basketball]]
+| olympic    =
+}}
+{{Infobox sports league
+| title          = SlamBall
+| current_season =
+| logo           =Slamball_Logo_51.jpg
+| Slamball China =
+| pixels         =250px
+| caption        =
+| Formerly       =
+| sport          =SlamBall
+| founded        =2002
+| fame           =
+| motto          =
+| inaugural      =
+| teams          =6
+| countries      =United States, China, Australia, Portugal, India etc
+| champion       =[[Slashers (slamball team)|Slashers]]
+| most_champs    = Tied at 1<br>([[Rumble (slamball team)|Rumble]], Riders, [[Mob (slamball team)|Mob]], and Slashers)
+| qualification  =
+| folded         =
+| website        =[http://www.slamball.net/ SlamBall.net]
+| singles        =
+| ceo            =
+| president      =
+| Director       =
+| TV             ={{flagicon|USA}} [[ESPN]], [[CBS]], [[Versus (TV channel)|Versus]], [[Cartoon Network]]<br>{{flagicon|Portugal}} [[SIC K]], [[SIC Radical]]<br>{{flagicon|Spain}} [[Cuatro (TV channel)|Cuatro]]<br>[[File:Flag of Italy.svg|25px]] [[GXT]], [[Italia 1]]<br>{{flagicon|Australia}} [[10 Bold|One HD]]
+| related_comps  =
+}}
+'''Slamball''' is a form of [[basketball]] played with four [[trampoline]]s in front of each net and boards around the court edge. The name SlamBall is the trademark of SlamBall, LLC. While SlamBall is based on basketball, it is a [[contact sport]], with blocks, collisions and rough physical play a part of the game, similar to elements of [[American football|football]] and [[ice hockey|hockey]].
+
+Professional SlamBall games aired on television with [[Spike (TV channel)|Spike TV]] for two seasons in 2002–2003, and the [[POWERade]] SlamBall Challenge was aired on CSTV, now [[CBS Sports Network]], in 2007. SlamBall returned in August 2008,<ref>{{cite web|url=https://www.nytimes.com/2008/02/27/sports/basketball/27sandomir.html|title=Hoops Hybrid Being Molded Into a League|first=Richard|last=Sandomir|date=27 February 2008|publisher=|via=NYTimes.com|deadurl=no|archiveurl=https://web.archive.org/web/20180105193906/http://www.nytimes.com/2008/02/27/sports/basketball/27sandomir.html|archivedate=5 January 2018|df=dmy-all}}</ref> airing on Versus, now [[NBC Sports Network]], and [[CBS]]. The 2008 SlamBall season aired at one point on weekends on [[Cartoon Network]]. Slamball was shown on [[10 Bold|One HD]] in Australia during 2009. SlamBall held its first major international tournament in China in 2012.{{citation needed|date=November 2013}}
+
+==Rules and regulations==
+
+Scoring is achieved by putting the ball into the net at the opponent's end of the court for points, while preventing the opposing team from doing the same at one's own net. The aim is to have outscored the opposing team when the game ends. A successful score can be worth two points if the ball is thrown through the hoop without the offensive player touching the hoop. [[Slam dunk]]s are scored three points. All shots outside the [[Three point line|three-point arc]] are worth three points as well. Four players from each team (out of an 8 or 9 player roster) may be on the court at one time. Substitutions are unlimited and can be done during play (as in the game of [[ice hockey|hockey]]). Each team has a coach and additional staff which includes assistant coaches, managers, statisticians, doctors, etc.
+
+The game is controlled by two referees and the table officials. The table keeps track of the score, time, team possessions, fouls and the shot clock.
+
+==Playing regulations==
+
+Games are played in four 5-minute quarters, unlike the [[NBA]], which plays for four 12-minute quarters. The game commences with a "bounce-off" in which the ball is bounced at center court. The ball must reach its apex uninterrupted, at which point the players are allowed to "check" each other. Ten minutes are allowed for a half-time break; only one time-out is permitted to each team, which may only be used during the last two minutes of regulation play. A 15-second [[shot clock]] is utilized. Teams change ends for the second half. A tie score at the end of regulation time is settled by a series of "face offs" (see [[#Fouls|Fouls]] below).
+
+==Positions==
+
+[[Image:Court plan.png|thumb|right|300px|Diagram of a SlamBall court]]
+Each team has four players on the court at any one time. There are three positions:
+
+*'''Handler''': This is the primary ball handler on the team. It is his job to run the offense and organize the other members while controlling the flow of the game. Typically he would be responsible to set up the gunners to attack the basket while adding in his own offensive threat, comparable to a point guard in basketball.
+*'''Gunner''': The primary scorer on the team. A team's gunner will be the player on the team that will attack the basket and finish plays against the opposing teams' stopper, comparable to a forward or wing player in soccer or hockey. <!-- If we can relate "smash mouth defense" to a position, add it back in -->
+*'''Stopper''': This position is for the primary defensive player. He trails the offense only when necessary, and he protects the rim from attacking players by using himself as a shield. Goaltending is legal if the shot attempt is from inside the trampoline area.
+
+Teams are free to choose their own configuration, the usual formations being 1 stopper, 2 handlers, and 1 gunner OR 1 stopper, 1 handler, and 2 gunners.
+
+==Fouls==
+
+Each player can commit just three personal fouls before he is removed from the match (unlike in the NBA, where it is six personal fouls). A coach or player displaying poor sportsmanship (such as fighting, arguing vehemently against an official) may be charged with a [[technical foul]]. Two technical fouls results in a disqualification.
+
+When a foul is called, the player who has committed it will then take position on the baseline of the lower trampolines while the player who was offended will take up offensive position at center court. This is called a ''face-off''. Upon a signal from the referee the offensive player will be free to mount an attack at the basket, which the defender now must endeavor to stop. The defender must enter the lower trampoline only after bouncing in from the side trampoline. If the offensive player is successful, then points will be awarded depending on the shot converted and the offensive players' team will retain possession of the ball. In the case of any tie-ups, the defensive team always gain possession, but if the shot was blocked, the offensive team retains the ball from center court.
+
+'''List of common fouls:'''<ref>[http://slamballrules.com/Rule_Book_2008.pdf Official Rulebook of SlamBall] {{webarchive|url=https://web.archive.org/web/20090325150310/http://slamballrules.com/Rule_Book_2008.pdf |date=25 March 2009 }}</ref>
+#When an offensive player has the ball and a defensive player checks him in the back. '''Result''': Faceoff
+#When an offensive player has the ball and a defensive player checks him before he has begun to dribble the ball. '''Result''': Faceoff
+#When an offensive player has the ball and a defensive player checks him while he is attempting to enter the trampoline. '''Result''': Faceoff
+#When two offensive players step/bounce on the same trampoline. '''Result''': Turnover
+#When an offensive player bounces on a trampoline twice while in possession of the ball. '''Result''': Turnover
+#When either a Player or the Coach of a team argues with the referee and uses physical or verbal abuse in anger. '''Result''': Can either be a Faceoff or Turnover (referee decides)
+#When two players from the same team are on the same island or trampoline, or 'station' as it is called. '''Result''': Turnover
+#Three-second violation: When any offensive player is stationed in an island area (sides of trampolines) for three seconds. '''Result''': Turnover
+#When a shot is attempted from an island.  '''Result''': Turnover
+#When the defense holds position on an island, a charge can be called against the opposition. '''Result''': Turnover.
+#''Popcorn effect'': When a defensive player deliberately interferes with the offensive player's bounce, caused by standing on the offensive player's landing spot to cause the equivalent of a trip in basketball.  '''Result''': Faceoff
+
+==Equipment==
+
+[[Image:New Slamball Court photo.jpg|thumb|3D render of a SlamBall court.]] The spring floor lies adjacent to two sets of four trampoline or spring bed 'quads' which dominate each end of the court. Each trampoline surface measures {{convert|7|by|14|ft|m|abbr=on}}.) The shock absorbent panels pair with the competition bed trampolines to create a unique playing surface that both launches players to inhuman heights and cushions their landing upon returning to the floor. Specifically engineered pads are designed to cover the frame rails and their tapered design allows for maximum safety for on-court play. This entire playing surface will be surrounded with an {{convert|8|ft|m|abbr=on}} Plexiglass wall much like in a [[hockey rink]]. Players wear protective cups and special equipment to protect various areas of the body. This consists of knee and elbow pads, and an optional SlamBall-specific helmet.
+
+==History==
+[[Image:Mason Gordon.jpg|thumb|left|100px|Mason Gordon, creator of the sport]]
+[[Image:Mike Tollin.jpg|thumb|right|200px|Mike Tollin]]
+SlamBall was the creation of Mason Gordon, who wanted to create a combination of sports that approximated a real-life video game,<ref>[https://www.youtube.com/watch?v=qL8T2IQHy8M SlamBall Video!] {{webarchive|url=https://web.archive.org/web/20160826085353/https://www.youtube.com/watch?v=qL8T2IQHy8M |date=26 August 2016 }} Accessed: 12/1/2011</ref> and the name SlamBall is owned by Gordon's company. Upon developing the concept, Gordon approached [[Mike Tollin]], a TV and film producer of ''Smallville'', ''Wild Hogs'', and ''Coach Carter'' fame. After giving it some thought, he agreed to help Gordon. Painstaking thought was put into the development of the game. Many different ideas and concepts encompassing everything from court construction to team strategies were addressed. Six months after their first meeting, a court was constructed in a warehouse in [[East Los Angeles, California]].
+
+Gordon then tried to convince [[street basketball]] players to test his new idea; he wanted to find skilled, strong players who could compete comfortably while launching off trampolines and crashing into each other in mid-air.
+
+Five recruits—James Willis, Sean Jackson, David Redmond, Michael Goldman and Jeff Sheridan—trained with Gordon to produce the first games. These original six players were part of the first two teams, the Los Angeles Rumble and the Chicago Mob. These two teams played an exhibition series in 2001, which the Chicago Mob won. Soon, more players were brought in, including Stan Fletcher, Rob Wilson and Dion Mays.
+
+[[Image:Mason on court.jpg|thumb|left|300px|First ever SlamBall combine in 2002]]
+First played in Los Angeles, the game gained attention from street basketball players in the area. Within a year, 400 people had been enlisted as potential players. Open tryouts were held and the selection of players based on athletic ability, body control and court awareness started. Reducing numbers to about 60 players, the first ever SlamBall combine was held where players and coaches learned safety, the game and basic strategy.
+
+[[Image:Original Mob.jpg|thumb|right|200px|Early SlamBall Team Photo]]
+In 2002, SlamBall made its television debut, on The National Network (now [[Spike TV]]), soon after former [[Philadelphia 76ers]] owner [[Pat Croce]] had signed on as a partner. Six teams (the Bouncers, Diablos, Mob, Rumble, Slashers, and Steal) played in the inaugural season. Former NBA All-Star [[Reggie Theus]] served as studio co-host and color commentator. ReelSports served as the event organizers for the new league. SlamBall also aired on the British television station [[Trouble (TV station)|Trouble]] and [[ESPN]] aired a feature on the new league.
+
+After the second season in 2003, SlamBall creator Mason Gordon and Turner Television Network had a disagreement{{ref}}. The league was dissolved. Five years later the league resurfaced for one more season. The league opened its doors to open try-outs.<ref>{{cite web|url=http://www.gadsdentimes.com/article/20080508/NEWS/605415779?Title=It-146-s-time-to-reach-for-the-sky-as-SlamBall-makes-a-comeback|title=It's time to reach for the sky as SlamBall makes a comeback|first=CHRISTIAN TASKE Columbia News|last=Service|date=|website=gadsdentimes.com|deadurl=no|archiveurl=https://web.archive.org/web/20110721192838/http://www.gadsdentimes.com/article/20080508/NEWS/605415779?Title=It-146-s-time-to-reach-for-the-sky-as-SlamBall-makes-a-comeback|archivedate=21 July 2011|df=dmy-all}}</ref>
+
+[[Image:Rob Wilson vs Kevin Cassidy.jpg|thumb|left|180px|Confrontation between Rob Wilson and Kevin Cassidy.]]
+The first SlamBall draft in 2002 saw Canadian Robert Wilson drafted as the first No. 1 pick ever in the sport.
+Before the second season of SlamBall debuted on the newly renamed Spike TV, two expansion teams (the Riders and Bandits) were added and a new court was built at [[Universal City, California]]. One notable player on the Bandits was Craig Skistimas, who would later go on to co-create the video game entertainment channel [[ScrewAttack!]] <ref>{{cite web|url=https://www.youtube.com/watch?v=cLQd3hxsKnQ|title=Stuttering Craig playing Slamball|first=|last=ScrewAttack|date=6 April 2008|publisher=|via=YouTube|deadurl=no|archiveurl=https://web.archive.org/web/20170215013737/https://www.youtube.com/watch?v=cLQd3hxsKnQ|archivedate=15 February 2017|df=dmy-all}}</ref>
+
+[[Image:Sam vs Whitney.jpg|thumb|right|200px|Sam Jones and Whitney White going head to head at training camp]]
+In 2007, the  "POWERADE SlamBall Challenge" took place at [[Hoop City]], a fan interactive event, at the [[2007 NCAA Men's Division I Basketball Tournament|2007 Final Four]] in [[Atlanta]], Georgia, and aired on [[CBS College Sports Network|CSTV]] in April 2007.<ref>{{cite web|url=http://www.cstv.com/genrel/032707aaa.html|title=CSTV.com: #1 in College Sports|author=|date=|website=www.cstv.com|deadurl=no|archiveurl=https://web.archive.org/web/20090814161709/http://www.cstv.com/genrel/032707aaa.html|archivedate=14 August 2009|df=dmy-all}}</ref>
+
+In [[Italy]] SlamBall made its debut on [[Italia 1]] on 16 July 2007.<ref>[http://www.cinevideoblog.it/sport/slamball-su-italia-uno-condotto-da-dan-peterson-e-ciccio-valenti.html Complete information on SlamBall broadcasts in Italian] {{webarchive|url=https://web.archive.org/web/20071020131924/http://www.cinevideoblog.it/sport/slamball-su-italia-uno-condotto-da-dan-peterson-e-ciccio-valenti.html |date=20 October 2007 }}.</ref>
+
+In 2008, SlamBall began planning for a new season, to be financed by [[IMG (business)|IMG]]. The league accepted applications through its website for new players and coaches, and tryouts were held in three U.S. cities in April, 2008. A training camp for the 2008 season of SlamBall was held at [[IMG Academy]]<ref>[https://web.archive.org/web/20080724040045/http://www.imgworld.com/sports/team_sports/default.sps#Slamball IMG World Team Sports – SlamBall]</ref> in Bradenton, Florida from April to June 2008. Over 100 potential players participated in tryouts, eventually leaving 64 players after an 8-team draft. The league was cut to the 6 current teams. Some figures associated with the new season of SlamBall include: Commissioner [[Pat Croce]] and Coaches [[Kenny Anderson (basketball)|Kenny Anderson]], [[John Starks (basketball)|John Starks]], [[Raghib Ismail]] and [[Ken Carter]]. In summer 2008, SlamBall played its first season since 2003 at [[Universal Citywalk]] in Universal Studios, California. These games aired in a "Game of the Week" format on [[Versus (TV channel)|Versus]] beginning 31 August and led up to the finals on [[CBS]] on 2 November 2008.
+
+In the 2008 season championship, the Slashers, led by Kevin Stapleton, defeated the Rumble.<ref>[http://www.slamball.net/ Official SlamBall Website] {{webarchive|url=https://web.archive.org/web/20080827164931/http://www.slamball.net/ |date=27 August 2008 }}</ref>  The coach of the Rumble was Ken Carter, of the famed Coach Carter. The season aired on Australia’s One HD and Fuel TV.<ref>{{cite web|url=http://www.theage.com.au/news/sport/slamball-adds-bounce-to-us-sporting-calendar/2009/07/01/1246127579926.html|title=SLAMBALL adds bounce to US sporting calendar - Sport - theage.com.au|author=|date=|website=www.theage.com.au|deadurl=no|archiveurl=https://web.archive.org/web/20091225132240/http://www.theage.com.au/news/sport/slamball-adds-bounce-to-us-sporting-calendar/2009/07/01/1246127579926.html|archivedate=25 December 2009|df=dmy-all}}</ref>
+
+==Slamball launches in China==
+
+In 2015 Slamball resurfaced in China. After what appeared to be an extended courtship with the Chinese government, and community at large, new Slamball facilities began construction throughout China. Eventually, the new partnership with Chinese entities created five teams to officially expand the league to Asia. Slamball creator Mason Gordon did exhaustive leg work advancing the process. In 2015 all Gordon's hard work would pay off as Slamball started capturing the attention of the Chinese public.
+
+According to a report published by Vice Sports, Mason Gordon was quoted as saying, "We never left, we just needed to take the best path for us." There were even talks of Slamball college teams in the coming years.<ref>{{cite web|url=https://sports.vice.com/en_us/article/kbd4q3/slamball-is-alive-in-china|title=SlamBall is Alive in China|author=|date=15 April 2015|website=vice.com|deadurl=no|archiveurl=https://web.archive.org/web/20180111052722/https://sports.vice.com/en_us/article/kbd4q3/slamball-is-alive-in-china|archivedate=11 January 2018|df=dmy-all}}</ref>
+
+==Media exposure==
+On television, the sport has been seen on ''[[The Tonight Show with Jay Leno]]'', ''[[One Tree Hill (TV series)|One Tree Hill]]'', CBS's ''[[King of Queens]]'', ''[[Method & Red]]'', ''ESPN's [[SportsCenter]]'', ''[[The Best Damn Sports Show Period]]'' and ''[[Fox Sports 2|Fuel TV]]''. In print, SlamBall has been featured in ''[[The New York Times]]'', ''[[Sports Illustrated]]'', ''[[USA Today]]'', ''Time'' and European editions of ''[[Maxim (magazine)|Maxim]]'', ''[[Gentlemen's Quarterly|GQ]]'' and ''[[FHM]]''.
+
+==Athletes and training==
+
+[[Image:Stretch out in 2002.jpg|thumb|left|175px|SlamBall hopefuls at tryout camp in 2002]]
+Because of the nature of SlamBall, a broad scope is considered in the recruitment of the players. New players for the League have come from various areas. SlamBall has recruited players directly from college and pro basketball programs across the country. Football players are used to the full-contact, up-tempo style of play, and many of the better players of SlamBall find their origins on the gridiron.{{Citation needed|date=May 2017}}
+
+[[Image:Anthony White training.jpg|thumb|right|200px|Anthony White vs the trampolines early in training camp]]
+
+[[Image:Aerial awareness training.jpg|thumb|right|200px|Aerial awareness and body control trampoline exercises]]
+
+[[Image:Stan dunking in 2002.jpg|thumb|right|200px|'Shakes' Fletcher in training camp 2002]]
+
+==Teams==
+
+===Current===
+{| class="wikitable" style="width:450px;"
+|- "
+!'''Team Name'''||'''Championships'''||'''Former Names'''
+|-
+|[[Bouncers (slamball team)|Bouncers]]
+|
+|
+|-
+|[[Hombres (slamball team)|Hombres]]
+|
+|[[Diablos (slamball team)|Diablos]]
+|-
+|[[Maulers (slamball team)|Maulers]]
+| 
+|[[Steal (slamball team)|Steal]]
+|-
+|[[Mob (slamball team)|Mob]]
+|2007, 2013
+|
+|-
+|[[Rumble (slamball team)|Rumble]]
+|2002
+|
+|-
+|[[Slashers (slamball team)|Slashers]]
+|2008
+|
+|- 
+|}
+
+===Inactive===
+{| class="wikitable" style="width:450px;"
+|- "
+!'''Team Name'''||'''Championships'''||'''Former Names'''
+|-
+|Bandits
+|
+|
+|-
+|Bulls
+|
+|Robbers
+|-
+|Riders
+|2003
+|
+|}
+
+==Seasons==
+
+===2002===
+{| class="wikitable" style="font-size: 95%; text-align:center;"
+|-
+! colspan="2"|2002 !! colspan="4"|Regular Season !! colspan="4"|Post Season
+|-
+!Team!!Coach!!Won!!Lost!!Win %!!Finish!! Won !! Lost !!  Result
+|-
+![[Rumble (slamball team)|Rumble]]||[[Ken Carter]]||7||2||.778||'''1st'''|| 2 || 0 || Champions
+|-
+![[Diablos (slamball team)|Diablos]]||Mark Ellis||5||4||.556||'''2nd'''|| 1 || 1 || Lost in finals
+|-
+![[Bouncers (slamball team)|Bouncers]]||[[Hernando Planells]]||5||4||.556||'''3rd'''|| 0 || 1 || Lost in semi-finals
+|-
+![[Steal (slamball team)|Steal]]||Brian Taylor||4||5||.444||'''4th'''|| 0 || 1 || Lost in semi-finals
+|-
+![[Mob (slamball team)|Mob]]||[[Brendan Kirsch]]||4||5||.444||'''5th'''|| – || – || Did not qualify
+|-
+![[Slashers (slamball team)|Slashers]]||[[Kevin Stapleton]]||2||7||.222||'''6th'''|| – || – || Did not qualify
+|}
+
+===2003===
+{| class="wikitable" style="font-size: 95%; text-align:center;"
+|-
+! colspan="2"|2003 !! colspan="4"|Regular Season !! colspan="4"|Post Season
+|-
+!Team!!Coach!!Won!!Lost!!Win %!!Finish!! Won !! Lost !!  Result
+|-
+![[Rumble (slamball team)|Rumble]]||[[Ken Carter]]||9||1||.900||'''1st'''|| 0 || 1 || Lost in semi-finals
+|-
+![[Mob (slamball team)|Mob]]||[[Brendan Kirsch]]||7||3||.700||'''2nd'''|| 0 || 1 || Lost in semi-finals
+|-
+![[Riders (slamball team)|Riders]]||[[Xavier McDaniel]]||6||4||.600||'''3rd'''|| 2 || 0 || Champions
+|-
+![[Slashers (slamball team)|Slashers]]||[[Kevin Stapleton]]||6||4||.600||'''4th'''|| 1 || 1 || Lost in finals
+|-
+![[Diablos (slamball team)|Diablos]]||[[Joey Bryant]]||4||6||.400||'''5th'''|| – || – || Did not qualify
+|-
+![[Bouncers (slamball team)|Bouncers]]||[[Hernando Planells]]||4||6||.400||'''6th'''|| – || – || Did not qualify
+|-
+![[Steal (slamball team)|Steal]]||[[Brian Taylor (basketball)|Brian Taylor]]||2||8||.200||'''7th'''|| – || – || Did not qualify
+|-
+![[Bandits (slamball team)|Bandits]]||[[Mark Berekoff]]||2||8||.200||'''8th'''|| – || – || Did not qualify
+|}
+
+===2008===
+{| class="wikitable" style="font-size: 95%; text-align:center;"
+|-
+! colspan="2"|2008 !! colspan="4"|Regular Season !! colspan="4"|Post Season
+|-
+!Team!!Coach!!Won!!Lost!!Win %!!Finish!! Won !! Lost !!  Result
+|-
+![[Rumble (slamball team)|Rumble]]||[[Ken Carter]]||9||3||.750||'''1st'''|| 1 || 1 || Lost in finals
+|-
+![[Slashers (slamball team)|Slashers]]||[[Kevin Stapleton]]||7||5||.583||'''2nd'''|| 2 || 0 || Champions
+|-
+![[Mob (slamball team)|Mob]]||[[Brendan Kirsch]]||7||5||.583||'''3rd'''|| 0 || 1 || Lost in semi-finals
+|-
+![[Hombres (slamball team)|Hombres]]||[[Kenny Anderson (basketball)|Kenny Anderson]]||6||6||.500||'''4th'''|| 0 || 1 || Lost in semi-finals
+|-
+![[Maulers (slamball team)|Maulers]]||[[John Starks (basketball)|John Starks]]||5||7||.417||'''5th'''|| – || – || Did not qualify
+|-
+![[Bouncers (slamball team)|Bouncers]]||[[Rocket Ismail]]||2||10||.167||'''6th'''|| – || – || Did not qualify
+|}
+
+==Past champions==
+{| class="wikitable" || align=center
+|-
+! Year !! Champion !! Score !! Runner-up
+|-
+| 2002 SlamBall Season || [[Rumble (Slamball team)|Rumble]] || 46–41 || [[Diablos (slamball team)|Diablos]]
+|-
+| 2003 SlamBall Season || Riders || 66–60 || [[Slashers (slamball team)|Slashers]]
+|-
+| 2007 Powerade Slamball Challenge || [[Mob (slamball team)|Mob]] || 48–38 || [[Bouncers (slamball team)|Bouncers]]
+|-
+| 2008 Slamball Season || [[Slashers (slamball team)|Slashers]] || 48–46 || [[Rumble (Slamball team)|Rumble]]
+|}
+
+==Popular culture==
+* In the 1989 movie ''[[Back to the Future Part II]]'', "Slamball" was mentioned as one of [[Other Characters in Back to the Future#Douglas J Needles|Douglas J Needles']] favorite sports during a scene that took place in 2015. This fact was listed in the databank captions shown on the [[videophone]] screen during a call between him and [[Marty McFly]]. Slamball was also mentioned on the front page of a 2015 ''[[USA Today]]'' newspaper.<ref>{{cite web|url=http://www.11points.com/Movies/11_Predictions_That_Back_to_the_Future_Part_II_Got_Right|title=11 Predictions That Back to the Future Part II Got Right|author=|date=8 April 2009|website=11points.com|deadurl=no|archiveurl=http://archive.wikiwix.com/cache/20091208064012/http://www.11points.com/Movies/11_Predictions_That_Back_to_the_Future_Part_II_Got_Right|archivedate=8 December 2009|df=dmy-all}}</ref> The movie was released 13 years before SlamBall was ultimately founded in 2002.	
+*In ''[[The King of Queens]]'' episode "Knee Jerk," Doug Heffernan lies to his wife Carrie about having a knee injury but is ultimately caught when she finds him playing SlamBall with his friends.	
+*In the ''[[One Tree Hill (TV series)|One Tree Hill]]'' episode "Choosing My Own Way of Life", Nathan is offered a position on a SlamBall team. The storyline ran five episodes and featured several of SlamBall's top players.
+*SlamBall was covered on [[VH1]]'s ''[[Best Week Ever]]''.
+*[[ScrewAttack!]] and Game Attack founder Craig Skistimas is a former player.
+
+==References==
+{{reflist|35em}}
+
+==External links==
+* {{Official website|http://www.slamball.net}}
+* [http://www.slamball.asia/ SlamBall Asia Official Site]
+* [http://www.cstv.com/powerade POWERade SlamBall Challenge Official Site]
+* [http://www.tollinrobbins.com/ Tollin/Robbins Productions]
+* [https://archive.is/20130104014438/http://www.imgprogramming.com/home/programmes/item374692/ IMG Programming Official Site – SlamBall]
+* [http://www.slamball.co.uk/ SlamBall UK Fansite]
+* [https://web.archive.org/web/20110918213645/http://www.slamball.tv/ SlamBall TV]
+* [https://archive.is/20110714080814/http://slamball2008.mevio.com/ SlamBall 2008 Videos]
+* [http://ftw.usatoday.com/2015/10/back-to-the-future-ii-slamball-playoffs-begin]
+
+{{Team Sport}}
+{{Spike (TV network) programming}}
+
+
+
+
+
+
+[[zh:???]]
+{{short description|Form of basketball}}
+{{NPOV|date=November 2018}}
+{{Use dmy dates|date=February 2012}}
+
+{{Infobox sport
+| name       = SlamBall
+| image      = Corey vs Ivan in 2008.jpg
+| imagesize  = 350px
+| caption    = Slashers Handler Corey Beezhold going in for a [[slam dunk]].
+| union      = 
+| nickname   = 
+| registered = 
+| clubs      = 
+| contact    = 
+| teams      = Hombres, Mob, Slashers, Maulers, Rumble and Bouncers
+| mgender    = 
+| category   = 
+| ball       = [[Wilson Sporting Goods|Wilson]] Custom – All-White "Wave" [[Basketball (ball)|Basketball]]
+| olympic    =
+}}
+{{Infobox sports league
+| title          = SlamBall
+| current_season =
+| logo           =Slamball_Logo_51.jpg
+| Slamball China =
+| pixels         =250px
+| caption        =
+| Formerly       =
+| sport          =SlamBall
+| founded        =2002
+| fame           =
+| motto          =
+| inaugural      =
+| teams          =6
+| countries      =United States, China, Australia, Portugal, India etc
+| champion       =[[Slashers (slamball team)|Slashers]]
+| most_champs    = Tied at 1<br>([[Rumble (slamball team)|Rumble]], Riders, [[Mob (slamball team)|Mob]], and Slashers)
+| qualification  =
+| folded         =
+| website        =[http://www.slamball.net/ SlamBall.net]
+| singles        =
+| ceo            =
+| president      =
+| Director       =
+| TV             ={{flagicon|USA}} [[ESPN]], [[CBS]], [[Versus (TV channel)|Versus]], [[Cartoon Network]]<br>{{flagicon|Portugal}} [[SIC K]], [[SIC Radical]]<br>{{flagicon|Spain}} [[Cuatro (TV channel)|Cuatro]]<br>[[File:Flag of Italy.svg|25px]] [[GXT]], [[Italia 1]]<br>{{flagicon|Australia}} [[10 Bold|One HD]]
+| related_comps  =
+}}
+'''Slamball''' is a form of [[basketball]] played with four [[trampoline]]s in front of each net and boards around the court edge. The name SlamBall is the trademark of SlamBall, LLC. While SlamBall is based on basketball, it is a [[contact sport]], with blocks, collisions and rough physical play a part of the game, similar to elements of [[American football|football]] and [[ice hockey|hockey]].
+
+Professional SlamBall games aired on television with [[Spike (TV channel)|Spike TV]] for two seasons in 2002–2003, and the [[POWERade]] SlamBall Challenge was aired on CSTV, now [[CBS Sports Network]], in 2007. SlamBall returned in August 2008,<ref>{{cite web|url=https://www.nytimes.com/2008/02/27/sports/basketball/27sandomir.html|title=Hoops Hybrid Being Molded Into a League|first=Richard|last=Sandomir|date=27 February 2008|publisher=|via=NYTimes.com|deadurl=no|archiveurl=https://web.archive.org/web/20180105193906/http://www.nytimes.com/2008/02/27/sports/basketball/27sandomir.html|archivedate=5 January 2018|df=dmy-all}}</ref> airing on Versus, now [[NBC Sports Network]], and [[CBS]]. The 2008 SlamBall season aired at one point on weekends on [[Cartoon Network]]. Slamball was shown on [[10 Bold|One HD]] in Australia during 2009. SlamBall held its first major international tournament in China in 2012.{{citation needed|date=November 2013}}
+
+==Rules and regulations==
+
+Scoring is achieved by putting the ball into the net at the opponent's end of the court for points, while preventing the opposing team from doing the same at one's own net. The aim is to have outscored the opposing team when the game ends. A successful score can be worth two points if the ball is thrown through the hoop without the offensive player touching the hoop. [[Slam dunk]]s are scored three points. All shots outside the [[Three point line|three-point arc]] are worth three points as well. Four players from each team (out of an 8 or 9 player roster) may be on the court at one time. Substitutions are unlimited and can be done during play (as in the game of [[ice hockey|hockey]]). Each team has a coach and additional staff which includes assistant coaches, managers, statisticians, doctors, etc.
+
+The game is controlled by two referees and the table officials. The table keeps track of the score, time, team possessions, fouls and the shot clock.
+
+==Playing regulations==
+
+Games are played in four 5-minute quarters, unlike the [[NBA]], which plays for four 12-minute quarters. The game commences with a "bounce-off" in which the ball is bounced at center court. The ball must reach its apex uninterrupted, at which point the players are allowed to "check" each other. Ten minutes are allowed for a half-time break; only one time-out is permitted to each team, which may only be used during the last two minutes of regulation play. A 15-second [[shot clock]] is utilized. Teams change ends for the second half. A tie score at the end of regulation time is settled by a series of "face offs" (see [[#Fouls|Fouls]] below).
+
+==Positions==
+
+[[Image:Court plan.png|thumb|right|300px|Diagram of a SlamBall court]]
+Each team has four players on the court at any one time. There are three positions:
+
+*'''Handler''': This is the primary ball handler on the team. It is his job to run the offense and organize the other members while controlling the flow of the game. Typically he would be responsible to set up the gunners to attack the basket while adding in his own offensive threat, comparable to a point guard in basketball.
+*'''Gunner''': The primary scorer on the team. A team's gunner will be the player on the team that will attack the basket and finish plays against the opposing teams' stopper, comparable to a forward or wing player in soccer or hockey. <!-- If we can relate "smash mouth defense" to a position, add it back in -->
+*'''Stopper''': This position is for the primary defensive player. He trails the offense only when necessary, and he protects the rim from attacking players by using himself as a shield. Goaltending is legal if the shot attempt is from inside the trampoline area.
+
+Teams are free to choose their own configuration, the usual formations being 1 stopper, 2 handlers, and 1 gunner OR 1 stopper, 1 handler, and 2 gunners.
+
+==Fouls==
+
+Each player can commit just three personal fouls before he is removed from the match (unlike in the NBA, where it is six personal fouls). A coach or player displaying poor sportsmanship (such as fighting, arguing vehemently against an official) may be charged with a [[technical foul]]. Two technical fouls results in a disqualification.
+
+When a foul is called, the player who has committed it will then take position on the baseline of the lower trampolines while the player who was offended will take up offensive position at center court. This is called a ''face-off''. Upon a signal from the referee the offensive player will be free to mount an attack at the basket, which the defender now must endeavor to stop. The defender must enter the lower trampoline only after bouncing in from the side trampoline. If the offensive player is successful, then points will be awarded depending on the shot converted and the offensive players' team will retain possession of the ball. In the case of any tie-ups, the defensive team always gain possession, but if the shot was blocked, the offensive team retains the ball from center court.
+
+'''List of common fouls:'''<ref>[http://slamballrules.com/Rule_Book_2008.pdf Official Rulebook of SlamBall] {{webarchive|url=https://web.archive.org/web/20090325150310/http://slamballrules.com/Rule_Book_2008.pdf |date=25 March 2009 }}</ref>
+#When an offensive player has the ball and a defensive player checks him in the back. '''Result''': Faceoff
+#When an offensive player has the ball and a defensive player checks him before he has begun to dribble the ball. '''Result''': Faceoff
+#When an offensive player has the ball and a defensive player checks him while he is attempting to enter the trampoline. '''Result''': Faceoff
+#When two offensive players step/bounce on the same trampoline. '''Result''': Turnover
+#When an offensive player bounces on a trampoline twice while in possession of the ball. '''Result''': Turnover
+#When either a Player or the Coach of a team argues with the referee and uses physical or verbal abuse in anger. '''Result''': Can either be a Faceoff or Turnover (referee decides)
+#When two players from the same team are on the same island or trampoline, or 'station' as it is called. '''Result''': Turnover
+#Three-second violation: When any offensive player is stationed in an island area (sides of trampolines) for three seconds. '''Result''': Turnover
+#When a shot is attempted from an island.  '''Result''': Turnover
+#When the defense holds position on an island, a charge can be called against the opposition. '''Result''': Turnover.
+#''Popcorn effect'': When a defensive player deliberately interferes with the offensive player's bounce, caused by standing on the offensive player's landing spot to cause the equivalent of a trip in basketball.  '''Result''': Faceoff
+
+==Equipment==
+
+[[Image:New Slamball Court photo.jpg|thumb|3D render of a SlamBall court.]] The spring floor lies adjacent to two sets of four trampoline or spring bed 'quads' which dominate each end of the court. Each trampoline surface measures {{convert|7|by|14|ft|m|abbr=on}}.) The shock absorbent panels pair with the competition bed trampolines to create a unique playing surface that both launches players to inhuman heights and cushions their landing upon returning to the floor. Specifically engineered pads are designed to cover the frame rails and their tapered design allows for maximum safety for on-court play. This entire playing surface will be surrounded with an {{convert|8|ft|m|abbr=on}} Plexiglass wall much like in a [[hockey rink]]. Players wear protective cups and special equipment to protect various areas of the body. This consists of knee and elbow pads, and an optional SlamBall-specific helmet.
+
+==History==
+[[Image:Mason Gordon.jpg|thumb|left|100px|Mason Gordon, creator of the sport]]
+[[Image:Mike Tollin.jpg|thumb|right|200px|Mike Tollin]]
+SlamBall was the creation of Mason Gordon, who wanted to create a combination of sports that approximated a real-life video game,<ref>[https://www.youtube.com/watch?v=qL8T2IQHy8M SlamBall Video!] {{webarchive|url=https://web.archive.org/web/20160826085353/https://www.youtube.com/watch?v=qL8T2IQHy8M |date=26 August 2016 }} Accessed: 12/1/2011</ref> and the name SlamBall is owned by Gordon's company. Upon developing the concept, Gordon approached [[Mike Tollin]], a TV and film producer of ''Smallville'', ''Wild Hogs'', and ''Coach Carter'' fame. After giving it some thought, he agreed to help Gordon. Painstaking thought was put into the development of the game. Many different ideas and concepts encompassing everything from court construction to team strategies were addressed. Six months after their first meeting, a court was constructed in a warehouse in [[East Los Angeles, California]].
+
+Gordon then tried to convince [[street basketball]] players to test his new idea; he wanted to find skilled, strong players who could compete comfortably while launching off trampolines and crashing into each other in mid-air.
+
+Five recruits—James Willis, Sean Jackson, David Redmond, Michael Goldman and Jeff Sheridan—trained with Gordon to produce the first games. These original six players were part of the first two teams, the Los Angeles Rumble and the Chicago Mob. These two teams played an exhibition series in 2001, which the Chicago Mob won. Soon, more players were brought in, including Stan Fletcher, Rob Wilson and Dion Mays.
+
+[[Image:Mason on court.jpg|thumb|left|300px|First ever SlamBall combine in 2002]]
+First played in Los Angeles, the game gained attention from street basketball players in the area. Within a year, 400 people had been enlisted as potential players. Open tryouts were held and the selection of players based on athletic ability, body control and court awareness started. Reducing numbers to about 60 players, the first ever SlamBall combine was held where players and coaches learned safety, the game and basic strategy.
+
+[[Image:Original Mob.jpg|thumb|right|200px|Early SlamBall Team Photo]]
+In 2002, SlamBall made its television debut, on The National Network (now [[Spike TV]]), soon after former [[Philadelphia 76ers]] owner [[Pat Croce]] had signed on as a partner. Six teams (the Bouncers, Diablos, Mob, Rumble, Slashers, and Steal) played in the inaugural season. Former NBA All-Star [[Reggie Theus]] served as studio co-host and color commentator. ReelSports served as the event organizers for the new league. SlamBall also aired on the British television station [[Trouble (TV station)|Trouble]] and [[ESPN]] aired a feature on the new league.
+
+After the second season in 2003, SlamBall creator Mason Gordon and Turner Television Network had a disagreement{{ref}}. The league was dissolved. Five years later the league resurfaced for one more season. The league opened its doors to open try-outs.<ref>{{cite web|url=http://www.gadsdentimes.com/article/20080508/NEWS/605415779?Title=It-146-s-time-to-reach-for-the-sky-as-SlamBall-makes-a-comeback|title=It's time to reach for the sky as SlamBall makes a comeback|first=CHRISTIAN TASKE Columbia News|last=Service|date=|website=gadsdentimes.com|deadurl=no|archiveurl=https://web.archive.org/web/20110721192838/http://www.gadsdentimes.com/article/20080508/NEWS/605415779?Title=It-146-s-time-to-reach-for-the-sky-as-SlamBall-makes-a-comeback|archivedate=21 July 2011|df=dmy-all}}</ref>
+
+[[Image:Rob Wilson vs Kevin Cassidy.jpg|thumb|left|180px|Confrontation between Rob Wilson and Kevin Cassidy.]]
+The first SlamBall draft in 2002 saw Canadian Robert Wilson drafted as the first No. 1 pick ever in the sport.
+Before the second season of SlamBall debuted on the newly renamed Spike TV, two expansion teams (the Riders and Bandits) were added and a new court was built at [[Universal City, California]]. One notable player on the Bandits was Craig Skistimas, who would later go on to co-create the video game entertainment channel [[ScrewAttack!]] <ref>{{cite web|url=https://www.youtube.com/watch?v=cLQd3hxsKnQ|title=Stuttering Craig playing Slamball|first=|last=ScrewAttack|date=6 April 2008|publisher=|via=YouTube|deadurl=no|archiveurl=https://web.archive.org/web/20170215013737/https://www.youtube.com/watch?v=cLQd3hxsKnQ|archivedate=15 February 2017|df=dmy-all}}</ref>
+
+[[Image:Sam vs Whitney.jpg|thumb|right|200px|Sam Jones and Whitney White going head to head at training camp]]
+In 2007, the  "POWERADE SlamBall Challenge" took place at [[Hoop City]], a fan interactive event, at the [[2007 NCAA Men's Division I Basketball Tournament|2007 Final Four]] in [[Atlanta]], Georgia, and aired on [[CBS College Sports Network|CSTV]] in April 2007.<ref>{{cite web|url=http://www.cstv.com/genrel/032707aaa.html|title=CSTV.com: #1 in College Sports|author=|date=|website=www.cstv.com|deadurl=no|archiveurl=https://web.archive.org/web/20090814161709/http://www.cstv.com/genrel/032707aaa.html|archivedate=14 August 2009|df=dmy-all}}</ref>
+
+In [[Italy]] SlamBall made its debut on [[Italia 1]] on 16 July 2007.<ref>[http://www.cinevideoblog.it/sport/slamball-su-italia-uno-condotto-da-dan-peterson-e-ciccio-valenti.html Complete information on SlamBall broadcasts in Italian] {{webarchive|url=https://web.archive.org/web/20071020131924/http://www.cinevideoblog.it/sport/slamball-su-italia-uno-condotto-da-dan-peterson-e-ciccio-valenti.html |date=20 October 2007 }}.</ref>
+
+In 2008, SlamBall began planning for a new season, to be financed by [[IMG (business)|IMG]]. The league accepted applications through its website for new players and coaches, and tryouts were held in three U.S. cities in April, 2008. A training camp for the 2008 season of SlamBall was held at [[IMG Academy]]<ref>[https://web.archive.org/web/20080724040045/http://www.imgworld.com/sports/team_sports/default.sps#Slamball IMG World Team Sports – SlamBall]</ref> in Bradenton, Florida from April to June 2008. Over 100 potential players participated in tryouts, eventually leaving 64 players after an 8-team draft. The league was cut to the 6 current teams. Some figures associated with the new season of SlamBall include: Commissioner [[Pat Croce]] and Coaches [[Kenny Anderson (basketball)|Kenny Anderson]], [[John Starks (basketball)|John Starks]], [[Raghib Ismail]] and [[Ken Carter]]. In summer 2008, SlamBall played its first season since 2003 at [[Universal Citywalk]] in Universal Studios, California. These games aired in a "Game of the Week" format on [[Versus (TV channel)|Versus]] beginning 31 August and led up to the finals on [[CBS]] on 2 November 2008.
+
+In the 2008 season championship, the Slashers, led by Kevin Stapleton, defeated the Rumble.<ref>[http://www.slamball.net/ Official SlamBall Website] {{webarchive|url=https://web.archive.org/web/20080827164931/http://www.slamball.net/ |date=27 August 2008 }}</ref>  The coach of the Rumble was Ken Carter, of the famed Coach Carter. The season aired on Australia’s One HD and Fuel TV.<ref>{{cite web|url=http://www.theage.com.au/news/sport/slamball-adds-bounce-to-us-sporting-calendar/2009/07/01/1246127579926.html|title=SLAMBALL adds bounce to US sporting calendar - Sport - theage.com.au|author=|date=|website=www.theage.com.au|deadurl=no|archiveurl=https://web.archive.org/web/20091225132240/http://www.theage.com.au/news/sport/slamball-adds-bounce-to-us-sporting-calendar/2009/07/01/1246127579926.html|archivedate=25 December 2009|df=dmy-all}}</ref>
+
+==Slamball launches in China==
+
+In 2015 Slamball resurfaced in China. After what appeared to be an extended courtship with the Chinese government, and community at large, new Slamball facilities began construction throughout China. Eventually, the new partnership with Chinese entities created five teams to officially expand the league to Asia. Slamball creator Mason Gordon did exhaustive leg work advancing the process. In 2015 all Gordon's hard work would pay off as Slamball started capturing the attention of the Chinese public.
+
+According to a report published by Vice Sports, Mason Gordon was quoted as saying, "We never left, we just needed to take the best path for us." There were even talks of Slamball college teams in the coming years.<ref>{{cite web|url=https://sports.vice.com/en_us/article/kbd4q3/slamball-is-alive-in-china|title=SlamBall is Alive in China|author=|date=15 April 2015|website=vice.com|deadurl=no|archiveurl=https://web.archive.org/web/20180111052722/https://sports.vice.com/en_us/article/kbd4q3/slamball-is-alive-in-china|archivedate=11 January 2018|df=dmy-all}}</ref>
+
+==Media exposure==
+On television, the sport has been seen on ''[[The Tonight Show with Jay Leno]]'', ''[[One Tree Hill (TV series)|One Tree Hill]]'', CBS's ''[[King of Queens]]'', ''[[Method & Red]]'', ''ESPN's [[SportsCenter]]'', ''[[The Best Damn Sports Show Period]]'' and ''[[Fox Sports 2|Fuel TV]]''. In print, SlamBall has been featured in ''[[The New York Times]]'', ''[[Sports Illustrated]]'', ''[[USA Today]]'', ''Time'' and European editions of ''[[Maxim (magazine)|Maxim]]'', ''[[Gentlemen's Quarterly|GQ]]'' and ''[[FHM]]''.
+
+==Athletes and training==
+
+[[Image:Stretch out in 2002.jpg|thumb|left|175px|SlamBall hopefuls at tryout camp in 2002]]
+Because of the nature of SlamBall, a broad scope is considered in the recruitment of the players. New players for the League have come from various areas. SlamBall has recruited players directly from college and pro basketball programs across the country. Football players are used to the full-contact, up-tempo style of play, and many of the better players of SlamBall find their origins on the gridiron.{{Citation needed|date=May 2017}}
+
+[[Image:Anthony White training.jpg|thumb|right|200px|Anthony White vs the trampolines early in training camp]]
+
+[[Image:Aerial awareness training.jpg|thumb|right|200px|Aerial awareness and body control trampoline exercises]]
+
+[[Image:Stan dunking in 2002.jpg|thumb|right|200px|'Shakes' Fletcher in training camp 2002]]
+
+==Teams==
+
+===Current===
+{| class="wikitable" style="width:450px;"
+|- "
+!'''Team Name'''||'''Championships'''||'''Former Names'''
+|-
+|[[Bouncers (slamball team)|Bouncers]]
+|
+|
+|-
+|[[Hombres (slamball team)|Hombres]]
+|
+|[[Diablos (slamball team)|Diablos]]
+|-
+|[[Maulers (slamball team)|Maulers]]
+| 
+|[[Steal (slamball team)|Steal]]
+|-
+|[[Mob (slamball team)|Mob]]
+|2007, 2013
+|
+|-
+|[[Rumble (slamball team)|Rumble]]
+|2002
+|
+|-
+|[[Slashers (slamball team)|Slashers]]
+|2008
+|
+|- 
+|}
+
+===Inactive===
+{| class="wikitable" style="width:450px;"
+|- "
+!'''Team Name'''||'''Championships'''||'''Former Names'''
+|-
+|Bandits
+|
+|
+|-
+|Bulls
+|
+|Robbers
+|-
+|Riders
+|2003
+|
+|}
+
+==Seasons==
+
+===2002===
+{| class="wikitable" style="font-size: 95%; text-align:center;"
+|-
+! colspan="2"|2002 !! colspan="4"|Regular Season !! colspan="4"|Post Season
+|-
+!Team!!Coach!!Won!!Lost!!Win %!!Finish!! Won !! Lost !!  Result
+|-
+![[Rumble (slamball team)|Rumble]]||[[Ken Carter]]||7||2||.778||'''1st'''|| 2 || 0 || Champions
+|-
+![[Diablos (slamball team)|Diablos]]||Mark Ellis||5||4||.556||'''2nd'''|| 1 || 1 || Lost in finals
+|-
+![[Bouncers (slamball team)|Bouncers]]||[[Hernando Planells]]||5||4||.556||'''3rd'''|| 0 || 1 || Lost in semi-finals
+|-
+![[Steal (slamball team)|Steal]]||Brian Taylor||4||5||.444||'''4th'''|| 0 || 1 || Lost in semi-finals
+|-
+![[Mob (slamball team)|Mob]]||[[Brendan Kirsch]]||4||5||.444||'''5th'''|| – || – || Did not qualify
+|-
+![[Slashers (slamball team)|Slashers]]||[[Kevin Stapleton]]||2||7||.222||'''6th'''|| – || – || Did not qualify
+|}
+
+===2003===
+{| class="wikitable" style="font-size: 95%; text-align:center;"
+|-
+! colspan="2"|2003 !! colspan="4"|Regular Season !! colspan="4"|Post Season
+|-
+!Team!!Coach!!Won!!Lost!!Win %!!Finish!! Won !! Lost !!  Result
+|-
+![[Rumble (slamball team)|Rumble]]||[[Ken Carter]]||9||1||.900||'''1st'''|| 0 || 1 || Lost in semi-finals
+|-
+![[Mob (slamball team)|Mob]]||[[Brendan Kirsch]]||7||3||.700||'''2nd'''|| 0 || 1 || Lost in semi-finals
+|-
+![[Riders (slamball team)|Riders]]||[[Xavier McDaniel]]||6||4||.600||'''3rd'''|| 2 || 0 || Champions
+|-
+![[Slashers (slamball team)|Slashers]]||[[Kevin Stapleton]]||6||4||.600||'''4th'''|| 1 || 1 || Lost in finals
+|-
+![[Diablos (slamball team)|Diablos]]||[[Joey Bryant]]||4||6||.400||'''5th'''|| – || – || Did not qualify
+|-
+![[Bouncers (slamball team)|Bouncers]]||[[Hernando Planells]]||4||6||.400||'''6th'''|| – || – || Did not qualify
+|-
+![[Steal (slamball team)|Steal]]||[[Brian Taylor (basketball)|Brian Taylor]]||2||8||.200||'''7th'''|| – || – || Did not qualify
+|-
+![[Bandits (slamball team)|Bandits]]||[[Mark Berekoff]]||2||8||.200||'''8th'''|| – || – || Did not qualify
+|}
+
+===2008===
+{| class="wikitable" style="font-size: 95%; text-align:center;"
+|-
+! colspan="2"|2008 !! colspan="4"|Regular Season !! colspan="4"|Post Season
+|-
+!Team!!Coach!!Won!!Lost!!Win %!!Finish!! Won !! Lost !!  Result
+|-
+![[Rumble (slamball team)|Rumble]]||[[Ken Carter]]||9||3||.750||'''1st'''|| 1 || 1 || Lost in finals
+|-
+![[Slashers (slamball team)|Slashers]]||[[Kevin Stapleton]]||7||5||.583||'''2nd'''|| 2 || 0 || Champions
+|-
+![[Mob (slamball team)|Mob]]||[[Brendan Kirsch]]||7||5||.583||'''3rd'''|| 0 || 1 || Lost in semi-finals
+|-
+![[Hombres (slamball team)|Hombres]]||[[Kenny Anderson (basketball)|Kenny Anderson]]||6||6||.500||'''4th'''|| 0 || 1 || Lost in semi-finals
+|-
+![[Maulers (slamball team)|Maulers]]||[[John Starks (basketball)|John Starks]]||5||7||.417||'''5th'''|| – || – || Did not qualify
+|-
+![[Bouncers (slamball team)|Bouncers]]||[[Rocket Ismail]]||2||10||.167||'''6th'''|| – || – || Did not qualify
+|}
+
+==Past champions==
+{| class="wikitable" || align=center
+|-
+! Year !! Champion !! Score !! Runner-up
+|-
+| 2002 SlamBall Season || [[Rumble (Slamball team)|Rumble]] || 46–41 || [[Diablos (slamball team)|Diablos]]
+|-
+| 2003 SlamBall Season || Riders || 66–60 || [[Slashers (slamball team)|Slashers]]
+|-
+| 2007 Powerade Slamball Challenge || [[Mob (slamball team)|Mob]] || 48–38 || [[Bouncers (slamball team)|Bouncers]]
+|-
+| 2008 Slamball Season || [[Slashers (slamball team)|Slashers]] || 48–46 || [[Rumble (Slamball team)|Rumble]]
+|}
+
+==Popular culture==
+* In the 1989 movie ''[[Back to the Future Part II]]'', "Slamball" was mentioned as one of [[Other Characters in Back to the Future#Douglas J Needles|Douglas J Needles']] favorite sports during a scene that took place in 2015. This fact was listed in the databank captions shown on the [[videophone]] screen during a call between him and [[Marty McFly]]. Slamball was also mentioned on the front page of a 2015 ''[[USA Today]]'' newspaper.<ref>{{cite web|url=http://www.11points.com/Movies/11_Predictions_That_Back_to_the_Future_Part_II_Got_Right|title=11 Predictions That Back to the Future Part II Got Right|author=|date=8 April 2009|website=11points.com|deadurl=no|archiveurl=http://archive.wikiwix.com/cache/20091208064012/http://www.11points.com/Movies/11_Predictions_That_Back_to_the_Future_Part_II_Got_Right|archivedate=8 December 2009|df=dmy-all}}</ref> The movie was released 13 years before SlamBall was ultimately founded in 2002.	
+*In ''[[The King of Queens]]'' episode "Knee Jerk," Doug Heffernan lies to his wife Carrie about having a knee injury but is ultimately caught when she finds him playing SlamBall with his friends.	
+*In the ''[[One Tree Hill (TV series)|One Tree Hill]]'' episode "Choosing My Own Way of Life", Nathan is offered a position on a SlamBall team. The storyline ran five episodes and featured several of SlamBall's top players.
+*SlamBall was covered on [[VH1]]'s ''[[Best Week Ever]]''.
+*[[ScrewAttack!]] and Game Attack founder Craig Skistimas is a former player.
+
+==References==
+{{reflist|35em}}
+
+==External links==
+* {{Official website|http://www.slamball.net}}
+* [http://www.slamball.asia/ SlamBall Asia Official Site]
+* [http://www.cstv.com/powerade POWERade SlamBall Challenge Official Site]
+* [http://www.tollinrobbins.com/ Tollin/Robbins Productions]
+* [https://archive.is/20130104014438/http://www.imgprogramming.com/home/programmes/item374692/ IMG Programming Official Site – SlamBall]
+* [http://www.slamball.co.uk/ SlamBall UK Fansite]
+* [https://web.archive.org/web/20110918213645/http://www.slamball.tv/ SlamBall TV]
+* [https://archive.is/20110714080814/http://slamball2008.mevio.com/ SlamBall 2008 Videos]
+* [http://ftw.usatoday.com/2015/10/back-to-the-future-ii-slamball-playoffs-begin]
+
+{{Team Sport}}
+{{Spike (TV network) programming}}
+
+
+
+
+
+
+[[zh:???]]{{short description|Form of basketball}}
+{{NPOV|date=November 2018}}
+{{Use dmy dates|date=February 2012}}
+
+{{Infobox sport
+| name       = SlamBall
+| image      = Corey vs Ivan in 2008.jpg
+| imagesize  = 350px
+| caption    = Slashers Handler Corey Beezhold going in for a [[slam dunk]].
+| union      = 
+| nickname   = 
+| registered = 
+| clubs      = 
+| contact    = 
+| teams      = Hombres, Mob, Slashers, Maulers, Rumble and Bouncers
+| mgender    = 
+| category   = 
+| ball       = [[Wilson Sporting Goods|Wilson]] Custom – All-White "Wave" [[Basketball (ball)|Basketball]]
+| olympic    =
+}}
+{{Infobox sports league
+| title          = SlamBall
+| current_season =
+| logo           =Slamball_Logo_51.jpg
+| Slamball China =
+| pixels         =250px
+| caption        =
+| Formerly       =
+| sport          =SlamBall
+| founded        =2002
+| fame           =
+| motto          =
+| inaugural      =
+| teams          =6
+| countries      =United States, China, Australia, Portugal, India etc
+| champion       =[[Slashers (slamball team)|Slashers]]
+| most_champs    = Tied at 1<br>([[Rumble (slamball team)|Rumble]], Riders, [[Mob (slamball team)|Mob]], and Slashers)
+| qualification  =
+| folded         =
+| website        =[http://www.slamball.net/ SlamBall.net]
+| singles        =
+| ceo            =
+| president      =
+| Director       =
+| TV             ={{flagicon|USA}} [[ESPN]], [[CBS]], [[Versus (TV channel)|Versus]], [[Cartoon Network]]<br>{{flagicon|Portugal}} [[SIC K]], [[SIC Radical]]<br>{{flagicon|Spain}} [[Cuatro (TV channel)|Cuatro]]<br>[[File:Flag of Italy.svg|25px]] [[GXT]], [[Italia 1]]<br>{{flagicon|Australia}} [[10 Bold|One HD]]
+| related_comps  =
+}}
+'''Slamball''' is a form of [[basketball]] played with four [[trampoline]]s in front of each net and boards around the court edge. The name SlamBall is the trademark of SlamBall, LLC. While SlamBall is based on basketball, it is a [[contact sport]], with blocks, collisions and rough physical play a part of the game, similar to elements of [[American football|football]] and [[ice hockey|hockey]].
+
+Professional SlamBall games aired on television with [[Spike (TV channel)|Spike TV]] for two seasons in 2002–2003, and the [[POWERade]] SlamBall Challenge was aired on CSTV, now [[CBS Sports Network]], in 2007. SlamBall returned in August 2008,<ref>{{cite web|url=https://www.nytimes.com/2008/02/27/sports/basketball/27sandomir.html|title=Hoops Hybrid Being Molded Into a League|first=Richard|last=Sandomir|date=27 February 2008|publisher=|via=NYTimes.com|deadurl=no|archiveurl=https://web.archive.org/web/20180105193906/http://www.nytimes.com/2008/02/27/sports/basketball/27sandomir.html|archivedate=5 January 2018|df=dmy-all}}</ref> airing on Versus, now [[NBC Sports Network]], and [[CBS]]. The 2008 SlamBall season aired at one point on weekends on [[Cartoon Network]]. Slamball was shown on [[10 Bold|One HD]] in Australia during 2009. SlamBall held its first major international tournament in China in 2012.{{citation needed|date=November 2013}}
+
+==Rules and regulations==
+
+Scoring is achieved by putting the ball into the net at the opponent's end of the court for points, while preventing the opposing team from doing the same at one's own net. The aim is to have outscored the opposing team when the game ends. A successful score can be worth two points if the ball is thrown through the hoop without the offensive player touching the hoop. [[Slam dunk]]s are scored three points. All shots outside the [[Three point line|three-point arc]] are worth three points as well. Four players from each team (out of an 8 or 9 player roster) may be on the court at one time. Substitutions are unlimited and can be done during play (as in the game of [[ice hockey|hockey]]). Each team has a coach and additional staff which includes assistant coaches, managers, statisticians, doctors, etc.
+
+The game is controlled by two referees and the table officials. The table keeps track of the score, time, team possessions, fouls and the shot clock.
+
+==Playing regulations==
+
+Games are played in four 5-minute quarters, unlike the [[NBA]], which plays for four 12-minute quarters. The game commences with a "bounce-off" in which the ball is bounced at center court. The ball must reach its apex uninterrupted, at which point the players are allowed to "check" each other. Ten minutes are allowed for a half-time break; only one time-out is permitted to each team, which may only be used during the last two minutes of regulation play. A 15-second [[shot clock]] is utilized. Teams change ends for the second half. A tie score at the end of regulation time is settled by a series of "face offs" (see [[#Fouls|Fouls]] below).
+
+==Positions==
+
+[[Image:Court plan.png|thumb|right|300px|Diagram of a SlamBall court]]
+Each team has four players on the court at any one time. There are three positions:
+
+*'''Handler''': This is the primary ball handler on the team. It is his job to run the offense and organize the other members while controlling the flow of the game. Typically he would be responsible to set up the gunners to attack the basket while adding in his own offensive threat, comparable to a point guard in basketball.
+*'''Gunner''': The primary scorer on the team. A team's gunner will be the player on the team that will attack the basket and finish plays against the opposing teams' stopper, comparable to a forward or wing player in soccer or hockey. <!-- If we can relate "smash mouth defense" to a position, add it back in -->
+*'''Stopper''': This position is for the primary defensive player. He trails the offense only when necessary, and he protects the rim from attacking players by using himself as a shield. Goaltending is legal if the shot attempt is from inside the trampoline area.
+
+Teams are free to choose their own configuration, the usual formations being 1 stopper, 2 handlers, and 1 gunner OR 1 stopper, 1 handler, and 2 gunners.
+
+==Fouls==
+
+Each player can commit just three personal fouls before he is removed from the match (unlike in the NBA, where it is six personal fouls). A coach or player displaying poor sportsmanship (such as fighting, arguing vehemently against an official) may be charged with a [[technical foul]]. Two technical fouls results in a disqualification.
+
+When a foul is called, the player who has committed it will then take position on the baseline of the lower trampolines while the player who was offended will take up offensive position at center court. This is called a ''face-off''. Upon a signal from the referee the offensive player will be free to mount an attack at the basket, which the defender now must endeavor to stop. The defender must enter the lower trampoline only after bouncing in from the side trampoline. If the offensive player is successful, then points will be awarded depending on the shot converted and the offensive players' team will retain possession of the ball. In the case of any tie-ups, the defensive team always gain possession, but if the shot was blocked, the offensive team retains the ball from center court.
+
+'''List of common fouls:'''<ref>[http://slamballrules.com/Rule_Book_2008.pdf Official Rulebook of SlamBall] {{webarchive|url=https://web.archive.org/web/20090325150310/http://slamballrules.com/Rule_Book_2008.pdf |date=25 March 2009 }}</ref>
+#When an offensive player has the ball and a defensive player checks him in the back. '''Result''': Faceoff
+#When an offensive player has the ball and a defensive player checks him before he has begun to dribble the ball. '''Result''': Faceoff
+#When an offensive player has the ball and a defensive player checks him while he is attempting to enter the trampoline. '''Result''': Faceoff
+#When two offensive players step/bounce on the same trampoline. '''Result''': Turnover
+#When an offensive player bounces on a trampoline twice while in possession of the ball. '''Result''': Turnover
+#When either a Player or the Coach of a team argues with the referee and uses physical or verbal abuse in anger. '''Result''': Can either be a Faceoff or Turnover (referee decides)
+#When two players from the same team are on the same island or trampoline, or 'station' as it is called. '''Result''': Turnover
+#Three-second violation: When any offensive player is stationed in an island area (sides of trampolines) for three seconds. '''Result''': Turnover
+#When a shot is attempted from an island.  '''Result''': Turnover
+#When the defense holds position on an island, a charge can be called against the opposition. '''Result''': Turnover.
+#''Popcorn effect'': When a defensive player deliberately interferes with the offensive player's bounce, caused by standing on the offensive player's landing spot to cause the equivalent of a trip in basketball.  '''Result''': Faceoff
+
+==Equipment==
+
+[[Image:New Slamball Court photo.jpg|thumb|3D render of a SlamBall court.]] The spring floor lies adjacent to two sets of four trampoline or spring bed 'quads' which dominate each end of the court. Each trampoline surface measures {{convert|7|by|14|ft|m|abbr=on}}.) The shock absorbent panels pair with the competition bed trampolines to create a unique playing surface that both launches players to inhuman heights and cushions their landing upon returning to the floor. Specifically engineered pads are designed to cover the frame rails and their tapered design allows for maximum safety for on-court play. This entire playing surface will be surrounded with an {{convert|8|ft|m|abbr=on}} Plexiglass wall much like in a [[hockey rink]]. Players wear protective cups and special equipment to protect various areas of the body. This consists of knee and elbow pads, and an optional SlamBall-specific helmet.
+
+==History==
+[[Image:Mason Gordon.jpg|thumb|left|100px|Mason Gordon, creator of the sport]]
+[[Image:Mike Tollin.jpg|thumb|right|200px|Mike Tollin]]
+SlamBall was the creation of Mason Gordon, who wanted to create a combination of sports that approximated a real-life video game,<ref>[https://www.youtube.com/watch?v=qL8T2IQHy8M SlamBall Video!] {{webarchive|url=https://web.archive.org/web/20160826085353/https://www.youtube.com/watch?v=qL8T2IQHy8M |date=26 August 2016 }} Accessed: 12/1/2011</ref> and the name SlamBall is owned by Gordon's company. Upon developing the concept, Gordon approached [[Mike Tollin]], a TV and film producer of ''Smallville'', ''Wild Hogs'', and ''Coach Carter'' fame. After giving it some thought, he agreed to help Gordon. Painstaking thought was put into the development of the game. Many different ideas and concepts encompassing everything from court construction to team strategies were addressed. Six months after their first meeting, a court was constructed in a warehouse in [[East Los Angeles, California]].
+
+Gordon then tried to convince [[street basketball]] players to test his new idea; he wanted to find skilled, strong players who could compete comfortably while launching off trampolines and crashing into each other in mid-air.
+
+Five recruits—James Willis, Sean Jackson, David Redmond, Michael Goldman and Jeff Sheridan—trained with Gordon to produce the first games. These original six players were part of the first two teams, the Los Angeles Rumble and the Chicago Mob. These two teams played an exhibition series in 2001, which the Chicago Mob won. Soon, more players were brought in, including Stan Fletcher, Rob Wilson and Dion Mays.
+
+[[Image:Mason on court.jpg|thumb|left|300px|First ever SlamBall combine in 2002]]
+First played in Los Angeles, the game gained attention from street basketball players in the area. Within a year, 400 people had been enlisted as potential players. Open tryouts were held and the selection of players based on athletic ability, body control and court awareness started. Reducing numbers to about 60 players, the first ever SlamBall combine was held where players and coaches learned safety, the game and basic strategy.
+
+[[Image:Original Mob.jpg|thumb|right|200px|Early SlamBall Team Photo]]
+In 2002, SlamBall made its television debut, on The National Network (now [[Spike TV]]), soon after former [[Philadelphia 76ers]] owner [[Pat Croce]] had signed on as a partner. Six teams (the Bouncers, Diablos, Mob, Rumble, Slashers, and Steal) played in the inaugural season. Former NBA All-Star [[Reggie Theus]] served as studio co-host and color commentator. ReelSports served as the event organizers for the new league. SlamBall also aired on the British television station [[Trouble (TV station)|Trouble]] and [[ESPN]] aired a feature on the new league.
+
+After the second season in 2003, SlamBall creator Mason Gordon and Turner Television Network had a disagreement{{ref}}. The league was dissolved. Five years later the league resurfaced for one more season. The league opened its doors to open try-outs.<ref>{{cite web|url=http://www.gadsdentimes.com/article/20080508/NEWS/605415779?Title=It-146-s-time-to-reach-for-the-sky-as-SlamBall-makes-a-comeback|title=It's time to reach for the sky as SlamBall makes a comeback|first=CHRISTIAN TASKE Columbia News|last=Service|date=|website=gadsdentimes.com|deadurl=no|archiveurl=https://web.archive.org/web/20110721192838/http://www.gadsdentimes.com/article/20080508/NEWS/605415779?Title=It-146-s-time-to-reach-for-the-sky-as-SlamBall-makes-a-comeback|archivedate=21 July 2011|df=dmy-all}}</ref>
+
+[[Image:Rob Wilson vs Kevin Cassidy.jpg|thumb|left|180px|Confrontation between Rob Wilson and Kevin Cassidy.]]
+The first SlamBall draft in 2002 saw Canadian Robert Wilson drafted as the first No. 1 pick ever in the sport.
+Before the second season of SlamBall debuted on the newly renamed Spike TV, two expansion teams (the Riders and Bandits) were added and a new court was built at [[Universal City, California]]. One notable player on the Bandits was Craig Skistimas, who would later go on to co-create the video game entertainment channel [[ScrewAttack!]] <ref>{{cite web|url=https://www.youtube.com/watch?v=cLQd3hxsKnQ|title=Stuttering Craig playing Slamball|first=|last=ScrewAttack|date=6 April 2008|publisher=|via=YouTube|deadurl=no|archiveurl=https://web.archive.org/web/20170215013737/https://www.youtube.com/watch?v=cLQd3hxsKnQ|archivedate=15 February 2017|df=dmy-all}}</ref>
+
+[[Image:Sam vs Whitney.jpg|thumb|right|200px|Sam Jones and Whitney White going head to head at training camp]]
+In 2007, the  "POWERADE SlamBall Challenge" took place at [[Hoop City]], a fan interactive event, at the [[2007 NCAA Men's Division I Basketball Tournament|2007 Final Four]] in [[Atlanta]], Georgia, and aired on [[CBS College Sports Network|CSTV]] in April 2007.<ref>{{cite web|url=http://www.cstv.com/genrel/032707aaa.html|title=CSTV.com: #1 in College Sports|author=|date=|website=www.cstv.com|deadurl=no|archiveurl=https://web.archive.org/web/20090814161709/http://www.cstv.com/genrel/032707aaa.html|archivedate=14 August 2009|df=dmy-all}}</ref>
+
+In [[Italy]] SlamBall made its debut on [[Italia 1]] on 16 July 2007.<ref>[http://www.cinevideoblog.it/sport/slamball-su-italia-uno-condotto-da-dan-peterson-e-ciccio-valenti.html Complete information on SlamBall broadcasts in Italian] {{webarchive|url=https://web.archive.org/web/20071020131924/http://www.cinevideoblog.it/sport/slamball-su-italia-uno-condotto-da-dan-peterson-e-ciccio-valenti.html |date=20 October 2007 }}.</ref>
+
+In 2008, SlamBall began planning for a new season, to be financed by [[IMG (business)|IMG]]. The league accepted applications through its website for new players and coaches, and tryouts were held in three U.S. cities in April, 2008. A training camp for the 2008 season of SlamBall was held at [[IMG Academy]]<ref>[https://web.archive.org/web/20080724040045/http://www.imgworld.com/sports/team_sports/default.sps#Slamball IMG World Team Sports – SlamBall]</ref> in Bradenton, Florida from April to June 2008. Over 100 potential players participated in tryouts, eventually leaving 64 players after an 8-team draft. The league was cut to the 6 current teams. Some figures associated with the new season of SlamBall include: Commissioner [[Pat Croce]] and Coaches [[Kenny Anderson (basketball)|Kenny Anderson]], [[John Starks (basketball)|John Starks]], [[Raghib Ismail]] and [[Ken Carter]]. In summer 2008, SlamBall played its first season since 2003 at [[Universal Citywalk]] in Universal Studios, California. These games aired in a "Game of the Week" format on [[Versus (TV channel)|Versus]] beginning 31 August and led up to the finals on [[CBS]] on 2 November 2008.
+
+In the 2008 season championship, the Slashers, led by Kevin Stapleton, defeated the Rumble.<ref>[http://www.slamball.net/ Official SlamBall Website] {{webarchive|url=https://web.archive.org/web/20080827164931/http://www.slamball.net/ |date=27 August 2008 }}</ref>  The coach of the Rumble was Ken Carter, of the famed Coach Carter. The season aired on Australia’s One HD and Fuel TV.<ref>{{cite web|url=http://www.theage.com.au/news/sport/slamball-adds-bounce-to-us-sporting-calendar/2009/07/01/1246127579926.html|title=SLAMBALL adds bounce to US sporting calendar - Sport - theage.com.au|author=|date=|website=www.theage.com.au|deadurl=no|archiveurl=https://web.archive.org/web/20091225132240/http://www.theage.com.au/news/sport/slamball-adds-bounce-to-us-sporting-calendar/2009/07/01/1246127579926.html|archivedate=25 December 2009|df=dmy-all}}</ref>
+
+==Slamball launches in China==
+
+In 2015 Slamball resurfaced in China. After what appeared to be an extended courtship with the Chinese government, and community at large, new Slamball facilities began construction throughout China. Eventually, the new partnership with Chinese entities created five teams to officially expand the league to Asia. Slamball creator Mason Gordon did exhaustive leg work advancing the process. In 2015 all Gordon's hard work would pay off as Slamball started capturing the attention of the Chinese public.
+
+According to a report published by Vice Sports, Mason Gordon was quoted as saying, "We never left, we just needed to take the best path for us." There were even talks of Slamball college teams in the coming years.<ref>{{cite web|url=https://sports.vice.com/en_us/article/kbd4q3/slamball-is-alive-in-china|title=SlamBall is Alive in China|author=|date=15 April 2015|website=vice.com|deadurl=no|archiveurl=https://web.archive.org/web/20180111052722/https://sports.vice.com/en_us/article/kbd4q3/slamball-is-alive-in-china|archivedate=11 January 2018|df=dmy-all}}</ref>
+
+==Media exposure==
+On television, the sport has been seen on ''[[The Tonight Show with Jay Leno]]'', ''[[One Tree Hill (TV series)|One Tree Hill]]'', CBS's ''[[King of Queens]]'', ''[[Method & Red]]'', ''ESPN's [[SportsCenter]]'', ''[[The Best Damn Sports Show Period]]'' and ''[[Fox Sports 2|Fuel TV]]''. In print, SlamBall has been featured in ''[[The New York Times]]'', ''[[Sports Illustrated]]'', ''[[USA Today]]'', ''Time'' and European editions of ''[[Maxim (magazine)|Maxim]]'', ''[[Gentlemen's Quarterly|GQ]]'' and ''[[FHM]]''.
+
+==Athletes and training==
+
+[[Image:Stretch out in 2002.jpg|thumb|left|175px|SlamBall hopefuls at tryout camp in 2002]]
+Because of the nature of SlamBall, a broad scope is considered in the recruitment of the players. New players for the League have come from various areas. SlamBall has recruited players directly from college and pro basketball programs across the country. Football players are used to the full-contact, up-tempo style of play, and many of the better players of SlamBall find their origins on the gridiron.{{Citation needed|date=May 2017}}
+
+[[Image:Anthony White training.jpg|thumb|right|200px|Anthony White vs the trampolines early in training camp]]
+
+[[Image:Aerial awareness training.jpg|thumb|right|200px|Aerial awareness and body control trampoline exercises]]
+
+[[Image:Stan dunking in 2002.jpg|thumb|right|200px|'Shakes' Fletcher in training camp 2002]]
+
+==Teams==
+
+===Current===
+{| class="wikitable" style="width:450px;"
+|- "
+!'''Team Name'''||'''Championships'''||'''Former Names'''
+|-
+|[[Bouncers (slamball team)|Bouncers]]
+|
+|
+|-
+|[[Hombres (slamball team)|Hombres]]
+|
+|[[Diablos (slamball team)|Diablos]]
+|-
+|[[Maulers (slamball team)|Maulers]]
+| 
+|[[Steal (slamball team)|Steal]]
+|-
+|[[Mob (slamball team)|Mob]]
+|2007, 2013
+|
+|-
+|[[Rumble (slamball team)|Rumble]]
+|2002
+|
+|-
+|[[Slashers (slamball team)|Slashers]]
+|2008
+|
+|- 
+|}
+
+===Inactive===
+{| class="wikitable" style="width:450px;"
+|- "
+!'''Team Name'''||'''Championships'''||'''Former Names'''
+|-
+|Bandits
+|
+|
+|-
+|Bulls
+|
+|Robbers
+|-
+|Riders
+|2003
+|
+|}
+
+==Seasons==
+
+===2002===
+{| class="wikitable" style="font-size: 95%; text-align:center;"
+|-
+! colspan="2"|2002 !! colspan="4"|Regular Season !! colspan="4"|Post Season
+|-
+!Team!!Coach!!Won!!Lost!!Win %!!Finish!! Won !! Lost !!  Result
+|-
+![[Rumble (slamball team)|Rumble]]||[[Ken Carter]]||7||2||.778||'''1st'''|| 2 || 0 || Champions
+|-
+![[Diablos (slamball team)|Diablos]]||Mark Ellis||5||4||.556||'''2nd'''|| 1 || 1 || Lost in finals
+|-
+![[Bouncers (slamball team)|Bouncers]]||[[Hernando Planells]]||5||4||.556||'''3rd'''|| 0 || 1 || Lost in semi-finals
+|-
+![[Steal (slamball team)|Steal]]||Brian Taylor||4||5||.444||'''4th'''|| 0 || 1 || Lost in semi-finals
+|-
+![[Mob (slamball team)|Mob]]||[[Brendan Kirsch]]||4||5||.444||'''5th'''|| – || – || Did not qualify
+|-
+![[Slashers (slamball team)|Slashers]]||[[Kevin Stapleton]]||2||7||.222||'''6th'''|| – || – || Did not qualify
+|}
+
+===2003===
+{| class="wikitable" style="font-size: 95%; text-align:center;"
+|-
+! colspan="2"|2003 !! colspan="4"|Regular Season !! colspan="4"|Post Season
+|-
+!Team!!Coach!!Won!!Lost!!Win %!!Finish!! Won !! Lost !!  Result
+|-
+![[Rumble (slamball team)|Rumble]]||[[Ken Carter]]||9||1||.900||'''1st'''|| 0 || 1 || Lost in semi-finals
+|-
+![[Mob (slamball team)|Mob]]||[[Brendan Kirsch]]||7||3||.700||'''2nd'''|| 0 || 1 || Lost in semi-finals
+|-
+![[Riders (slamball team)|Riders]]||[[Xavier McDaniel]]||6||4||.600||'''3rd'''|| 2 || 0 || Champions
+|-
+![[Slashers (slamball team)|Slashers]]||[[Kevin Stapleton]]||6||4||.600||'''4th'''|| 1 || 1 || Lost in finals
+|-
+![[Diablos (slamball team)|Diablos]]||[[Joey Bryant]]||4||6||.400||'''5th'''|| – || – || Did not qualify
+|-
+![[Bouncers (slamball team)|Bouncers]]||[[Hernando Planells]]||4||6||.400||'''6th'''|| – || – || Did not qualify
+|-
+![[Steal (slamball team)|Steal]]||[[Brian Taylor (basketball)|Brian Taylor]]||2||8||.200||'''7th'''|| – || – || Did not qualify
+|-
+![[Bandits (slamball team)|Bandits]]||[[Mark Berekoff]]||2||8||.200||'''8th'''|| – || – || Did not qualify
+|}
+
+===2008===
+{| class="wikitable" style="font-size: 95%; text-align:center;"
+|-
+! colspan="2"|2008 !! colspan="4"|Regular Season !! colspan="4"|Post Season
+|-
+!Team!!Coach!!Won!!Lost!!Win %!!Finish!! Won !! Lost !!  Result
+|-
+![[Rumble (slamball team)|Rumble]]||[[Ken Carter]]||9||3||.750||'''1st'''|| 1 || 1 || Lost in finals
+|-
+![[Slashers (slamball team)|Slashers]]||[[Kevin Stapleton]]||7||5||.583||'''2nd'''|| 2 || 0 || Champions
+|-
+![[Mob (slamball team)|Mob]]||[[Brendan Kirsch]]||7||5||.583||'''3rd'''|| 0 || 1 || Lost in semi-finals
+|-
+![[Hombres (slamball team)|Hombres]]||[[Kenny Anderson (basketball)|Kenny Anderson]]||6||6||.500||'''4th'''|| 0 || 1 || Lost in semi-finals
+|-
+![[Maulers (slamball team)|Maulers]]||[[John Starks (basketball)|John Starks]]||5||7||.417||'''5th'''|| – || – || Did not qualify
+|-
+![[Bouncers (slamball team)|Bouncers]]||[[Rocket Ismail]]||2||10||.167||'''6th'''|| – || – || Did not qualify
+|}
+
+==Past champions==
+{| class="wikitable" || align=center
+|-
+! Year !! Champion !! Score !! Runner-up
+|-
+| 2002 SlamBall Season || [[Rumble (Slamball team)|Rumble]] || 46–41 || [[Diablos (slamball team)|Diablos]]
+|-
+| 2003 SlamBall Season || Riders || 66–60 || [[Slashers (slamball team)|Slashers]]
+|-
+| 2007 Powerade Slamball Challenge || [[Mob (slamball team)|Mob]] || 48–38 || [[Bouncers (slamball team)|Bouncers]]
+|-
+| 2008 Slamball Season || [[Slashers (slamball team)|Slashers]] || 48–46 || [[Rumble (Slamball team)|Rumble]]
+|}
+
+==Popular culture==
+* In the 1989 movie ''[[Back to the Future Part II]]'', "Slamball" was mentioned as one of [[Other Characters in Back to the Future#Douglas J Needles|Douglas J Needles']] favorite sports during a scene that took place in 2015. This fact was listed in the databank captions shown on the [[videophone]] screen during a call between him and [[Marty McFly]]. Slamball was also mentioned on the front page of a 2015 ''[[USA Today]]'' newspaper.<ref>{{cite web|url=http://www.11points.com/Movies/11_Predictions_That_Back_to_the_Future_Part_II_Got_Right|title=11 Predictions That Back to the Future Part II Got Right|author=|date=8 April 2009|website=11points.com|deadurl=no|archiveurl=http://archive.wikiwix.com/cache/20091208064012/http://www.11points.com/Movies/11_Predictions_That_Back_to_the_Future_Part_II_Got_Right|archivedate=8 December 2009|df=dmy-all}}</ref> The movie was released 13 years before SlamBall was ultimately founded in 2002.	
+*In ''[[The King of Queens]]'' episode "Knee Jerk," Doug Heffernan lies to his wife Carrie about having a knee injury but is ultimately caught when she finds him playing SlamBall with his friends.	
+*In the ''[[One Tree Hill (TV series)|One Tree Hill]]'' episode "Choosing My Own Way of Life", Nathan is offered a position on a SlamBall team. The storyline ran five episodes and featured several of SlamBall's top players.
+*SlamBall was covered on [[VH1]]'s ''[[Best Week Ever]]''.
+*[[ScrewAttack!]] and Game Attack founder Craig Skistimas is a former player.
+
+==References==
+{{reflist|35em}}
+
+==External links==
+* {{Official website|http://www.slamball.net}}
+* [http://www.slamball.asia/ SlamBall Asia Official Site]
+* [http://www.cstv.com/powerade POWERade SlamBall Challenge Official Site]
+* [http://www.tollinrobbins.com/ Tollin/Robbins Productions]
+* [https://archive.is/20130104014438/http://www.imgprogramming.com/home/programmes/item374692/ IMG Programming Official Site – SlamBall]
+* [http://www.slamball.co.uk/ SlamBall UK Fansite]
+* [https://web.archive.org/web/20110918213645/http://www.slamball.tv/ SlamBall TV]
+* [https://archive.is/20110714080814/http://slamball2008.mevio.com/ SlamBall 2008 Videos]
+* [http://ftw.usatoday.com/2015/10/back-to-the-future-ii-slamball-playoffs-begin]
+
+{{Team Sport}}
+{{Spike (TV network) programming}}
+
+
+
+
+
+
+[[zh:???]]

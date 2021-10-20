@@ -1,0 +1,653 @@
+{{Infobox sport
+| name       = Canoe polo
+| image      = 
+| alt        = 
+| imagesize  = 
+| caption    = 
+| union      = [[International Canoe Federation]]
+| nickname   = 
+| first      = 
+| firstlabel = 
+| region     = 
+| registered = 
+| clubs      = 
+| contact    = 
+| team       = 
+| mgender    = 
+| type       = 
+| equipment  = 
+| venue      = 
+| olympic    = No
+| paralympic = 
+| IWGA       = [[2005 World Games|2005]]{{snds}}present
+| obsolete   = 
+}}
+[[File:European Canoe Polo Championship 2013, Poznan (7).JPG|thumb|250px|European Canoe Polo Championship 2013]]
+'''Canoe polo''', also known as '''Kayak polo''', is one of the competitive disciplines of [[kayaking]], known simply as "polo" by its aficionados. Polo combines boating and ball handling skills with a contact team game, where tactics and positional play are as important as the speed and fitness of the individual athletes.
+
+The game requires excellent teamwork and promotes both general canoeing skills and a range of other techniques unique to the sport. Each team has five players on the pitch (and up to three substitutes), who compete to score in their opponents goal which is suspended two metres above the water. The ball can be thrown by hand, or flicked with the paddle to pass between players and shoot at the goal. Pitches can be set up in swimming pools or any stretch of flat water.
+
+The kayaks are specifically designed for polo and are faster and lighter than typical kayaks which give them superior maneuverability. The blades of a polo paddle have thick rounded edges to prevent injury. Paddles are also very lightweight and designed with both pulling power and ball control in mind. Nose and tail boat bumpers, body protection, helmets and face-guards are all compulsory.
+
+In [[International Canoe Federation]] nomenclature used in some European countries, chiefly the [[United Kingdom]], the term canoe can refer to a [[kayak]] too.<ref>{{Cite EB1911|wstitle=Canoe}}</ref> The boats in this game are paddled with a double-bladed paddle and are called "kayaks".
+
+== History ==
+The birth of the modern sport could be considered to be the demonstration event held at the National Canoe Exhibition at the [[Crystal Palace National Sports Centre]], London, in 1970.
+
+In response to the interest created at the Crystal Palace event, the first National Canoe Polo subcommittee of the [[British Canoe Union]] was formed, and it was this committee that developed the modern framework of the game. The National Championships were held every year at the National Canoe Exhibition, and this activity led on to the inclusion of Canoe Polo in the demonstration games at [[Duisburg]], [[Germany]] in 1987.<ref>{{cite web |url=http://www.nomadkayakclub.co.uk/wp-content/uploads/2012/02/Canoe-polo-history.pdf |first=Ian |last=Beasley |title=Boat, Paddle and Ball: a short history of canoe polo |year=2009 |accessdate=2 May 2016 }}</ref>
+
+== Features ==
+The game is now played in many countries throughout all inhabited continents, for recreation and serious sport. The sport has World Championships every two years and European, Asian, African, and PanAmerican Continental Championships held every year in between World Championship years. Internationally the sport is organized by the Canoe Polo committee of the [[International Canoe Federation]], as one of the disciplines of the sport of canoeing.
+
+[[File:Canoe Polo.jpg|thumbnail|Finnish canoe polo championships, [[Lahti]], Finland, 2010]]
+
+[[File:Canoe polo practice.JPG|thumb|right|Practicing on the [[River Cam]], England, 2004]]
+
+The game is often described as a combination of [[water polo]], [[basketball]] and [[kayaking]]. The tactics and playing of the game are not unlike basketball or water polo but with the added complexity of the boats, which can be used to tackle an opposition player in possession of the ball, or jostle for position within 6&nbsp;meters of the goal.
+
+=== Officials ===
+There are two referees (one on each side-line) and they are on foot rather than in boats. The score is kept by the scorekeeper and the timekeeper monitors the playing time and sending-off times. The goal lines are monitored by two line judges. Before play commences scrutineers check all kit for compliance with regulations.
+
+=== Pitch ===
+Canoe polo is played either indoors in swimming pools or outdoors on a pitch which should measure 35 meters by 23 meters.<ref>[http://www.canoeicf.com/dms/icf/documents/Disciplines/CAP/Rules/Appendix-3---Field_Diagram/Appendix%203%20-%20Field_Diagram.pdf ICF field diagram]. canoeicf.com {{webarchive|url=https://web.archive.org/web/20131203043527/http://www.canoeicf.com/dms/icf/documents/Disciplines/CAP/Rules/Appendix-3---Field_Diagram/Appendix%203%20-%20Field_Diagram.pdf |date=2013-12-03 }}</ref>   The boundaries of the pitch are ideally marked using [[floating rope]]s (similar to lane markers in swimming), although for smaller venues the edges of the pool are frequently used.
+
+The area approximately 6&nbsp;meters in front of each the goal can be defined as the Zone. This area is where defending players create formations to defend the goal from attackers.
+
+=== Timing ===
+The game is officially played as a 14- to 20-minute game consisting of two 7- to 10-minute halves. The teams change ends at the half-time period, which is 1 to 3 minutes long.<ref>[http://www.canoeicf.com/dms/icf/documents/Disciplines/CAP/Rules/Canoe-Polo-Rules-2013---14/Canoe%20Polo%20Rules%202013%20%26%2014.pdf ICF Rules] {{Webarchive|url=https://web.archive.org/web/20131018011446/http://www.canoeicf.com/dms/icf/documents/Disciplines/CAP/Rules/Canoe-Polo-Rules-2013---14/Canoe%20Polo%20Rules%202013%20%26%2014.pdf# |date=2013-10-18 }}. canoeicf.com</ref> Each half begins with a "sprint" where each team lines up against its goal-line and the ball is thrown into the middle of the pitch by the referee. One player from each team sprints to win possession of the ball.
+
+=== Shot clock ===
+A shot clock may be used to speed up the game. The attacking team have 60 seconds to have a shot on the goal or they lose possession. The shot clock is reset when the ball is intercepted by the opposing team or the attacking team loses possession. The shot clock is a recent addition to the rules, and due to the expense and complexity of the equipment is not used universally.
+
+== Tactics ==
+There are several attacking and defensive tactics all with different variations.
+
+=== Offensive ===
+*'''Overload''':  1 or 2 players attack the side of the zone, pushing the defensive players together and creating space for a 3rd player to sprint into the newly created space, receive a pass from the 4th player and take a direct shot on the goal.
+*'''Box player''': A player positions themselves directly under the goal, next to the keeper. The aim is to keep this position and to receive  a quick pass and then have a short, direct shot at the goal or pass to another player who takes the opportunity to break through the defence.
+*'''Star''': The players position themselves around the zone and sprint in consecutively, a defensive player moves to block each player as they sprint in,  the attacking team move the ball around as the players sprint in, threatening to take a shot. If done correctly the fifth player is able to sprint into the zone, will have no defensive player to block them, receive the pass from the 4th player and be able to take a direct shot on goal.
+
+=== Defensive ===
+*'''3–1''': Three players form a row above the goal keeper, 1 to each side and 1 directly above the keeper. This formation can provide a very solid defensive line, by protecting the sides and the middle. The remaining player patrols the top of the zone with the aim of pressuring the ball and stopping players running into gaps in the defensive line.
+*'''2–2''': Two players position themselves in front, and to the side of the goal keeper, and block attacking players threatening the goal from the side. The two other players go further forward and towards the middle with the aim of stopping players running in to the zone and to place pressure of the attackers.  Looked on from above, it is not dissimilar to a Christmas tree formation. The aim is to force long-shots and errors from the attackers to win the ball back, while protecting the goal.
+*'''Five or out''': Every player, including the goal keeper, marks a player and pressures the ball and every pass, trying to force a mistake or gain an interception.
+
+== Fouls ==
+Most of the rules concern the safety of the players involved or are designed to keep the game fast-paced and exciting to play and watch.
+
+*'''Illegal substitution and entry into the playing area''': Only 5 players are allowed in the playing area at once. During a substitution a player must be completely off the pitch (including all kit) before another player can come on.
+*'''Illegal possession''': A player must dispose of the ball within five (5) seconds of gaining possession, either by passing it to another player or by performing one throw causing the ball to travel by at least one metre measured horizontally from the point of release.
+*'''Illegal hand tackle''': Types of hand tackle include any hand-tackle where the tackled player does not have possession of the ball or is sharing possession of the ball with another player or any body-contact other than one open hand to the opponents’ back, upper arm or side or any hand tackle which endangers the tackled player.
+*'''Illegal kayak tackle''': Any kayak-tackle that results in significant contact between the tackler's kayak and the head or body of an opposing player, or endangering a player, tackling a player not within 3&nbsp;metres of the ball or who is not competing for the ball.
+*'''Illegal use of the paddle''': Playing, or attempting to play, the ball with a paddle when the ball is within arm's reach of an opponent, contacting an opponent's person or any use of a paddle that endangers a player.
+*'''Illegal jostle''': When a player is stationary or attempting to maintain a position and their body is moved by more than half a metre by sustained contact from an opponent's kayak or jostling the player behind the goal line.
+*'''Illegal screen/obstruction''': A player actively or deliberately impeding the progress of an opponent when neither player is within three  metres of the ball or a player who is not competing for the ball who actively impedes the progress of an opponent who is competing for the ball on the water and not in the air.
+*'''Illegal holding''': A player gaining support or propulsion by placing their hand, arm, body or paddle on an opponent's kayak, or holding the opposing player or their equipment or using surrounding pitch equipment (goal, side-lines, pool wall), fending off an opponent.
+*'''Unsporting behaviour''': Players showing dissent, retaliation, foul or abusive language, delaying tactics, interference with opponents equipment, bouncing the ball out of play or any action that the referees consider detrimental to the game.
+
+Three general principles can be applied when determining the severity of a foul.
+
+'''Deliberate foul''' – A foul where no effort was made to avoid the illegal play. Any deliberate foul should receive a minimum of a green card- either immediately or at the next break in play if playing advantage.
+
+'''Dangerous foul''' – Is significant contact with the opponent's arm, head or body that may result in personal injury and is illegal.
+
+'''Significant contact''' – Any high impact or continuous contact, that may result in equipment damage or personal injury.
+
+== Equipment ==
+{{double image|right|Polobal.jpg|70|NewWaterPoloBall.JPG|90|Water polo balls: old (left) and new designs.}}
+Specialized equipment is needed to play Canoe polo. Items required are:
+*'''Ball''': A [[water polo ball]] is constructed of buoyant material to allow it to float on the water. The cover is textured to give players additional grip. The size of the ball is different for men's, women's and junior games.
+*'''Buoyancy aids''': A [[buoyancy aid]] is used to protect the players' torso from injury, and must provide an inch of foam on the front, sides and back of the player. All buoyancy aids are numbered to make the player identifiable to the other players, referees and spectators. Buoyancy aids are reversible and are colored with the teams primary and secondary colors on each side. This allows opponents to reverse their buoyancy aids and play in their away colors if the opposing teams primary color is the same or similar.
+*'''Helmet and face guard''': Helmets and face-guards are compulsory to protect players head and face from injury caused by accidental contact from paddles or other kayaks.
+*'''Goals''': The goals (measuring 1 meter high by 1.5 meters wide) are a frame with a net, suspended 2 meters above the water. A player, acting as goal keeper, defends the goal with their paddle by sticking it up vertically. Special rules concern the goal keeper, such as: the attacking team not being allowed to interfere with or jostle them. The length of the paddles used by the goal keepers are often longer than those used by other players. [[File:Canoe Polo Kayak.jpg|thumb|right|Canoe polo kayak]]
+*'''Kayak''': A special [[kayak]] is used. They are constructed from carbon-kevlar or a similarly lightweight material. This makes them faster and more maneuverable than other kayaks. They are fitted with an inch of protective foam around both ends of the kayak to prevent injury and damage at high speeds.
+*'''Paddle''': A [[paddle]] is used to propel the players during the game. The paddle can be used to flick and play the ball. Paddles are strictly forbidden of being played within hands reach of an opposing player to reduce the risk of injury.
+*'''Spray deck''': A [[spray deck]] is used to secure the cockpit of the kayak and prevent water filling the kayak during play.
+
+== ICF Canoe Polo at the World Games ==
+{{Main|List of ICF Canoe Polo World Championships}}
+
+=== Men ===
+{| class="toccolours" border="1" cellpadding="2" style="border-collapse: collapse; text-align: center; width: 80%; margin: 0 auto;"
+|- style="background: #efefef;"
+!width=10%|Year
+!width=18%|Host
+!width=24% style="background:gold;"|Gold
+!width=24% style="background:silver;"|Silver
+!width=24% style="background:#cc9966;"|Bronze
+|- style="background:#F5FAFF;"
+|'''2005'''
+|{{flagicon|GER}}<br />[[Duisburg]],<br />[[Germany]]
+|{{flagicon|NED}}<br />Netherlands
+|{{flagicon|GER}}<br />Germany
+|{{flagicon|UK}}<br />United Kingdom
+|- style="background:#D0E7FF;"
+|'''2009'''
+|{{flagicon|TWN}}<br />[[Kaohsiung]],<br />[[Taiwan]]
+|{{flagicon|FRA}}<br />'''France'''
+|{{flagicon|NED}}<br />Netherlands
+|{{flagicon|AUS}}<br />Australia
+|- style="background:#F5FAFF;"
+|'''2013'''
+|{{flagicon|COL}}<br />[[Cali]],<br />[[Colombia]]
+|{{flagicon|GER}}<br />Germany
+|{{flagicon|FRA}}<br />France
+|{{flagicon|ITA}}<br />Italy
+|- style="background:#D0E7FF;"
+|'''2017'''
+|{{flagicon|POL}}<br />[[Wroclaw]],<br />[[Poland]]
+|{{flagicon|GER}}<br />Germany
+|{{flagicon|ITA}}<br />Italy
+|{{flagicon|ESP}}<br />Spain 
+|- style="background:#D0E7FF;"
+|}
+
+=== Women ===
+{| class="toccolours" border="1" cellpadding="2" style="border-collapse: collapse; text-align: center; width: 80%; margin: 0 auto;"
+|- style="background: #efefef;"
+!width=10%|Year
+!width=18%|Host
+!width=24% style="background:gold;"|Gold
+!width=24% style="background:silver;"|Silver
+!width=24% style="background:#cc9966;"|Bronze
+|- style="background:#F5FAFF;"
+|'''2005'''
+|{{flagicon|GER}}<br />[[Duisburg]],<br />[[Germany]]
+|{{flagicon|GER}}<br />Germany
+|{{flagicon|UK}}<br />United Kingdom
+|{{flagicon|JPN}}<br />Japan
+|- style="background:#D0E7FF;"
+|'''2009'''
+|{{flagicon|TWN}}<br />[[Kaohsiung]],<br />[[Taiwan]]
+|{{flagicon|UK}}<br />United Kingdom
+|{{flagicon|GER}}<br />Germany
+|{{flagicon|FRA}}<br />France
+|- style="background:#F5FAFF;"
+|'''2013'''
+|{{flagicon|COL}}<br />[[Cali]],<br />[[Colombia]]
+|{{flagicon|GER}}<br />Germany
+|{{flagicon|UK}}<br />United Kingdom
+|{{flagicon|FRA}}<br />France
+|- style="background:#D0E7FF;"
+|'''2017'''
+|{{flagicon|POL}}<br />[[Wroclaw]],<br />[[Poland]]
+|{{flagicon|GER}}<br />Germany
+|{{flagicon|FRA}}<br />France
+|{{flagicon|ITA}}<br />Italy
+|- style="background:#D0E7FF;"
+|}
+
+== See also ==
+*[[International Canoe Federation]]
+*[[British Canoe Union]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Commons category|Kayak polo}}
+* [http://www.canoepolosyracuse2016.com Official 2016 World Championship page]
+* [http://www.canoepolo.com/ CanoePolo.com] — a canoe polo forum
+* [http://www.polopage.com/ PoloPage.com] – Canoe Polo Videos
+* [http://www.canoeicf.com/icf/Aboutoursport/Canoe-Polo/More-on-Canoe-Polo/Technical-Information.html Technical Information and rules] from the [[International Canoe Federation]]
+* {{YouTube|id=m3PMzY—ZkQ|title=GER vs ITA, 2010 World Championships, Milan}}—International Canoe Federation clip
+
+=== Governing bodies ===
+* [https://web.archive.org/web/20060829054231/http://www.canoe.org.au/default.asp?MenuID=Disciplines%2F97%2F0%2CCanoe_Polo%2F77%2F2230 Australian Canoe Polo]—official webpage
+* [http://www.canoepolo.org.uk/ Official site of British Canoe Polo]
+* [http://www.canoepolo.ca/ Official Canadian Canoe Polo site]—contains numerous links to local clubs
+* [http://www.canoepolo.ie/ Official site of Irish Canoe Polo]
+* [https://web.archive.org/web/20130520213037/http://canoepolonz.org.nz/ Official site of the New Zealand Canoe Polo Assn]
+* [http://www.kanupolo.de/ Official site of German Canoe Polo]
+* [http://www.canoepolo.ir/ Official site of Iran Canoe Polo]
+* [http://canoepolo.ru/ Official site of Russian Canoe Polo]
+* [http://canoepolo.ir/ Persian site about canoe polo training]
+* [http://canoepolo.org.ua/ Official site of Ukrainian canoe polo]
+
+{{Sports of the World Games program}}
+{{Canoeing and kayaking}}
+{{Water polo}}
+{{Team Sport}}
+{{Main world championships}}
+
+
+
+
+
+
+
+{{Infobox sport
+| name       = Canoe polo
+| image      = 
+| alt        = 
+| imagesize  = 
+| caption    = 
+| union      = [[International Canoe Federation]]
+| nickname   = 
+| first      = 
+| firstlabel = 
+| region     = 
+| registered = 
+| clubs      = 
+| contact    = 
+| team       = 
+| mgender    = 
+| type       = 
+| equipment  = 
+| venue      = 
+| olympic    = No
+| paralympic = 
+| IWGA       = [[2005 World Games|2005]]{{snds}}present
+| obsolete   = 
+}}
+[[File:European Canoe Polo Championship 2013, Poznan (7).JPG|thumb|250px|European Canoe Polo Championship 2013]]
+'''Canoe polo''', also known as '''Kayak polo''', is one of the competitive disciplines of [[kayaking]], known simply as "polo" by its aficionados. Polo combines boating and ball handling skills with a contact team game, where tactics and positional play are as important as the speed and fitness of the individual athletes.
+
+The game requires excellent teamwork and promotes both general canoeing skills and a range of other techniques unique to the sport. Each team has five players on the pitch (and up to three substitutes), who compete to score in their opponents goal which is suspended two metres above the water. The ball can be thrown by hand, or flicked with the paddle to pass between players and shoot at the goal. Pitches can be set up in swimming pools or any stretch of flat water.
+
+The kayaks are specifically designed for polo and are faster and lighter than typical kayaks which give them superior maneuverability. The blades of a polo paddle have thick rounded edges to prevent injury. Paddles are also very lightweight and designed with both pulling power and ball control in mind. Nose and tail boat bumpers, body protection, helmets and face-guards are all compulsory.
+
+In [[International Canoe Federation]] nomenclature used in some European countries, chiefly the [[United Kingdom]], the term canoe can refer to a [[kayak]] too.<ref>{{Cite EB1911|wstitle=Canoe}}</ref> The boats in this game are paddled with a double-bladed paddle and are called "kayaks".
+
+== History ==
+The birth of the modern sport could be considered to be the demonstration event held at the National Canoe Exhibition at the [[Crystal Palace National Sports Centre]], London, in 1970.
+
+In response to the interest created at the Crystal Palace event, the first National Canoe Polo subcommittee of the [[British Canoe Union]] was formed, and it was this committee that developed the modern framework of the game. The National Championships were held every year at the National Canoe Exhibition, and this activity led on to the inclusion of Canoe Polo in the demonstration games at [[Duisburg]], [[Germany]] in 1987.<ref>{{cite web |url=http://www.nomadkayakclub.co.uk/wp-content/uploads/2012/02/Canoe-polo-history.pdf |first=Ian |last=Beasley |title=Boat, Paddle and Ball: a short history of canoe polo |year=2009 |accessdate=2 May 2016 }}</ref>
+
+== Features ==
+The game is now played in many countries throughout all inhabited continents, for recreation and serious sport. The sport has World Championships every two years and European, Asian, African, and PanAmerican Continental Championships held every year in between World Championship years. Internationally the sport is organized by the Canoe Polo committee of the [[International Canoe Federation]], as one of the disciplines of the sport of canoeing.
+
+[[File:Canoe Polo.jpg|thumbnail|Finnish canoe polo championships, [[Lahti]], Finland, 2010]]
+
+[[File:Canoe polo practice.JPG|thumb|right|Practicing on the [[River Cam]], England, 2004]]
+
+The game is often described as a combination of [[water polo]], [[basketball]] and [[kayaking]]. The tactics and playing of the game are not unlike basketball or water polo but with the added complexity of the boats, which can be used to tackle an opposition player in possession of the ball, or jostle for position within 6&nbsp;meters of the goal.
+
+=== Officials ===
+There are two referees (one on each side-line) and they are on foot rather than in boats. The score is kept by the scorekeeper and the timekeeper monitors the playing time and sending-off times. The goal lines are monitored by two line judges. Before play commences scrutineers check all kit for compliance with regulations.
+
+=== Pitch ===
+Canoe polo is played either indoors in swimming pools or outdoors on a pitch which should measure 35 meters by 23 meters.<ref>[http://www.canoeicf.com/dms/icf/documents/Disciplines/CAP/Rules/Appendix-3---Field_Diagram/Appendix%203%20-%20Field_Diagram.pdf ICF field diagram]. canoeicf.com {{webarchive|url=https://web.archive.org/web/20131203043527/http://www.canoeicf.com/dms/icf/documents/Disciplines/CAP/Rules/Appendix-3---Field_Diagram/Appendix%203%20-%20Field_Diagram.pdf |date=2013-12-03 }}</ref>   The boundaries of the pitch are ideally marked using [[floating rope]]s (similar to lane markers in swimming), although for smaller venues the edges of the pool are frequently used.
+
+The area approximately 6&nbsp;meters in front of each the goal can be defined as the Zone. This area is where defending players create formations to defend the goal from attackers.
+
+=== Timing ===
+The game is officially played as a 14- to 20-minute game consisting of two 7- to 10-minute halves. The teams change ends at the half-time period, which is 1 to 3 minutes long.<ref>[http://www.canoeicf.com/dms/icf/documents/Disciplines/CAP/Rules/Canoe-Polo-Rules-2013---14/Canoe%20Polo%20Rules%202013%20%26%2014.pdf ICF Rules] {{Webarchive|url=https://web.archive.org/web/20131018011446/http://www.canoeicf.com/dms/icf/documents/Disciplines/CAP/Rules/Canoe-Polo-Rules-2013---14/Canoe%20Polo%20Rules%202013%20%26%2014.pdf# |date=2013-10-18 }}. canoeicf.com</ref> Each half begins with a "sprint" where each team lines up against its goal-line and the ball is thrown into the middle of the pitch by the referee. One player from each team sprints to win possession of the ball.
+
+=== Shot clock ===
+A shot clock may be used to speed up the game. The attacking team have 60 seconds to have a shot on the goal or they lose possession. The shot clock is reset when the ball is intercepted by the opposing team or the attacking team loses possession. The shot clock is a recent addition to the rules, and due to the expense and complexity of the equipment is not used universally.
+
+== Tactics ==
+There are several attacking and defensive tactics all with different variations.
+
+=== Offensive ===
+*'''Overload''':  1 or 2 players attack the side of the zone, pushing the defensive players together and creating space for a 3rd player to sprint into the newly created space, receive a pass from the 4th player and take a direct shot on the goal.
+*'''Box player''': A player positions themselves directly under the goal, next to the keeper. The aim is to keep this position and to receive  a quick pass and then have a short, direct shot at the goal or pass to another player who takes the opportunity to break through the defence.
+*'''Star''': The players position themselves around the zone and sprint in consecutively, a defensive player moves to block each player as they sprint in,  the attacking team move the ball around as the players sprint in, threatening to take a shot. If done correctly the fifth player is able to sprint into the zone, will have no defensive player to block them, receive the pass from the 4th player and be able to take a direct shot on goal.
+
+=== Defensive ===
+*'''3–1''': Three players form a row above the goal keeper, 1 to each side and 1 directly above the keeper. This formation can provide a very solid defensive line, by protecting the sides and the middle. The remaining player patrols the top of the zone with the aim of pressuring the ball and stopping players running into gaps in the defensive line.
+*'''2–2''': Two players position themselves in front, and to the side of the goal keeper, and block attacking players threatening the goal from the side. The two other players go further forward and towards the middle with the aim of stopping players running in to the zone and to place pressure of the attackers.  Looked on from above, it is not dissimilar to a Christmas tree formation. The aim is to force long-shots and errors from the attackers to win the ball back, while protecting the goal.
+*'''Five or out''': Every player, including the goal keeper, marks a player and pressures the ball and every pass, trying to force a mistake or gain an interception.
+
+== Fouls ==
+Most of the rules concern the safety of the players involved or are designed to keep the game fast-paced and exciting to play and watch.
+
+*'''Illegal substitution and entry into the playing area''': Only 5 players are allowed in the playing area at once. During a substitution a player must be completely off the pitch (including all kit) before another player can come on.
+*'''Illegal possession''': A player must dispose of the ball within five (5) seconds of gaining possession, either by passing it to another player or by performing one throw causing the ball to travel by at least one metre measured horizontally from the point of release.
+*'''Illegal hand tackle''': Types of hand tackle include any hand-tackle where the tackled player does not have possession of the ball or is sharing possession of the ball with another player or any body-contact other than one open hand to the opponents’ back, upper arm or side or any hand tackle which endangers the tackled player.
+*'''Illegal kayak tackle''': Any kayak-tackle that results in significant contact between the tackler's kayak and the head or body of an opposing player, or endangering a player, tackling a player not within 3&nbsp;metres of the ball or who is not competing for the ball.
+*'''Illegal use of the paddle''': Playing, or attempting to play, the ball with a paddle when the ball is within arm's reach of an opponent, contacting an opponent's person or any use of a paddle that endangers a player.
+*'''Illegal jostle''': When a player is stationary or attempting to maintain a position and their body is moved by more than half a metre by sustained contact from an opponent's kayak or jostling the player behind the goal line.
+*'''Illegal screen/obstruction''': A player actively or deliberately impeding the progress of an opponent when neither player is within three  metres of the ball or a player who is not competing for the ball who actively impedes the progress of an opponent who is competing for the ball on the water and not in the air.
+*'''Illegal holding''': A player gaining support or propulsion by placing their hand, arm, body or paddle on an opponent's kayak, or holding the opposing player or their equipment or using surrounding pitch equipment (goal, side-lines, pool wall), fending off an opponent.
+*'''Unsporting behaviour''': Players showing dissent, retaliation, foul or abusive language, delaying tactics, interference with opponents equipment, bouncing the ball out of play or any action that the referees consider detrimental to the game.
+
+Three general principles can be applied when determining the severity of a foul.
+
+'''Deliberate foul''' – A foul where no effort was made to avoid the illegal play. Any deliberate foul should receive a minimum of a green card- either immediately or at the next break in play if playing advantage.
+
+'''Dangerous foul''' – Is significant contact with the opponent's arm, head or body that may result in personal injury and is illegal.
+
+'''Significant contact''' – Any high impact or continuous contact, that may result in equipment damage or personal injury.
+
+== Equipment ==
+{{double image|right|Polobal.jpg|70|NewWaterPoloBall.JPG|90|Water polo balls: old (left) and new designs.}}
+Specialized equipment is needed to play Canoe polo. Items required are:
+*'''Ball''': A [[water polo ball]] is constructed of buoyant material to allow it to float on the water. The cover is textured to give players additional grip. The size of the ball is different for men's, women's and junior games.
+*'''Buoyancy aids''': A [[buoyancy aid]] is used to protect the players' torso from injury, and must provide an inch of foam on the front, sides and back of the player. All buoyancy aids are numbered to make the player identifiable to the other players, referees and spectators. Buoyancy aids are reversible and are colored with the teams primary and secondary colors on each side. This allows opponents to reverse their buoyancy aids and play in their away colors if the opposing teams primary color is the same or similar.
+*'''Helmet and face guard''': Helmets and face-guards are compulsory to protect players head and face from injury caused by accidental contact from paddles or other kayaks.
+*'''Goals''': The goals (measuring 1 meter high by 1.5 meters wide) are a frame with a net, suspended 2 meters above the water. A player, acting as goal keeper, defends the goal with their paddle by sticking it up vertically. Special rules concern the goal keeper, such as: the attacking team not being allowed to interfere with or jostle them. The length of the paddles used by the goal keepers are often longer than those used by other players. [[File:Canoe Polo Kayak.jpg|thumb|right|Canoe polo kayak]]
+*'''Kayak''': A special [[kayak]] is used. They are constructed from carbon-kevlar or a similarly lightweight material. This makes them faster and more maneuverable than other kayaks. They are fitted with an inch of protective foam around both ends of the kayak to prevent injury and damage at high speeds.
+*'''Paddle''': A [[paddle]] is used to propel the players during the game. The paddle can be used to flick and play the ball. Paddles are strictly forbidden of being played within hands reach of an opposing player to reduce the risk of injury.
+*'''Spray deck''': A [[spray deck]] is used to secure the cockpit of the kayak and prevent water filling the kayak during play.
+
+== ICF Canoe Polo at the World Games ==
+{{Main|List of ICF Canoe Polo World Championships}}
+
+=== Men ===
+{| class="toccolours" border="1" cellpadding="2" style="border-collapse: collapse; text-align: center; width: 80%; margin: 0 auto;"
+|- style="background: #efefef;"
+!width=10%|Year
+!width=18%|Host
+!width=24% style="background:gold;"|Gold
+!width=24% style="background:silver;"|Silver
+!width=24% style="background:#cc9966;"|Bronze
+|- style="background:#F5FAFF;"
+|'''2005'''
+|{{flagicon|GER}}<br />[[Duisburg]],<br />[[Germany]]
+|{{flagicon|NED}}<br />Netherlands
+|{{flagicon|GER}}<br />Germany
+|{{flagicon|UK}}<br />United Kingdom
+|- style="background:#D0E7FF;"
+|'''2009'''
+|{{flagicon|TWN}}<br />[[Kaohsiung]],<br />[[Taiwan]]
+|{{flagicon|FRA}}<br />'''France'''
+|{{flagicon|NED}}<br />Netherlands
+|{{flagicon|AUS}}<br />Australia
+|- style="background:#F5FAFF;"
+|'''2013'''
+|{{flagicon|COL}}<br />[[Cali]],<br />[[Colombia]]
+|{{flagicon|GER}}<br />Germany
+|{{flagicon|FRA}}<br />France
+|{{flagicon|ITA}}<br />Italy
+|- style="background:#D0E7FF;"
+|'''2017'''
+|{{flagicon|POL}}<br />[[Wroclaw]],<br />[[Poland]]
+|{{flagicon|GER}}<br />Germany
+|{{flagicon|ITA}}<br />Italy
+|{{flagicon|ESP}}<br />Spain 
+|- style="background:#D0E7FF;"
+|}
+
+=== Women ===
+{| class="toccolours" border="1" cellpadding="2" style="border-collapse: collapse; text-align: center; width: 80%; margin: 0 auto;"
+|- style="background: #efefef;"
+!width=10%|Year
+!width=18%|Host
+!width=24% style="background:gold;"|Gold
+!width=24% style="background:silver;"|Silver
+!width=24% style="background:#cc9966;"|Bronze
+|- style="background:#F5FAFF;"
+|'''2005'''
+|{{flagicon|GER}}<br />[[Duisburg]],<br />[[Germany]]
+|{{flagicon|GER}}<br />Germany
+|{{flagicon|UK}}<br />United Kingdom
+|{{flagicon|JPN}}<br />Japan
+|- style="background:#D0E7FF;"
+|'''2009'''
+|{{flagicon|TWN}}<br />[[Kaohsiung]],<br />[[Taiwan]]
+|{{flagicon|UK}}<br />United Kingdom
+|{{flagicon|GER}}<br />Germany
+|{{flagicon|FRA}}<br />France
+|- style="background:#F5FAFF;"
+|'''2013'''
+|{{flagicon|COL}}<br />[[Cali]],<br />[[Colombia]]
+|{{flagicon|GER}}<br />Germany
+|{{flagicon|UK}}<br />United Kingdom
+|{{flagicon|FRA}}<br />France
+|- style="background:#D0E7FF;"
+|'''2017'''
+|{{flagicon|POL}}<br />[[Wroclaw]],<br />[[Poland]]
+|{{flagicon|GER}}<br />Germany
+|{{flagicon|FRA}}<br />France
+|{{flagicon|ITA}}<br />Italy
+|- style="background:#D0E7FF;"
+|}
+
+== See also ==
+*[[International Canoe Federation]]
+*[[British Canoe Union]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Commons category|Kayak polo}}
+* [http://www.canoepolosyracuse2016.com Official 2016 World Championship page]
+* [http://www.canoepolo.com/ CanoePolo.com] — a canoe polo forum
+* [http://www.polopage.com/ PoloPage.com] – Canoe Polo Videos
+* [http://www.canoeicf.com/icf/Aboutoursport/Canoe-Polo/More-on-Canoe-Polo/Technical-Information.html Technical Information and rules] from the [[International Canoe Federation]]
+* {{YouTube|id=m3PMzY—ZkQ|title=GER vs ITA, 2010 World Championships, Milan}}—International Canoe Federation clip
+
+=== Governing bodies ===
+* [https://web.archive.org/web/20060829054231/http://www.canoe.org.au/default.asp?MenuID=Disciplines%2F97%2F0%2CCanoe_Polo%2F77%2F2230 Australian Canoe Polo]—official webpage
+* [http://www.canoepolo.org.uk/ Official site of British Canoe Polo]
+* [http://www.canoepolo.ca/ Official Canadian Canoe Polo site]—contains numerous links to local clubs
+* [http://www.canoepolo.ie/ Official site of Irish Canoe Polo]
+* [https://web.archive.org/web/20130520213037/http://canoepolonz.org.nz/ Official site of the New Zealand Canoe Polo Assn]
+* [http://www.kanupolo.de/ Official site of German Canoe Polo]
+* [http://www.canoepolo.ir/ Official site of Iran Canoe Polo]
+* [http://canoepolo.ru/ Official site of Russian Canoe Polo]
+* [http://canoepolo.ir/ Persian site about canoe polo training]
+* [http://canoepolo.org.ua/ Official site of Ukrainian canoe polo]
+
+{{Sports of the World Games program}}
+{{Canoeing and kayaking}}
+{{Water polo}}
+{{Team Sport}}
+{{Main world championships}}
+
+
+
+
+
+
+
+| name       = Canoe polo
+| image      = 
+| alt        = 
+| imagesize  = 
+| caption    = 
+| union      = [[International Canoe Federation]]
+| nickname   = 
+| first      = 
+| firstlabel = 
+| region     = 
+| registered = 
+| clubs      = 
+| contact    = 
+| team       = 
+| mgender    = 
+| type       = 
+| equipment  = 
+| venue      = 
+| olympic    = No
+| paralympic = 
+| IWGA       = [[2005 World Games|2005]]{{snds}}present
+| obsolete   = 
+}}
+[[File:European Canoe Polo Championship 2013, Poznan (7).JPG|thumb|250px|European Canoe Polo Championship 2013]]
+'''Canoe polo''', also known as '''Kayak polo''', is one of the competitive disciplines of [[kayaking]], known simply as "polo" by its aficionados. Polo combines boating and ball handling skills with a contact team game, where tactics and positional play are as important as the speed and fitness of the individual athletes.
+
+The game requires excellent teamwork and promotes both general canoeing skills and a range of other techniques unique to the sport. Each team has five players on the pitch (and up to three substitutes), who compete to score in their opponents goal which is suspended two metres above the water. The ball can be thrown by hand, or flicked with the paddle to pass between players and shoot at the goal. Pitches can be set up in swimming pools or any stretch of flat water.
+
+The kayaks are specifically designed for polo and are faster and lighter than typical kayaks which give them superior maneuverability. The blades of a polo paddle have thick rounded edges to prevent injury. Paddles are also very lightweight and designed with both pulling power and ball control in mind. Nose and tail boat bumpers, body protection, helmets and face-guards are all compulsory.
+
+In [[International Canoe Federation]] nomenclature used in some European countries, chiefly the [[United Kingdom]], the term canoe can refer to a [[kayak]] too.<ref>{{Cite EB1911|wstitle=Canoe}}</ref> The boats in this game are paddled with a double-bladed paddle and are called "kayaks".
+
+== History ==
+The birth of the modern sport could be considered to be the demonstration event held at the National Canoe Exhibition at the [[Crystal Palace National Sports Centre]], London, in 1970.
+
+In response to the interest created at the Crystal Palace event, the first National Canoe Polo subcommittee of the [[British Canoe Union]] was formed, and it was this committee that developed the modern framework of the game. The National Championships were held every year at the National Canoe Exhibition, and this activity led on to the inclusion of Canoe Polo in the demonstration games at [[Duisburg]], [[Germany]] in 1987.<ref>{{cite web |url=http://www.nomadkayakclub.co.uk/wp-content/uploads/2012/02/Canoe-polo-history.pdf |first=Ian |last=Beasley |title=Boat, Paddle and Ball: a short history of canoe polo |year=2009 |accessdate=2 May 2016 }}</ref>
+
+== Features ==
+The game is now played in many countries throughout all inhabited continents, for recreation and serious sport. The sport has World Championships every two years and European, Asian, African, and PanAmerican Continental Championships held every year in between World Championship years. Internationally the sport is organized by the Canoe Polo committee of the [[International Canoe Federation]], as one of the disciplines of the sport of canoeing.
+
+[[File:Canoe Polo.jpg|thumbnail|Finnish canoe polo championships, [[Lahti]], Finland, 2010]]
+
+[[File:Canoe polo practice.JPG|thumb|right|Practicing on the [[River Cam]], England, 2004]]
+
+The game is often described as a combination of [[water polo]], [[basketball]] and [[kayaking]]. The tactics and playing of the game are not unlike basketball or water polo but with the added complexity of the boats, which can be used to tackle an opposition player in possession of the ball, or jostle for position within 6&nbsp;meters of the goal.
+
+=== Officials ===
+There are two referees (one on each side-line) and they are on foot rather than in boats. The score is kept by the scorekeeper and the timekeeper monitors the playing time and sending-off times. The goal lines are monitored by two line judges. Before play commences scrutineers check all kit for compliance with regulations.
+
+=== Pitch ===
+Canoe polo is played either indoors in swimming pools or outdoors on a pitch which should measure 35 meters by 23 meters.<ref>[http://www.canoeicf.com/dms/icf/documents/Disciplines/CAP/Rules/Appendix-3---Field_Diagram/Appendix%203%20-%20Field_Diagram.pdf ICF field diagram]. canoeicf.com {{webarchive|url=https://web.archive.org/web/20131203043527/http://www.canoeicf.com/dms/icf/documents/Disciplines/CAP/Rules/Appendix-3---Field_Diagram/Appendix%203%20-%20Field_Diagram.pdf |date=2013-12-03 }}</ref>   The boundaries of the pitch are ideally marked using [[floating rope]]s (similar to lane markers in swimming), although for smaller venues the edges of the pool are frequently used.
+
+The area approximately 6&nbsp;meters in front of each the goal can be defined as the Zone. This area is where defending players create formations to defend the goal from attackers.
+
+=== Timing ===
+The game is officially played as a 14- to 20-minute game consisting of two 7- to 10-minute halves. The teams change ends at the half-time period, which is 1 to 3 minutes long.<ref>[http://www.canoeicf.com/dms/icf/documents/Disciplines/CAP/Rules/Canoe-Polo-Rules-2013---14/Canoe%20Polo%20Rules%202013%20%26%2014.pdf ICF Rules] {{Webarchive|url=https://web.archive.org/web/20131018011446/http://www.canoeicf.com/dms/icf/documents/Disciplines/CAP/Rules/Canoe-Polo-Rules-2013---14/Canoe%20Polo%20Rules%202013%20%26%2014.pdf# |date=2013-10-18 }}. canoeicf.com</ref> Each half begins with a "sprint" where each team lines up against its goal-line and the ball is thrown into the middle of the pitch by the referee. One player from each team sprints to win possession of the ball.
+
+=== Shot clock ===
+A shot clock may be used to speed up the game. The attacking team have 60 seconds to have a shot on the goal or they lose possession. The shot clock is reset when the ball is intercepted by the opposing team or the attacking team loses possession. The shot clock is a recent addition to the rules, and due to the expense and complexity of the equipment is not used universally.
+
+== Tactics ==
+There are several attacking and defensive tactics all with different variations.
+
+=== Offensive ===
+*'''Overload''':  1 or 2 players attack the side of the zone, pushing the defensive players together and creating space for a 3rd player to sprint into the newly created space, receive a pass from the 4th player and take a direct shot on the goal.
+*'''Box player''': A player positions themselves directly under the goal, next to the keeper. The aim is to keep this position and to receive  a quick pass and then have a short, direct shot at the goal or pass to another player who takes the opportunity to break through the defence.
+*'''Star''': The players position themselves around the zone and sprint in consecutively, a defensive player moves to block each player as they sprint in,  the attacking team move the ball around as the players sprint in, threatening to take a shot. If done correctly the fifth player is able to sprint into the zone, will have no defensive player to block them, receive the pass from the 4th player and be able to take a direct shot on goal.
+
+=== Defensive ===
+*'''3–1''': Three players form a row above the goal keeper, 1 to each side and 1 directly above the keeper. This formation can provide a very solid defensive line, by protecting the sides and the middle. The remaining player patrols the top of the zone with the aim of pressuring the ball and stopping players running into gaps in the defensive line.
+*'''2–2''': Two players position themselves in front, and to the side of the goal keeper, and block attacking players threatening the goal from the side. The two other players go further forward and towards the middle with the aim of stopping players running in to the zone and to place pressure of the attackers.  Looked on from above, it is not dissimilar to a Christmas tree formation. The aim is to force long-shots and errors from the attackers to win the ball back, while protecting the goal.
+*'''Five or out''': Every player, including the goal keeper, marks a player and pressures the ball and every pass, trying to force a mistake or gain an interception.
+
+== Fouls ==
+Most of the rules concern the safety of the players involved or are designed to keep the game fast-paced and exciting to play and watch.
+
+*'''Illegal substitution and entry into the playing area''': Only 5 players are allowed in the playing area at once. During a substitution a player must be completely off the pitch (including all kit) before another player can come on.
+*'''Illegal possession''': A player must dispose of the ball within five (5) seconds of gaining possession, either by passing it to another player or by performing one throw causing the ball to travel by at least one metre measured horizontally from the point of release.
+*'''Illegal hand tackle''': Types of hand tackle include any hand-tackle where the tackled player does not have possession of the ball or is sharing possession of the ball with another player or any body-contact other than one open hand to the opponents’ back, upper arm or side or any hand tackle which endangers the tackled player.
+*'''Illegal kayak tackle''': Any kayak-tackle that results in significant contact between the tackler's kayak and the head or body of an opposing player, or endangering a player, tackling a player not within 3&nbsp;metres of the ball or who is not competing for the ball.
+*'''Illegal use of the paddle''': Playing, or attempting to play, the ball with a paddle when the ball is within arm's reach of an opponent, contacting an opponent's person or any use of a paddle that endangers a player.
+*'''Illegal jostle''': When a player is stationary or attempting to maintain a position and their body is moved by more than half a metre by sustained contact from an opponent's kayak or jostling the player behind the goal line.
+*'''Illegal screen/obstruction''': A player actively or deliberately impeding the progress of an opponent when neither player is within three  metres of the ball or a player who is not competing for the ball who actively impedes the progress of an opponent who is competing for the ball on the water and not in the air.
+*'''Illegal holding''': A player gaining support or propulsion by placing their hand, arm, body or paddle on an opponent's kayak, or holding the opposing player or their equipment or using surrounding pitch equipment (goal, side-lines, pool wall), fending off an opponent.
+*'''Unsporting behaviour''': Players showing dissent, retaliation, foul or abusive language, delaying tactics, interference with opponents equipment, bouncing the ball out of play or any action that the referees consider detrimental to the game.
+
+Three general principles can be applied when determining the severity of a foul.
+
+'''Deliberate foul''' – A foul where no effort was made to avoid the illegal play. Any deliberate foul should receive a minimum of a green card- either immediately or at the next break in play if playing advantage.
+
+'''Dangerous foul''' – Is significant contact with the opponent's arm, head or body that may result in personal injury and is illegal.
+
+'''Significant contact''' – Any high impact or continuous contact, that may result in equipment damage or personal injury.
+
+== Equipment ==
+{{double image|right|Polobal.jpg|70|NewWaterPoloBall.JPG|90|Water polo balls: old (left) and new designs.}}
+Specialized equipment is needed to play Canoe polo. Items required are:
+*'''Ball''': A [[water polo ball]] is constructed of buoyant material to allow it to float on the water. The cover is textured to give players additional grip. The size of the ball is different for men's, women's and junior games.
+*'''Buoyancy aids''': A [[buoyancy aid]] is used to protect the players' torso from injury, and must provide an inch of foam on the front, sides and back of the player. All buoyancy aids are numbered to make the player identifiable to the other players, referees and spectators. Buoyancy aids are reversible and are colored with the teams primary and secondary colors on each side. This allows opponents to reverse their buoyancy aids and play in their away colors if the opposing teams primary color is the same or similar.
+*'''Helmet and face guard''': Helmets and face-guards are compulsory to protect players head and face from injury caused by accidental contact from paddles or other kayaks.
+*'''Goals''': The goals (measuring 1 meter high by 1.5 meters wide) are a frame with a net, suspended 2 meters above the water. A player, acting as goal keeper, defends the goal with their paddle by sticking it up vertically. Special rules concern the goal keeper, such as: the attacking team not being allowed to interfere with or jostle them. The length of the paddles used by the goal keepers are often longer than those used by other players. [[File:Canoe Polo Kayak.jpg|thumb|right|Canoe polo kayak]]
+*'''Kayak''': A special [[kayak]] is used. They are constructed from carbon-kevlar or a similarly lightweight material. This makes them faster and more maneuverable than other kayaks. They are fitted with an inch of protective foam around both ends of the kayak to prevent injury and damage at high speeds.
+*'''Paddle''': A [[paddle]] is used to propel the players during the game. The paddle can be used to flick and play the ball. Paddles are strictly forbidden of being played within hands reach of an opposing player to reduce the risk of injury.
+*'''Spray deck''': A [[spray deck]] is used to secure the cockpit of the kayak and prevent water filling the kayak during play.
+
+== ICF Canoe Polo at the World Games ==
+{{Main|List of ICF Canoe Polo World Championships}}
+
+=== Men ===
+{| class="toccolours" border="1" cellpadding="2" style="border-collapse: collapse; text-align: center; width: 80%; margin: 0 auto;"
+|- style="background: #efefef;"
+!width=10%|Year
+!width=18%|Host
+!width=24% style="background:gold;"|Gold
+!width=24% style="background:silver;"|Silver
+!width=24% style="background:#cc9966;"|Bronze
+|- style="background:#F5FAFF;"
+|'''2005'''
+|{{flagicon|GER}}<br />[[Duisburg]],<br />[[Germany]]
+|{{flagicon|NED}}<br />Netherlands
+|{{flagicon|GER}}<br />Germany
+|{{flagicon|UK}}<br />United Kingdom
+|- style="background:#D0E7FF;"
+|'''2009'''
+|{{flagicon|TWN}}<br />[[Kaohsiung]],<br />[[Taiwan]]
+|{{flagicon|FRA}}<br />'''France'''
+|{{flagicon|NED}}<br />Netherlands
+|{{flagicon|AUS}}<br />Australia
+|- style="background:#F5FAFF;"
+|'''2013'''
+|{{flagicon|COL}}<br />[[Cali]],<br />[[Colombia]]
+|{{flagicon|GER}}<br />Germany
+|{{flagicon|FRA}}<br />France
+|{{flagicon|ITA}}<br />Italy
+|- style="background:#D0E7FF;"
+|'''2017'''
+|{{flagicon|POL}}<br />[[Wroclaw]],<br />[[Poland]]
+|{{flagicon|GER}}<br />Germany
+|{{flagicon|ITA}}<br />Italy
+|{{flagicon|ESP}}<br />Spain 
+|- style="background:#D0E7FF;"
+|}
+
+=== Women ===
+{| class="toccolours" border="1" cellpadding="2" style="border-collapse: collapse; text-align: center; width: 80%; margin: 0 auto;"
+|- style="background: #efefef;"
+!width=10%|Year
+!width=18%|Host
+!width=24% style="background:gold;"|Gold
+!width=24% style="background:silver;"|Silver
+!width=24% style="background:#cc9966;"|Bronze
+|- style="background:#F5FAFF;"
+|'''2005'''
+|{{flagicon|GER}}<br />[[Duisburg]],<br />[[Germany]]
+|{{flagicon|GER}}<br />Germany
+|{{flagicon|UK}}<br />United Kingdom
+|{{flagicon|JPN}}<br />Japan
+|- style="background:#D0E7FF;"
+|'''2009'''
+|{{flagicon|TWN}}<br />[[Kaohsiung]],<br />[[Taiwan]]
+|{{flagicon|UK}}<br />United Kingdom
+|{{flagicon|GER}}<br />Germany
+|{{flagicon|FRA}}<br />France
+|- style="background:#F5FAFF;"
+|'''2013'''
+|{{flagicon|COL}}<br />[[Cali]],<br />[[Colombia]]
+|{{flagicon|GER}}<br />Germany
+|{{flagicon|UK}}<br />United Kingdom
+|{{flagicon|FRA}}<br />France
+|- style="background:#D0E7FF;"
+|'''2017'''
+|{{flagicon|POL}}<br />[[Wroclaw]],<br />[[Poland]]
+|{{flagicon|GER}}<br />Germany
+|{{flagicon|FRA}}<br />France
+|{{flagicon|ITA}}<br />Italy
+|- style="background:#D0E7FF;"
+|}
+
+== See also ==
+*[[International Canoe Federation]]
+*[[British Canoe Union]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Commons category|Kayak polo}}
+* [http://www.canoepolosyracuse2016.com Official 2016 World Championship page]
+* [http://www.canoepolo.com/ CanoePolo.com] — a canoe polo forum
+* [http://www.polopage.com/ PoloPage.com] – Canoe Polo Videos
+* [http://www.canoeicf.com/icf/Aboutoursport/Canoe-Polo/More-on-Canoe-Polo/Technical-Information.html Technical Information and rules] from the [[International Canoe Federation]]
+* {{YouTube|id=m3PMzY—ZkQ|title=GER vs ITA, 2010 World Championships, Milan}}—International Canoe Federation clip
+
+=== Governing bodies ===
+* [https://web.archive.org/web/20060829054231/http://www.canoe.org.au/default.asp?MenuID=Disciplines%2F97%2F0%2CCanoe_Polo%2F77%2F2230 Australian Canoe Polo]—official webpage
+* [http://www.canoepolo.org.uk/ Official site of British Canoe Polo]
+* [http://www.canoepolo.ca/ Official Canadian Canoe Polo site]—contains numerous links to local clubs
+* [http://www.canoepolo.ie/ Official site of Irish Canoe Polo]
+* [https://web.archive.org/web/20130520213037/http://canoepolonz.org.nz/ Official site of the New Zealand Canoe Polo Assn]
+* [http://www.kanupolo.de/ Official site of German Canoe Polo]
+* [http://www.canoepolo.ir/ Official site of Iran Canoe Polo]
+* [http://canoepolo.ru/ Official site of Russian Canoe Polo]
+* [http://canoepolo.ir/ Persian site about canoe polo training]
+* [http://canoepolo.org.ua/ Official site of Ukrainian canoe polo]
+
+{{Sports of the World Games program}}
+{{Canoeing and kayaking}}
+{{Water polo}}
+{{Team Sport}}
+{{Main world championships}}
+
+
+
+
+
+
+

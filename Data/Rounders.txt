@@ -1,0 +1,350 @@
+{{short description|Bat-and-ball team sport originating in Britain and Ireland}}
+{{About|the game||Rounder (disambiguation){{!}}Rounder}}
+{{EngvarB|date=November 2013}}
+{{Use dmy dates|date=November 2013}}
+{{Infobox sport
+| image   = Game of rounders on Christmas Day at Baroona, Glamorgan Vale, 1913.jpg
+| caption = A game of rounders on Christmas Day at [[Baroona]], Glamorgan Vale, Australia in 1913.
+| union   = Rounders England /<br /> [[Gaelic Athletic Association]]
+| team    = 2 teams of 6-15
+| first   = England, 1500s (unified rules 1884)}}
+
+'''Rounders''' ({{lang-ga|cluiche corr}}) is a [[bat-and-ball game]] played between two teams. Rounders is a striking and fielding team game that involves hitting a small, hard, leather-cased ball with a rounded end wooden, plastic or metal bat. The players score by running around the four bases on the field.<ref name=NRA>[https://web.archive.org/web/20071112065508/http://www.nra-rounders.co.uk/dyncat.cfm?catid=17177 National Rounders Association – History of the Game] in an [[Archive.org]] snapshot from 2007</ref><ref>[[Alice Bertha Gomme]], Traditional Games of England, Scotland and Ireland, Volume 2, 1898</ref> 
+
+Played in England since [[Tudor period|Tudor times]], it is referenced in 1744 in the children's book ''[[A Little Pretty Pocket-Book]]'' where it was called [[baseball|Base-Ball]].<ref>{{cite web | author=Mike | title=Rounders | website=West Midlands Sports Development | url=http://www.wmsd.co.uk/component/k2/item/320-rounders | ref=harv | accessdate=2 March 2018}}</ref> The game is popular among British and Irish school children, particularly among girls.<ref name="Rules">[http://www.britannica.com/EBchecked/topic/510872/rounders "Rounders (English Game)"]. Encyclopædia Britannica</ref><ref name="popularity">[http://gulfnews.com/sport/rounders-all-round-show-1.770808 "Rounders all-round show"]. Gulf News. 3 March 2011</ref><ref name="Girls">[https://www.into.ie/ROI/Publications/PublicationsPre2000/FairPlay1993.pdf “Fair Play for Girls and Boys”]. National Teachers Organisation. Retrieved 9 March 2018</ref> As of 2015 it is played by seven million children in the UK.<ref name=“Participation”/>
+
+Gameplay centres on a number of [[innings]], in which teams alternate at batting and fielding. Points (known as 'rounders') are scored by the batting team when one of their players completes a circuit past four bases without being put 'out'. The batter must strike at a good ball and attempt to run a rounder in an anti-clockwise direction around the first, second, and third base and home to the fourth, though they may stay at any of the first three.<ref name="Rules"/> A batter is out if the ball is caught; if the base to which they are running to is touched with the ball; or if, while running, they are touched with the ball by a fielder.<ref name="Rules"/>
+
+==History==
+[[Image:Aprettylittlepocketbook.jpg|thumb|right|''[[A Little Pretty Pocket-Book]]'' (1744), included an illustration of base-ball, depicting a batter, a bowler, and several rounders posts. The rhyme refers to the ball being hit, the boy running to the next post, and then home to score.]]
+The game of rounders has been played in England since [[Tudor period|Tudor times]],<ref name=NRA/> with the earliest reference<ref name="NRA" /><ref name="lloyd">{{cite book|last=Lloyd |first=John |authorlink=John Lloyd (producer) |author2=Mitchinson, John |authorlink2=John Mitchinson (researcher)  | title = [[The Book of General Ignorance]] | editor = Faber & Faber | year = 2006}}</ref> being in 1744 in ''[[A Little Pretty Pocket-Book]]'' where it was called base-ball.<ref name="Newbery">{{cite book |url= |title=A Little Pretty Pocket-book |year=1767 |last=Newbery |first=John |authorlink=John Newbery |page=43}}</ref> In 1828, William Clarke in London published the second edition of ''The Boy's Own Book'', which included the rules of rounders and also contained the first printed description in English of a bat and ball base-running game played on a diamond.<ref>David Block (2006) [https://books.google.com/books?id=DBCt7IZfGv8C&pg=PA192&dq=william+clarke+1828+The+Boy%E2%80%99s+Own+Book&hl=en&ei=8cHETf_QMoOl8QOb3-zcAw&sa=X&oi=book_result&ct=result&resnum=8&ved=0CGEQ6AEwBw#v=onepage&q=william%20clarke%201828%20The%20Boy%E2%80%99s%20Own%20Book&f=false Baseball Before We Knew It: A Search for the Roots of the Game] p.192. University of Nebraska Press. Retrieved 6 May 2011</ref> The following year, the book was published in [[Boston, Massachusetts]].<ref>[http://www.mainehistorystore.com/noname4.html "The Boys Own Book by William Clarke"]. Maine Historical Society. Retrieved 7 May 2011</ref>
+
+The first nationally formalised rules were drawn up by the [[Gaelic Athletic Association]] (GAA) in Ireland in 1884. The game is still regulated in Ireland by the GAA, through the GAA Rounders National Council ({{lang-ga|Comhairle Cluiche Corr na hÉireann}}). In Great Britain it is regulated by Rounders England, which was formed in 1943. While the two associations are distinct, they share similar elements of game play and culture. Competitions are held between teams from both traditions.
+
+After the rules of rounders were formalised in Ireland, associations were established in [[Liverpool]], England; and Scotland in 1889. Both the '[[Knickerbocker Rules|New York game]]' and the now-defunct '[[The Massachusetts Game|Massachusetts game]]' versions of [[Origins of baseball|baseball]], as well as [[softball]], share the same historical roots as rounders and bear a resemblance to the GAA version of the game. Rounders is linked to [[British baseball]], which is still played in Liverpool, [[Cardiff]] and [[Newport, Wales|Newport]]. Although rounders is assumed to be older than baseball, literary references to early forms of 'base-ball' in England pre-date use of the term ''rounders''. A popular game among British and Irish school children, and especially among girls, the game is now played up to international level.<ref name="Rules"/><ref name="popularity"/><ref name="Girls"/> It is played by seven million children in the UK, with [[Catherine, Duchess of Cambridge]] playing it as a young girl.<ref name=“Participation”>{{cite news|title=Save rounders! It's the only sport for people who hate sport|url=https://www.telegraph.co.uk/women/womens-life/11384071/Rounders-Its-the-only-sport-for-people-who-hate-sport.html|work=The Telegraph|date=8 April 2018}}</ref>
+
+==Rules==
+{{Quote box
+ | width = 100%
+ |There’s the nostalgia, of course. The satisfying ‘thwack’ as heavy ball meets wooden bat; the lush green field dotted with coloured cones, shining under the British summer sun; the grass-stained knees as you slide valiantly past fourth base.
+ |source =— Claire Cohen of ''[[The Daily Telegraph|The Telegraph]]'' on the gameplay of rounders having played it as a girl.<ref name=“Participation”/>
+ |align = right
+}}
+Gameplay comprises a number of [[innings]], in which teams alternate at batting and fielding. Nine players constitute a team, with the fielding side consisting of the bowler, the catcher, a player on each of the four bases, and three deep fielders.<ref name="GAA rules" /><ref name="Rules"/> Points (known as 'rounders') are scored by the batting team when one of their players completes a circuit past four bases without being put 'out'. The batter must strike at a good ball and attempt to run a rounder in an anti-clockwise direction around the first, second, and third base and home to the fourth, though they may rest at any of the first three.<ref name="Rules"/>
+
+While Rounders England<ref>{{cite web|url=http://www.roundersengland.co.uk/play/rules/ |title=Rounders England - Rules|accessdate=3 May 2018}}</ref> and GAA<ref name="GAA rules">{{cite web|url=http://www.gaarounders.ie/ckeditor_uploads/files/Rulebook_2010_-Small.pdf|title=The Rules of GAA Rounders|accessdate=3 May 2018}}</ref> codes differ, they share much in common.
+
+The bowler, or 'feeder', bowls the ball with an underarm pendulum action to the batter. According to Rounders England rules, the ball is deemed a 'good' ball if it passes within reach on the striking side between the batter's knees and the top of the head. Otherwise, it is called a 'no-ball' or 'bad' ball. The ball is also regarded as bad if it is thrown into the batter's body or wide of the batting box. A batter may try to hit a bad ball but is not required to do so. A player is not out if a no-ball is caught and cannot be called out on first base.
+
+When a batter leaves the post, each runner on a base may run to the next and succeeding base. A post runner cannot be declared out when standing at a base. The batter must keep in contact with the base to avoid being declared out. A rounder is scored if one of the batting team completes a circuit without being out. The Rounders England rules state that a half rounder is scored if half a circuit is completed by a player without being put out, or if the batter has not hit the ball but makes it all the way to the fourth base. A batter is out if a fielder catches the ball cleanly; the batter reaches a base that had been 'stumped' (touched while holding the ball) by a fielder; the bat is dropped whilst the batter is running; the batter leaves the base before the bowler has bowled the ball; or the batter is 'run out' (overtaken) by the next batter.
+
+===Rounders England-specific rules===
+
+[[File:SMATrinitasKasti1.JPG|thumb|right|A game of rounders being played in Indonesia.]]
+In the United Kingdom, the rules of rounders are regulated by Rounders England.<ref>{{cite web|url=http://www.roundersengland.co.uk/ngb/about/rounders-england-our-journey/|title=Rounders England - Our Journey|publisher=Rounders England|accessdate=1 February 2016}}</ref> Games played under these rules use smaller bats and balls and are played on a smaller pitch compared to GAA games. The bases are marked with posts, which batters must keep in contact with and fielders must 'stump', and only one 'good' ball needs to be thrown before a batter must run. 'Half-rounders' are also counted in scoring.
+
+The fielding team must field a minimum of six players (one on each base plus bowler and catcher). The total number of players on a team is limited to nine.
+
+The ball circumference must be between {{convert|180|mm}} and {{convert|200|mm}} and the bat no more than {{convert|460|mm}} in length and {{convert|170|mm}} in diameter. Rounders England place a weight-limit of {{convert|370|g}} on the bat. The bases are laid out in a manner similar to a baseball diamond, except that batters run to a separate fourth base, at right-angles to third base and the batsman's base.<ref>[http://www.sportfocus.com/reguser/dynabizinfo/download.cfm?number=13848 NRA Pitch Diagram] SportFocus</ref> Each base is marked with poles, which must be able to support themselves and stand at a minimum of {{convert|1|m}}.
+
+If a ball is delivered well, batters must try to hit the ball and must run regardless of whether the ball is hit. If the ball is hit into the backward area, the batter may not pass first post until the ball is returned to the forward area. A batter that hits a no-ball may not  be caught out or stumped at the first post. Batters may run on 'no-balls' but do not have to. Each batter, except the last in each inning, is entitled to receive one good ball: the last batter is entitled to receive three good balls unless he or she is caught out.
+
+One rounder is gained if the player hits the ball, then reaches the fourth post and touches it before the next ball is bowled and is not caught out and hit by the ball. A half rounder is gained if: the player reaches the fourth post having missed the ball; the player reaches the second post having hit the ball; if a batter is obstructed by a fielder whilst running; or if the same batter has two consecutive no balls.
+
+A batter is out if a fielder catches the ball after it has been hit and before it touches the ground, a fielder touches the post of the base halfway up (or higher) with the ball while the batter is running to it, the batter deliberately drops or throws the bat, or another batter runs to the same base or overtakes a batter, in which case both batters are out.
+
+Two innings constitute a game. Each batting team's innings continues until nine outs are made or the numbered innings is over.
+
+===GAA-specific rules===
+
+[[File:SMATrinitasKasti2.JPG|thumb|right|A batter is attempting to give a good hit]]
+In Ireland, the rules of rounders ({{lang-ga|cluiche corr}}) are laid down by the Gaelic Athletic Association.<ref name="GAA rules"/> The GAA rules are the earliest nationally organised rules of play, being formalised in 1884. It is played on a larger pitch compared to the Rounders England game and consequently uses larger bats and slightly larger balls. A GAA rounders pitch is a {{convert|70|m|yd|sing=on}} square field and bases are {{convert|25|m|yd}} apart, compared to {{convert|12|m|yd}} for the Rounders England game. Foul ground runs along two adjacent sides of the pitch with home base at the intersection of these sides.
+
+Three substitutes may be made to the list of field players during play. A maximum of nine players are allowed to field at one time. There is no limit for the number of batters a team may list.
+
+The ball (or [[sliotar]]) circumference is {{convert|22.7|-|25.5|cm|in}} and bats may be {{convert|70|-|110|cm|in}} long and up to {{convert|7|cm|in}} in diameter. There is no limit on bat weight. Bases are normally marked with temporary square mats 64&nbsp;cm (28") wide for home-base and the pitchers stand and {{convert|46|cm|in}} wide for all others.
+
+Each batter is entitled to three good balls. A batter must try to hit any good balls that are bowled, but need not run hitting the ball. If a ball is struck that would otherwise be considered 'bad', the ball is then considered to be 'good'. If, on the first or second good ball, a ball is hit into the foul ground, or the ball is hit but no running occurs, it is considered a 'dead' ball and the batter or runners may not advance. If a batter receives three bad balls then a 'walk-on' is called and all runners advance one base. The batter may run on any ball except a dead ball. The batter is not allowed to drop the bat whilst running or that person is out and no rounders are scored.
+
+A batter is out if:
+* on a third good ball, the batter fails to strike the ball and the catcher holds the ball before it touches the ground;
+* the bat is thrown or tossed in a dangerous way;
+* on a third good ball, the batter strikes the ball in to the foul area;
+* the bowler or catcher's view is obstructed for a second time, after a warning given on the first instance;
+* deliberate contact is made with a fielder carrying the ball;
+* the batter touches a base that has been 'tagged' by another fielder carrying the ball, in which case the batter must return to the previous base if it is still unoccupied;
+* the batter attempts to occupy a base occupied by someone else (with the exception of first base, which must be vacated to make way for the approaching batter.
+
+Batters must run in straight lines between bases and fielders must not obstruct their way or stand on bases. Disobeying this rule is considered unsporting behaviour and may result in up to two bases being awarded to the batting team or a batter being sent out.  Normally, one batter may not overtake another while running between bases, although there are exceptions to this rule.
+
+Five innings constitute a game, depending on the level of the match. Each batting team's inning continues until three outs are made.
+
+==Comparison with softball and baseball==
+
+The GAA version of rounders is very similar to [[softball]], the main difference being that the game is played with baseball-sized bats, balls and field. However, baseball-style gloves are not allowed. The main differences between [[baseball]] and the Rounders England version of the game are that the rounders bat is much shorter and is usually swung one-handed; misses or strikes are not called, so there are no walks or strike-outs; each batter receives only one good ball and must run whether they hit it or not. Other differences include the posts for marking the bases, which should be wooden, and are preferably encased in plastic sheaths, the lay-out of the pitch, especially the location of the last base; and the bowler's arm motion, which is an underarm pendulum action, as in softball.
+
+==See also==
+{{Portal|Gaelic games|UK|Ireland}}
+* [[Pesäpallo]]
+* [[Oina]]
+* [[Brännboll]]
+* [[Safe haven games]]
+* [[Stoolball]]
+* [[Lapta (game)|Lapta]]
+* [[Palant]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|Rounders}}
+* [http://www.roundersengland.co.uk/ Rounders England]
+** [http://roundersengland.s3.amazonaws.com/2013/03/Simplified-Rules-2012.pdf Simplified rules]
+* [http://www.gaarounders.ie/ GAA Rounders]
+** [http://www.gaarounders.ie/playrounders/howtoplay How to play rounders]
+* [http://www.indiarounders.freehosting.net/ Rounders Association of India]
+* {{dmoz|Sports/Rounders|Rounders}}
+{{Gaelic games}}
+{{Gaelic Athletic Association}}
+{{Team sports}}
+
+
+
+
+
+
+
+
+{{short description|Bat-and-ball team sport originating in Britain and Ireland}}
+{{About|the game||Rounder (disambiguation){{!}}Rounder}}
+{{EngvarB|date=November 2013}}
+{{Use dmy dates|date=November 2013}}
+{{Infobox sport
+| image   = Game of rounders on Christmas Day at Baroona, Glamorgan Vale, 1913.jpg
+| caption = A game of rounders on Christmas Day at [[Baroona]], Glamorgan Vale, Australia in 1913.
+| union   = Rounders England /<br /> [[Gaelic Athletic Association]]
+| team    = 2 teams of 6-15
+| first   = England, 1500s (unified rules 1884)}}
+
+'''Rounders''' ({{lang-ga|cluiche corr}}) is a [[bat-and-ball game]] played between two teams. Rounders is a striking and fielding team game that involves hitting a small, hard, leather-cased ball with a rounded end wooden, plastic or metal bat. The players score by running around the four bases on the field.<ref name=NRA>[https://web.archive.org/web/20071112065508/http://www.nra-rounders.co.uk/dyncat.cfm?catid=17177 National Rounders Association – History of the Game] in an [[Archive.org]] snapshot from 2007</ref><ref>[[Alice Bertha Gomme]], Traditional Games of England, Scotland and Ireland, Volume 2, 1898</ref> 
+
+Played in England since [[Tudor period|Tudor times]], it is referenced in 1744 in the children's book ''[[A Little Pretty Pocket-Book]]'' where it was called [[baseball|Base-Ball]].<ref>{{cite web | author=Mike | title=Rounders | website=West Midlands Sports Development | url=http://www.wmsd.co.uk/component/k2/item/320-rounders | ref=harv | accessdate=2 March 2018}}</ref> The game is popular among British and Irish school children, particularly among girls.<ref name="Rules">[http://www.britannica.com/EBchecked/topic/510872/rounders "Rounders (English Game)"]. Encyclopædia Britannica</ref><ref name="popularity">[http://gulfnews.com/sport/rounders-all-round-show-1.770808 "Rounders all-round show"]. Gulf News. 3 March 2011</ref><ref name="Girls">[https://www.into.ie/ROI/Publications/PublicationsPre2000/FairPlay1993.pdf “Fair Play for Girls and Boys”]. National Teachers Organisation. Retrieved 9 March 2018</ref> As of 2015 it is played by seven million children in the UK.<ref name=“Participation”/>
+
+Gameplay centres on a number of [[innings]], in which teams alternate at batting and fielding. Points (known as 'rounders') are scored by the batting team when one of their players completes a circuit past four bases without being put 'out'. The batter must strike at a good ball and attempt to run a rounder in an anti-clockwise direction around the first, second, and third base and home to the fourth, though they may stay at any of the first three.<ref name="Rules"/> A batter is out if the ball is caught; if the base to which they are running to is touched with the ball; or if, while running, they are touched with the ball by a fielder.<ref name="Rules"/>
+
+==History==
+[[Image:Aprettylittlepocketbook.jpg|thumb|right|''[[A Little Pretty Pocket-Book]]'' (1744), included an illustration of base-ball, depicting a batter, a bowler, and several rounders posts. The rhyme refers to the ball being hit, the boy running to the next post, and then home to score.]]
+The game of rounders has been played in England since [[Tudor period|Tudor times]],<ref name=NRA/> with the earliest reference<ref name="NRA" /><ref name="lloyd">{{cite book|last=Lloyd |first=John |authorlink=John Lloyd (producer) |author2=Mitchinson, John |authorlink2=John Mitchinson (researcher)  | title = [[The Book of General Ignorance]] | editor = Faber & Faber | year = 2006}}</ref> being in 1744 in ''[[A Little Pretty Pocket-Book]]'' where it was called base-ball.<ref name="Newbery">{{cite book |url= |title=A Little Pretty Pocket-book |year=1767 |last=Newbery |first=John |authorlink=John Newbery |page=43}}</ref> In 1828, William Clarke in London published the second edition of ''The Boy's Own Book'', which included the rules of rounders and also contained the first printed description in English of a bat and ball base-running game played on a diamond.<ref>David Block (2006) [https://books.google.com/books?id=DBCt7IZfGv8C&pg=PA192&dq=william+clarke+1828+The+Boy%E2%80%99s+Own+Book&hl=en&ei=8cHETf_QMoOl8QOb3-zcAw&sa=X&oi=book_result&ct=result&resnum=8&ved=0CGEQ6AEwBw#v=onepage&q=william%20clarke%201828%20The%20Boy%E2%80%99s%20Own%20Book&f=false Baseball Before We Knew It: A Search for the Roots of the Game] p.192. University of Nebraska Press. Retrieved 6 May 2011</ref> The following year, the book was published in [[Boston, Massachusetts]].<ref>[http://www.mainehistorystore.com/noname4.html "The Boys Own Book by William Clarke"]. Maine Historical Society. Retrieved 7 May 2011</ref>
+
+The first nationally formalised rules were drawn up by the [[Gaelic Athletic Association]] (GAA) in Ireland in 1884. The game is still regulated in Ireland by the GAA, through the GAA Rounders National Council ({{lang-ga|Comhairle Cluiche Corr na hÉireann}}). In Great Britain it is regulated by Rounders England, which was formed in 1943. While the two associations are distinct, they share similar elements of game play and culture. Competitions are held between teams from both traditions.
+
+After the rules of rounders were formalised in Ireland, associations were established in [[Liverpool]], England; and Scotland in 1889. Both the '[[Knickerbocker Rules|New York game]]' and the now-defunct '[[The Massachusetts Game|Massachusetts game]]' versions of [[Origins of baseball|baseball]], as well as [[softball]], share the same historical roots as rounders and bear a resemblance to the GAA version of the game. Rounders is linked to [[British baseball]], which is still played in Liverpool, [[Cardiff]] and [[Newport, Wales|Newport]]. Although rounders is assumed to be older than baseball, literary references to early forms of 'base-ball' in England pre-date use of the term ''rounders''. A popular game among British and Irish school children, and especially among girls, the game is now played up to international level.<ref name="Rules"/><ref name="popularity"/><ref name="Girls"/> It is played by seven million children in the UK, with [[Catherine, Duchess of Cambridge]] playing it as a young girl.<ref name=“Participation”>{{cite news|title=Save rounders! It's the only sport for people who hate sport|url=https://www.telegraph.co.uk/women/womens-life/11384071/Rounders-Its-the-only-sport-for-people-who-hate-sport.html|work=The Telegraph|date=8 April 2018}}</ref>
+
+==Rules==
+{{Quote box
+ | width = 100%
+ |There’s the nostalgia, of course. The satisfying ‘thwack’ as heavy ball meets wooden bat; the lush green field dotted with coloured cones, shining under the British summer sun; the grass-stained knees as you slide valiantly past fourth base.
+ |source =— Claire Cohen of ''[[The Daily Telegraph|The Telegraph]]'' on the gameplay of rounders having played it as a girl.<ref name=“Participation”/>
+ |align = right
+}}
+Gameplay comprises a number of [[innings]], in which teams alternate at batting and fielding. Nine players constitute a team, with the fielding side consisting of the bowler, the catcher, a player on each of the four bases, and three deep fielders.<ref name="GAA rules" /><ref name="Rules"/> Points (known as 'rounders') are scored by the batting team when one of their players completes a circuit past four bases without being put 'out'. The batter must strike at a good ball and attempt to run a rounder in an anti-clockwise direction around the first, second, and third base and home to the fourth, though they may rest at any of the first three.<ref name="Rules"/>
+
+While Rounders England<ref>{{cite web|url=http://www.roundersengland.co.uk/play/rules/ |title=Rounders England - Rules|accessdate=3 May 2018}}</ref> and GAA<ref name="GAA rules">{{cite web|url=http://www.gaarounders.ie/ckeditor_uploads/files/Rulebook_2010_-Small.pdf|title=The Rules of GAA Rounders|accessdate=3 May 2018}}</ref> codes differ, they share much in common.
+
+The bowler, or 'feeder', bowls the ball with an underarm pendulum action to the batter. According to Rounders England rules, the ball is deemed a 'good' ball if it passes within reach on the striking side between the batter's knees and the top of the head. Otherwise, it is called a 'no-ball' or 'bad' ball. The ball is also regarded as bad if it is thrown into the batter's body or wide of the batting box. A batter may try to hit a bad ball but is not required to do so. A player is not out if a no-ball is caught and cannot be called out on first base.
+
+When a batter leaves the post, each runner on a base may run to the next and succeeding base. A post runner cannot be declared out when standing at a base. The batter must keep in contact with the base to avoid being declared out. A rounder is scored if one of the batting team completes a circuit without being out. The Rounders England rules state that a half rounder is scored if half a circuit is completed by a player without being put out, or if the batter has not hit the ball but makes it all the way to the fourth base. A batter is out if a fielder catches the ball cleanly; the batter reaches a base that had been 'stumped' (touched while holding the ball) by a fielder; the bat is dropped whilst the batter is running; the batter leaves the base before the bowler has bowled the ball; or the batter is 'run out' (overtaken) by the next batter.
+
+===Rounders England-specific rules===
+
+[[File:SMATrinitasKasti1.JPG|thumb|right|A game of rounders being played in Indonesia.]]
+In the United Kingdom, the rules of rounders are regulated by Rounders England.<ref>{{cite web|url=http://www.roundersengland.co.uk/ngb/about/rounders-england-our-journey/|title=Rounders England - Our Journey|publisher=Rounders England|accessdate=1 February 2016}}</ref> Games played under these rules use smaller bats and balls and are played on a smaller pitch compared to GAA games. The bases are marked with posts, which batters must keep in contact with and fielders must 'stump', and only one 'good' ball needs to be thrown before a batter must run. 'Half-rounders' are also counted in scoring.
+
+The fielding team must field a minimum of six players (one on each base plus bowler and catcher). The total number of players on a team is limited to nine.
+
+The ball circumference must be between {{convert|180|mm}} and {{convert|200|mm}} and the bat no more than {{convert|460|mm}} in length and {{convert|170|mm}} in diameter. Rounders England place a weight-limit of {{convert|370|g}} on the bat. The bases are laid out in a manner similar to a baseball diamond, except that batters run to a separate fourth base, at right-angles to third base and the batsman's base.<ref>[http://www.sportfocus.com/reguser/dynabizinfo/download.cfm?number=13848 NRA Pitch Diagram] SportFocus</ref> Each base is marked with poles, which must be able to support themselves and stand at a minimum of {{convert|1|m}}.
+
+If a ball is delivered well, batters must try to hit the ball and must run regardless of whether the ball is hit. If the ball is hit into the backward area, the batter may not pass first post until the ball is returned to the forward area. A batter that hits a no-ball may not  be caught out or stumped at the first post. Batters may run on 'no-balls' but do not have to. Each batter, except the last in each inning, is entitled to receive one good ball: the last batter is entitled to receive three good balls unless he or she is caught out.
+
+One rounder is gained if the player hits the ball, then reaches the fourth post and touches it before the next ball is bowled and is not caught out and hit by the ball. A half rounder is gained if: the player reaches the fourth post having missed the ball; the player reaches the second post having hit the ball; if a batter is obstructed by a fielder whilst running; or if the same batter has two consecutive no balls.
+
+A batter is out if a fielder catches the ball after it has been hit and before it touches the ground, a fielder touches the post of the base halfway up (or higher) with the ball while the batter is running to it, the batter deliberately drops or throws the bat, or another batter runs to the same base or overtakes a batter, in which case both batters are out.
+
+Two innings constitute a game. Each batting team's innings continues until nine outs are made or the numbered innings is over.
+
+===GAA-specific rules===
+
+[[File:SMATrinitasKasti2.JPG|thumb|right|A batter is attempting to give a good hit]]
+In Ireland, the rules of rounders ({{lang-ga|cluiche corr}}) are laid down by the Gaelic Athletic Association.<ref name="GAA rules"/> The GAA rules are the earliest nationally organised rules of play, being formalised in 1884. It is played on a larger pitch compared to the Rounders England game and consequently uses larger bats and slightly larger balls. A GAA rounders pitch is a {{convert|70|m|yd|sing=on}} square field and bases are {{convert|25|m|yd}} apart, compared to {{convert|12|m|yd}} for the Rounders England game. Foul ground runs along two adjacent sides of the pitch with home base at the intersection of these sides.
+
+Three substitutes may be made to the list of field players during play. A maximum of nine players are allowed to field at one time. There is no limit for the number of batters a team may list.
+
+The ball (or [[sliotar]]) circumference is {{convert|22.7|-|25.5|cm|in}} and bats may be {{convert|70|-|110|cm|in}} long and up to {{convert|7|cm|in}} in diameter. There is no limit on bat weight. Bases are normally marked with temporary square mats 64&nbsp;cm (28") wide for home-base and the pitchers stand and {{convert|46|cm|in}} wide for all others.
+
+Each batter is entitled to three good balls. A batter must try to hit any good balls that are bowled, but need not run hitting the ball. If a ball is struck that would otherwise be considered 'bad', the ball is then considered to be 'good'. If, on the first or second good ball, a ball is hit into the foul ground, or the ball is hit but no running occurs, it is considered a 'dead' ball and the batter or runners may not advance. If a batter receives three bad balls then a 'walk-on' is called and all runners advance one base. The batter may run on any ball except a dead ball. The batter is not allowed to drop the bat whilst running or that person is out and no rounders are scored.
+
+A batter is out if:
+* on a third good ball, the batter fails to strike the ball and the catcher holds the ball before it touches the ground;
+* the bat is thrown or tossed in a dangerous way;
+* on a third good ball, the batter strikes the ball in to the foul area;
+* the bowler or catcher's view is obstructed for a second time, after a warning given on the first instance;
+* deliberate contact is made with a fielder carrying the ball;
+* the batter touches a base that has been 'tagged' by another fielder carrying the ball, in which case the batter must return to the previous base if it is still unoccupied;
+* the batter attempts to occupy a base occupied by someone else (with the exception of first base, which must be vacated to make way for the approaching batter.
+
+Batters must run in straight lines between bases and fielders must not obstruct their way or stand on bases. Disobeying this rule is considered unsporting behaviour and may result in up to two bases being awarded to the batting team or a batter being sent out.  Normally, one batter may not overtake another while running between bases, although there are exceptions to this rule.
+
+Five innings constitute a game, depending on the level of the match. Each batting team's inning continues until three outs are made.
+
+==Comparison with softball and baseball==
+
+The GAA version of rounders is very similar to [[softball]], the main difference being that the game is played with baseball-sized bats, balls and field. However, baseball-style gloves are not allowed. The main differences between [[baseball]] and the Rounders England version of the game are that the rounders bat is much shorter and is usually swung one-handed; misses or strikes are not called, so there are no walks or strike-outs; each batter receives only one good ball and must run whether they hit it or not. Other differences include the posts for marking the bases, which should be wooden, and are preferably encased in plastic sheaths, the lay-out of the pitch, especially the location of the last base; and the bowler's arm motion, which is an underarm pendulum action, as in softball.
+
+==See also==
+{{Portal|Gaelic games|UK|Ireland}}
+* [[Pesäpallo]]
+* [[Oina]]
+* [[Brännboll]]
+* [[Safe haven games]]
+* [[Stoolball]]
+* [[Lapta (game)|Lapta]]
+* [[Palant]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|Rounders}}
+* [http://www.roundersengland.co.uk/ Rounders England]
+** [http://roundersengland.s3.amazonaws.com/2013/03/Simplified-Rules-2012.pdf Simplified rules]
+* [http://www.gaarounders.ie/ GAA Rounders]
+** [http://www.gaarounders.ie/playrounders/howtoplay How to play rounders]
+* [http://www.indiarounders.freehosting.net/ Rounders Association of India]
+* {{dmoz|Sports/Rounders|Rounders}}
+{{Gaelic games}}
+{{Gaelic Athletic Association}}
+{{Team sports}}
+
+
+
+
+
+
+
+
+{{About|the game||Rounder (disambiguation){{!}}Rounder}}
+{{EngvarB|date=November 2013}}
+{{Use dmy dates|date=November 2013}}
+{{Infobox sport
+| image   = Game of rounders on Christmas Day at Baroona, Glamorgan Vale, 1913.jpg
+| caption = A game of rounders on Christmas Day at [[Baroona]], Glamorgan Vale, Australia in 1913.
+| union   = Rounders England /<br /> [[Gaelic Athletic Association]]
+| team    = 2 teams of 6-15
+| first   = England, 1500s (unified rules 1884)}}
+
+'''Rounders''' ({{lang-ga|cluiche corr}}) is a [[bat-and-ball game]] played between two teams. Rounders is a striking and fielding team game that involves hitting a small, hard, leather-cased ball with a rounded end wooden, plastic or metal bat. The players score by running around the four bases on the field.<ref name=NRA>[https://web.archive.org/web/20071112065508/http://www.nra-rounders.co.uk/dyncat.cfm?catid=17177 National Rounders Association – History of the Game] in an [[Archive.org]] snapshot from 2007</ref><ref>[[Alice Bertha Gomme]], Traditional Games of England, Scotland and Ireland, Volume 2, 1898</ref> 
+
+Played in England since [[Tudor period|Tudor times]], it is referenced in 1744 in the children's book ''[[A Little Pretty Pocket-Book]]'' where it was called [[baseball|Base-Ball]].<ref>{{cite web | author=Mike | title=Rounders | website=West Midlands Sports Development | url=http://www.wmsd.co.uk/component/k2/item/320-rounders | ref=harv | accessdate=2 March 2018}}</ref> The game is popular among British and Irish school children, particularly among girls.<ref name="Rules">[http://www.britannica.com/EBchecked/topic/510872/rounders "Rounders (English Game)"]. Encyclopædia Britannica</ref><ref name="popularity">[http://gulfnews.com/sport/rounders-all-round-show-1.770808 "Rounders all-round show"]. Gulf News. 3 March 2011</ref><ref name="Girls">[https://www.into.ie/ROI/Publications/PublicationsPre2000/FairPlay1993.pdf “Fair Play for Girls and Boys”]. National Teachers Organisation. Retrieved 9 March 2018</ref> As of 2015 it is played by seven million children in the UK.<ref name=“Participation”/>
+
+Gameplay centres on a number of [[innings]], in which teams alternate at batting and fielding. Points (known as 'rounders') are scored by the batting team when one of their players completes a circuit past four bases without being put 'out'. The batter must strike at a good ball and attempt to run a rounder in an anti-clockwise direction around the first, second, and third base and home to the fourth, though they may stay at any of the first three.<ref name="Rules"/> A batter is out if the ball is caught; if the base to which they are running to is touched with the ball; or if, while running, they are touched with the ball by a fielder.<ref name="Rules"/>
+
+==History==
+[[Image:Aprettylittlepocketbook.jpg|thumb|right|''[[A Little Pretty Pocket-Book]]'' (1744), included an illustration of base-ball, depicting a batter, a bowler, and several rounders posts. The rhyme refers to the ball being hit, the boy running to the next post, and then home to score.]]
+The game of rounders has been played in England since [[Tudor period|Tudor times]],<ref name=NRA/> with the earliest reference<ref name="NRA" /><ref name="lloyd">{{cite book|last=Lloyd |first=John |authorlink=John Lloyd (producer) |author2=Mitchinson, John |authorlink2=John Mitchinson (researcher)  | title = [[The Book of General Ignorance]] | editor = Faber & Faber | year = 2006}}</ref> being in 1744 in ''[[A Little Pretty Pocket-Book]]'' where it was called base-ball.<ref name="Newbery">{{cite book |url= |title=A Little Pretty Pocket-book |year=1767 |last=Newbery |first=John |authorlink=John Newbery |page=43}}</ref> In 1828, William Clarke in London published the second edition of ''The Boy's Own Book'', which included the rules of rounders and also contained the first printed description in English of a bat and ball base-running game played on a diamond.<ref>David Block (2006) [https://books.google.com/books?id=DBCt7IZfGv8C&pg=PA192&dq=william+clarke+1828+The+Boy%E2%80%99s+Own+Book&hl=en&ei=8cHETf_QMoOl8QOb3-zcAw&sa=X&oi=book_result&ct=result&resnum=8&ved=0CGEQ6AEwBw#v=onepage&q=william%20clarke%201828%20The%20Boy%E2%80%99s%20Own%20Book&f=false Baseball Before We Knew It: A Search for the Roots of the Game] p.192. University of Nebraska Press. Retrieved 6 May 2011</ref> The following year, the book was published in [[Boston, Massachusetts]].<ref>[http://www.mainehistorystore.com/noname4.html "The Boys Own Book by William Clarke"]. Maine Historical Society. Retrieved 7 May 2011</ref>
+
+The first nationally formalised rules were drawn up by the [[Gaelic Athletic Association]] (GAA) in Ireland in 1884. The game is still regulated in Ireland by the GAA, through the GAA Rounders National Council ({{lang-ga|Comhairle Cluiche Corr na hÉireann}}). In Great Britain it is regulated by Rounders England, which was formed in 1943. While the two associations are distinct, they share similar elements of game play and culture. Competitions are held between teams from both traditions.
+
+After the rules of rounders were formalised in Ireland, associations were established in [[Liverpool]], England; and Scotland in 1889. Both the '[[Knickerbocker Rules|New York game]]' and the now-defunct '[[The Massachusetts Game|Massachusetts game]]' versions of [[Origins of baseball|baseball]], as well as [[softball]], share the same historical roots as rounders and bear a resemblance to the GAA version of the game. Rounders is linked to [[British baseball]], which is still played in Liverpool, [[Cardiff]] and [[Newport, Wales|Newport]]. Although rounders is assumed to be older than baseball, literary references to early forms of 'base-ball' in England pre-date use of the term ''rounders''. A popular game among British and Irish school children, and especially among girls, the game is now played up to international level.<ref name="Rules"/><ref name="popularity"/><ref name="Girls"/> It is played by seven million children in the UK, with [[Catherine, Duchess of Cambridge]] playing it as a young girl.<ref name=“Participation”>{{cite news|title=Save rounders! It's the only sport for people who hate sport|url=https://www.telegraph.co.uk/women/womens-life/11384071/Rounders-Its-the-only-sport-for-people-who-hate-sport.html|work=The Telegraph|date=8 April 2018}}</ref>
+
+==Rules==
+{{Quote box
+ | width = 100%
+ |There’s the nostalgia, of course. The satisfying ‘thwack’ as heavy ball meets wooden bat; the lush green field dotted with coloured cones, shining under the British summer sun; the grass-stained knees as you slide valiantly past fourth base.
+ |source =— Claire Cohen of ''[[The Daily Telegraph|The Telegraph]]'' on the gameplay of rounders having played it as a girl.<ref name=“Participation”/>
+ |align = right
+}}
+Gameplay comprises a number of [[innings]], in which teams alternate at batting and fielding. Nine players constitute a team, with the fielding side consisting of the bowler, the catcher, a player on each of the four bases, and three deep fielders.<ref name="GAA rules" /><ref name="Rules"/> Points (known as 'rounders') are scored by the batting team when one of their players completes a circuit past four bases without being put 'out'. The batter must strike at a good ball and attempt to run a rounder in an anti-clockwise direction around the first, second, and third base and home to the fourth, though they may rest at any of the first three.<ref name="Rules"/>
+
+While Rounders England<ref>{{cite web|url=http://www.roundersengland.co.uk/play/rules/ |title=Rounders England - Rules|accessdate=3 May 2018}}</ref> and GAA<ref name="GAA rules">{{cite web|url=http://www.gaarounders.ie/ckeditor_uploads/files/Rulebook_2010_-Small.pdf|title=The Rules of GAA Rounders|accessdate=3 May 2018}}</ref> codes differ, they share much in common.
+
+The bowler, or 'feeder', bowls the ball with an underarm pendulum action to the batter. According to Rounders England rules, the ball is deemed a 'good' ball if it passes within reach on the striking side between the batter's knees and the top of the head. Otherwise, it is called a 'no-ball' or 'bad' ball. The ball is also regarded as bad if it is thrown into the batter's body or wide of the batting box. A batter may try to hit a bad ball but is not required to do so. A player is not out if a no-ball is caught and cannot be called out on first base.
+
+When a batter leaves the post, each runner on a base may run to the next and succeeding base. A post runner cannot be declared out when standing at a base. The batter must keep in contact with the base to avoid being declared out. A rounder is scored if one of the batting team completes a circuit without being out. The Rounders England rules state that a half rounder is scored if half a circuit is completed by a player without being put out, or if the batter has not hit the ball but makes it all the way to the fourth base. A batter is out if a fielder catches the ball cleanly; the batter reaches a base that had been 'stumped' (touched while holding the ball) by a fielder; the bat is dropped whilst the batter is running; the batter leaves the base before the bowler has bowled the ball; or the batter is 'run out' (overtaken) by the next batter.
+
+===Rounders England-specific rules===
+
+[[File:SMATrinitasKasti1.JPG|thumb|right|A game of rounders being played in Indonesia.]]
+In the United Kingdom, the rules of rounders are regulated by Rounders England.<ref>{{cite web|url=http://www.roundersengland.co.uk/ngb/about/rounders-england-our-journey/|title=Rounders England - Our Journey|publisher=Rounders England|accessdate=1 February 2016}}</ref> Games played under these rules use smaller bats and balls and are played on a smaller pitch compared to GAA games. The bases are marked with posts, which batters must keep in contact with and fielders must 'stump', and only one 'good' ball needs to be thrown before a batter must run. 'Half-rounders' are also counted in scoring.
+
+The fielding team must field a minimum of six players (one on each base plus bowler and catcher). The total number of players on a team is limited to nine.
+
+The ball circumference must be between {{convert|180|mm}} and {{convert|200|mm}} and the bat no more than {{convert|460|mm}} in length and {{convert|170|mm}} in diameter. Rounders England place a weight-limit of {{convert|370|g}} on the bat. The bases are laid out in a manner similar to a baseball diamond, except that batters run to a separate fourth base, at right-angles to third base and the batsman's base.<ref>[http://www.sportfocus.com/reguser/dynabizinfo/download.cfm?number=13848 NRA Pitch Diagram] SportFocus</ref> Each base is marked with poles, which must be able to support themselves and stand at a minimum of {{convert|1|m}}.
+
+If a ball is delivered well, batters must try to hit the ball and must run regardless of whether the ball is hit. If the ball is hit into the backward area, the batter may not pass first post until the ball is returned to the forward area. A batter that hits a no-ball may not  be caught out or stumped at the first post. Batters may run on 'no-balls' but do not have to. Each batter, except the last in each inning, is entitled to receive one good ball: the last batter is entitled to receive three good balls unless he or she is caught out.
+
+One rounder is gained if the player hits the ball, then reaches the fourth post and touches it before the next ball is bowled and is not caught out and hit by the ball. A half rounder is gained if: the player reaches the fourth post having missed the ball; the player reaches the second post having hit the ball; if a batter is obstructed by a fielder whilst running; or if the same batter has two consecutive no balls.
+
+A batter is out if a fielder catches the ball after it has been hit and before it touches the ground, a fielder touches the post of the base halfway up (or higher) with the ball while the batter is running to it, the batter deliberately drops or throws the bat, or another batter runs to the same base or overtakes a batter, in which case both batters are out.
+
+Two innings constitute a game. Each batting team's innings continues until nine outs are made or the numbered innings is over.
+
+===GAA-specific rules===
+
+[[File:SMATrinitasKasti2.JPG|thumb|right|A batter is attempting to give a good hit]]
+In Ireland, the rules of rounders ({{lang-ga|cluiche corr}}) are laid down by the Gaelic Athletic Association.<ref name="GAA rules"/> The GAA rules are the earliest nationally organised rules of play, being formalised in 1884. It is played on a larger pitch compared to the Rounders England game and consequently uses larger bats and slightly larger balls. A GAA rounders pitch is a {{convert|70|m|yd|sing=on}} square field and bases are {{convert|25|m|yd}} apart, compared to {{convert|12|m|yd}} for the Rounders England game. Foul ground runs along two adjacent sides of the pitch with home base at the intersection of these sides.
+
+Three substitutes may be made to the list of field players during play. A maximum of nine players are allowed to field at one time. There is no limit for the number of batters a team may list.
+
+The ball (or [[sliotar]]) circumference is {{convert|22.7|-|25.5|cm|in}} and bats may be {{convert|70|-|110|cm|in}} long and up to {{convert|7|cm|in}} in diameter. There is no limit on bat weight. Bases are normally marked with temporary square mats 64&nbsp;cm (28") wide for home-base and the pitchers stand and {{convert|46|cm|in}} wide for all others.
+
+Each batter is entitled to three good balls. A batter must try to hit any good balls that are bowled, but need not run hitting the ball. If a ball is struck that would otherwise be considered 'bad', the ball is then considered to be 'good'. If, on the first or second good ball, a ball is hit into the foul ground, or the ball is hit but no running occurs, it is considered a 'dead' ball and the batter or runners may not advance. If a batter receives three bad balls then a 'walk-on' is called and all runners advance one base. The batter may run on any ball except a dead ball. The batter is not allowed to drop the bat whilst running or that person is out and no rounders are scored.
+
+A batter is out if:
+* on a third good ball, the batter fails to strike the ball and the catcher holds the ball before it touches the ground;
+* the bat is thrown or tossed in a dangerous way;
+* on a third good ball, the batter strikes the ball in to the foul area;
+* the bowler or catcher's view is obstructed for a second time, after a warning given on the first instance;
+* deliberate contact is made with a fielder carrying the ball;
+* the batter touches a base that has been 'tagged' by another fielder carrying the ball, in which case the batter must return to the previous base if it is still unoccupied;
+* the batter attempts to occupy a base occupied by someone else (with the exception of first base, which must be vacated to make way for the approaching batter.
+
+Batters must run in straight lines between bases and fielders must not obstruct their way or stand on bases. Disobeying this rule is considered unsporting behaviour and may result in up to two bases being awarded to the batting team or a batter being sent out.  Normally, one batter may not overtake another while running between bases, although there are exceptions to this rule.
+
+Five innings constitute a game, depending on the level of the match. Each batting team's inning continues until three outs are made.
+
+==Comparison with softball and baseball==
+
+The GAA version of rounders is very similar to [[softball]], the main difference being that the game is played with baseball-sized bats, balls and field. However, baseball-style gloves are not allowed. The main differences between [[baseball]] and the Rounders England version of the game are that the rounders bat is much shorter and is usually swung one-handed; misses or strikes are not called, so there are no walks or strike-outs; each batter receives only one good ball and must run whether they hit it or not. Other differences include the posts for marking the bases, which should be wooden, and are preferably encased in plastic sheaths, the lay-out of the pitch, especially the location of the last base; and the bowler's arm motion, which is an underarm pendulum action, as in softball.
+
+==See also==
+{{Portal|Gaelic games|UK|Ireland}}
+* [[Pesäpallo]]
+* [[Oina]]
+* [[Brännboll]]
+* [[Safe haven games]]
+* [[Stoolball]]
+* [[Lapta (game)|Lapta]]
+* [[Palant]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|Rounders}}
+* [http://www.roundersengland.co.uk/ Rounders England]
+** [http://roundersengland.s3.amazonaws.com/2013/03/Simplified-Rules-2012.pdf Simplified rules]
+* [http://www.gaarounders.ie/ GAA Rounders]
+** [http://www.gaarounders.ie/playrounders/howtoplay How to play rounders]
+* [http://www.indiarounders.freehosting.net/ Rounders Association of India]
+* {{dmoz|Sports/Rounders|Rounders}}
+{{Gaelic games}}
+{{Gaelic Athletic Association}}
+{{Team sports}}
+
+
+
+
+
+
+
+

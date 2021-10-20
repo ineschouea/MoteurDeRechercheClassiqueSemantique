@@ -1,0 +1,31 @@
+{{Speciesbox
+| image = 
+| status = LC 
+| status_system = IUCN3.1
+| status_ref = <ref name = IUCN>{{cite journal | author1 = Larson, H.K.| author2 = Murdy, E. | author3 = Whitfield, A. | last-author-amp = yes | year = 2010 | title = ''Oxyurichthys keiensis'' (errata version published in 2017) | journal = [[The IUCN Red List of Threatened Species]] | volume = 2010 | page = e.T15239A115125895 | doi = 10.2305/IUCN.UK.2010-4.RLTS.T15239A4503184.en }}</ref>
+| taxon = Oligolepis keiensis
+| authority = ([[James Leonard Brierley Smith|J. L. B. Smith]], 1938)
+| synonyms =
+''Gobius keiensis'' <small>Smith, 1938</small><br />
+''Ctenogobius keiensis'' <small>(Smith, 1938)</small>
+''Gobionellus keiensis'' <small>(Smith, 1938)</small>
+''Oxyurichthys keiensis'' <small>(Smith, 1938)</small>
+| synonyms_ref = <ref name = FishBase>{{FishBase|Oligolepis|keiensis|month=June|year=2018}}</ref>
+}}
+
+'''''Oligolepis keiensis''''' also known as the '''Kei goby''' is a species of [[goby]] native to marine and brackish waters along the coasts of [[Mozambique]], [[South Africa]], [[Madagascar]] and the [[Seychelles]]. This species can reach a length of {{convert|7|cm|in}} [[fish measurement|TL]].<ref name=Pezold2015>{{cite journal | authors = Pezold, F.L. & Larson, H.K. | year = 2015 | title = A revision of the fish genus ''Oxyurichthys'' (Gobioidei: Gobiidae) with descriptions of four new species | journal = Zootaxa | volume = 3988 | issue = 1 | pages = 1–95 | url = http://www.mapress.com/zootaxa/2015/f/zt03988p095.pdf | doi=10.11646/zootaxa.3988.1.1| pmid = 26250215 }}</ref>
+
+==Sources==
+{{Reflist}}
+
+{{Taxonbar|from=Q2269296}}
+
+{{DEFAULTSORT:Kei Goby}}
+
+
+
+
+
+
+
+{{Gobiiformes-stub}}

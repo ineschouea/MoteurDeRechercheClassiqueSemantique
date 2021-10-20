@@ -1,0 +1,35 @@
+{{speciesbox
+| image = A monograph of the weaver-birds, Ploceidand arboreal and terrestrial finches, Fringillid (1888) (14563268269).jpg
+| status = NT
+| status_system = IUCN3.1
+| genus = Lonchura
+| species = fuscata
+| authority = ([[Louis Jean Pierre Vieillot|Vieillot]], 1817)
+| synonyms =
+* ''Padda fuscata'' <small><br/>Vieillot, 1807</small>
+}}
+The '''Timor sparrow''', (''Lonchura fuscata'') also known as '''Timor dusky sparrow''' is a small, approximately 14&nbsp;cm long, plump dark brown [[songbird]] with a large silvery-blue [[Beak|bill]], white cheek, pink feet and creamy-white belly. Both sexes are similar.
+
+Its appearance resembles the closely related [[Java sparrow]], but is smaller than the latter and has different coloured plumage. The Timor sparrow inhabits the grasslands and lowlands of [[West Timor]], [[Semau]] and [[Rote Island]] of [[Indonesia]], and [[East Timor]]. Its diet consists mainly of rice and seeds.
+
+Due to ongoing habitat loss, limited range and illegal trapping for cage-bird trade, the Timor sparrow is evaluated as [[near threatened]] on the [[IUCN Red List of Threatened Species]].  Some taxonomists place this species and the Java sparrow in their own genus, ''Padda''.
+
+== References ==
+* {{IUCN2006|assessor=BirdLife International|year=2005|id=15868|title=Padda fuscata|downloaded=30 October 2006}} Database entry includes a brief justification of why this species is near threatened.
+
+== External links ==
+* [http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&sid=30060&m=0  BirdLife International.org: ''Lonchura fuscata'' species factsheet]
+* [http://www.iucnredlist.org/details/22728596/0 IUCN Red List.org: ''Lonchura fuscata'' (Timor sparrow)]
+* [https://web.archive.org/web/20061013150458/http://www.rdb.or.id/detailbird.php?id=278 Red Data Book.id: ''Lonchura fuscata'']
+
+{{Taxonbar|from=Q27075730}}
+
+{{DEFAULTSORT:Sparrow, Timor}}
+
+
+
+
+
+
+
+

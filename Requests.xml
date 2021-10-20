@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<requests>
+   <request>
+     <numero>1</numero>
+     <mots_cles>Near threatened animals</mots_cles>
+     <description>A species which has been categorized as "Near Threatened" (NT) by the International Union for Conservation of Nature as that may be considered threatened with extinction in the near future, although it does not currently qualify for the threatened status.</description>
+   </request>
+    <request>
+     <numero>2</numero>
+     <mots_cles>Vertebrates of Australia</mots_cles>
+     <description>Animals in Australia distinguished by the possession of a backbone or spinal column, including mammals, birds, reptiles, amphibians, and fishes. </description>
+   </request>
+    <request>
+     <numero>3</numero>
+     <mots_cles>Acroporidae </mots_cles>
+     <description>A family of anthozoan cnidarians (corals). The family appeared in the Upper Jurassic and includes the most important reef-building species among the Scleractinia.</description>
+   </request>
+    <request>
+     <numero>4</numero>
+     <mots_cles>Insects of Europe</mots_cles>
+     <description>Insects that live in Europe.</description>
+   </request>
+    <request>
+     <numero>5</numero>
+     <mots_cles>Elopomorpha</mots_cles>
+     <description>A super-order teleost fish that includes species such as eels, tarpon, grandgousier-pelican whose metamorphosis radically transforms the leptocephalic larva into a morphologically very different individual.</description>
+   </request>
+    <request>
+     <numero>6</numero>
+     <mots_cles>Birds of Indonesia</mots_cles>
+     <description>Birds that live in Indonesia.</description>
+   </request>
+    <request>
+     <numero>7</numero>
+     <mots_cles>Atlantic Forest bats</mots_cles>
+     <description>Bats (flying mammals more manoeuvrable than birds) that live in Atlanic Forest.</description>
+   </request>
+    <request>
+     <numero>8</numero>
+     <mots_cles>Species described in the 19th century</mots_cles>
+     <description>All animals that was described in the 19th century.</description>
+   </request>
+    <request>
+     <numero>9</numero>
+     <mots_cles>Bahamas's fauna</mots_cles>
+     <description>Animals that live in Commonwealth of The Bahamas.</description>
+   </request>
+    <request>
+     <numero>10</numero>
+     <mots_cles>Salvador's mammals</mots_cles>
+     <description>Mammals (Animals characterized by the presence of mammary glands which in females produce milk for feeding their young) that live in Salvador(Central American country).</description>
+   </request>
+    <request>
+     <numero>11</numero>
+     <mots_cles>Jokgu</mots_cles>
+     <description>A two-sided ball game with a net which combines aspects of association football and volleyball.</description>
+   </request>
+    <request>
+     <numero>12</numero>
+     <mots_cles>United States Summer Games</mots_cles>
+     <description>Games organized in united State in summer.</description>
+   </request>
+    <request>
+     <numero>13</numero>
+     <mots_cles>Traditional football</mots_cles>
+     <description>Traditional types of football game.</description>
+   </request>
+    <request>
+     <numero>14</numero>
+     <mots_cles>Team sports</mots_cles>
+     <description>includes any sport where individuals are organized into opposing teams which compete to win.</description>
+   </request>
+    <request>
+     <numero>15</numero>
+     <mots_cles>Cricket</mots_cles>
+     <description>A sport played with wooden bats and a ball.</description>
+   </request>
+    <request>
+     <numero>16</numero>
+     <mots_cles>Basketball </mots_cles>
+     <description>A game played between two teams of five players in which goals are scored by throwing a ball through a netted hoop fixed at each end of the court.</description>
+   </request>
+    <request>
+     <numero>17</numero>
+     <mots_cles>Sports originating in Canada</mots_cles>
+     <description>Sports games that was invented by Canadians.</description>
+   </request>
+    <request>
+     <numero>18</numero>
+     <mots_cles>Volleyball</mots_cles>
+     <description>A game for two teams, usually of six players, in which a large ball is hit by hand over a high net, the aim being to score points by making the ball reach the ground on the opponent's side of the court.</description>
+   </request>
+    <request>
+     <numero>19</numero>
+     <mots_cles>Individual sports</mots_cles>
+     <description>Sports in which participants compete as individuals.</description>
+   </request>
+    <request>
+     <numero>20</numero>
+     <mots_cles>Golf</mots_cles>
+     <description>A game played on a large open-air course, in which a small hard ball is struck with a club into a series of small holes in the ground, the object being to use the fewest possible strokes to complete the course.</description>
+   </request>
+</requests>

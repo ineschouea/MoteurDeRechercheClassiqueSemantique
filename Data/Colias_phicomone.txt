@@ -1,0 +1,79 @@
+{{Italic title}}
+{{Taxobox
+| name = Mountain clouded yellow
+| image = Colias phicomone - Alpen-Gelbling 01 (HS).JPG
+| status = 
+| status_system = 
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Lepidoptera]]
+| familia = [[Pieridae]]
+| tribus = [[Coliadini]]
+| genus = ''[[Colias]]''
+| species = '''''C. phicomone'''''
+| binomial = ''Colias phicomone''
+| binomial_authority = ([[Eugen Johann Christoph Esper|Esper]], 1780)
+| synonyms = 
+*''Papilio phicomone'' <small> Esper, 1780</small>
+*''Colias phicomone f. unimaculata'' <small> Vorbrodt, 1917</small>
+*''Colias phicomone r. alpiumnitida'' <small> Verity, 1926</small>
+*''Colias anticopupillata'' <small> Verity, 1947</small>
+*''Colias bipupillata'' <small> Mezger, 1932</small>
+*''Colias blachieri'' <small> Culot, 1909</small>
+*''Colias derosea'' <small> Wagner, 1926</small>
+*''Colias elegans'' <small> Schultz, 1904</small>
+*''Colias fasciata'' <small> Ronnicke, 1920</small>
+*''Colias flavida'' <small> Osthelder, 1913</small>
+*''Colias flava'' <small> Osthelder, 1925</small>
+*''Colias phicomone f. fleischmanni'' <small> Stauder, 1924</small>
+*''Colias phicomone ab. geesti'' <small> Neuburger, 1905</small>
+*''Colias gynomorpha'' <small> Verity, 1911</small>
+*''Colias albidior'' <small> Ronnicke, 1920</small>
+*''Colias hyalides'' <small> Verity, 1911</small>
+*''Colias incompleta'' <small> Mezger, 1934</small>
+*''Colias lanceolata'' <small> Verity, 1947</small>
+*''Colias obscura'' <small> Ronnicke, 1920</small>
+*''Colias pallida'' <small> Hoffmann & Klos, 1914</small>
+*''Colias passa'' <small> Verity, 1911</small>
+*''Colias phicomone periphaes'' <small>Fruhstorfer, 1908</small>
+*''Colias phaedra'' <small>Schawerda, 1924</small>
+*''Colias porrecta'' <small>Heinrich, 1930</small>
+*''Colias privata'' <small>Ronnicke, 1920</small>
+*''Colias phicomone r. pulverulenta'' <small>Verity, 1926</small>
+*''Colias pupillata'' <small>Refhous, 1909 </small>
+*''Colias pupillata'' <small>Ronnicke, 1920</small>
+*''Colias unimaculata'' <small> Pionneau, 1924</small>
+*''Colias phicomone var. saturata'' <small> Austaut, 1905</small>
+*''Colias theia'' <small> Schawerda, 1919</small>
+*''Colias phicomone juliana'' <small> Hospital, 1948</small>
+*''Colias impunctata'' <small>Verity, [1909]</small>
+}}
+
+'''''Colias phicomone''''', the '''mountain clouded yellow''', is a [[butterfly]] in the family [[Pieridae]]. It is found in the [[Cantabrian Mountains]], the [[Pyrenees]], the [[Carpathian Mountains]] and the [[Alps]]. It flies at altitudes of 900 to 2800 meters. 
+[[Image:Colias phicomone.jpg|thumb|left|200px]]
+
+The [[wingspan]] is 40–50&nbsp;mm. The butterfly flies from June to August depending on the location.
+
+The larvae feed on ''[[Fabaceae]]'' species.
+
+==Subspecies==
+*''Colias phicomone phicomone'' (Alps, northern Carpathians, northern Italy)
+*''Colias phicomone juliana'' <small>Hospital, 1948</small> (Cantabria)
+*''Colias phicomone oberthueri'' <small>Verity, [1909]</small> (Pyrenees)
+*''Colias phicomone phila'' <small>Fruhstorfer, 1903</small> (Kashmir)
+
+==External links==
+* [http://nlbif.eti.uva.nl/bis/vlinders.php?selected=beschrijving&menuentry=soorten&id=86 Butterflies of Europa]
+
+{{Commons|Colias phicomone}}
+
+{{Taxonbar|from=Q368742}}
+
+
+
+
+
+
+
+{{Pieridae-stub}}

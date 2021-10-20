@@ -1,0 +1,365 @@
+[[File:Mesoamerica - manopla and ball.jpg|right|300px|thumb|A solid rubber ball used (or similar to those used) in the [[Mesoamerican ballgame]], 300 BCE to 250 CE, [[Kaminaljuyu]]. The ball is 3 inches (almost 8&nbsp;cm) in diameter, a size that suggests it was used to play a handball game. Behind the ball is a ''manopla'', or handstone, which was used to strike the ball, 900 BCE to 250 CE, also from Kaminaljuyu.]]
+
+Ancient '''Mesoamericans''' were the first people to invent '''rubber balls''' ({{lang-nah|?llamaloni}}), sometime before 1600 BCE, and used them in a variety of roles. The [[Mesoamerican ballgame]], for example, employed various sizes of solid rubber balls and balls were burned as offerings in temples, buried in [[votive deposits]], and laid in sacred [[bog]]s and [[cenote]]s.
+
+==Rubber in Mesoamerica==
+Ancient rubber was made from latex of the rubber tree (''[[Castilla elastica]]''), which is indigenous to the tropical areas of southern Mexico and Central America.<ref name="FOX">Fox, John. [https://books.google.com/books?id=LD6h3NHeHxgC&printsec=frontcover ''The ball : discovering the object of the game"], 1st ed., New York : Harper, 2012. {{ISBN|9780061881794}}. Cf. Chapter 4: "Sudden Death in the New World" about the Ulama game.</ref> The latex was made into rubber by mixing it with the juice of what was likely ''[[Ipomoea alba]]'' (a species of [[morning glory]]), a process which preceded [[Charles Goodyear|Goodyear]]'s [[vulcanization]] by several millennia.<ref name="Hosler, et al">Hosler, et al.</ref> The resultant rubber would then be formed into rubber strips, which would be wound around a solid rubber core to build the ball.<ref>Filloy Nadal discusses the Aztecs' use of "ancient rolling technique" (page 30) while Ortiz discusses the use of this technique by the Olmecs (page 244).</ref>
+
+Archaeological evidence indicates that [[rubber]] was already in use in Mesoamerica by the [[Mesoamerican chronology|Early Formative Period]] – a dozen balls were found in the [[Olmec]] [[El Manati]] sacrificial bog and dated to roughly 1600 [[Common era|BCE]].<ref>Ortíz C.</ref>  By the time of the [[Spanish Conquest]], 3000 years later, [[rubber]] was being exported from the tropical zones to sites all over Mesoamerica. 
+
+Iconography suggests that although there were many uses for rubber, rubber balls both for offerings and for ritual ballgames were the primary products. To both the Aztecs and the Maya, the rubber latex that flowed from the tree represented blood and semen.<ref>Filloy Nadal, p.30.</ref>  Rubber was therefore symbolic of fertility, and was often burned, buried, or (fortunately for archaeology) laid in a sacrificial pool as an offering to various deities.
+
+==Size and weight==
+The exact sizes or weights of the balls actually used in the ballgame are not known. Sizes varied not only according to the ballgame version played (i.e. hip-ball, handball, stick-ball, etc.), but even within a given version. For example, [[Mesoamerican chronology|Late Classic]] hip-ball [[:Image:Chichén Itzá Goal.jpg|stone scoring rings]] had holes of differing sizes, strongly implying that the balls were not of uniform size either.<ref>Whittington, p. 242.</ref>
+
+Most of the ancient balls that have been retrieved were originally laid down as offerings, and there is no evidence that any of these were used in the ballgame. In fact, some of these extant [[Votive deposit|votive balls]] were created specifically ''as'' offerings. However, ancient iconography as well as modern game balls can provide insight. For example, archaeologist Laura Filloy Nadal compiled the following comparison of modern ball sizes:<ref>Filloy Nadal, page 30.</ref>
+
+{| class="wikitable" style="margin:auto;"
+|- 
+! Ballgame Version
+! Ball struck with
+! Ball diameter
+! Ball weight
+|- 
+| style="width:150px" | ''Ulama de cadera'' 
+| Hip
+| style="width:150px" align="center" |?20&nbsp;cm (8&nbsp;in)
+| style="width:150px" |3–4&nbsp;kg (6½-9&nbsp;lbs)
+|-
+| ''Ulama de mazo''<ref>Information on the ''ulama de mazo'' ball weight comes from Leyenaar (2001) pp. 125-126.</ref>
+| Heavy bat, 5–7&nbsp;kg
+| align="center"| Unavailable
+| 500-600 g (18-21&nbsp;oz)
+|-
+| ''Ulama de brazo''
+| Forearm
+| align="center" |?11&nbsp;cm (4½ in)
+| ?500 g (16-18&nbsp;oz)
+|-
+|''[[Pelota mixteca]]''
+| Heavy glove
+|align="center" |8–10&nbsp;cm (3–4&nbsp;in)
+|170-280 g (6-9&nbsp;oz)
+|}
+It is therefore assumed by most researchers that the ancient hip-ball was roughly the size of a [[volleyball (ball)|volleyball]] and weighed between 3 and 4&nbsp;kg (6½-9&nbsp;lbs) or 15 times heavier than the air-filled volleyball. The ancient handball or stick-ball was probably slightly larger and heavier than a modern-day baseball.
+<br>
+Only roughly 100 pre-Columbian rubber artifacts have been recovered, all of which were found in still, [[freshwater]] [[Archaeological context|contexts]],<ref>Filloy Nadal, p.26, although Hosler et al. refer to "a few hundred" artifacts. Of these artifacts, only a few dozen are rubber balls.</ref> sites that include [[El Manati]], the [[Sacred Cenote]] at [[Chichen Itza]], and the ruins of [[Tenochtitlan]].  
+
+The following table summarizes data on some of the ancient balls recovered:<ref>See Ortiz for El Manati data, and Filloy Nadal for Maya and Aztec data, except where noted otherwise.</ref>
+
+{| class="wikitable" style="margin:auto;"
+|- 
+! Location
+! Culture
+! # found
+! Ball diameter
+! Period
+|- 
+| style="width:150px" | El Manati
+|style="width:100px" align="center" |[[Olmec]]
+|style="width:050px" align="center" | 5<ref>Another 5 balls were found by villagers, but without [[archaeological context]].</ref>
+| style="width:150px" align="center" |10–14&nbsp;cm 
+| style="width:150px" |1600–1700 BCE
+|-
+| El Manati 
+|align="center"|[[Olmec]]
+|align="center" |2
+| align="center" |22&nbsp;cm
+|1200 BCE
+|-
+|Sacred Cenote
+|align="center"|[[Maya civilization|Maya]]
+|align="center" |Unknown
+|align="center" |4&nbsp;cm
+|850 - 1550 CE<ref name="Hosler, et al"/>
+|-
+|Main ballcourt, Tenochtitlan
+|align="center"|[[Aztec]]
+|align="center" |2
+|align="center" |7&nbsp;cm<ref>According to Filloy Nadal, p. 28, these were miniature "[[votive deposit|votive representations]]".</ref>
+|Early 16th century?
+|-
+|House of Eagles, Tenochtitlan
+|align="center"|[[Aztec]]
+|align="center" |4<ref>These balls were grooved and intended as offerings (Filloy Nadal, p. 28).</ref>
+|align="center" |6-8½ cm
+|Early 16th century?
+|}
+
+==Oversized balls, skull-balls, and captive-balls==
+Although there is no artifact evidence uncovered to support such speculation, depictions of overly large balls or balls which appear to contain skulls and even captives have created much conjecture.  
+[[File:La Corona Relieve Juego de Pelota.jpg|thumb|349x349px|A Maya limestone staircase riser, ca. 700 - 900 CE. Against the backdrop of a staircase, two nobles play the ballgame with an overly large, perhaps symbolic, ball. The ball itself contains two glyphs, a "14" and an unknown [[glyph (archaeology)|glyph]] that has been speculatively translated as "handspan". Height: 25.1&nbsp;cm; length: 43.2&nbsp;cm.]]
+Many depictions of ballplayers show balls of huge size, perhaps up to {{convert|1|m|yd}} or more in diameter. These depictions include not only the image on the right, but the [[:Image:Maya Vase Ballplayer.png|"Dallas vase"]], the Chinkultic court marker, and a Western Mexico ceramic ballcourt.<ref>The first three examples are from the Maya culture. The western Mexico ceramic is from Nayarit &ndash; 300 BCE to 100 CE &ndash; and can be found at the Los Angeles County Museum of Art (see Whittington, p. 163).</ref>  Most researchers believe that these depictions are exaggerations,<ref>For example, Coe et al., p. 109.</ref> in large part because a solid ball one meter in diameter would be nearly too heavy to move, weighing close to 500&nbsp;kg (over 1000&nbsp;lbs). Researcher Marvin Cohodas has suggested that these depictions are either symbolic, or that the outsized ball and outlandish costumes might portray "a few heavily costumed nobles [taking] perfunctory shots at an oversize ball ... perhaps re-enacting a [[Cosmogony|cosmogonic]] myth".<ref>Cohodas, p. 259.</ref> 
+
+Nonetheless, [[Marc Zender]] of the [[Peabody Museum of Archaeology and Ethnology|Peabody Museum]] has interpreted a common ball-[[glyph (archaeology)|glyph]] (seen for example on the ball at right) as "handspan", a [[circumference]] measurement of roughly {{convert|8+1/2|in|cm}}. Combined with coefficients of 9, 10, 12, 13, and 14, Zender contends that "Classic Maya ballgame balls would have measured from just over two feet to well over three feet in diameter (62 to 96&nbsp;cm)".<ref>Zender, p.4.</ref>  
+
+The images of skulls superimposed on balls found at the Great Ballcourt at Chichen Itza and on several Maya artifacts, have led several researchers to suggest that skulls of the sacrificial victims were wrapped with rubber to create hollow balls.<ref>See the [http://www.ballgame.org/sub_section.asp?section=2&sub_section=1 Sport of Life and Death website].</ref>  Other than these images, however, there is no evidence to support such an assertion.<ref>Miller (2001), p. 81, finds that the Chichen Itza panels "suggest" the use of skull-balls. Schele and Miller say "That a skull might serve as a ball with a hollow core is suggested only by depictions of balls with skulls inside" (p. 248 as well as p. 253).</ref>
+
+On Altar 8 at [[Tikal]] as well as on the Hieroglyphic Stairs at [[Yaxchilan]], captives appear to be inside, or are at least superimposed upon, balls. Like those of oversized and skull-balls, most researchers doubt that such images are to be taken literally. Schele and Miller, for example, state that the captive is "bound and trussed in the form of a ball".<ref>Schele and Miller, p. 249.</ref>
+
+==Notes==
+[[File:Xiuhtecuhtli, Codex Borgia, 14, w rubber balls offering.jpg|right|250px|thumb|In this detail from the late 15th century [[Codex Borgia]], the Aztec god [[Xiuhtecuhtli]] brings a rubber ball offering to a temple. The rubber balls each hold a [[quetzal]] feather, part of the offering.]]
+{{reflist}}
+
+==References==
+{{refbegin|indent=yes}}<!--BEGIN biblio format. If indent param. is used, Pls use a colon (:) instead of asterisk (*) for bullet markers in the references list --> 
+: {{cite book |author=Coe, Michael D.   |authorlink=Michael D. Coe |author2=Dean Snow |author3=[[Elizabeth P. Benson]]|year=1986|title= Atlas of Ancient America|publisher=Facts on File|location= New York|isbn=0-8160-1199-0}}
+: {{cite book |author=Filloy Nadal, Laura   |year=2001 |chapter=Rubber and Rubber Balls in Mesoamerica |title=The Sport of Life and Death: The Mesoamerican Ballgame |editor=E. Michael Whittington (ed.) |publisher=[[Thames & Hudson]] |location=New York |pages=20–31|isbn=0-500-05108-9 |oclc=49029226}}
+: {{cite journal |author=Hosler, Dorothy   |author2=Sandra Burkett |author3=Michael Tarkanian  |date=June 18, 1999 |title=Prehistoric Polymers: Rubber Processing in Ancient Mesoamerica |journal=[[Science (journal)|Science]] |location=Washington, DC|publisher=[[American Association for the Advancement of Science]]|volume=284 |issue=5422 |pages=1988–1991 |doi=10.1126/science.284.5422.1988 |issn=0036-8075 |oclc=207960606 |pmid=10373117}}
+: {{cite book |author=Leyenaar, Ted  |year=2001|chapter="The Modern Ballgames of Sinaloa: a Survival of the Aztec Ullamaliztli" |title=The Sport of Life and Death: The Mesoamerican Ballgame |editor=E. Michael Whittington (ed.)|publisher=[[Thames & Hudson]] |location=New York |pages=122–129|isbn=0-500-05108-9 |oclc=49029226}}
+: {{cite book |author=Miller, Mary Ellen   |authorlink=Mary Miller (art historian) |year=2001 |chapter=The Maya Ballgame: Rebirth in the Court of Life and Death|title=The Sport of Life and Death: The Mesoamerican Ballgame |editor=E. Michael Whittington (ed.) |publisher=[[Thames & Hudson]] |location=New York |pages=20–31 |isbn=0-500-05108-9|oclc=49029226}}
+: {{cite book |author=Ortíz C., Ponciano |author2=María del Carmen Rodríguez |year=1999 |chapter=Olmec Ritual Behavior at El Manatí: A Sacred Space |chapterurl=http://www.doaks.org/Social/social09.pdf |format=[[PDF]] |edition=Dumbarton Oaks etexts |title=Social Patterns in Pre-Classic Mesoamerica |editor=[[David C. Grove]] and [[Rosemary A. Joyce]] (eds.) |publisher=[[Dumbarton Oaks Research Library and Collection]] |location=Washington, D.C. |pages=225–254 |isbn=0-88402-252-8 |accessdate=2007-06-08 |deadurl=yes |archiveurl=https://web.archive.org/web/20070221182955/http://www.doaks.org/Social/social09.pdf |archivedate=2007-02-21 |df= }}
+: {{cite book |author=Ortíz C., Ponciano   |author2=María del Carmen Rodríguez |author3=Alfredo Delgado  |year=1992 |chapter=Las ofrendas de El Manatí y su posible asociación con el juego de pelota: un yugo a destiempo |title=El juego de pelota en Mesoamérica: raíces y supervivencia |editor=María Teresa Uriarte (ed.) |publisher=[[Siglo XXI Editores]] and Casa de Cultura, Gobierno del Estado de Sinaloa |location=México D.F. |pages=55–67|isbn=968-23-1837-8 |oclc=28891266|language=es}}
+: {{cite book |author=Schele, Linda   |authorlink=Linda Schele |author2=Mary Ellen Miller |authorlink2=Mary Miller (art historian)  |year=1992 |origyear=1986 |title=Blood of Kings: Dynasty and Ritual in Maya Art |others=[[Justin Kerr]] (photographer) |edition=2nd paperback, reprint with corrections |publisher=[[George Braziller]] |location=New York |isbn=0-8076-1278-2 |oclc=41441466}}
+: {{cite journal|author=Zender, Marc |year=2004 |title=Glyphs for "Handspan" and "Strike" in Classic Maya Ballgame Texts |url=http://www.mesoweb.com/pari/publications/journal/404/Handspan.pdf |journal=The PARI Journal |volume=4 |issue=4 |issn=0003-8113 |deadurl=yes |archiveurl=https://web.archive.org/web/20080910095804/http://www.mesoweb.com/pari/publications/journal/404/Handspan.pdf |archivedate=2008-09-10 |df= }}
+ 
+{{refend}}<!-- END biblio format style -->
+
+{{DEFAULTSORT:Mesoamerican Rubber Balls}}
+
+
+
+
+[[File:Mesoamerica - manopla and ball.jpg|right|300px|thumb|A solid rubber ball used (or similar to those used) in the [[Mesoamerican ballgame]], 300 BCE to 250 CE, [[Kaminaljuyu]]. The ball is 3 inches (almost 8&nbsp;cm) in diameter, a size that suggests it was used to play a handball game. Behind the ball is a ''manopla'', or handstone, which was used to strike the ball, 900 BCE to 250 CE, also from Kaminaljuyu.]]
+
+Ancient '''Mesoamericans''' were the first people to invent '''rubber balls''' ({{lang-nah|?llamaloni}}), sometime before 1600 BCE, and used them in a variety of roles. The [[Mesoamerican ballgame]], for example, employed various sizes of solid rubber balls and balls were burned as offerings in temples, buried in [[votive deposits]], and laid in sacred [[bog]]s and [[cenote]]s.
+
+==Rubber in Mesoamerica==
+Ancient rubber was made from latex of the rubber tree (''[[Castilla elastica]]''), which is indigenous to the tropical areas of southern Mexico and Central America.<ref name="FOX">Fox, John. [https://books.google.com/books?id=LD6h3NHeHxgC&printsec=frontcover ''The ball : discovering the object of the game"], 1st ed., New York : Harper, 2012. {{ISBN|9780061881794}}. Cf. Chapter 4: "Sudden Death in the New World" about the Ulama game.</ref> The latex was made into rubber by mixing it with the juice of what was likely ''[[Ipomoea alba]]'' (a species of [[morning glory]]), a process which preceded [[Charles Goodyear|Goodyear]]'s [[vulcanization]] by several millennia.<ref name="Hosler, et al">Hosler, et al.</ref> The resultant rubber would then be formed into rubber strips, which would be wound around a solid rubber core to build the ball.<ref>Filloy Nadal discusses the Aztecs' use of "ancient rolling technique" (page 30) while Ortiz discusses the use of this technique by the Olmecs (page 244).</ref>
+
+Archaeological evidence indicates that [[rubber]] was already in use in Mesoamerica by the [[Mesoamerican chronology|Early Formative Period]] – a dozen balls were found in the [[Olmec]] [[El Manati]] sacrificial bog and dated to roughly 1600 [[Common era|BCE]].<ref>Ortíz C.</ref>  By the time of the [[Spanish Conquest]], 3000 years later, [[rubber]] was being exported from the tropical zones to sites all over Mesoamerica. 
+
+Iconography suggests that although there were many uses for rubber, rubber balls both for offerings and for ritual ballgames were the primary products. To both the Aztecs and the Maya, the rubber latex that flowed from the tree represented blood and semen.<ref>Filloy Nadal, p.30.</ref>  Rubber was therefore symbolic of fertility, and was often burned, buried, or (fortunately for archaeology) laid in a sacrificial pool as an offering to various deities.
+
+==Size and weight==
+The exact sizes or weights of the balls actually used in the ballgame are not known. Sizes varied not only according to the ballgame version played (i.e. hip-ball, handball, stick-ball, etc.), but even within a given version. For example, [[Mesoamerican chronology|Late Classic]] hip-ball [[:Image:Chichén Itzá Goal.jpg|stone scoring rings]] had holes of differing sizes, strongly implying that the balls were not of uniform size either.<ref>Whittington, p. 242.</ref>
+
+Most of the ancient balls that have been retrieved were originally laid down as offerings, and there is no evidence that any of these were used in the ballgame. In fact, some of these extant [[Votive deposit|votive balls]] were created specifically ''as'' offerings. However, ancient iconography as well as modern game balls can provide insight. For example, archaeologist Laura Filloy Nadal compiled the following comparison of modern ball sizes:<ref>Filloy Nadal, page 30.</ref>
+
+{| class="wikitable" style="margin:auto;"
+|- 
+! Ballgame Version
+! Ball struck with
+! Ball diameter
+! Ball weight
+|- 
+| style="width:150px" | ''Ulama de cadera'' 
+| Hip
+| style="width:150px" align="center" |?20&nbsp;cm (8&nbsp;in)
+| style="width:150px" |3–4&nbsp;kg (6½-9&nbsp;lbs)
+|-
+| ''Ulama de mazo''<ref>Information on the ''ulama de mazo'' ball weight comes from Leyenaar (2001) pp. 125-126.</ref>
+| Heavy bat, 5–7&nbsp;kg
+| align="center"| Unavailable
+| 500-600 g (18-21&nbsp;oz)
+|-
+| ''Ulama de brazo''
+| Forearm
+| align="center" |?11&nbsp;cm (4½ in)
+| ?500 g (16-18&nbsp;oz)
+|-
+|''[[Pelota mixteca]]''
+| Heavy glove
+|align="center" |8–10&nbsp;cm (3–4&nbsp;in)
+|170-280 g (6-9&nbsp;oz)
+|}
+It is therefore assumed by most researchers that the ancient hip-ball was roughly the size of a [[volleyball (ball)|volleyball]] and weighed between 3 and 4&nbsp;kg (6½-9&nbsp;lbs) or 15 times heavier than the air-filled volleyball. The ancient handball or stick-ball was probably slightly larger and heavier than a modern-day baseball.
+<br>
+Only roughly 100 pre-Columbian rubber artifacts have been recovered, all of which were found in still, [[freshwater]] [[Archaeological context|contexts]],<ref>Filloy Nadal, p.26, although Hosler et al. refer to "a few hundred" artifacts. Of these artifacts, only a few dozen are rubber balls.</ref> sites that include [[El Manati]], the [[Sacred Cenote]] at [[Chichen Itza]], and the ruins of [[Tenochtitlan]].  
+
+The following table summarizes data on some of the ancient balls recovered:<ref>See Ortiz for El Manati data, and Filloy Nadal for Maya and Aztec data, except where noted otherwise.</ref>
+
+{| class="wikitable" style="margin:auto;"
+|- 
+! Location
+! Culture
+! # found
+! Ball diameter
+! Period
+|- 
+| style="width:150px" | El Manati
+|style="width:100px" align="center" |[[Olmec]]
+|style="width:050px" align="center" | 5<ref>Another 5 balls were found by villagers, but without [[archaeological context]].</ref>
+| style="width:150px" align="center" |10–14&nbsp;cm 
+| style="width:150px" |1600–1700 BCE
+|-
+| El Manati 
+|align="center"|[[Olmec]]
+|align="center" |2
+| align="center" |22&nbsp;cm
+|1200 BCE
+|-
+|Sacred Cenote
+|align="center"|[[Maya civilization|Maya]]
+|align="center" |Unknown
+|align="center" |4&nbsp;cm
+|850 - 1550 CE<ref name="Hosler, et al"/>
+|-
+|Main ballcourt, Tenochtitlan
+|align="center"|[[Aztec]]
+|align="center" |2
+|align="center" |7&nbsp;cm<ref>According to Filloy Nadal, p. 28, these were miniature "[[votive deposit|votive representations]]".</ref>
+|Early 16th century?
+|-
+|House of Eagles, Tenochtitlan
+|align="center"|[[Aztec]]
+|align="center" |4<ref>These balls were grooved and intended as offerings (Filloy Nadal, p. 28).</ref>
+|align="center" |6-8½ cm
+|Early 16th century?
+|}
+
+==Oversized balls, skull-balls, and captive-balls==
+Although there is no artifact evidence uncovered to support such speculation, depictions of overly large balls or balls which appear to contain skulls and even captives have created much conjecture.  
+[[File:La Corona Relieve Juego de Pelota.jpg|thumb|349x349px|A Maya limestone staircase riser, ca. 700 - 900 CE. Against the backdrop of a staircase, two nobles play the ballgame with an overly large, perhaps symbolic, ball. The ball itself contains two glyphs, a "14" and an unknown [[glyph (archaeology)|glyph]] that has been speculatively translated as "handspan". Height: 25.1&nbsp;cm; length: 43.2&nbsp;cm.]]
+Many depictions of ballplayers show balls of huge size, perhaps up to {{convert|1|m|yd}} or more in diameter. These depictions include not only the image on the right, but the [[:Image:Maya Vase Ballplayer.png|"Dallas vase"]], the Chinkultic court marker, and a Western Mexico ceramic ballcourt.<ref>The first three examples are from the Maya culture. The western Mexico ceramic is from Nayarit &ndash; 300 BCE to 100 CE &ndash; and can be found at the Los Angeles County Museum of Art (see Whittington, p. 163).</ref>  Most researchers believe that these depictions are exaggerations,<ref>For example, Coe et al., p. 109.</ref> in large part because a solid ball one meter in diameter would be nearly too heavy to move, weighing close to 500&nbsp;kg (over 1000&nbsp;lbs). Researcher Marvin Cohodas has suggested that these depictions are either symbolic, or that the outsized ball and outlandish costumes might portray "a few heavily costumed nobles [taking] perfunctory shots at an oversize ball ... perhaps re-enacting a [[Cosmogony|cosmogonic]] myth".<ref>Cohodas, p. 259.</ref> 
+
+Nonetheless, [[Marc Zender]] of the [[Peabody Museum of Archaeology and Ethnology|Peabody Museum]] has interpreted a common ball-[[glyph (archaeology)|glyph]] (seen for example on the ball at right) as "handspan", a [[circumference]] measurement of roughly {{convert|8+1/2|in|cm}}. Combined with coefficients of 9, 10, 12, 13, and 14, Zender contends that "Classic Maya ballgame balls would have measured from just over two feet to well over three feet in diameter (62 to 96&nbsp;cm)".<ref>Zender, p.4.</ref>  
+
+The images of skulls superimposed on balls found at the Great Ballcourt at Chichen Itza and on several Maya artifacts, have led several researchers to suggest that skulls of the sacrificial victims were wrapped with rubber to create hollow balls.<ref>See the [http://www.ballgame.org/sub_section.asp?section=2&sub_section=1 Sport of Life and Death website].</ref>  Other than these images, however, there is no evidence to support such an assertion.<ref>Miller (2001), p. 81, finds that the Chichen Itza panels "suggest" the use of skull-balls. Schele and Miller say "That a skull might serve as a ball with a hollow core is suggested only by depictions of balls with skulls inside" (p. 248 as well as p. 253).</ref>
+
+On Altar 8 at [[Tikal]] as well as on the Hieroglyphic Stairs at [[Yaxchilan]], captives appear to be inside, or are at least superimposed upon, balls. Like those of oversized and skull-balls, most researchers doubt that such images are to be taken literally. Schele and Miller, for example, state that the captive is "bound and trussed in the form of a ball".<ref>Schele and Miller, p. 249.</ref>
+
+==Notes==
+[[File:Xiuhtecuhtli, Codex Borgia, 14, w rubber balls offering.jpg|right|250px|thumb|In this detail from the late 15th century [[Codex Borgia]], the Aztec god [[Xiuhtecuhtli]] brings a rubber ball offering to a temple. The rubber balls each hold a [[quetzal]] feather, part of the offering.]]
+{{reflist}}
+
+==References==
+{{refbegin|indent=yes}}<!--BEGIN biblio format. If indent param. is used, Pls use a colon (:) instead of asterisk (*) for bullet markers in the references list --> 
+: {{cite book |author=Coe, Michael D.   |authorlink=Michael D. Coe |author2=Dean Snow |author3=[[Elizabeth P. Benson]]|year=1986|title= Atlas of Ancient America|publisher=Facts on File|location= New York|isbn=0-8160-1199-0}}
+: {{cite book |author=Filloy Nadal, Laura   |year=2001 |chapter=Rubber and Rubber Balls in Mesoamerica |title=The Sport of Life and Death: The Mesoamerican Ballgame |editor=E. Michael Whittington (ed.) |publisher=[[Thames & Hudson]] |location=New York |pages=20–31|isbn=0-500-05108-9 |oclc=49029226}}
+: {{cite journal |author=Hosler, Dorothy   |author2=Sandra Burkett |author3=Michael Tarkanian  |date=June 18, 1999 |title=Prehistoric Polymers: Rubber Processing in Ancient Mesoamerica |journal=[[Science (journal)|Science]] |location=Washington, DC|publisher=[[American Association for the Advancement of Science]]|volume=284 |issue=5422 |pages=1988–1991 |doi=10.1126/science.284.5422.1988 |issn=0036-8075 |oclc=207960606 |pmid=10373117}}
+: {{cite book |author=Leyenaar, Ted  |year=2001|chapter="The Modern Ballgames of Sinaloa: a Survival of the Aztec Ullamaliztli" |title=The Sport of Life and Death: The Mesoamerican Ballgame |editor=E. Michael Whittington (ed.)|publisher=[[Thames & Hudson]] |location=New York |pages=122–129|isbn=0-500-05108-9 |oclc=49029226}}
+: {{cite book |author=Miller, Mary Ellen   |authorlink=Mary Miller (art historian) |year=2001 |chapter=The Maya Ballgame: Rebirth in the Court of Life and Death|title=The Sport of Life and Death: The Mesoamerican Ballgame |editor=E. Michael Whittington (ed.) |publisher=[[Thames & Hudson]] |location=New York |pages=20–31 |isbn=0-500-05108-9|oclc=49029226}}
+: {{cite book |author=Ortíz C., Ponciano |author2=María del Carmen Rodríguez |year=1999 |chapter=Olmec Ritual Behavior at El Manatí: A Sacred Space |chapterurl=http://www.doaks.org/Social/social09.pdf |format=[[PDF]] |edition=Dumbarton Oaks etexts |title=Social Patterns in Pre-Classic Mesoamerica |editor=[[David C. Grove]] and [[Rosemary A. Joyce]] (eds.) |publisher=[[Dumbarton Oaks Research Library and Collection]] |location=Washington, D.C. |pages=225–254 |isbn=0-88402-252-8 |accessdate=2007-06-08 |deadurl=yes |archiveurl=https://web.archive.org/web/20070221182955/http://www.doaks.org/Social/social09.pdf |archivedate=2007-02-21 |df= }}
+: {{cite book |author=Ortíz C., Ponciano   |author2=María del Carmen Rodríguez |author3=Alfredo Delgado  |year=1992 |chapter=Las ofrendas de El Manatí y su posible asociación con el juego de pelota: un yugo a destiempo |title=El juego de pelota en Mesoamérica: raíces y supervivencia |editor=María Teresa Uriarte (ed.) |publisher=[[Siglo XXI Editores]] and Casa de Cultura, Gobierno del Estado de Sinaloa |location=México D.F. |pages=55–67|isbn=968-23-1837-8 |oclc=28891266|language=es}}
+: {{cite book |author=Schele, Linda   |authorlink=Linda Schele |author2=Mary Ellen Miller |authorlink2=Mary Miller (art historian)  |year=1992 |origyear=1986 |title=Blood of Kings: Dynasty and Ritual in Maya Art |others=[[Justin Kerr]] (photographer) |edition=2nd paperback, reprint with corrections |publisher=[[George Braziller]] |location=New York |isbn=0-8076-1278-2 |oclc=41441466}}
+: {{cite journal|author=Zender, Marc |year=2004 |title=Glyphs for "Handspan" and "Strike" in Classic Maya Ballgame Texts |url=http://www.mesoweb.com/pari/publications/journal/404/Handspan.pdf |journal=The PARI Journal |volume=4 |issue=4 |issn=0003-8113 |deadurl=yes |archiveurl=https://web.archive.org/web/20080910095804/http://www.mesoweb.com/pari/publications/journal/404/Handspan.pdf |archivedate=2008-09-10 |df= }}
+ 
+{{refend}}<!-- END biblio format style -->
+
+{{DEFAULTSORT:Mesoamerican Rubber Balls}}
+
+
+
+
+
+Ancient '''Mesoamericans''' were the first people to invent '''rubber balls''' ({{lang-nah|?llamaloni}}), sometime before 1600 BCE, and used them in a variety of roles. The [[Mesoamerican ballgame]], for example, employed various sizes of solid rubber balls and balls were burned as offerings in temples, buried in [[votive deposits]], and laid in sacred [[bog]]s and [[cenote]]s.
+
+==Rubber in Mesoamerica==
+Ancient rubber was made from latex of the rubber tree (''[[Castilla elastica]]''), which is indigenous to the tropical areas of southern Mexico and Central America.<ref name="FOX">Fox, John. [https://books.google.com/books?id=LD6h3NHeHxgC&printsec=frontcover ''The ball : discovering the object of the game"], 1st ed., New York : Harper, 2012. {{ISBN|9780061881794}}. Cf. Chapter 4: "Sudden Death in the New World" about the Ulama game.</ref> The latex was made into rubber by mixing it with the juice of what was likely ''[[Ipomoea alba]]'' (a species of [[morning glory]]), a process which preceded [[Charles Goodyear|Goodyear]]'s [[vulcanization]] by several millennia.<ref name="Hosler, et al">Hosler, et al.</ref> The resultant rubber would then be formed into rubber strips, which would be wound around a solid rubber core to build the ball.<ref>Filloy Nadal discusses the Aztecs' use of "ancient rolling technique" (page 30) while Ortiz discusses the use of this technique by the Olmecs (page 244).</ref>
+
+Archaeological evidence indicates that [[rubber]] was already in use in Mesoamerica by the [[Mesoamerican chronology|Early Formative Period]] – a dozen balls were found in the [[Olmec]] [[El Manati]] sacrificial bog and dated to roughly 1600 [[Common era|BCE]].<ref>Ortíz C.</ref>  By the time of the [[Spanish Conquest]], 3000 years later, [[rubber]] was being exported from the tropical zones to sites all over Mesoamerica. 
+
+Iconography suggests that although there were many uses for rubber, rubber balls both for offerings and for ritual ballgames were the primary products. To both the Aztecs and the Maya, the rubber latex that flowed from the tree represented blood and semen.<ref>Filloy Nadal, p.30.</ref>  Rubber was therefore symbolic of fertility, and was often burned, buried, or (fortunately for archaeology) laid in a sacrificial pool as an offering to various deities.
+
+==Size and weight==
+The exact sizes or weights of the balls actually used in the ballgame are not known. Sizes varied not only according to the ballgame version played (i.e. hip-ball, handball, stick-ball, etc.), but even within a given version. For example, [[Mesoamerican chronology|Late Classic]] hip-ball [[:Image:Chichén Itzá Goal.jpg|stone scoring rings]] had holes of differing sizes, strongly implying that the balls were not of uniform size either.<ref>Whittington, p. 242.</ref>
+
+Most of the ancient balls that have been retrieved were originally laid down as offerings, and there is no evidence that any of these were used in the ballgame. In fact, some of these extant [[Votive deposit|votive balls]] were created specifically ''as'' offerings. However, ancient iconography as well as modern game balls can provide insight. For example, archaeologist Laura Filloy Nadal compiled the following comparison of modern ball sizes:<ref>Filloy Nadal, page 30.</ref>
+
+{| class="wikitable" style="margin:auto;"
+|- 
+! Ballgame Version
+! Ball struck with
+! Ball diameter
+! Ball weight
+|- 
+| style="width:150px" | ''Ulama de cadera'' 
+| Hip
+| style="width:150px" align="center" |?20&nbsp;cm (8&nbsp;in)
+| style="width:150px" |3–4&nbsp;kg (6½-9&nbsp;lbs)
+|-
+| ''Ulama de mazo''<ref>Information on the ''ulama de mazo'' ball weight comes from Leyenaar (2001) pp. 125-126.</ref>
+| Heavy bat, 5–7&nbsp;kg
+| align="center"| Unavailable
+| 500-600 g (18-21&nbsp;oz)
+|-
+| ''Ulama de brazo''
+| Forearm
+| align="center" |?11&nbsp;cm (4½ in)
+| ?500 g (16-18&nbsp;oz)
+|-
+|''[[Pelota mixteca]]''
+| Heavy glove
+|align="center" |8–10&nbsp;cm (3–4&nbsp;in)
+|170-280 g (6-9&nbsp;oz)
+|}
+It is therefore assumed by most researchers that the ancient hip-ball was roughly the size of a [[volleyball (ball)|volleyball]] and weighed between 3 and 4&nbsp;kg (6½-9&nbsp;lbs) or 15 times heavier than the air-filled volleyball. The ancient handball or stick-ball was probably slightly larger and heavier than a modern-day baseball.
+<br>
+Only roughly 100 pre-Columbian rubber artifacts have been recovered, all of which were found in still, [[freshwater]] [[Archaeological context|contexts]],<ref>Filloy Nadal, p.26, although Hosler et al. refer to "a few hundred" artifacts. Of these artifacts, only a few dozen are rubber balls.</ref> sites that include [[El Manati]], the [[Sacred Cenote]] at [[Chichen Itza]], and the ruins of [[Tenochtitlan]].  
+
+The following table summarizes data on some of the ancient balls recovered:<ref>See Ortiz for El Manati data, and Filloy Nadal for Maya and Aztec data, except where noted otherwise.</ref>
+
+{| class="wikitable" style="margin:auto;"
+|- 
+! Location
+! Culture
+! # found
+! Ball diameter
+! Period
+|- 
+| style="width:150px" | El Manati
+|style="width:100px" align="center" |[[Olmec]]
+|style="width:050px" align="center" | 5<ref>Another 5 balls were found by villagers, but without [[archaeological context]].</ref>
+| style="width:150px" align="center" |10–14&nbsp;cm 
+| style="width:150px" |1600–1700 BCE
+|-
+| El Manati 
+|align="center"|[[Olmec]]
+|align="center" |2
+| align="center" |22&nbsp;cm
+|1200 BCE
+|-
+|Sacred Cenote
+|align="center"|[[Maya civilization|Maya]]
+|align="center" |Unknown
+|align="center" |4&nbsp;cm
+|850 - 1550 CE<ref name="Hosler, et al"/>
+|-
+|Main ballcourt, Tenochtitlan
+|align="center"|[[Aztec]]
+|align="center" |2
+|align="center" |7&nbsp;cm<ref>According to Filloy Nadal, p. 28, these were miniature "[[votive deposit|votive representations]]".</ref>
+|Early 16th century?
+|-
+|House of Eagles, Tenochtitlan
+|align="center"|[[Aztec]]
+|align="center" |4<ref>These balls were grooved and intended as offerings (Filloy Nadal, p. 28).</ref>
+|align="center" |6-8½ cm
+|Early 16th century?
+|}
+
+==Oversized balls, skull-balls, and captive-balls==
+Although there is no artifact evidence uncovered to support such speculation, depictions of overly large balls or balls which appear to contain skulls and even captives have created much conjecture.  
+[[File:La Corona Relieve Juego de Pelota.jpg|thumb|349x349px|A Maya limestone staircase riser, ca. 700 - 900 CE. Against the backdrop of a staircase, two nobles play the ballgame with an overly large, perhaps symbolic, ball. The ball itself contains two glyphs, a "14" and an unknown [[glyph (archaeology)|glyph]] that has been speculatively translated as "handspan". Height: 25.1&nbsp;cm; length: 43.2&nbsp;cm.]]
+Many depictions of ballplayers show balls of huge size, perhaps up to {{convert|1|m|yd}} or more in diameter. These depictions include not only the image on the right, but the [[:Image:Maya Vase Ballplayer.png|"Dallas vase"]], the Chinkultic court marker, and a Western Mexico ceramic ballcourt.<ref>The first three examples are from the Maya culture. The western Mexico ceramic is from Nayarit &ndash; 300 BCE to 100 CE &ndash; and can be found at the Los Angeles County Museum of Art (see Whittington, p. 163).</ref>  Most researchers believe that these depictions are exaggerations,<ref>For example, Coe et al., p. 109.</ref> in large part because a solid ball one meter in diameter would be nearly too heavy to move, weighing close to 500&nbsp;kg (over 1000&nbsp;lbs). Researcher Marvin Cohodas has suggested that these depictions are either symbolic, or that the outsized ball and outlandish costumes might portray "a few heavily costumed nobles [taking] perfunctory shots at an oversize ball ... perhaps re-enacting a [[Cosmogony|cosmogonic]] myth".<ref>Cohodas, p. 259.</ref> 
+
+Nonetheless, [[Marc Zender]] of the [[Peabody Museum of Archaeology and Ethnology|Peabody Museum]] has interpreted a common ball-[[glyph (archaeology)|glyph]] (seen for example on the ball at right) as "handspan", a [[circumference]] measurement of roughly {{convert|8+1/2|in|cm}}. Combined with coefficients of 9, 10, 12, 13, and 14, Zender contends that "Classic Maya ballgame balls would have measured from just over two feet to well over three feet in diameter (62 to 96&nbsp;cm)".<ref>Zender, p.4.</ref>  
+
+The images of skulls superimposed on balls found at the Great Ballcourt at Chichen Itza and on several Maya artifacts, have led several researchers to suggest that skulls of the sacrificial victims were wrapped with rubber to create hollow balls.<ref>See the [http://www.ballgame.org/sub_section.asp?section=2&sub_section=1 Sport of Life and Death website].</ref>  Other than these images, however, there is no evidence to support such an assertion.<ref>Miller (2001), p. 81, finds that the Chichen Itza panels "suggest" the use of skull-balls. Schele and Miller say "That a skull might serve as a ball with a hollow core is suggested only by depictions of balls with skulls inside" (p. 248 as well as p. 253).</ref>
+
+On Altar 8 at [[Tikal]] as well as on the Hieroglyphic Stairs at [[Yaxchilan]], captives appear to be inside, or are at least superimposed upon, balls. Like those of oversized and skull-balls, most researchers doubt that such images are to be taken literally. Schele and Miller, for example, state that the captive is "bound and trussed in the form of a ball".<ref>Schele and Miller, p. 249.</ref>
+
+==Notes==
+[[File:Xiuhtecuhtli, Codex Borgia, 14, w rubber balls offering.jpg|right|250px|thumb|In this detail from the late 15th century [[Codex Borgia]], the Aztec god [[Xiuhtecuhtli]] brings a rubber ball offering to a temple. The rubber balls each hold a [[quetzal]] feather, part of the offering.]]
+{{reflist}}
+
+==References==
+{{refbegin|indent=yes}}<!--BEGIN biblio format. If indent param. is used, Pls use a colon (:) instead of asterisk (*) for bullet markers in the references list --> 
+: {{cite book |author=Coe, Michael D.   |authorlink=Michael D. Coe |author2=Dean Snow |author3=[[Elizabeth P. Benson]]|year=1986|title= Atlas of Ancient America|publisher=Facts on File|location= New York|isbn=0-8160-1199-0}}
+: {{cite book |author=Filloy Nadal, Laura   |year=2001 |chapter=Rubber and Rubber Balls in Mesoamerica |title=The Sport of Life and Death: The Mesoamerican Ballgame |editor=E. Michael Whittington (ed.) |publisher=[[Thames & Hudson]] |location=New York |pages=20–31|isbn=0-500-05108-9 |oclc=49029226}}
+: {{cite journal |author=Hosler, Dorothy   |author2=Sandra Burkett |author3=Michael Tarkanian  |date=June 18, 1999 |title=Prehistoric Polymers: Rubber Processing in Ancient Mesoamerica |journal=[[Science (journal)|Science]] |location=Washington, DC|publisher=[[American Association for the Advancement of Science]]|volume=284 |issue=5422 |pages=1988–1991 |doi=10.1126/science.284.5422.1988 |issn=0036-8075 |oclc=207960606 |pmid=10373117}}
+: {{cite book |author=Leyenaar, Ted  |year=2001|chapter="The Modern Ballgames of Sinaloa: a Survival of the Aztec Ullamaliztli" |title=The Sport of Life and Death: The Mesoamerican Ballgame |editor=E. Michael Whittington (ed.)|publisher=[[Thames & Hudson]] |location=New York |pages=122–129|isbn=0-500-05108-9 |oclc=49029226}}
+: {{cite book |author=Miller, Mary Ellen   |authorlink=Mary Miller (art historian) |year=2001 |chapter=The Maya Ballgame: Rebirth in the Court of Life and Death|title=The Sport of Life and Death: The Mesoamerican Ballgame |editor=E. Michael Whittington (ed.) |publisher=[[Thames & Hudson]] |location=New York |pages=20–31 |isbn=0-500-05108-9|oclc=49029226}}
+: {{cite book |author=Ortíz C., Ponciano |author2=María del Carmen Rodríguez |year=1999 |chapter=Olmec Ritual Behavior at El Manatí: A Sacred Space |chapterurl=http://www.doaks.org/Social/social09.pdf |format=[[PDF]] |edition=Dumbarton Oaks etexts |title=Social Patterns in Pre-Classic Mesoamerica |editor=[[David C. Grove]] and [[Rosemary A. Joyce]] (eds.) |publisher=[[Dumbarton Oaks Research Library and Collection]] |location=Washington, D.C. |pages=225–254 |isbn=0-88402-252-8 |accessdate=2007-06-08 |deadurl=yes |archiveurl=https://web.archive.org/web/20070221182955/http://www.doaks.org/Social/social09.pdf |archivedate=2007-02-21 |df= }}
+: {{cite book |author=Ortíz C., Ponciano   |author2=María del Carmen Rodríguez |author3=Alfredo Delgado  |year=1992 |chapter=Las ofrendas de El Manatí y su posible asociación con el juego de pelota: un yugo a destiempo |title=El juego de pelota en Mesoamérica: raíces y supervivencia |editor=María Teresa Uriarte (ed.) |publisher=[[Siglo XXI Editores]] and Casa de Cultura, Gobierno del Estado de Sinaloa |location=México D.F. |pages=55–67|isbn=968-23-1837-8 |oclc=28891266|language=es}}
+: {{cite book |author=Schele, Linda   |authorlink=Linda Schele |author2=Mary Ellen Miller |authorlink2=Mary Miller (art historian)  |year=1992 |origyear=1986 |title=Blood of Kings: Dynasty and Ritual in Maya Art |others=[[Justin Kerr]] (photographer) |edition=2nd paperback, reprint with corrections |publisher=[[George Braziller]] |location=New York |isbn=0-8076-1278-2 |oclc=41441466}}
+: {{cite journal|author=Zender, Marc |year=2004 |title=Glyphs for "Handspan" and "Strike" in Classic Maya Ballgame Texts |url=http://www.mesoweb.com/pari/publications/journal/404/Handspan.pdf |journal=The PARI Journal |volume=4 |issue=4 |issn=0003-8113 |deadurl=yes |archiveurl=https://web.archive.org/web/20080910095804/http://www.mesoweb.com/pari/publications/journal/404/Handspan.pdf |archivedate=2008-09-10 |df= }}
+ 
+{{refend}}<!-- END biblio format style -->
+
+{{DEFAULTSORT:Mesoamerican Rubber Balls}}
+
+
+
+

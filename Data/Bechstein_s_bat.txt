@@ -1,0 +1,66 @@
+{{Speciesbox
+|name = Bechstein's bat
+|image = Vespertilion bechstein.jpg
+|image_caption =
+|status = NT
+|status_system = IUCN3.1
+|status_ref = <ref name=iucn>{{cite journal |author=Paunovi?, M. |title=''Myotis bechsteinii'' |journal=[[The IUCN Red List of Threatened Species]] |volume=2016 |page=e.T14123A22053752 |publisher=[[IUCN]] |date=2016 |url=https://www.iucnredlist.org/species/14123/22053752 |doi=10.2305/IUCN.UK.2016-2.RLTS.T14123A22053752.en |access-date= 29 January 2019}}</ref>
+|genus = Myotis 
+|species = bechsteinii
+|authority = ([[Heinrich Kuhl|Kuhl, 1817]])
+|synonyms = 
+|range_map = Mapa Myotis bechsteinii.png
+|range_map_caption = Distribution of Bechstein's bat
+|range_map_alt = Map showing distribution of species in Europe and western Asia
+}}
+
+'''Bechstein's bat''' (''Myotis bechsteinii'') is a species of [[vesper bat]] found in Europe and western Asia, living in extensive areas of woodland.
+
+==Description==
+
+Bechstein's bat is a medium-sized and relatively long-eared bat. The adult has a long, fluffy fur which is reddish-brown above and gray-white below. It has a pinkish face, and its ears are long and broad. The wings are dark brown and rather broad, with the membrane attached to the base of the feet.<ref>{{cite book|last=Sterry|first=Paul|title=Complete British animals|year=2005|publisher=Collins|location=London|isbn=9780007201372|page=48}}</ref>
+
+==Habits==
+Bechstein's bat feeds chiefly on flying prey such as [[moth]]s, [[diptera]]ns, [[neuroptera]]ns and other small nocturnal insects.<ref name=iucn/> Analysis of droppings from the [[Isle of Wight]] and [[Wiltshire]] shows a diet consisting of [[dung flies]], [[grasshopper]]s, [[nut weevil]]s, and moths. Populations cut off from forest land are recorded to shift to a diet of terrestrial insects and spiders caught from the ground. Bechstein's bats typically forage within one or two kilometers of their roost, and hunt primarily in the forest canopy.<ref name="BCT">{{Cite web |title=''Bechstein's bat'' |url=https://cdn.bats.org.uk/pdf/About%20Bats/bechsteins_11.02.13.pdf?mtime=20181101151256 |website=bats.org.uk |publisher=Bat Conservation Trust |accessdate=3 February 2019}}</ref>
+
+Tree holes, typically [[woodpecker]] holes, are used for roosting. Bechstein's bat is also recorded to enter artificial [[nest box]]es, but rarely roosts in human buildings. Over the winter, Bechstein's bats [[hibernation|hibernate]] underground and in tree holes. Mating happens in autumn and spring, and delayed fertilization means that young (one per female) are born early in the following summer. Maternity colonies typically form late in the spring.<ref name="BCT"/>
+
+==Range==
+Bechstein's bat can be found in the following countries: [[Austria]], [[Armenia]], [[Azerbaijan]], [[Belarus]], [[Belgium]], [[Bosnia and Herzegovina]], [[Bulgaria]], [[Croatia]], [[Czech Republic]], [[Denmark]], [[France]], [[Georgia (country)|Georgia]], [[Germany]], [[Hungary]], [[Iran]], [[Italy]], [[Liechtenstein]], [[Moldova]], [[Montenegro]], [[Netherlands]], [[North Macedonia]], [[Poland]], [[Portugal]], [[Romania]], [[Russian Federation]], [[Serbia]], [[Slovakia]], [[Slovenia]], [[Spain]], [[Sweden]], [[Switzerland]], [[Turkey]], [[Ukraine]], [[United Kingdom]] and [[Iran]].<ref name=iucntd>{{IUCN2008|assessor= Hutson, A.M.|assessor2= Spitzenberger, F.|assessor3= Tsytsulina, K.|assessor4= Aulagnier, S.|assessor5= Juste, J.|assessor6= Karata?, A.|assessor7= Palmeirim, J.|assessor8= Paunovi?, M.|last-assessor-amp= yes|year=2008|id=14123|title=Myotis bechsteinii|downloaded=23 March 2013}}</ref>
+
+In the United Kingdom, Bechstein's bat occurs chiefly in southeastern [[Great Britain]], which consists of the northernmost extent of its range.<ref name="BCT"/> It is found in the [[Forest of Dean]] and [[Herefordshire]]. In 2009 a detailed study by [[The Bat Conservation Trust]] of 10 counties took place to determine the range of the Bechstein's bat and in 2010 a lactating female Bechstein's was discovered in [[Grafton, Worcestershire|Grafton Wood]], an [[ancient woodland|Ancient Wood]] originally part of the [[Feckenham Forest|Forest of Feckenham]] and jointly owned by the [[Worcestershire Wildlife Trust]] and [[Butterfly Conservation]], suggesting that there was a breeding colony in the wood or close by. The following year Bechstein's were again found at Grafton Wood and also at [[Trench Wood]], also in [[Worcestershire]] . The  [[People's Trust for Endangered Species]] are funding further research work at Grafton Wood.<ref>''Bats about Bechstein’s '' James Hitchcock, Worcestershire Life, August 2012 p99</ref> A single male was caught and recorded near [[Colby Woodland Garden|Colby]] in Southern [[Pembrokeshire]].<ref>[https://data.nbn.org.uk/Taxa/NHMSYS0000528024/Grid_Map National Biodiversity Network website map].</ref>
+
+==Habitat==
+[[File:Myotis bechsteinii-flying.jpg|thumb|Bechstein's bat, ''Myotis bechsteinii'']]
+Bechstein's bat is specialized for inhabiting forested areas, and is rarely found outside of them. It is recorded in [[mixed forest]]s in southwestern [[Asia]], but [[Europe]]an populations prefer [[deciduous forest]]s with high proportions of old trees. [[European beech|Beech]] and [[oak]] woodlands make up a large portion of the animal's habitat. Bechstein's bats are occasionally also found in [[orchard]]s, [[garden]]s and other cultivated areas.<ref name=iucn/>
+
+==Protection==
+Bechstein's bat is protected under the European [[Habitats Directive]].
+
+In the UK it is one of the region's rarest and most endangered species, where it likely that no more than 1,000 individuals exist in the whole region.{{cn|date=February 2019}} Woodlands containing it may be considered for notification as a [[Site of Special Scientific Interest]] and may attract a grant under [[Natural England]]s [[Environmental Stewardship]] scheme. On the rare chance one is spotted in the wild, authorities suggest immediately reporting it to a local batgroup or the wildlife trust.
+
+==Echolocation==
+The frequencies used by this bat species for echolocation lie between 35 and 108&nbsp;kHz. Its echolocation calls have the most energy at 61&nbsp;kHz, and have an average duration of 3.3 ms.<ref>Parsons, S. and Jones, G. (2000) 'Acoustic identification of twelve species of echolocating bat by discriminant function analysis and artificial neural networks.' ''J Exp Biol''., '''203''': 2641-2656.</ref><ref>Obrist, M.K., Boesch, R. and Flückiger, P.F. (2004) 'Variability in echolocation call design of 26 Swiss bat species: Consequences, limits and options for automated field identification with a synergic pattern recognition approach.' ''Mammalia''., '''68''' (4): 307-32.</ref> Most of its echolocation is in the 50–60&nbsp;kHz range.
+
+==See also==
+* [[Hambach Forest]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.forestry.gov.uk/forestry/INFD-6K3CXY Woodland Management For Bats Guide]
+*{{Commonscat-inline|Myotis bechsteinii}}
+*{{Wikispecies-inline|Myotis bechsteinii}}
+
+{{Myotinae nav}}
+
+{{Taxonbar|from=Q756687}}
+
+
+
+
+
+
+
+

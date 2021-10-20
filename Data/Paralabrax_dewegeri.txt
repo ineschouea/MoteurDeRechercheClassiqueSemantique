@@ -1,0 +1,37 @@
+{{Italic title}}
+{{Taxobox
+| name = Vieja
+| image = 
+| status = LC | status_system = IUCN3.1
+| status_ref = <ref name=iucn>{{Cite journal | author = Anderson, W. | author2 = Carpenter, K.E. | author3 = Gilmore, G. | author4 = Milagrosa Bustamante, G. | author5 = Polanco Fernandez, A. | author6 = Robertson, R. | last-author-amp = yes | title = ''Paralabrax dewegeri'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2015 | page = e.T190365A16510752 | publisher = [[IUCN]] | date = 2015 | url = http://www.iucnredlist.org/details/190365/0 | doi = 10.2305/IUCN.UK.2015-2.RLTS.T190365A16510752.en | access-date = 15 December 2017}}</ref>
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Actinopterygii]]
+| ordo = [[Perciformes]]
+| familia = [[Serranidae]]
+| genus = ''[[Paralabrax]]''
+| species = '''''P. dewegeri'''''
+| binomial = ''Paralabrax dewegeri''
+| binomial_authority = (Metzelaar, 1919)
+| synonyms_ref = <ref name=fishbase>{{FishBase |genus=Paralabrax|species=dewegeri|id=|month=August|year=2014}}</ref>
+| synonyms = *''Prionodes dewegeri'' (Metzelaar, 1919)
+*''Serranus dewegeri'' Metzelaar, 1919
+}}
+
+'''''Paralabrax dewegeri''''', the '''vieja''' or '''meo viejo''', is a [[species]] of [[fish]] in the [[Serranidae]] family. It is [[Endemism|endemic]] to [[Venezuela]].
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q1946157}}
+
+
+
+
+
+
+
+
+
+{{Serranidae-stub}}
+{{Venezuela-stub}}

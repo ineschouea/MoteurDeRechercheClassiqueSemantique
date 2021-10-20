@@ -1,0 +1,45 @@
+{{speciesbox
+| name = Germain's peacock-pheasant
+| image = Polyplectron germaini -Diergaarde Blijdorp-8.jpg
+| image_caption = At [[Diergaarde Blijdorp]] (Foundation Royal Zoo of Rotterdam), The Netherlands
+| image_upright = 1.2
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22679372 |title=''Polyplectron germaini'' |assessor=BirdLife International |assessor-link=BirdLife International |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| genus = Polyplectron
+| species = germaini
+| authority = [[Daniel Giraud Elliot|Elliot]], 1866
+}}
+
+'''Germain's peacock-pheasant''' (''Polyplectron germaini'') is a pheasant that is endemic to Indochina. The name commemorates the [[France|French]] colonial army's veterinary surgeon Louis Rodolphe Germain.
+
+==Description==
+The bird is a medium-sized, approximately 60&nbsp;cm long, brownish dark [[pheasant]] with finely spotted buff, short crest, bare red facial skin, brown [[Iris (anatomy)|iris]] and purplish-blue [[ocelli]] on upperbody plumage and half of its tail of twenty feathers. Both sexes are similar. The female has eighteen tail feathers and is smaller than male.
+
+==Taxonomy==
+The [[phylogeny]] of this species is somewhat enigmatic. [[mtDNA]] [[cytochrome b|cytochrome ''b'']] and [[D-loop]] as well as the [[nuclear DNA|nuclear]] [[ovomucoid]] [[intron]] G data confirms that it belongs to a [[clade]] together with the [[grey peacock-pheasant]], but also the "brown" southernly species [[bronze-tailed peacock-pheasant]] and [[mountain peacock-pheasant]]. [[Biogeography]] suggests that it may indeed be the most ancient form in its clade, [[speciation|speciating]] [[parapatric]]ally or [[peripatric]]ally in [[Cochinchina]] (Kimball ''et al.'' 2001). This probably took place in the [[Late Pliocene]], roughly 4-3 [[mya (unit)|mya]].<ref>
+Note that the [[molecular clock]] calibration method used by Kimball ''et al.'' (2001) is now known to be inappropriate, yielding far too low estimates in galliform birds.</ref>
+
+==Distribution and habitat==
+The Germain's peacock-pheasant is [[endemism in birds|endemic]] to southern [[Indochina]]. It is found in the [[seasonal tropical forest]]s of mid-southern [[Vietnam]] and far eastern [[Cambodia]]; it can be found readily in [[Cat Tien National Park]]. The female usually lays two creamy-white eggs.
+
+==Status and conservation==
+Due to ongoing habitat loss and limited range, the Germain's peacock-pheasant is evaluated as Near Threatened on the [[IUCN Red List]] of Threatened Species. It is listed on Appendix II of [[CITES]].
+
+== References ==
+{{Reflist}}
+*Kimball, Rebecca T.; Braun, Edward L.; Ligon, J. David; Lucchini, Vittorio & Randi, Ettore (2001): A molecular phylogeny of the peacock-pheasants (Galliformes: ''Polyplectron'' spp.) indicates loss and reduction of ornamental traits and display behaviours. ''[[Biological Journal of the Linnean Society|Biol. J. Linn. Soc.]]'' '''73'''(2): 187–198. [http://www.ingentaconnect.com/content/els/00244066/2001/00000073/00000002/art90536 HTML abstract]
+
+== External links ==
+* ARKive - [https://web.archive.org/web/20070505122554/http://www.arkive.org/species/GES/birds/Polyplectron_germaini/ images and movies of the Germain's peacock-pheasant ''(Polyplectron germaini)'']
+* [http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&sid=277&m=0 BirdLife Species Factsheet]
+* [https://web.archive.org/web/20061013182920/http://www.rdb.or.id/detailbird.php?id=219 Red Data Book]
+
+{{Taxonbar|from=Q662719}}
+
+{{DEFAULTSORT:peacock-pheasant, Germain's}}
+
+
+
+
+

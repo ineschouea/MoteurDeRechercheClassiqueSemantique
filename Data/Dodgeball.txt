@@ -1,0 +1,452 @@
+{{about|the sport|the film|DodgeBall: A True Underdog Story|location service|Dodgeball (service)}}
+{{redirect|Dodge Ball|the video game|Super Dodge Ball}}
+[[File:Dodgeball.jpg|300px|thumb|A dodgeball player dodging a ball.]]
+'''Dodgeball''' is a [[team sports|team sport]] in which players on two teams try to throw balls and hit opponents, while avoiding being hit themselves. The objective of each team is to eliminate all members of the opposing team by hitting them with thrown balls, catching a ball thrown by an opponent, or induce an opponent to commit a violation, such as stepping outside the court.
+
+The sport is played informally (in schools and pick-up games) under varying rules; and formally as an international sport, under rules that vary among international governing bodies, such as the World Dodgeball Federation (WDBF) and the World Dodgeball Association (WDA). The [[National Dodgeball League]] is an organized league in the United States.
+
+== History ==
+Modern dodgeball may be based on a game first observed in Africa about 200 years ago,<ref name=omega>{{Cite web|url=https://www.oratoryprepomega.org/2017/01/25/the-history-of-dodgeball/|title=The History of Dodgeball|last=Kim|first=James|website=The ?mega|access-date=2019-04-12}}</ref> where the players threw rocks at each other with the aim being to injure and possibly even kill other players.<ref>{{Cite web|url=http://infododgeball.weebly.com/history.html|title=History|website=Dodge Ball|access-date=2019-04-12}}</ref> Defending injured players while trying to retaliate taught teamwork, endurance, and hunting skills.<ref name=":0">{{Cite web|url=https://www.rebounderz.com/lansdale/where-did-dodgeball-start-a-brief-history-lesson/|title=A Dodgeball History Lesson: Where Did it Start?|date=2017-05-15|website=Rebounderz|language=en-US|access-date=2019-04-12}}</ref> The missionary Dr. James H. Carlisle saw them playing this game and returned to teach at St. Mary's College, Norfolk, where he transformed the dangerous African game into a safer game with a leather ball instead of rocks.<ref name=omega /> In 1884, Phillip Ferguson of Yale redesigned the game with a faster pace like modern dodgeball. In 1905, he returned to America and wrote the first official rules. American colleges started playing each other and the sport grew rapidly into what we now call dodgeball. <ref name=":0" />
+
+==Equipment==
+[[File:Dodgeball on court.JPG|thumb|A dodgeball on a court, prior to the beginning of the match.]]
+Most games in the United States use rubber balls, such as 8.5-inch playground balls, but some of the National Dodgeball League competitions, termed "No sting" events, typically use foam balls. The WDBF specifies a foam ball, and the WDA specifies a cloth-covered ball. The dominant international form of dodgeball is cloth.
+
+The WDA and WDBF both specify the use of five balls; certain national rulesets, such as in Austria, specify six.<ref>{{cite web|title=Rules and Regulations of Dodgeball|url=http://dodgeball.at/wp-content/uploads/2012/03/WDA-International-Rules-Guide_English-Version_Februar2016.pdf|website=Dodgeball Austria|publisher=World Dodgeball Association|accessdate=13 March 2018}}</ref> Amateur games typically use from three to ten balls, the number tailored to the size of the court and the number of players. More balls generally adds to the amount of action in a game, but can result in stalemate with many blocks. If there are too few balls, the element of stealth is removed, as players can see all the balls that might hit them.
+
+==Court==
+[[File:NDL court diagram.png|thumb|left|An example of a dodgeball court used in the National Dodgeball League]]
+Dodgeball can be played on any surface that has clearly marked boundaries and a center line. A typical game is played on a [[basketball]] court, [[volleyball]] court or fenced area. The NDL specifies adjacent {{convert|30|feet|m}} areas for each team (nearly the size of a volleyball court), where a zone {{convert|4|ft|m}} wide at the junction of the areas is a neutral zone.<ref name=NDLrules>{{Cite web
+|url=http://thendl.com/theNDL-Dodgeball-101.asp
+|title=Dodgeball 101 — NDL Rules & Regulations of Play
+|publisher=National Dodgeball League}}</ref>
+
+Games can also be played outdoors on a soccer pitch or football field. The WDBF organizes games on beaches and on [[trampoline]] surfaces.<ref name="WDBF">[http://www.worlddodgeballfederation.com/ World Dodgeball Federation (WDBF)]</ref>
+
+== Matchplay ==
+[[File:NDL amateur game.jpg|thumb|right|Dodgeball players preparing for the opening rush]]
+
+=== Length of game ===
+Informal matches of dodgeball are typically played until all players on one side are out. In WDA and WDBF guidelines, ''matches'' last a total of 30 minutes. These are split into two 15-minute ''halves'', during which as many ''frames'' as possible are played. A frame lasts a maximum of 3 minutes, or until all players on one side are out. If the frame runs for the whole 3 minutes without a team being eliminated, the team with the most players remaining on court wins the frame. Teams switch sides at halftime.
+
+=== Starting the game ===
+In informal dodgeball, balls are initially distributed to players by one of the following methods:
+
+*By even distribution to the two teams.
+*By being thrown in the air for players to catch.
+*By being lined up on the central dividing line.
+
+In this last option, players then rush toward the center line to grab one of the balls. This is called the opening rush. It is never legal to immediately throw such a ball at an opponent; a player grabbing a ball on the center line retreats or throws it back to a teammate.
+
+In WDA and WDBF regulations, the ball must be returned behind an "attack line", roughly a third of the way from the back of court. In WDA regulations, players may only run for the two balls to the left and the center ball, with a maximum of three players running per team. This means only the center ball is contested.
+
+=== Gameplay ===
+[[File:USMC-080816-M-9999S-002.jpg|thumb|The opening rush of a dodgeball game.]]
+Following distribution, players aim to hit one another. A ball is considered "live" from the moment it leaves a player's hand up until it touches the floor, wall, or ceiling, when it becomes "dead". If a player is hit by an opponent's live ball, they are "out"; if the ball is dead, there is no hit. If a player catches a live ball, the opponent who threw the ball is out and a player on the catcher's team is "revived" from the outbox; however, if they fail to secure the catch, leading to them dropping the ball, the failed catcher is out. 
+
+In WDA and WDBF regulations, players may "block" a throw with another ball. In this situation, the thrown ball remains live, as it has not hit the floor or a wall, and so can be caught or can still hit a player out. If the blocker drops the ball used to block, they have failed to keep their ball secure and are out.
+
+Dead balls that leave the court can only be returned to players by each team's designated ball retrievers. Stepping outside the court, including stepping on a boundary line or entering the opponents' zone, is a violation. Other violations include kicking a ball, displaying bad sportsmanship, and stalling (having a ball for over ten seconds and doing nothing with it).<ref name=wikihow /> The penalty is that the violator is out.
+
+===Optional rules===
+{{main|List of dodgeball variations}}
+Optional rules may be in effect in informal games of dodgeball or in open matches by agreement:
+
+#"Head shots" (thrown balls that hit an opposing player in the head) may either result in the thrower being out, or the person being hit being out, or both; or may enable an out player to return to the game.<ref name=wikihow />
+#In "jailball", players who are out go to "[[jail]]" behind the opponents' back line. They can return to the game if they:
+#*Capture a dead ball, or
+#*Capture a dead ball and throw it and hit an opponent.
+#In games played on a basketball court, thrown balls that hit the backboard or go into the goal (even if deflected by a player or another ball) may have special status, such as returning all eliminated teammates to the court.
+#When there are so few players on the court that dodging the ball is easy, "No Lines" may be declared. This means that there are no team zones; players can go anywhere on the court to get a better shot at an opponent.
+
+==Skills==
+Useful skills in dodgeball include the following:
+*'''Court awareness''' to track opponents in possession of a ball
+*'''Dexterity''' to dodge an incoming ball
+*'''Good hands''' to catch an incoming ball that is thrown too high
+*'''Throwing ability''': Accuracy is vital; ability to throw at high speed denies the opponent time to react to the attack. A poor thrower mostly delivers ammunition to the opposing team.
+
+==Tactics==
+The following basic tactics are useful:<ref>{{Cite web
+|url=https://www.union.ic.ac.uk/acc/dodgeball/game/tips
+|title=Tips and Tactics
+|publisher=Imperial College Dodgeball Club}}</ref>
+
+*'''Thrower location''': Move toward the neutral zone to attack; stay on the back line when not attacking. Do not stand in another player's line of sight. Do not turn your back to the opponents.
+*'''Coordinated attack''': Call out to teammates to coordinate multiple attacks on the same opponent, preferably from very different angles. Number the opponents, left-to-right, and call out an attack target by number.
+*'''Throwing technique''': Throw with one hand. Aim below the waist to avoid getting caught or making a head shot. Throw when the opponent is distracted. Learn to throw balls so that they curve.<ref name=wikihow>{{Cite web
+|url=https://www.wikihow.com/Be-Great-at-Dodgeball
+|title=How to Be Great at Dodgeball
+|publisher=Wikihow}}</ref>
+
+Many local teams and international teams develop their own tactics and calling systems specific to their style of play. These become more complex in higher leagues, which often requires specific training for the players in calling positions such that they can make rapid, tactical decisions.
+
+==Similar games in other countries==
+* In Spain, a variation of the game called Datchball was created by a physical education teacher named Roberto Navarro. The game and associations and leagues are found in the north of Spain.{{citation needed|date=July 2017}}
+* On the [[Indian subcontinent]] a variation of the game is played called "Sekan-tadi" (????-????). This is slang used for "slamming the hip". Other names are Gend Tadi and Maram Pitti.
+* In China, a variation of the game is played called "Diu Sha Bao" (???). Instead of a ball, the game is played with a small round sand bag, which is also known as the "Sha Bao" (??).<ref>{{Cite web|url=https://baike.baidu.com/item/%E4%B8%A2%E6%B2%99%E5%8C%85|title=???_????|last=|first=|date=|website=|archive-url=|archive-date=|dead-url=|access-date=}}</ref>
+
+==In popular culture==
+* The 2004 movie ''[[Dodgeball: A True Underdog Story]],'' despite presenting an unflattering view of the sport and its players,<ref>{{Cite web
+|url=https://www.imdb.com/title/tt0364725/
+|title=Dodgeball: A True Underdog Story
+|publisher=IMDb}}</ref> revived interest in the sport, especially among young adults.<ref>{{cite news |title=All Grown Up, Dodgeball Hurtles Toward a Higher Popularity |first=Amit |last=Paley |url=https://www.washingtonpost.com/wp-dyn/articles/A43151-2004Jul11.html |work=The Washington Post |date=July 12, 2004 |accessdate=February 3, 2012}}</ref>
+* Also in 2004, [[Extreme Dodgeball]], a dodgeball tournament broadcast as a game show, aired.
+* The videogame ''Stikbold: A Dodgeball Adventure'' (Stikbold being the Danish word for dodgeball) features the sport of dodgeball, although the rules vary slightly from the actual game.<ref>http://www.windowscentral.com/stikbold-dodgeball-adventure-review</ref>
+* The risks of injury from dodgeball, and the fact that gameplay resembles [[assault]], have resulted in controversies, lawsuits, and calls to eliminate the game from school physical education programs.<ref>{{cite news |title=School dodgeball goes to court in New York |url=https://www.usatoday.com/news/nation/2004-11-20-dodgeball_x.htm |work=The Associated Press |publisher=USAToday.com |date=November 20, 2004 |accessdate=February 3, 2012}}</ref>
+
+==World records==
+* [[University of California, Irvine]], reclaimed the largest game of dodgeball title on September 25, 2012, with 6,084 participants.<ref>{{Cite news
+|url=http://losangeles.cbslocal.com/2012/09/25/uc-irvine-students-claim-record-for-worlds-biggest-dodgeball-game/
+|title=UC Irvine Students Claim Record For World’s Biggest Dodgeball Game
+|publisher=CBSLA.com
+|date=September 25, 2012}}</ref> The previous largest game of dodgeball was played by 4,979 participants at the [[University of Alberta]] on February 3, 2012.<ref>{{cite news |title=U of A smashes dodgeball record |url=https://edmontonjournal.com/sports/smashs+dodgeball+record/6098140/story.html |work=Edmonton Journal |date=February 3, 2012 |accessdate=February 3, 2012}}</ref>
+* The longest game of dodgeball was played on April 27–29, 2012, at the [[Castleton State College]] in [[Castleton, Vermont]]. The game lasted for 41 hr 3 min 17 sec.<ref>{{cite web |url=http://www.guinnessworldrecords.com/records-3000/longest-marathon-playing-dodgeball/ |title=Longest marathon playing dodgeball |work=Guinness World Records |accessdate=June 19, 2013}}</ref>
+
+==Usage in American vernacular==
+In some American idioms, the act of avoiding something or someone mildly unpleasant can be referred to as 'playing dodgeball.' Additionally, in a variant of the same concept, the term "dodgeball" is sometimes used to describe a situation in which an individual is caught between two untenable positions, in a reference to the version of the game in which players from the same team can surround opposing players from two opposite sides.
+
+==See also==
+* [[Dodgeball ranking]]
+* [[List of dodgeball variations]]
+* [[Intercollegiate sports team champions#Dodgeball|U.S. intercollegiate dodgeball champions]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+* [http://www.thendl.com/theNDL-Dodgeball-101.asp National Dodgeball League Official Dodgeball Rules & Regulations of Play]
+* D'Angelo, Chris (2008). [http://www.dodgeballbook.com ''If you got the Guts, We got the Balls: A book about Dodgeball'']. Dangerous Chris Print. {{ISBN|978-0-578-01564-4}}
+* Keyes, A. (2005). ''The Complete Book About Dodgeball''.  AuthorHouse. {{ISBN|1-4208-7548-5}}
+* Kassock, Isaac (2012). ''The Philosophy of Dodgeball: A Treatise''. Createspace. {{ISBN|1-4700-4494-3}}
+* [[YMCA]] School Playground Partners: Dodgeball Games [https://web.archive.org/web/20090219064408/http://ecke.ymca.org/docs/playgroundpartners/dodgeballgames.pdf YMCA of San Diego County]
+
+==External links==
+{{commons category|Dodgeball}}
+{{Wiktionary}}
+* [http://www.worlddodgeballfederation.com/ World Dodgeball Federation] World Dodgeball Federation
+* [http://www.planetdodgeball.com/ World Dodgeball Association] World Dodgeball Association
+* [http://www.thendl.com/ National Dodgeball League] Professional dodgeball league, directions for member clubs/leagues in the United States.
+* [http://www.dodgeball4ever.com/ World Dodgeball Society] California, Chicago, New York
+* [http://www.elite-dodgeball.com/ Elite Dodgeball Invitational] Tournaments and leagues within the United States.  Invite only. 
+* [https://web.archive.org/web/20081225165333/http://www.dodgeballusa.com/index.shtml National Amateur Dodgeball Association]
+* [http://www.ncdadodgeball.com/ National College Dodgeball Association]
+* [http://www.dodgeballislife.com San Diego Dodgeball Leagues]
+* [http://dodgeballottawa.com Dodgeball Ottawa], Ottawa, Ontario, Canadian league.
+* [http://vdldodgeball.ca/ Vancouver Dodgeball League] A Vancouver, BC, Canada league.
+* [http://britishdodgeball.org/ British Dodgeball] National governing body for dodgeball in the UK.
+* [http://www.dodgeballnz.com/ Dodgeball NZ], New Zealand's Official Dodgeball Organisation
+* [http://www.dodgeballsa.com/ South African Dodgeball Association] SA's First Dodgeball Association.
+
+{{Outdoor games}}
+{{Team Sport}}
+
+{{Authority control}}
+
+
+
+
+
+
+
+{{about|the sport|the film|DodgeBall: A True Underdog Story|location service|Dodgeball (service)}}
+{{redirect|Dodge Ball|the video game|Super Dodge Ball}}
+[[File:Dodgeball.jpg|300px|thumb|A dodgeball player dodging a ball.]]
+'''Dodgeball''' is a [[team sports|team sport]] in which players on two teams try to throw balls and hit opponents, while avoiding being hit themselves. The objective of each team is to eliminate all members of the opposing team by hitting them with thrown balls, catching a ball thrown by an opponent, or induce an opponent to commit a violation, such as stepping outside the court.
+
+The sport is played informally (in schools and pick-up games) under varying rules; and formally as an international sport, under rules that vary among international governing bodies, such as the World Dodgeball Federation (WDBF) and the World Dodgeball Association (WDA). The [[National Dodgeball League]] is an organized league in the United States.
+
+== History ==
+Modern dodgeball may be based on a game first observed in Africa about 200 years ago,<ref name=omega>{{Cite web|url=https://www.oratoryprepomega.org/2017/01/25/the-history-of-dodgeball/|title=The History of Dodgeball|last=Kim|first=James|website=The ?mega|access-date=2019-04-12}}</ref> where the players threw rocks at each other with the aim being to injure and possibly even kill other players.<ref>{{Cite web|url=http://infododgeball.weebly.com/history.html|title=History|website=Dodge Ball|access-date=2019-04-12}}</ref> Defending injured players while trying to retaliate taught teamwork, endurance, and hunting skills.<ref name=":0">{{Cite web|url=https://www.rebounderz.com/lansdale/where-did-dodgeball-start-a-brief-history-lesson/|title=A Dodgeball History Lesson: Where Did it Start?|date=2017-05-15|website=Rebounderz|language=en-US|access-date=2019-04-12}}</ref> The missionary Dr. James H. Carlisle saw them playing this game and returned to teach at St. Mary's College, Norfolk, where he transformed the dangerous African game into a safer game with a leather ball instead of rocks.<ref name=omega /> In 1884, Phillip Ferguson of Yale redesigned the game with a faster pace like modern dodgeball. In 1905, he returned to America and wrote the first official rules. American colleges started playing each other and the sport grew rapidly into what we now call dodgeball. <ref name=":0" />
+
+==Equipment==
+[[File:Dodgeball on court.JPG|thumb|A dodgeball on a court, prior to the beginning of the match.]]
+Most games in the United States use rubber balls, such as 8.5-inch playground balls, but some of the National Dodgeball League competitions, termed "No sting" events, typically use foam balls. The WDBF specifies a foam ball, and the WDA specifies a cloth-covered ball. The dominant international form of dodgeball is cloth.
+
+The WDA and WDBF both specify the use of five balls; certain national rulesets, such as in Austria, specify six.<ref>{{cite web|title=Rules and Regulations of Dodgeball|url=http://dodgeball.at/wp-content/uploads/2012/03/WDA-International-Rules-Guide_English-Version_Februar2016.pdf|website=Dodgeball Austria|publisher=World Dodgeball Association|accessdate=13 March 2018}}</ref> Amateur games typically use from three to ten balls, the number tailored to the size of the court and the number of players. More balls generally adds to the amount of action in a game, but can result in stalemate with many blocks. If there are too few balls, the element of stealth is removed, as players can see all the balls that might hit them.
+
+==Court==
+[[File:NDL court diagram.png|thumb|left|An example of a dodgeball court used in the National Dodgeball League]]
+Dodgeball can be played on any surface that has clearly marked boundaries and a center line. A typical game is played on a [[basketball]] court, [[volleyball]] court or fenced area. The NDL specifies adjacent {{convert|30|feet|m}} areas for each team (nearly the size of a volleyball court), where a zone {{convert|4|ft|m}} wide at the junction of the areas is a neutral zone.<ref name=NDLrules>{{Cite web
+|url=http://thendl.com/theNDL-Dodgeball-101.asp
+|title=Dodgeball 101 — NDL Rules & Regulations of Play
+|publisher=National Dodgeball League}}</ref>
+
+Games can also be played outdoors on a soccer pitch or football field. The WDBF organizes games on beaches and on [[trampoline]] surfaces.<ref name="WDBF">[http://www.worlddodgeballfederation.com/ World Dodgeball Federation (WDBF)]</ref>
+
+== Matchplay ==
+[[File:NDL amateur game.jpg|thumb|right|Dodgeball players preparing for the opening rush]]
+
+=== Length of game ===
+Informal matches of dodgeball are typically played until all players on one side are out. In WDA and WDBF guidelines, ''matches'' last a total of 30 minutes. These are split into two 15-minute ''halves'', during which as many ''frames'' as possible are played. A frame lasts a maximum of 3 minutes, or until all players on one side are out. If the frame runs for the whole 3 minutes without a team being eliminated, the team with the most players remaining on court wins the frame. Teams switch sides at halftime.
+
+=== Starting the game ===
+In informal dodgeball, balls are initially distributed to players by one of the following methods:
+
+*By even distribution to the two teams.
+*By being thrown in the air for players to catch.
+*By being lined up on the central dividing line.
+
+In this last option, players then rush toward the center line to grab one of the balls. This is called the opening rush. It is never legal to immediately throw such a ball at an opponent; a player grabbing a ball on the center line retreats or throws it back to a teammate.
+
+In WDA and WDBF regulations, the ball must be returned behind an "attack line", roughly a third of the way from the back of court. In WDA regulations, players may only run for the two balls to the left and the center ball, with a maximum of three players running per team. This means only the center ball is contested.
+
+=== Gameplay ===
+[[File:USMC-080816-M-9999S-002.jpg|thumb|The opening rush of a dodgeball game.]]
+Following distribution, players aim to hit one another. A ball is considered "live" from the moment it leaves a player's hand up until it touches the floor, wall, or ceiling, when it becomes "dead". If a player is hit by an opponent's live ball, they are "out"; if the ball is dead, there is no hit. If a player catches a live ball, the opponent who threw the ball is out and a player on the catcher's team is "revived" from the outbox; however, if they fail to secure the catch, leading to them dropping the ball, the failed catcher is out. 
+
+In WDA and WDBF regulations, players may "block" a throw with another ball. In this situation, the thrown ball remains live, as it has not hit the floor or a wall, and so can be caught or can still hit a player out. If the blocker drops the ball used to block, they have failed to keep their ball secure and are out.
+
+Dead balls that leave the court can only be returned to players by each team's designated ball retrievers. Stepping outside the court, including stepping on a boundary line or entering the opponents' zone, is a violation. Other violations include kicking a ball, displaying bad sportsmanship, and stalling (having a ball for over ten seconds and doing nothing with it).<ref name=wikihow /> The penalty is that the violator is out.
+
+===Optional rules===
+{{main|List of dodgeball variations}}
+Optional rules may be in effect in informal games of dodgeball or in open matches by agreement:
+
+#"Head shots" (thrown balls that hit an opposing player in the head) may either result in the thrower being out, or the person being hit being out, or both; or may enable an out player to return to the game.<ref name=wikihow />
+#In "jailball", players who are out go to "[[jail]]" behind the opponents' back line. They can return to the game if they:
+#*Capture a dead ball, or
+#*Capture a dead ball and throw it and hit an opponent.
+#In games played on a basketball court, thrown balls that hit the backboard or go into the goal (even if deflected by a player or another ball) may have special status, such as returning all eliminated teammates to the court.
+#When there are so few players on the court that dodging the ball is easy, "No Lines" may be declared. This means that there are no team zones; players can go anywhere on the court to get a better shot at an opponent.
+
+==Skills==
+Useful skills in dodgeball include the following:
+*'''Court awareness''' to track opponents in possession of a ball
+*'''Dexterity''' to dodge an incoming ball
+*'''Good hands''' to catch an incoming ball that is thrown too high
+*'''Throwing ability''': Accuracy is vital; ability to throw at high speed denies the opponent time to react to the attack. A poor thrower mostly delivers ammunition to the opposing team.
+
+==Tactics==
+The following basic tactics are useful:<ref>{{Cite web
+|url=https://www.union.ic.ac.uk/acc/dodgeball/game/tips
+|title=Tips and Tactics
+|publisher=Imperial College Dodgeball Club}}</ref>
+
+*'''Thrower location''': Move toward the neutral zone to attack; stay on the back line when not attacking. Do not stand in another player's line of sight. Do not turn your back to the opponents.
+*'''Coordinated attack''': Call out to teammates to coordinate multiple attacks on the same opponent, preferably from very different angles. Number the opponents, left-to-right, and call out an attack target by number.
+*'''Throwing technique''': Throw with one hand. Aim below the waist to avoid getting caught or making a head shot. Throw when the opponent is distracted. Learn to throw balls so that they curve.<ref name=wikihow>{{Cite web
+|url=https://www.wikihow.com/Be-Great-at-Dodgeball
+|title=How to Be Great at Dodgeball
+|publisher=Wikihow}}</ref>
+
+Many local teams and international teams develop their own tactics and calling systems specific to their style of play. These become more complex in higher leagues, which often requires specific training for the players in calling positions such that they can make rapid, tactical decisions.
+
+==Similar games in other countries==
+* In Spain, a variation of the game called Datchball was created by a physical education teacher named Roberto Navarro. The game and associations and leagues are found in the north of Spain.{{citation needed|date=July 2017}}
+* On the [[Indian subcontinent]] a variation of the game is played called "Sekan-tadi" (????-????). This is slang used for "slamming the hip". Other names are Gend Tadi and Maram Pitti.
+* In China, a variation of the game is played called "Diu Sha Bao" (???). Instead of a ball, the game is played with a small round sand bag, which is also known as the "Sha Bao" (??).<ref>{{Cite web|url=https://baike.baidu.com/item/%E4%B8%A2%E6%B2%99%E5%8C%85|title=???_????|last=|first=|date=|website=|archive-url=|archive-date=|dead-url=|access-date=}}</ref>
+
+==In popular culture==
+* The 2004 movie ''[[Dodgeball: A True Underdog Story]],'' despite presenting an unflattering view of the sport and its players,<ref>{{Cite web
+|url=https://www.imdb.com/title/tt0364725/
+|title=Dodgeball: A True Underdog Story
+|publisher=IMDb}}</ref> revived interest in the sport, especially among young adults.<ref>{{cite news |title=All Grown Up, Dodgeball Hurtles Toward a Higher Popularity |first=Amit |last=Paley |url=https://www.washingtonpost.com/wp-dyn/articles/A43151-2004Jul11.html |work=The Washington Post |date=July 12, 2004 |accessdate=February 3, 2012}}</ref>
+* Also in 2004, [[Extreme Dodgeball]], a dodgeball tournament broadcast as a game show, aired.
+* The videogame ''Stikbold: A Dodgeball Adventure'' (Stikbold being the Danish word for dodgeball) features the sport of dodgeball, although the rules vary slightly from the actual game.<ref>http://www.windowscentral.com/stikbold-dodgeball-adventure-review</ref>
+* The risks of injury from dodgeball, and the fact that gameplay resembles [[assault]], have resulted in controversies, lawsuits, and calls to eliminate the game from school physical education programs.<ref>{{cite news |title=School dodgeball goes to court in New York |url=https://www.usatoday.com/news/nation/2004-11-20-dodgeball_x.htm |work=The Associated Press |publisher=USAToday.com |date=November 20, 2004 |accessdate=February 3, 2012}}</ref>
+
+==World records==
+* [[University of California, Irvine]], reclaimed the largest game of dodgeball title on September 25, 2012, with 6,084 participants.<ref>{{Cite news
+|url=http://losangeles.cbslocal.com/2012/09/25/uc-irvine-students-claim-record-for-worlds-biggest-dodgeball-game/
+|title=UC Irvine Students Claim Record For World’s Biggest Dodgeball Game
+|publisher=CBSLA.com
+|date=September 25, 2012}}</ref> The previous largest game of dodgeball was played by 4,979 participants at the [[University of Alberta]] on February 3, 2012.<ref>{{cite news |title=U of A smashes dodgeball record |url=https://edmontonjournal.com/sports/smashs+dodgeball+record/6098140/story.html |work=Edmonton Journal |date=February 3, 2012 |accessdate=February 3, 2012}}</ref>
+* The longest game of dodgeball was played on April 27–29, 2012, at the [[Castleton State College]] in [[Castleton, Vermont]]. The game lasted for 41 hr 3 min 17 sec.<ref>{{cite web |url=http://www.guinnessworldrecords.com/records-3000/longest-marathon-playing-dodgeball/ |title=Longest marathon playing dodgeball |work=Guinness World Records |accessdate=June 19, 2013}}</ref>
+
+==Usage in American vernacular==
+In some American idioms, the act of avoiding something or someone mildly unpleasant can be referred to as 'playing dodgeball.' Additionally, in a variant of the same concept, the term "dodgeball" is sometimes used to describe a situation in which an individual is caught between two untenable positions, in a reference to the version of the game in which players from the same team can surround opposing players from two opposite sides.
+
+==See also==
+* [[Dodgeball ranking]]
+* [[List of dodgeball variations]]
+* [[Intercollegiate sports team champions#Dodgeball|U.S. intercollegiate dodgeball champions]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+* [http://www.thendl.com/theNDL-Dodgeball-101.asp National Dodgeball League Official Dodgeball Rules & Regulations of Play]
+* D'Angelo, Chris (2008). [http://www.dodgeballbook.com ''If you got the Guts, We got the Balls: A book about Dodgeball'']. Dangerous Chris Print. {{ISBN|978-0-578-01564-4}}
+* Keyes, A. (2005). ''The Complete Book About Dodgeball''.  AuthorHouse. {{ISBN|1-4208-7548-5}}
+* Kassock, Isaac (2012). ''The Philosophy of Dodgeball: A Treatise''. Createspace. {{ISBN|1-4700-4494-3}}
+* [[YMCA]] School Playground Partners: Dodgeball Games [https://web.archive.org/web/20090219064408/http://ecke.ymca.org/docs/playgroundpartners/dodgeballgames.pdf YMCA of San Diego County]
+
+==External links==
+{{commons category|Dodgeball}}
+{{Wiktionary}}
+* [http://www.worlddodgeballfederation.com/ World Dodgeball Federation] World Dodgeball Federation
+* [http://www.planetdodgeball.com/ World Dodgeball Association] World Dodgeball Association
+* [http://www.thendl.com/ National Dodgeball League] Professional dodgeball league, directions for member clubs/leagues in the United States.
+* [http://www.dodgeball4ever.com/ World Dodgeball Society] California, Chicago, New York
+* [http://www.elite-dodgeball.com/ Elite Dodgeball Invitational] Tournaments and leagues within the United States.  Invite only. 
+* [https://web.archive.org/web/20081225165333/http://www.dodgeballusa.com/index.shtml National Amateur Dodgeball Association]
+* [http://www.ncdadodgeball.com/ National College Dodgeball Association]
+* [http://www.dodgeballislife.com San Diego Dodgeball Leagues]
+* [http://dodgeballottawa.com Dodgeball Ottawa], Ottawa, Ontario, Canadian league.
+* [http://vdldodgeball.ca/ Vancouver Dodgeball League] A Vancouver, BC, Canada league.
+* [http://britishdodgeball.org/ British Dodgeball] National governing body for dodgeball in the UK.
+* [http://www.dodgeballnz.com/ Dodgeball NZ], New Zealand's Official Dodgeball Organisation
+* [http://www.dodgeballsa.com/ South African Dodgeball Association] SA's First Dodgeball Association.
+
+{{Outdoor games}}
+{{Team Sport}}
+
+{{Authority control}}
+
+
+
+
+
+
+
+{{redirect|Dodge Ball|the video game|Super Dodge Ball}}
+[[File:Dodgeball.jpg|300px|thumb|A dodgeball player dodging a ball.]]
+'''Dodgeball''' is a [[team sports|team sport]] in which players on two teams try to throw balls and hit opponents, while avoiding being hit themselves. The objective of each team is to eliminate all members of the opposing team by hitting them with thrown balls, catching a ball thrown by an opponent, or induce an opponent to commit a violation, such as stepping outside the court.
+
+The sport is played informally (in schools and pick-up games) under varying rules; and formally as an international sport, under rules that vary among international governing bodies, such as the World Dodgeball Federation (WDBF) and the World Dodgeball Association (WDA). The [[National Dodgeball League]] is an organized league in the United States.
+
+== History ==
+Modern dodgeball may be based on a game first observed in Africa about 200 years ago,<ref name=omega>{{Cite web|url=https://www.oratoryprepomega.org/2017/01/25/the-history-of-dodgeball/|title=The History of Dodgeball|last=Kim|first=James|website=The ?mega|access-date=2019-04-12}}</ref> where the players threw rocks at each other with the aim being to injure and possibly even kill other players.<ref>{{Cite web|url=http://infododgeball.weebly.com/history.html|title=History|website=Dodge Ball|access-date=2019-04-12}}</ref> Defending injured players while trying to retaliate taught teamwork, endurance, and hunting skills.<ref name=":0">{{Cite web|url=https://www.rebounderz.com/lansdale/where-did-dodgeball-start-a-brief-history-lesson/|title=A Dodgeball History Lesson: Where Did it Start?|date=2017-05-15|website=Rebounderz|language=en-US|access-date=2019-04-12}}</ref> The missionary Dr. James H. Carlisle saw them playing this game and returned to teach at St. Mary's College, Norfolk, where he transformed the dangerous African game into a safer game with a leather ball instead of rocks.<ref name=omega /> In 1884, Phillip Ferguson of Yale redesigned the game with a faster pace like modern dodgeball. In 1905, he returned to America and wrote the first official rules. American colleges started playing each other and the sport grew rapidly into what we now call dodgeball. <ref name=":0" />
+
+==Equipment==
+[[File:Dodgeball on court.JPG|thumb|A dodgeball on a court, prior to the beginning of the match.]]
+Most games in the United States use rubber balls, such as 8.5-inch playground balls, but some of the National Dodgeball League competitions, termed "No sting" events, typically use foam balls. The WDBF specifies a foam ball, and the WDA specifies a cloth-covered ball. The dominant international form of dodgeball is cloth.
+
+The WDA and WDBF both specify the use of five balls; certain national rulesets, such as in Austria, specify six.<ref>{{cite web|title=Rules and Regulations of Dodgeball|url=http://dodgeball.at/wp-content/uploads/2012/03/WDA-International-Rules-Guide_English-Version_Februar2016.pdf|website=Dodgeball Austria|publisher=World Dodgeball Association|accessdate=13 March 2018}}</ref> Amateur games typically use from three to ten balls, the number tailored to the size of the court and the number of players. More balls generally adds to the amount of action in a game, but can result in stalemate with many blocks. If there are too few balls, the element of stealth is removed, as players can see all the balls that might hit them.
+
+==Court==
+[[File:NDL court diagram.png|thumb|left|An example of a dodgeball court used in the National Dodgeball League]]
+Dodgeball can be played on any surface that has clearly marked boundaries and a center line. A typical game is played on a [[basketball]] court, [[volleyball]] court or fenced area. The NDL specifies adjacent {{convert|30|feet|m}} areas for each team (nearly the size of a volleyball court), where a zone {{convert|4|ft|m}} wide at the junction of the areas is a neutral zone.<ref name=NDLrules>{{Cite web
+|url=http://thendl.com/theNDL-Dodgeball-101.asp
+|title=Dodgeball 101 — NDL Rules & Regulations of Play
+|publisher=National Dodgeball League}}</ref>
+
+Games can also be played outdoors on a soccer pitch or football field. The WDBF organizes games on beaches and on [[trampoline]] surfaces.<ref name="WDBF">[http://www.worlddodgeballfederation.com/ World Dodgeball Federation (WDBF)]</ref>
+
+== Matchplay ==
+[[File:NDL amateur game.jpg|thumb|right|Dodgeball players preparing for the opening rush]]
+
+=== Length of game ===
+Informal matches of dodgeball are typically played until all players on one side are out. In WDA and WDBF guidelines, ''matches'' last a total of 30 minutes. These are split into two 15-minute ''halves'', during which as many ''frames'' as possible are played. A frame lasts a maximum of 3 minutes, or until all players on one side are out. If the frame runs for the whole 3 minutes without a team being eliminated, the team with the most players remaining on court wins the frame. Teams switch sides at halftime.
+
+=== Starting the game ===
+In informal dodgeball, balls are initially distributed to players by one of the following methods:
+
+*By even distribution to the two teams.
+*By being thrown in the air for players to catch.
+*By being lined up on the central dividing line.
+
+In this last option, players then rush toward the center line to grab one of the balls. This is called the opening rush. It is never legal to immediately throw such a ball at an opponent; a player grabbing a ball on the center line retreats or throws it back to a teammate.
+
+In WDA and WDBF regulations, the ball must be returned behind an "attack line", roughly a third of the way from the back of court. In WDA regulations, players may only run for the two balls to the left and the center ball, with a maximum of three players running per team. This means only the center ball is contested.
+
+=== Gameplay ===
+[[File:USMC-080816-M-9999S-002.jpg|thumb|The opening rush of a dodgeball game.]]
+Following distribution, players aim to hit one another. A ball is considered "live" from the moment it leaves a player's hand up until it touches the floor, wall, or ceiling, when it becomes "dead". If a player is hit by an opponent's live ball, they are "out"; if the ball is dead, there is no hit. If a player catches a live ball, the opponent who threw the ball is out and a player on the catcher's team is "revived" from the outbox; however, if they fail to secure the catch, leading to them dropping the ball, the failed catcher is out. 
+
+In WDA and WDBF regulations, players may "block" a throw with another ball. In this situation, the thrown ball remains live, as it has not hit the floor or a wall, and so can be caught or can still hit a player out. If the blocker drops the ball used to block, they have failed to keep their ball secure and are out.
+
+Dead balls that leave the court can only be returned to players by each team's designated ball retrievers. Stepping outside the court, including stepping on a boundary line or entering the opponents' zone, is a violation. Other violations include kicking a ball, displaying bad sportsmanship, and stalling (having a ball for over ten seconds and doing nothing with it).<ref name=wikihow /> The penalty is that the violator is out.
+
+===Optional rules===
+{{main|List of dodgeball variations}}
+Optional rules may be in effect in informal games of dodgeball or in open matches by agreement:
+
+#"Head shots" (thrown balls that hit an opposing player in the head) may either result in the thrower being out, or the person being hit being out, or both; or may enable an out player to return to the game.<ref name=wikihow />
+#In "jailball", players who are out go to "[[jail]]" behind the opponents' back line. They can return to the game if they:
+#*Capture a dead ball, or
+#*Capture a dead ball and throw it and hit an opponent.
+#In games played on a basketball court, thrown balls that hit the backboard or go into the goal (even if deflected by a player or another ball) may have special status, such as returning all eliminated teammates to the court.
+#When there are so few players on the court that dodging the ball is easy, "No Lines" may be declared. This means that there are no team zones; players can go anywhere on the court to get a better shot at an opponent.
+
+==Skills==
+Useful skills in dodgeball include the following:
+*'''Court awareness''' to track opponents in possession of a ball
+*'''Dexterity''' to dodge an incoming ball
+*'''Good hands''' to catch an incoming ball that is thrown too high
+*'''Throwing ability''': Accuracy is vital; ability to throw at high speed denies the opponent time to react to the attack. A poor thrower mostly delivers ammunition to the opposing team.
+
+==Tactics==
+The following basic tactics are useful:<ref>{{Cite web
+|url=https://www.union.ic.ac.uk/acc/dodgeball/game/tips
+|title=Tips and Tactics
+|publisher=Imperial College Dodgeball Club}}</ref>
+
+*'''Thrower location''': Move toward the neutral zone to attack; stay on the back line when not attacking. Do not stand in another player's line of sight. Do not turn your back to the opponents.
+*'''Coordinated attack''': Call out to teammates to coordinate multiple attacks on the same opponent, preferably from very different angles. Number the opponents, left-to-right, and call out an attack target by number.
+*'''Throwing technique''': Throw with one hand. Aim below the waist to avoid getting caught or making a head shot. Throw when the opponent is distracted. Learn to throw balls so that they curve.<ref name=wikihow>{{Cite web
+|url=https://www.wikihow.com/Be-Great-at-Dodgeball
+|title=How to Be Great at Dodgeball
+|publisher=Wikihow}}</ref>
+
+Many local teams and international teams develop their own tactics and calling systems specific to their style of play. These become more complex in higher leagues, which often requires specific training for the players in calling positions such that they can make rapid, tactical decisions.
+
+==Similar games in other countries==
+* In Spain, a variation of the game called Datchball was created by a physical education teacher named Roberto Navarro. The game and associations and leagues are found in the north of Spain.{{citation needed|date=July 2017}}
+* On the [[Indian subcontinent]] a variation of the game is played called "Sekan-tadi" (????-????). This is slang used for "slamming the hip". Other names are Gend Tadi and Maram Pitti.
+* In China, a variation of the game is played called "Diu Sha Bao" (???). Instead of a ball, the game is played with a small round sand bag, which is also known as the "Sha Bao" (??).<ref>{{Cite web|url=https://baike.baidu.com/item/%E4%B8%A2%E6%B2%99%E5%8C%85|title=???_????|last=|first=|date=|website=|archive-url=|archive-date=|dead-url=|access-date=}}</ref>
+
+==In popular culture==
+* The 2004 movie ''[[Dodgeball: A True Underdog Story]],'' despite presenting an unflattering view of the sport and its players,<ref>{{Cite web
+|url=https://www.imdb.com/title/tt0364725/
+|title=Dodgeball: A True Underdog Story
+|publisher=IMDb}}</ref> revived interest in the sport, especially among young adults.<ref>{{cite news |title=All Grown Up, Dodgeball Hurtles Toward a Higher Popularity |first=Amit |last=Paley |url=https://www.washingtonpost.com/wp-dyn/articles/A43151-2004Jul11.html |work=The Washington Post |date=July 12, 2004 |accessdate=February 3, 2012}}</ref>
+* Also in 2004, [[Extreme Dodgeball]], a dodgeball tournament broadcast as a game show, aired.
+* The videogame ''Stikbold: A Dodgeball Adventure'' (Stikbold being the Danish word for dodgeball) features the sport of dodgeball, although the rules vary slightly from the actual game.<ref>http://www.windowscentral.com/stikbold-dodgeball-adventure-review</ref>
+* The risks of injury from dodgeball, and the fact that gameplay resembles [[assault]], have resulted in controversies, lawsuits, and calls to eliminate the game from school physical education programs.<ref>{{cite news |title=School dodgeball goes to court in New York |url=https://www.usatoday.com/news/nation/2004-11-20-dodgeball_x.htm |work=The Associated Press |publisher=USAToday.com |date=November 20, 2004 |accessdate=February 3, 2012}}</ref>
+
+==World records==
+* [[University of California, Irvine]], reclaimed the largest game of dodgeball title on September 25, 2012, with 6,084 participants.<ref>{{Cite news
+|url=http://losangeles.cbslocal.com/2012/09/25/uc-irvine-students-claim-record-for-worlds-biggest-dodgeball-game/
+|title=UC Irvine Students Claim Record For World’s Biggest Dodgeball Game
+|publisher=CBSLA.com
+|date=September 25, 2012}}</ref> The previous largest game of dodgeball was played by 4,979 participants at the [[University of Alberta]] on February 3, 2012.<ref>{{cite news |title=U of A smashes dodgeball record |url=https://edmontonjournal.com/sports/smashs+dodgeball+record/6098140/story.html |work=Edmonton Journal |date=February 3, 2012 |accessdate=February 3, 2012}}</ref>
+* The longest game of dodgeball was played on April 27–29, 2012, at the [[Castleton State College]] in [[Castleton, Vermont]]. The game lasted for 41 hr 3 min 17 sec.<ref>{{cite web |url=http://www.guinnessworldrecords.com/records-3000/longest-marathon-playing-dodgeball/ |title=Longest marathon playing dodgeball |work=Guinness World Records |accessdate=June 19, 2013}}</ref>
+
+==Usage in American vernacular==
+In some American idioms, the act of avoiding something or someone mildly unpleasant can be referred to as 'playing dodgeball.' Additionally, in a variant of the same concept, the term "dodgeball" is sometimes used to describe a situation in which an individual is caught between two untenable positions, in a reference to the version of the game in which players from the same team can surround opposing players from two opposite sides.
+
+==See also==
+* [[Dodgeball ranking]]
+* [[List of dodgeball variations]]
+* [[Intercollegiate sports team champions#Dodgeball|U.S. intercollegiate dodgeball champions]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+* [http://www.thendl.com/theNDL-Dodgeball-101.asp National Dodgeball League Official Dodgeball Rules & Regulations of Play]
+* D'Angelo, Chris (2008). [http://www.dodgeballbook.com ''If you got the Guts, We got the Balls: A book about Dodgeball'']. Dangerous Chris Print. {{ISBN|978-0-578-01564-4}}
+* Keyes, A. (2005). ''The Complete Book About Dodgeball''.  AuthorHouse. {{ISBN|1-4208-7548-5}}
+* Kassock, Isaac (2012). ''The Philosophy of Dodgeball: A Treatise''. Createspace. {{ISBN|1-4700-4494-3}}
+* [[YMCA]] School Playground Partners: Dodgeball Games [https://web.archive.org/web/20090219064408/http://ecke.ymca.org/docs/playgroundpartners/dodgeballgames.pdf YMCA of San Diego County]
+
+==External links==
+{{commons category|Dodgeball}}
+{{Wiktionary}}
+* [http://www.worlddodgeballfederation.com/ World Dodgeball Federation] World Dodgeball Federation
+* [http://www.planetdodgeball.com/ World Dodgeball Association] World Dodgeball Association
+* [http://www.thendl.com/ National Dodgeball League] Professional dodgeball league, directions for member clubs/leagues in the United States.
+* [http://www.dodgeball4ever.com/ World Dodgeball Society] California, Chicago, New York
+* [http://www.elite-dodgeball.com/ Elite Dodgeball Invitational] Tournaments and leagues within the United States.  Invite only. 
+* [https://web.archive.org/web/20081225165333/http://www.dodgeballusa.com/index.shtml National Amateur Dodgeball Association]
+* [http://www.ncdadodgeball.com/ National College Dodgeball Association]
+* [http://www.dodgeballislife.com San Diego Dodgeball Leagues]
+* [http://dodgeballottawa.com Dodgeball Ottawa], Ottawa, Ontario, Canadian league.
+* [http://vdldodgeball.ca/ Vancouver Dodgeball League] A Vancouver, BC, Canada league.
+* [http://britishdodgeball.org/ British Dodgeball] National governing body for dodgeball in the UK.
+* [http://www.dodgeballnz.com/ Dodgeball NZ], New Zealand's Official Dodgeball Organisation
+* [http://www.dodgeballsa.com/ South African Dodgeball Association] SA's First Dodgeball Association.
+
+{{Outdoor games}}
+{{Team Sport}}
+
+{{Authority control}}
+
+
+
+
+
+
+

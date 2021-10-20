@@ -1,0 +1,38 @@
+{{Speciesbox 
+| name = 
+| image= Anguilla bengalensis Day 168.jpg
+| image2=Anguilla bengalensis bengalensis.jpg
+| image2_caption= ''A. b. bengalensis''
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN2014.1|assessor=Jacoby, D.|assessor2=Harrison, I.J.|assessor3=Gollock, M.|last-assessor-amp=yes |year=2014 |id=166630 |title=Anguilla bengalensis |downloaded=30 June 2014 }}</ref>
+| taxon = Anguilla bengalensis
+| authority = ([[John Edward Gray|J. E. Gray]], 1831)
+| subdivision_ranks = Subspecies
+| subdivision = ''[[Anguilla bengalensis bengalensis|A. b. bengalensis]]''<br>''[[Anguilla bengalensis labiata|A. b. labiata]]''
+| synonyms_ref = <ref>[http://fishbase.mnhn.fr/Nomenclature/SynonymsList.php?ID=11700&SynCode=34780&GenusName=Anguilla&SpeciesName=nebulosa Synonyms of ''Anguilla nebulosa''] {{webarchive|url=https://web.archive.org/web/20160308071220/http://fishbase.mnhn.fr/Nomenclature/SynonymsList.php?ID=11700&SynCode=34780&GenusName=Anguilla&SpeciesName=nebulosa |date=2016-03-08 }} at www.fishbase.org.</ref>
+| synonyms = * ''Anguilla nebulosa nebulosa'' <small>McClelland, 1844 </small>
+* ''Anguilla elphinstonei '' <small>Sykes, 1839  </small>
+* ''Muraena maculata '' <small>(non Lacepède, 1800) </small>
+* ''Anguilla bengalensis '' <small>(non Gray, 1831)</small>
+}}
+The '''mottled eel'''<ref>http://genomics.senescence.info/species/entry.php?species=Anguilla_nebulosa</ref> (''Anguilla bengalensis''), also known as the '''African mottled eel''', the '''Indian longfin eel''', the '''Indian mottled eel''', the '''long-finned eel''' or the '''river eel''',<ref>[http://fishbase.mnhn.fr/comnames/CommonNamesList.php?ID=11700&GenusName=Anguilla&SpeciesName=nebulosa&StockCode=12026 Common names for ''Anguilla nebulosa''] {{webarchive|url=https://web.archive.org/web/20160310235533/http://fishbase.mnhn.fr/comnames/CommonNamesList.php?ID=11700&GenusName=Anguilla&SpeciesName=nebulosa&StockCode=12026 |date=2016-03-10 }} at www.fishbase.org.</ref> is a [[demersal]], [[catadromous]]<ref>http://thewebsiteofeverything.com/animals/fish/Anguilliformes/Anguillidae/Anguilla-nebulosa</ref> [[eel]] in the family [[Anguillidae]].<ref name="Fishbase">[http://fishbase.mnhn.fr/summary/Anguilla-nebulosa.html ''Anguilla nebulosa''] at www.fishbase.org.</ref> It was described by [[John McClelland (doctor)|John McClelland]] in 1844.<ref name="McClelland, 1844">McClelland, J., 1844 (5 July) [ref. 2928]
+''Apodal fishes of Bengal.'' Calcutta Journal of Natural History v. 5 (no. 18): 151-226, Pls. 5-14.</ref> It is a [[tropical]], [[freshwater]] eel which is known from [[East Africa]], [[Bangladesh]], [[Andaman Islands]], [[Mozambique]], [[Malawi]], [[Sri Lanka]], [[Sumatra]], and [[Indonesia]] and recently from [[Madagascar]].<ref>http://www.nature.com/nature/journal/v179/n4559/abs/179594a0.html</ref> The eels spend most of their lives in freshwater at a depth range of 3–10 metres, but [[catadromous|migrate]] to the [[Indian Ocean]] to breed. Males can reach a maximum [[total length]] of 121 centimetres and a maximum weight of 7,000 grams.<ref name="Fishbase"/> The eels feed primarily off of [[benthic]] [[crustacean]]s, [[mollusks]], [[finfish]] and [[worm]]s.<ref>[https://archive.is/20130412212429/http://fishbase.mnhn.fr/TrophicEco/FoodItemsList.php?vstockcode=12026&genus=Anguilla&species=nebulosa Food items reported for ''Anguilla nebulosa''] at www.fishbase.org.</ref>
+
+The exact classification of the species was a debate in recent times, where some major fish websites (ex. Fish Base) classified the species under the name ''[[Anguilla nebulosa|A. nebulosa]]''. But according to the IUCN Red List 2015 version, the fish species should be classified as ''A. bengalensis'' with some subspecies.<ref>http://oldredlist.iucnredlist.org/details/summary/61668607/0</ref>
+
+==Subspecies==
+* ''[[Anguilla bengalensis bengalensis]]'' sometimes known as the Indian mottled eel.<ref name="fishbase">{{FishBase species alt | ID = 1272 | taxon = Anguilla bengalensis bengalensis| year = 2006 | month = 05}}</ref>
+* ''[[Anguilla bengalensis labiata]]'' sometimes known as the African mottled eel.<ref name="fish">{{FishBase species alt | ID = 1273 | taxon = Anguilla bengalensis labiata | year=2006 | month=05 }}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q2719391}}
+
+
+
+
+
+
+{{Anguilliformes-stub}}

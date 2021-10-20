@@ -1,0 +1,36 @@
+{{Speciesbox 
+| name = Brazilian funnel-eared bat
+| image =
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name=iucn>{{cite iucn | author = Tejedor, A. | author2 = Davalos, L..| title = ''Natalus espiritosantensis'' | journal = [[IUCN Red List of Threatened Species]] | volume= 2016 | page = e.T136448A21983924 | publisher = [[IUCN]] | year = 2016 | url = http://www.iucnredlist.org/details/136448/0 | doi = 10.2305/IUCN.UK.2016-2.RLTS.T136448A21983924.en | accessdate = 18 February 2019}}</ref>
+| genus = Natalus
+| species = macrourus
+| authority = [[Paul Gervais|Gervais]], 1856
+| range_map = Natalus espiritosantensis map.svg
+}}
+
+The '''Brazilian funnel-eared bat''' (''Natalus macrourus'') is a [[South America]]n [[bat]] [[species]] found in eastern [[Brazil]]. It roosts in caves, which makes it vulnerable to disturbance of these scarce sites, and in particular, to extermination campaigns against cave-roosting bats carried out in Brazil to combat [[rabies]].<ref name=iucn />
+
+It was formerly considered a subspecies of ''[[Natalus stramineus|N. stramineus]]''.<ref name=iucn/><ref name = MSW3>{{MSW3 Chiroptera | id = 13801546 | page = 431}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Natalidae}}
+{{Taxonbar|from=Q2231458}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{Bat-stub}}

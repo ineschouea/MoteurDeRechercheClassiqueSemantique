@@ -1,0 +1,27 @@
+{{Speciesbox
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name=iucn>{{Cite journal | last1 = Sheppard | first1 = A. | last2 = Fenner | first2 = D. | last3 = Edwards | first3 = A. | last4 = Abrar | first4 = M. | last5 = Ochavillo | first5 = D. | title = ''Alveopora viridis'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2014 | page = e.T133567A54286388 | publisher = [[IUCN]] | date = 2014 | url = http://www.iucnredlist.org/details/133567/0 | doi = 10.2305/IUCN.UK.2014-1.RLTS.T133567A54286388.en | access-date = 5 January 2018}}</ref> 
+| taxon = Alveopora viridis
+| authority = Quoy & Gaimard, 1833 <ref name=WoRMS>{{cite WoRMS |author =Hoeksema, Bert |year=2015 |title=''Alveopora viridis'' Quoy & Gaimard, 1833 |id=207203 |accessdate=7 August 2015|db=}}</ref> 
+}}
+
+'''''Alveopora viridis''''' is a species of [[Scleractinia|stony coral]] that has a highly [[Disjunct distribution|disjunct]] range, and can be found in the [[Red Sea]], the [[Gulf of Aden]], the northern Indian Ocean and in [[Palau]] and the [[Mariana Islands]]. It is found on lower [[coral reef]] slopes to depths of 50&nbsp;m. It is particularly susceptible to [[coral bleaching]] and is harvested for the aquarium trade.
+
+==Description==
+[[Colony (biology)|Colonies]] of ''Alveopora viridis'' are submassive or columnar. The  [[corallite]]s are very small and the [[Septum (coral)|septa]] bear spines of two different lengths. The colonies are usually some shade of greyish-brown or greenish-brown.<ref name=AIMS>{{cite web |url=http://coral.aims.gov.au/factsheet.jsp?speciesCode=0904 |title=''Alveopora viridis'' |year=2013 |publisher=Australian Institute of Marine Science |accessdate=7 August 2015}}</ref>
+
+==Biology==
+''Alveopora viridis'' is a [[Zooxanthellae|zooxanthellate]] species of coral.<ref name=WoRMS/> It obtains most of its nutritional needs from the [[Symbiosis|symbiotic]] [[dinoflagellate]]s that live inside its soft tissues. These [[Photosynthesis|photosynthetic]] organisms provide the coral with organic carbon and nitrogen, sometimes providing up to 90% of their host's energy needs for metabolism and growth. The remaining needs of the colony are met from the assimilation of [[plankton]]ic organisms caught by the tentacles of the polyps.<ref name=Ruppert>{{cite book |title=Invertebrate Zoology |edition=7th |last1=Ruppert |first1=Edward E. |last2=Fox |first2=Richard, S. |last3=Barnes |first3=Robert D. |year=2004 |publisher=Cengage Learning |isbn=978-81-315-0104-7 |page=122 }}</ref>
+
+==Status==
+This coral is particularly susceptible to [[coral bleaching]] and it is harvested for the [[reef aquarium]] trade.  All corals receive protection by being listed on [[CITES Appendix II]]. The main threats faced by corals are related to [[climate change]]; the mechanical destruction of their coral reef habitats, increasing damage from extreme weather events, rising sea water temperatures and [[ocean acidification]]. ''Alveopora viridis'' has a wide range but has a number of separate subpopulations and is generally uncommon. The [[International Union for Conservation of Nature]] has assessed its conservation status as being "[[Near-threatened species|near-threatened]]".<ref name=iucn/>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q3944421}}
+
+
+
+

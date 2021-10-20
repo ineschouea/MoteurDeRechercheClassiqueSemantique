@@ -1,0 +1,50 @@
+{{speciesbox
+| name = Samoa flying fox 
+| image = Pteropus samoensis2-2-2.jpg
+| image_caption = Samoa flying fox in the wild
+| status = NT | status_system = IUCN3.1
+| status_ref = <ref name=iucn>{{cite journal | author = Brooke, A. | author2 = Wiles, G. | last-author-amp = yes | title = ''Pteropus samoensis'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2008 | page = e.T18757A8571276 | publisher = [[IUCN]] | date = 2008 | url = http://www.iucnredlist.org/details/18757/0 | doi = 10.2305/IUCN.UK.2008.RLTS.T18757A8571276.en | access-date = 10 November 2017}}</ref>
+| genus = Pteropus
+| species = samoensis
+| authority = [[Titian Peale|Peale]], 1848
+| synonyms = 
+| range_map = Samoa Flying Fox area.png
+| range_map_caption = Samoa flying fox range
+}}
+
+The '''Samoa flying fox''' or '''Samoan flying fox''' (''Pteropus samoensis'') is a species of [[flying fox]] in the family [[Pteropodidae]]. It is found in [[American Samoa]], [[Fiji]], and [[Samoa]] (where it is known as ''pe'a'' and ''pe'a vao''). Its natural [[habitat]] is subtropical or tropical dry [[forest]]s. It is threatened by [[habitat loss]].
+
+==Description==
+[[File:PteropusWhitmeeiFord.jpg|thumb|left|upright]]
+The Samoan flying fox is a medium-sized bat weighing about {{convert|450|g}} with a wingspan of about {{convert|0.86|m}}. It has a fox-like face with a pointed muzzle, a brown body and wings and the fur on its head and shoulders is blond or silvery-grey.<ref name=ADW>{{cite web |url=http://animaldiversity.ummz.umich.edu/accounts/Pteropus_samoensis/ |title=''Pteropus samoensis'': Samoan flying fox |author=Holmes, Stacie |year=2002 |work=Animal Diversity Web |accessdate=2013-12-08}}</ref>
+
+==Distribution and habitat==
+The Samoan flying fox is native to Fiji, Samoa and American Samoa. Its habitat is primary or secondary moist forest, plantations, agroforest and the vicinity of villages. Unlike most flying foxes, this species roosts alone or in small family groups.<ref name=iucn/>
+
+==Biology==
+This bat is mostly diurnal, making foraging expeditions in early mornings and late afternoons. The diet consists mainly of fruit but leaves, flowers and nectar are also eaten. This bat is believed to be [[Monogamy|monogamous]] and males defend a [[Territory (animal)|territory]] of about {{convert|3|km2}}. A single offspring is born each year, usually in May or June. The juveniles begin to fly when they are about half the size of the adults, but may remain dependant on their mothers until three-quarters of her size.<ref name=ADW/>
+
+==Status==
+The [[IUCN]] lists the Samoan flying fox as being "[[Near Threatened]]". Populations of this bat are thought to be in slow decline, but it has a wide range, and it is quite common within that range, and the rate of decline is believed not to be sufficient to justify putting it in a more-threatened category. The main threats it faces are forest clearance and the hunting of it for food. In the 1980s, it was killed commercially for export as a luxury food item, but a stop was put to that trade when it was listed in [[CITES#Appendix I|Appendix I of CITES]] in 1990.<ref name=iucn/> This made it illegal to export it, and hunting since then has been on a smaller scale and only for domestic use. It is present in some national parks and other protected areas which gives it some measure of protection.<ref name=iucn/>
+
+==Samoan mythology==
+The Samoan word for the flying fox fruit bat, ''pe'a'', is also the name of the traditional [[Pe'a|Samoan male tattoo]].
+In [[Samoan mythology|Samoan]] and [[Polynesian mythology|Polynesian]] mythologies, stories, [[myth]]s, proverbs, and legends are associated with this winged creature.<ref name="HerenikoWilson1999">{{cite book|author1=Vilsoni Hereniko|author2=Rob Wilson|title=Inside Out: Literature, Cultural Politics, and Identity in the New Pacific|url=https://books.google.com/books?id=X5uMnqE9fZQC&pg=PA402|year=1999|publisher=Rowman & Littlefield|isbn=978-0-8476-9143-2|pages=402–}}</ref> One legend from the island of [[Savai'i]] in Samoa is about [[Nafanua]], goddess of war; she was rescued by flying foxes when stranded on an inhospitable island.<ref name="Geiger2007">{{cite book|author=Jeffrey Geiger|title=Facing the Pacific: Polynesia and the American Imperial Imagination|url=https://books.google.com/books?id=p0ljHimkYOgC&pg=PA155|year=2007|publisher=University of Hawaii Press|isbn=978-0-8248-3066-3|pages=155–}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Pteropodidae|P.}}
+
+{{Taxonbar|from=Q558864}}
+
+
+
+
+
+
+
+
+
+
+

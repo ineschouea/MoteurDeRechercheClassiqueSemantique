@@ -1,0 +1,51 @@
+{{speciesbox
+| image = Grey-headed parakeet (34365126130).jpg
+| name = Grey-headed parakeet
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22685473 |title=''Psittacula finschii'' |assessor=BirdLife International |assessor-link=BirdLife International |version=2013.2 |year=2013 |accessdate=26 November 2013}}</ref>
+| genus = Psittacula
+| species = finschii
+| authority = ([[Allan Octavian Hume|Hume]], 1874)
+}}
+The '''grey-headed parakeet''' (''Psittacula finschii'') is closely related to the [[slaty-headed parakeet]] which together form a super-species. It is found in Southeast Asia from north-eastern India to Vietnam.
+
+The binomial of this bird commemorates the German naturalist and explorer [[Otto Finsch]].
+
+== Description ==
+Its face is grey/green, and the rest of its head is dull green with faint pale green band below cheeks to hindcrown and its wing are patch absent and has a long tail.
+
+== Distribution & Population ==
+The grey headed parakeet has a wide range in Southeast Asia. It is found in most of Vietnam, the entire country of Laos, most of eastern Cambodia, northern Thailand, in most of Myanmar (except for [[Tanintharyi Region]]), in the [[Yunnan]] province of China, in far east Bangladesh (extremely rare), nearly all of [[Northeast India]], and far southeast Bhutan. The global population size is not known, but this bird is reported to be uncommon in China, with varying statuses everywhere else.
+
+== Habitat ==
+''Psittacula finschii'' is found in elevations of up to 2,700 meters in forests consisting of [[oak]], [[teak]], [[pine]], and cedar [[tree]]s. It also resides on   [[deciduous]] forest hillsides, farmland with scattered trees.  In Cambodia, it regularly occurs in areas with evergreen and semi-evergreen vegetation.
+
+== Ecology ==
+The grey headed parakeet has a widely varied diet of different species of leaf buds, [[seed]]s, [[fruit]], [[Berry|berries]], and [[flower]]s. It is often seen in flocks or family parties, with larger groups reported. It is usually a resident bird, with some seasonal altitudinal movement in response to food availability. It often gathers in large flocks to roost at dusk.After their breeding season from January–March,  [[female]]s often lay a clutch of 4-5 [[egg]]s that are around 28.5 x 22.0mm.
+
+== Threats ==
+Th grey-headed parakeet is often captured in the exotic bird trade and many are locally kept as pets.They tend to be popular in some small villages in southern China and surrounding areas. The constant trapping of birds is greatly affecting the wild population. [[Deforestation]] and [[logging]] of the bird's natural forest habitat is also making a negative impact on the parakeet's population. The country of Laos and its uninhabited forest hills seems to act as a safe haven for the species.
+
+==References==
+{{Reflist}}<!-- Forktail13:109. -->
+* [http://orientalbirdimages.org/search.php?Bird_ID=510 Photos] - Oriental Bird Images
+* [http://www.parrots.org/index.php/encyclopedia/profile/grey_headed_parakeet Species profile] - World Parrot Trust
+* http://www.birdlife.org/datazone/speciesfactsheet.php?id=1533
+
+{{Psittaculini}}
+
+{{Taxonbar|from=Q612426}}
+
+{{DEFAULTSORT:parakeet, grey-headed}}
+
+
+
+
+
+
+
+
+
+
+{{parrot-stub}}

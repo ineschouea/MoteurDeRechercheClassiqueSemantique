@@ -1,0 +1,32 @@
+{{speciesbox
+| name = Prehensile-tailed hutia
+| image = Capromys prehensilis (Harvard University).JPG
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name=iucn>{{Cite journal | author = Soy, J. | author2 = Silva, G. | last-author-amp = yes | title = ''Mysateles prehensilis'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2008 | page = e.T14258A4427189 | publisher = [[IUCN]] | date = 2008 | url = http://www.iucnredlist.org/details/14258/0 | doi = 10.2305/IUCN.UK.2008.RLTS.T14258A4427189.en | access-date = 12 January 2018}}</ref>
+| genus = Mysateles
+| species = prehensilis
+| authority = ([[Eduard Friedrich Poeppig|Poeppig]], 1824)
+| synonyms = 
+}}
+
+The '''prehensile-tailed hutia''' (''Mysateles prehensilis'') is a species of [[rodent]] in the family [[Capromyidae]] [[endemic]] to [[Cuba]]. It is an [[arboreal]] [[foliovore]], found in both primary and secondary forest.<ref name=iucn/> Its [[karyotype]] has [[Ploidy#Diploid|2n]] = 34 and [[Karyotype#Fundamental number|FN]] = 54-56.<ref name = MSW3>{{MSW3 Hystricognathi | id = 13400583 | page = 1597}}</ref>
+
+The species is listed as [[Near threatened]] on the [[IUCN Red List]]. Although locally common in some areas, it is in decline and is threatened by [[deforestation]] and [[habitat fragmentation]].<ref name=iucn/>
+
+==References==
+{{Reflist}}
+
+{{Capromyidae nav}}
+{{Taxonbar|from=Q4862701}}
+
+
+
+
+
+
+
+
+
+
+{{rodent-stub}}

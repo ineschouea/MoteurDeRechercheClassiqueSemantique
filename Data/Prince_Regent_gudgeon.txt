@@ -1,0 +1,23 @@
+{{Speciesbox 
+| status = NT
+| status_system = IUCN2.3
+| status_ref = <ref name = IUCN>{{cite journal | author =Wager, R. | year = 1996 | title = ''Hypseleotris regalis'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 1996 | page = e.T10733A3210473 | doi = 10.2305/IUCN.UK.1996.RLTS.T10733A3210473.en }}</ref>
+| taxon = Hypseleotris regalis
+| authority = [[Douglass Fielding Hoese|Hoese]] & [[Gerald R. Allen|G. R. Allen]], 1982
+}}
+
+The '''Prince Regent gudgeon''' (''Hypseleotris regalis'') is a species of fish in the family [[Eleotridae]] [[Endemism|endemic]] to [[Australia]], where it is only known to occur in clear, rocky pools in the [[Prince Regent Reserve]] in [[Western Australia]].  This species can reach a length of {{convert|5|cm|in|abbr=on}}.<ref>{{FishBase |genus= Hypseleotris|species= regalis| month = April | year = 2013}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q1224611}}
+
+
+
+
+
+
+
+
+{{Gobiiformes-stub}}

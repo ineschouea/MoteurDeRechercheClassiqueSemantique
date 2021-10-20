@@ -1,0 +1,70 @@
+{{Other|Half time (disambiguation)}}
+
+In several [[team sport]]s, [[match]]es are played in two halves. '''Half-time''' (also written '''halftime''' or '''half time''') is the name given to the interval between the two halves of the match. Typically, after half-time teams swap ends of the field of play, in order to reduce any advantage that may be gained from wind or a slope to the playing surface, for example.
+
+While it exists mainly to allow competitors to rest briefly and recover from the play of the first half, half-time also serves a number of other purposes. It also serves as an [[intermission]] for spectators, and it often features [[halftime show|entertainment]], such as [[cheerleading|cheerleading performances]], [[tifo]]s, performances by school [[marching band]]s (particularly in high school and [[collegiate sports]] in North America), or concerts featuring popular music acts (particularly in major events, such as the [[Super Bowl halftime shows|Super Bowl]]). On games that are broadcast on television and radio, it also provides broadcasters with an opportunity to give a recap of the first half of the game, air highlights of other games in progress, air [[Advertising|commercials and other advertisements]], provide analysis on the game, or air game-related festivities (such as an aforementioned half-time performance). In the NFL (National Football League), halftime is usually around 12 minutes, although for major events like the Super Bowl it may last much longer to allow for more activities like musical performances.
+
+==History==
+The origin of changing ends at half-time lies in the early [[English public school football games]]. One early use of a ''fixed'' half-time, and it is suggested{{by who|date=February 2019}} the origin of the practice, was to allow for two football teams each used to a different set of rules to play half of the game by familiar rules, and half by the opposition rules. This was practised notably between followers of [[Eton College|Eton]]-rules football (closer to modern association football) and [[Rugby School|Rugby]]-rules football (closer to modern rugby [[Rugby union]]). This use of half-time was unnecessary after the standardisation of football rules in 1863 (see [[Laws of the Game (association football)#History and development|Laws of the Game]]) but is still used for the now-rare contests between teams playing different codes of football. Changing ends at half-time (if no goals had been scored) was part of the following schools' codes:  Brighton, Eton, Rossall, Sheffield, and Winchester. Other schools changed every time that side scored (Cheltenham, FA, Harrow, Marlborough, Rugby, Shrewsbury, Uppingham schools)<ref>''Football, The First Hundred Years: The Untold Story''.  Adrian Harvey.  Routledge, Abingdon, 2005 p. 184</ref>  The 1863 [[Cambridge Rules]] state: "In a match when half the time agreed upon has elapsed, the side shall change goals when the ball is next out of play".
+
+==Overview==
+One benefit of half-time in a field game is to allow teams to swap their positions on the field in order that the effects of the natural conditions such as sunlight and wind direction are experienced fairly by both teams. In some sports this is achieved without the need for half-time: for example, in [[cricket]] fielding positions of players are rotated after a set passage of play.  In other sports no such provision is necessary, for example in [[baseball]], where playing positions do not change and both teams occupy the same locations on the field of play, though there is frequent rotation of players in the ordinary course of play.
+
+Half-time for spectators offers the opportunity to visit the [[toilet]], get some [[food]] or [[drink]], or just [[exercise]] [[cramp]]ed [[Limb (anatomy)|limbs]], without the fear of missing any of the action. A [[half-time show]] may be put on for the spectators to keep their attention, most famously in the case of the [[American football]] [[Super Bowl]]. As many spectators at the ground may be otherwise occupied using stadium facilities it might be inferred that the scale and spectacle of half-time entertainment is more directly related to the size of the potential television audience.
+
+In many sports that are [[television|televised]], half-time offers the opportunity to advertise, a valuable source of [[revenue]] for [[television]] [[companies]]. In addition, it allows analysis of the game so far by pundits; controversial incidents or exceptional play may be highlighted at this time. It also allows viewers to catch up with any action that they may have missed. Half-time has spawned one of the most enduring [[clichés]] to describe football: that "it's a game of two halves."<ref>[https://www.independent.co.uk/news/media/sport-on-tv-its-a-game-of-two-halves-and-this-is-how-the-other-half-lived-765630.html It's a Game of Two Halves] ''[[Independent (newspaper)|Independent]]'', 16 December 2007, accessed 19 September 2009</ref>
+
+==List of team sports==
+===With half-time===
+{|class=wikitable
+|-
+!Sport !! Length of half-time !! Length of a half
+|-
+| [[American football]] || 12 (professional) or 20 (college) minutes<ref>[https://www.usatoday.com/sports/college/football/2006-05-30-replay_x.htm College football gets uniform instant replay system] ''[[USA Today]]'', 5 May 2006</ref> ||Two 15 minute quarters. Each half is 30 minutes. In [[International Federation of American Football|IFAF]], two 12-minute quarters, with each half at 24 minutes.
+|-
+| [[Association football]] || 15 minutes || 45 minutes plus stoppage time
+|-
+| [[Australian rules football]] || 20 minutes || Two periods (quarters) of 20 minutes plus stoppage time
+|-
+| [[Bandy]] || ?20 minutes<ref name=bandyrules>{{cite web|url=http://www.worldbandy.com/ckfinder/userfiles/files/Rules/Bandyrules_FIB_Sept2011.pdf|title=Bandy Playing Rules: Rule 4. Playing time|publisher=Federation of International Bandy|date=1 September 2011|accessdate=8 March 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20130511181936/http://www.worldbandy.com/ckfinder/userfiles/files/Rules/Bandyrules_FIB_Sept2011.pdf|archivedate=11 May 2013|df=}}</ref> || 45 minutes plus injury time, replacement time etc.<ref name=bandyrules/>
+|-
+| [[Basketball]] || 15 minutes || Two periods (quarters) of 10 ([[FIBA]], [[WNBA]], [[Women's National Basketball League|WNBL]], [[National Basketball League (Australasia)|NBL]]) or 12 minutes each ([[NBA]]) or one period (half) of 20 minutes ([[College basketball|U. S. college basketball]]).
+|-
+| [[Canoe Polo]] || 1–3 minutes || 7–10 minutes
+|-
+| [[Field hockey]] || 10 minutes || 35 minutes
+|-
+| [[Gaelic football]] || 12 minutes || 30 or 35 minutes
+|-
+| [[Handball]] ||10 minutes ||30 minutes
+|-
+| [[Hurling]] || 12 minutes || 30 or 35 minutes
+|-
+| [[Lacrosse]]  || 12 minutes in [[National Lacrosse League|NLL]] only || Two periods (quarters) of 15 minutes each in NLL
+|-
+| [[Netball]]  || 5 minutes ||Two periods (quarters) of 15 minutes each
+|-
+| [[Rugby league]] || 10 minutes || 40 minutes
+|-
+| [[Rugby union]] ||10-15 minutes ||40 minutes
+|-
+| [[Rugby sevens]] (union) || 1 minute (2 minutes in competition finals) || 7 minutes (10 minutes in competition finals)
+|}
+
+===With intervals other than half-time===
+* [[Ice hockey]]
+* [[Water polo]]{{cn|date=April 2015}}
+* [[Cricket]]
+* [[Box lacrosse]]
+* [[Volleyball]] matches typically take three minutes between sets 1 and 2 and any sets after the 3rd (if played). The interval between sets 2 and 3 is sometimes longer, and sometimes the same.
+
+===No half-time or equivalent===
+(other than to allow movement of players in the natural course of play and/or TV commercials)
+* [[Baseball]] (although there is a [[seventh-inning stretch]])
+* [[Softball]]
+
+==References==
+{{Reflist}}<!--added above categories/infobox footers by script-assisted edit-->
+
+
+

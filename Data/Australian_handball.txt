@@ -1,0 +1,158 @@
+{{Use Australian English|date=July 2016}}
+{{Use dmy dates|date=July 2016}}
+{{merge|American handball|Gaelic handball|discuss=Talk:Gaelic_handball#Merger_into_Wall_handball?|date=March 2019}}
+
+{{Infobox game
+| title         = Australian handball
+| italic title = no
+| image_link    = <!-- just the image name in the form [[Image:]] -->
+| image_caption = <!-- as appropriate--->
+| years         = 1847 to present<ref name=worldbookaustralia>"Handball" (article), The World Book Encyclopedia – Australasia 1970, Field Enterprises Educational Corporation, Chicago Illinois, (fieldwork assistance by Field Educational Enterprises of Australasia Pty. Ltd., North Sydney, Australia, p. 370</ref>
+| players       = One player vs another, or is in doubles – as in 2 on 2
+| setup_time    = Minimal, if any
+| random_chance = None
+| skills        = [[Fine motor skills|Manual dexterity]]<br />[[Social interaction|Social skills]]<br />[[Walking]]<br />[[Gross motor skill]]<br />Running
+}}
+__NOTOC__
+'''Australian handball''' is a sport in which players hit a ball against one or more walls.
+
+==Play==
+Australian handball is similar to [[squash (sport)|squash]] played without a racquet. The ball is served such that it makes direct contact with the front wall without having bounced on the ground. It must then be returned similarly by the opponent to the front wall before the ball bounces on the ground twice.  It may also contact side walls to or from the front wall, but once a player has struck the ball with hand, it must make contact with the front before touching the ground.
+
+The game is played in singles or doubles format. There are 1, 3 or 4 wall versions of this game. The typical Australian version is the three wall version, as most courts in Australia are set for this version. Perhaps the bulk of these playing venues are set in various private Catholic Colleges.<ref name=worldbookaustralia/><ref name=eddie/>
+
+==History and development==
+'''Australian Handball''' (similar to [[Gaelic handball|Irish]], [[Welsh handball|Welsh]] and [[American handball]])<ref name=eddie>"Eddie has a bright future at Handball" (article), City of Preston Post Times, Leader Group, Northcote, Melbourne, 18 December 1984, p. 11</ref> has been played formally in Australia, since 1923.
+
+Although its formal beginnings in Australia date from 1923,<ref name=australianhandball>{{cite web|url=http://www.handballaustralia.com.au |title=Australian Handball |publisher=Australian Handball Council |accessdate= 1 March 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20090629065049/http://www.handballaustralia.com.au/ |archivedate=29 June 2009 |df=dmy }}  Australian Handball Council, SA 2009</ref> it has been played in some capacity or another since the 19th Century.<ref name=100years>{{cite web | url = http://catalogue.nla.gov.au/Record/87070 | title = 100 years of handball in South Australia 1901–2000 | publisher = South Australian Handball Association, [Adelaide] 2000 |accessdate = 12 December 2017}}</ref> A similar game was introduced from Ireland and the first Australian Handball court was built by Melbourne hotel-keeper, Michael Lynch, in 1847.<ref name=worldbookaustralia/> Its early development has been attributed to the work of Christian Brothers' Colleges.<ref name=stbernardscollege>{{cite web|url=http://www.sbc.melb.catholic.edu.au/groups/oc/pdf/The_Strand_July_03.pdf |title=The Strand |publisher=St. Bernard's College, Essendon, Vic, Australia 2003 |accessdate=3 April 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20080722214036/http://www.sbc.melb.catholic.edu.au/groups/oc/pdf/The_Strand_July_03.pdf |archivedate=22 July 2008 |df=dmy }}(Newsletter), Vol 10. No. 2 July 2003, p. 6</ref> Over most of its history, its primary play has been in Victoria, South Australia and New South Wales. As the game continued to develop, by 1970, there were about 1,000 players registered within the New South Wales, Victorian and South Australian state associations.<ref name=worldbookaustralia/>
+
+For many decades, the Australian Handball Council has held almost annual national championships, and each state has held its own state titles.<ref name=australianhandball/> Senior titles have not been the only level of keen interest and activity, however.  During the 1950s' and 1960s, both – the Australian Singles Schoolboys Handball Championships and the Australian Doubles Schoolboys Handball Championships – were held on regular bases.  Many great champions of the past were 'blooded' on these schoolboy rivalries.<ref name=stbernardscollege/> Additionally, over many decades Australians have made regular appearances at the World Junior and World Senior Titles.<ref name=worldbookaustralia/><ref name=eddie/> Within Australia, of more recent decades, the chief rivalries have been between Victoria and South Australia. For the past three decades, the states have generally engaged in some 'midpoint' venue – usually in [[Warrnambool, Victoria]], over one weekend annually, for the national handball championships. In some areas, modern changes to school venues have meant the disappearance of the school's traditional handball courts, making it harder on handballers to access the game.<ref name=australianhandball/>
+
+The game is nationally run by the Australian Handball Council, formed in 1928,<ref name=worldbookaustralia/> of which the current Executive Director is Jim Kiley, and the Secretary/Treasurer – Greg Hay.<ref name=australianhandball/>
+
+==Notable players==
+A few highly respected names in the game's history include multi-national champions, The Legendary Jmaz, Tim Tucker and George Macris<ref name=worldbookaustralia/> in the first half of the 20th Century, and John Hughes of Victoria, Paul Fallon, NSW, Lou Ravesi, SA and Vic DeLuzio and Geoff Walsh of Victoria, in the 2nd half.<ref name=australianhandball/><ref name=stbernardscollege/><ref>{{cite web | url = http://catalogue.nla.gov.au/Record/1158406 | title = Interview with Paul Fallon, eleven times Australian handball champion | publisher = Neil Bennetts, Australia, 1983 |accessdate = 3 April 2009}}</ref>
+
+==See also==
+* [[Hack Slap]], an analogous game played with the feet instead of hands
+* [[Handball (school)]], a popular game played in schools in Australia
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Portal|Games}}
+* [http://www.handballaustralia.org.au/ Australian Handball Council]
+* [https://web.archive.org/web/20080506235503/http://www.worldhandballcouncil.com/ World Handball Council]
+
+{{DEFAULTSORT:Australian Handball}}
+
+
+
+
+
+{{Use Australian English|date=July 2016}}
+{{Use dmy dates|date=July 2016}}
+{{merge|American handball|Gaelic handball|discuss=Talk:Gaelic_handball#Merger_into_Wall_handball?|date=March 2019}}
+
+{{Infobox game
+| title         = Australian handball
+| italic title = no
+| image_link    = <!-- just the image name in the form [[Image:]] -->
+| image_caption = <!-- as appropriate--->
+| years         = 1847 to present<ref name=worldbookaustralia>"Handball" (article), The World Book Encyclopedia – Australasia 1970, Field Enterprises Educational Corporation, Chicago Illinois, (fieldwork assistance by Field Educational Enterprises of Australasia Pty. Ltd., North Sydney, Australia, p. 370</ref>
+| players       = One player vs another, or is in doubles – as in 2 on 2
+| setup_time    = Minimal, if any
+| random_chance = None
+| skills        = [[Fine motor skills|Manual dexterity]]<br />[[Social interaction|Social skills]]<br />[[Walking]]<br />[[Gross motor skill]]<br />Running
+}}
+__NOTOC__
+'''Australian handball''' is a sport in which players hit a ball against one or more walls.
+
+==Play==
+Australian handball is similar to [[squash (sport)|squash]] played without a racquet. The ball is served such that it makes direct contact with the front wall without having bounced on the ground. It must then be returned similarly by the opponent to the front wall before the ball bounces on the ground twice.  It may also contact side walls to or from the front wall, but once a player has struck the ball with hand, it must make contact with the front before touching the ground.
+
+The game is played in singles or doubles format. There are 1, 3 or 4 wall versions of this game. The typical Australian version is the three wall version, as most courts in Australia are set for this version. Perhaps the bulk of these playing venues are set in various private Catholic Colleges.<ref name=worldbookaustralia/><ref name=eddie/>
+
+==History and development==
+'''Australian Handball''' (similar to [[Gaelic handball|Irish]], [[Welsh handball|Welsh]] and [[American handball]])<ref name=eddie>"Eddie has a bright future at Handball" (article), City of Preston Post Times, Leader Group, Northcote, Melbourne, 18 December 1984, p. 11</ref> has been played formally in Australia, since 1923.
+
+Although its formal beginnings in Australia date from 1923,<ref name=australianhandball>{{cite web|url=http://www.handballaustralia.com.au |title=Australian Handball |publisher=Australian Handball Council |accessdate= 1 March 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20090629065049/http://www.handballaustralia.com.au/ |archivedate=29 June 2009 |df=dmy }}  Australian Handball Council, SA 2009</ref> it has been played in some capacity or another since the 19th Century.<ref name=100years>{{cite web | url = http://catalogue.nla.gov.au/Record/87070 | title = 100 years of handball in South Australia 1901–2000 | publisher = South Australian Handball Association, [Adelaide] 2000 |accessdate = 12 December 2017}}</ref> A similar game was introduced from Ireland and the first Australian Handball court was built by Melbourne hotel-keeper, Michael Lynch, in 1847.<ref name=worldbookaustralia/> Its early development has been attributed to the work of Christian Brothers' Colleges.<ref name=stbernardscollege>{{cite web|url=http://www.sbc.melb.catholic.edu.au/groups/oc/pdf/The_Strand_July_03.pdf |title=The Strand |publisher=St. Bernard's College, Essendon, Vic, Australia 2003 |accessdate=3 April 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20080722214036/http://www.sbc.melb.catholic.edu.au/groups/oc/pdf/The_Strand_July_03.pdf |archivedate=22 July 2008 |df=dmy }}(Newsletter), Vol 10. No. 2 July 2003, p. 6</ref> Over most of its history, its primary play has been in Victoria, South Australia and New South Wales. As the game continued to develop, by 1970, there were about 1,000 players registered within the New South Wales, Victorian and South Australian state associations.<ref name=worldbookaustralia/>
+
+For many decades, the Australian Handball Council has held almost annual national championships, and each state has held its own state titles.<ref name=australianhandball/> Senior titles have not been the only level of keen interest and activity, however.  During the 1950s' and 1960s, both – the Australian Singles Schoolboys Handball Championships and the Australian Doubles Schoolboys Handball Championships – were held on regular bases.  Many great champions of the past were 'blooded' on these schoolboy rivalries.<ref name=stbernardscollege/> Additionally, over many decades Australians have made regular appearances at the World Junior and World Senior Titles.<ref name=worldbookaustralia/><ref name=eddie/> Within Australia, of more recent decades, the chief rivalries have been between Victoria and South Australia. For the past three decades, the states have generally engaged in some 'midpoint' venue – usually in [[Warrnambool, Victoria]], over one weekend annually, for the national handball championships. In some areas, modern changes to school venues have meant the disappearance of the school's traditional handball courts, making it harder on handballers to access the game.<ref name=australianhandball/>
+
+The game is nationally run by the Australian Handball Council, formed in 1928,<ref name=worldbookaustralia/> of which the current Executive Director is Jim Kiley, and the Secretary/Treasurer – Greg Hay.<ref name=australianhandball/>
+
+==Notable players==
+A few highly respected names in the game's history include multi-national champions, The Legendary Jmaz, Tim Tucker and George Macris<ref name=worldbookaustralia/> in the first half of the 20th Century, and John Hughes of Victoria, Paul Fallon, NSW, Lou Ravesi, SA and Vic DeLuzio and Geoff Walsh of Victoria, in the 2nd half.<ref name=australianhandball/><ref name=stbernardscollege/><ref>{{cite web | url = http://catalogue.nla.gov.au/Record/1158406 | title = Interview with Paul Fallon, eleven times Australian handball champion | publisher = Neil Bennetts, Australia, 1983 |accessdate = 3 April 2009}}</ref>
+
+==See also==
+* [[Hack Slap]], an analogous game played with the feet instead of hands
+* [[Handball (school)]], a popular game played in schools in Australia
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Portal|Games}}
+* [http://www.handballaustralia.org.au/ Australian Handball Council]
+* [https://web.archive.org/web/20080506235503/http://www.worldhandballcouncil.com/ World Handball Council]
+
+{{DEFAULTSORT:Australian Handball}}
+
+
+
+
+
+{{Use dmy dates|date=July 2016}}
+{{merge|American handball|Gaelic handball|discuss=Talk:Gaelic_handball#Merger_into_Wall_handball?|date=March 2019}}
+
+{{Infobox game
+| title         = Australian handball
+| italic title = no
+| image_link    = <!-- just the image name in the form [[Image:]] -->
+| image_caption = <!-- as appropriate--->
+| years         = 1847 to present<ref name=worldbookaustralia>"Handball" (article), The World Book Encyclopedia – Australasia 1970, Field Enterprises Educational Corporation, Chicago Illinois, (fieldwork assistance by Field Educational Enterprises of Australasia Pty. Ltd., North Sydney, Australia, p. 370</ref>
+| players       = One player vs another, or is in doubles – as in 2 on 2
+| setup_time    = Minimal, if any
+| random_chance = None
+| skills        = [[Fine motor skills|Manual dexterity]]<br />[[Social interaction|Social skills]]<br />[[Walking]]<br />[[Gross motor skill]]<br />Running
+}}
+__NOTOC__
+'''Australian handball''' is a sport in which players hit a ball against one or more walls.
+
+==Play==
+Australian handball is similar to [[squash (sport)|squash]] played without a racquet. The ball is served such that it makes direct contact with the front wall without having bounced on the ground. It must then be returned similarly by the opponent to the front wall before the ball bounces on the ground twice.  It may also contact side walls to or from the front wall, but once a player has struck the ball with hand, it must make contact with the front before touching the ground.
+
+The game is played in singles or doubles format. There are 1, 3 or 4 wall versions of this game. The typical Australian version is the three wall version, as most courts in Australia are set for this version. Perhaps the bulk of these playing venues are set in various private Catholic Colleges.<ref name=worldbookaustralia/><ref name=eddie/>
+
+==History and development==
+'''Australian Handball''' (similar to [[Gaelic handball|Irish]], [[Welsh handball|Welsh]] and [[American handball]])<ref name=eddie>"Eddie has a bright future at Handball" (article), City of Preston Post Times, Leader Group, Northcote, Melbourne, 18 December 1984, p. 11</ref> has been played formally in Australia, since 1923.
+
+Although its formal beginnings in Australia date from 1923,<ref name=australianhandball>{{cite web|url=http://www.handballaustralia.com.au |title=Australian Handball |publisher=Australian Handball Council |accessdate= 1 March 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20090629065049/http://www.handballaustralia.com.au/ |archivedate=29 June 2009 |df=dmy }}  Australian Handball Council, SA 2009</ref> it has been played in some capacity or another since the 19th Century.<ref name=100years>{{cite web | url = http://catalogue.nla.gov.au/Record/87070 | title = 100 years of handball in South Australia 1901–2000 | publisher = South Australian Handball Association, [Adelaide] 2000 |accessdate = 12 December 2017}}</ref> A similar game was introduced from Ireland and the first Australian Handball court was built by Melbourne hotel-keeper, Michael Lynch, in 1847.<ref name=worldbookaustralia/> Its early development has been attributed to the work of Christian Brothers' Colleges.<ref name=stbernardscollege>{{cite web|url=http://www.sbc.melb.catholic.edu.au/groups/oc/pdf/The_Strand_July_03.pdf |title=The Strand |publisher=St. Bernard's College, Essendon, Vic, Australia 2003 |accessdate=3 April 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20080722214036/http://www.sbc.melb.catholic.edu.au/groups/oc/pdf/The_Strand_July_03.pdf |archivedate=22 July 2008 |df=dmy }}(Newsletter), Vol 10. No. 2 July 2003, p. 6</ref> Over most of its history, its primary play has been in Victoria, South Australia and New South Wales. As the game continued to develop, by 1970, there were about 1,000 players registered within the New South Wales, Victorian and South Australian state associations.<ref name=worldbookaustralia/>
+
+For many decades, the Australian Handball Council has held almost annual national championships, and each state has held its own state titles.<ref name=australianhandball/> Senior titles have not been the only level of keen interest and activity, however.  During the 1950s' and 1960s, both – the Australian Singles Schoolboys Handball Championships and the Australian Doubles Schoolboys Handball Championships – were held on regular bases.  Many great champions of the past were 'blooded' on these schoolboy rivalries.<ref name=stbernardscollege/> Additionally, over many decades Australians have made regular appearances at the World Junior and World Senior Titles.<ref name=worldbookaustralia/><ref name=eddie/> Within Australia, of more recent decades, the chief rivalries have been between Victoria and South Australia. For the past three decades, the states have generally engaged in some 'midpoint' venue – usually in [[Warrnambool, Victoria]], over one weekend annually, for the national handball championships. In some areas, modern changes to school venues have meant the disappearance of the school's traditional handball courts, making it harder on handballers to access the game.<ref name=australianhandball/>
+
+The game is nationally run by the Australian Handball Council, formed in 1928,<ref name=worldbookaustralia/> of which the current Executive Director is Jim Kiley, and the Secretary/Treasurer – Greg Hay.<ref name=australianhandball/>
+
+==Notable players==
+A few highly respected names in the game's history include multi-national champions, The Legendary Jmaz, Tim Tucker and George Macris<ref name=worldbookaustralia/> in the first half of the 20th Century, and John Hughes of Victoria, Paul Fallon, NSW, Lou Ravesi, SA and Vic DeLuzio and Geoff Walsh of Victoria, in the 2nd half.<ref name=australianhandball/><ref name=stbernardscollege/><ref>{{cite web | url = http://catalogue.nla.gov.au/Record/1158406 | title = Interview with Paul Fallon, eleven times Australian handball champion | publisher = Neil Bennetts, Australia, 1983 |accessdate = 3 April 2009}}</ref>
+
+==See also==
+* [[Hack Slap]], an analogous game played with the feet instead of hands
+* [[Handball (school)]], a popular game played in schools in Australia
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Portal|Games}}
+* [http://www.handballaustralia.org.au/ Australian Handball Council]
+* [https://web.archive.org/web/20080506235503/http://www.worldhandballcouncil.com/ World Handball Council]
+
+{{DEFAULTSORT:Australian Handball}}
+
+
+
+
+

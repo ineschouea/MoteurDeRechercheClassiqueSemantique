@@ -1,0 +1,50 @@
+{{Speciesbox
+| image = Acropora nasuta by Ewa Barska - no watermark.jpg
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name=iucn>{{Cite journal | author = Richards, Z.T. | author2 = Delbeek, J.T. | author3 = Lovell, E.R. | author4 = Bass, D. | author5 = Aeby, G. | author6 = Reboton, C. | last-author-amp = yes | title = ''Acropora nasuta'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2014 | page = e.T133239A54219368 | publisher = [[IUCN]] | date = 2014 | url = http://www.iucnredlist.org/details/133239/0 | doi = 10.2305/IUCN.UK.2014-1.RLTS.T133239A54219368.en | access-date = 5 January 2018}}</ref>
+| taxon = Acropora nasuta
+| authority = ([[James Dwight Dana|Dana]], 1846)<ref name=WoRMS>{{cite WoRMS|author =Hoeksema, Bert |year=2013 |title=''Acropora nasuta'' (Dana, 1846) |id=207009 |accessdate=2014-01-12}}</ref>
+| synonyms = * ''Acropora diomedeae''<small>  Vaughan, 1906</small>
+* ''Madrepora canaliculata''<small>  Klunzinger, 1879</small>
+* ''Madrepora effusa''<small>  Dana, 1846</small>
+* ''Madrepora nasuta''<small>  Dana, 1846</small>
+| synonyms_ref = <ref name=WoRMS/>
+}}
+
+'''''Acropora nasuta''''' is a [[species]] of branching [[Scleractinia|stony]] [[coral]] in the [[Family (biology)|family]] [[Acroporidae]]. It is native to the western and central Indo-Pacific where it is found in shallow reef habitats. Like other corals of the genus ''[[Acropora]]'', it is susceptible to [[coral bleaching]] and coral diseases and the [[IUCN]] has listed it as being "[[Near Threatened]]".
+
+==Description==
+''Acropora nasuta'' is a small [[Colony (biology)|colonial]] coral that grows in clumps which tend to develop flat tops. The branches are tapering and up to {{convert|12|mm|1|abbr=on}} wide. The radial [[corallite]]s usually form neat rows, sometimes being long and slender and sometimes appressed. The axial corallites may be larger or the same size as the radial corallites. The colour of this coral is creamy-white or pale brown and the branch tips are sometimes bluish.<ref name=WoRMS/>
+<gallery>
+File:Acropora nasuta (Hard coral).jpg||Fish often hide among the branches
+File:Acropora nasuta Maldives 3.JPG| ''A. nasuta'' in the Maldives
+File:Acropora nasuta, isla Johnston.jpg| Close up
+
+</gallery>
+==Distribution and habitat==
+''Acropora nasuta'' is a common species and is found in the western and central Indo-Pacific. Its range extends from the Red Sea, the Gulf of Aden and the east coast of Africa to India, Malaysia, Japan, Indonesia and Australia. This coral grows in shallow water, between three and fifteen metres (ten and fifty feet) deep, mostly on upper reef slopes and reef edges.<ref name=iucn/>
+
+==Ecology==
+
+''Acropora nasuta'' is a [[zooxanthella]]te coral. This means that it has [[Symbiosis|symbiotic]] [[dinoflagellate]] algae living within its tissues and these employ [[photosynthesis]] to make complex carbohydrates from which the coral benefits. Besides this, the coral gets nourishment from the [[polyp]]s which project from the corallites at night and extend their [[tentacle]]s to feed on [[plankton]]. There are usually [[barnacle]]s of several species growing on the branches of the coral and certain species of small [[fish]], [[crab]]s and [[shrimp]]s live permanently among the branches.<ref name=Wallace>{{cite book |title=Staghorn Corals of the World: A Revision of the Genus ''Acropora'' |last=Wallace |first=Carden |year=1999 |publisher=Csiro Publishing |isbn=0643102817 |url=https://books.google.com/books?hl=en&lr=&id=MSUKr0vP3lQC&oi=fnd&pg=PP23&dq=Acropora+secale&ots=afu5z3Vjny&sig=aHgm_ImhkbvxDwnDSvXMDE8ZKCo }}</ref> The [[crown-of-thorns starfish]] (''Acanthaster planci'') preferentially feeds on ''Acropora'' species corals.<ref name=iucn/>
+
+==Status==
+The main threat affecting ''Acropora nasuta'' is the destruction of the coral reefs where it lives. Although relatively common, it is a shallow water species and susceptible to [[Coral bleaching|bleaching]] and coral diseases. It is also collected for the [[reef aquarium]] trade. Corals in general are expected to be impacted by rising sea temperatures and [[ocean acidification]]. For these reasons, the [[IUCN]] has listed ''Acropora nasuta'' as being "[[Near Threatened]]".<ref name=iucn/>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q342821}}
+
+
+
+
+
+
+
+
+
+
+
+

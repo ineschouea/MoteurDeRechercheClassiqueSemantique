@@ -1,0 +1,58 @@
+{{Short description|species of wrasse fish}}
+{{Taxobox
+| name = ''Choerodon schoenleinii''
+| image = File:FMIB 47481 Choerops schoenleini.jpeg
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref>Fairclough, D. & Nakazono, A. (Grouper & Wrasse Specialist Group) 2004. ''[http://www.iucnredlist.org/details/44669/0 Choerodon schoenleinii]''. In: IUCN 2013. IUCN Red List of Threatened Species. Version 2013.1. <[http://www.iucnredlist.org www.iucnredlist.org]  {{webarchive|url=https://web.archive.org/web/20140627000000/http://www.iucnredlist.org/ |date=June 27, 2014  }}>. Downloaded on 02 November 2013.</ref>
+| trend = unknown
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[Actinopterygii]]
+| ordo = [[Perciformes]]
+| subordo = [[Labroidei]]
+| familia = [[Labridae]]
+| genus = ''[[Choerodon]]''
+| species = '''''C. schoenleinii'''''
+| binomial = ''Choerodon schoenleinii''
+| binomial_authority = ([[Achille Valenciennes|Valenciennes]], 1839)
+| synonyms = Several, See text
+}}
+
+The '''blackspot tuskfish''', ''Choerodon schoenleinii'', is a [[wrasse]] native to the [[Indian Ocean]] and the western [[Pacific Ocean]] from [[Mauritius]] to [[Indonesia]] and [[Australia]] north to the [[Ryukyus]].  This species occurs on [[reefs]], preferring areas with sandy substrates or areas of weed growth.  It can be found at depths from {{convert|10|to|60|m|ft|abbr=on}}, though rarely deeper than {{convert|20|m|ft|abbr=on}}.  It can reach {{convert|100|cm|in|abbr=on}} in [[fish measurement|TL]], and the greatest published weight for this species is {{convert|15.5|kg|lb|abbr=on}}.  It is important to local [[commercial fisheries]] and is also [[aquaculture|farmed]].  It is popular as a [[game fish]] and can be found in the [[aquarium]] trade.<ref>{{FishBase species |genus= Choerodon|species= schoenleinii| month = August | year = 2013}}</ref>
+
+In Hong Kong, its Cantonese name, '''tsing yi''' ([[Cantonese]]:??), has been given to an island (see [[Tsing Yi]]).
+
+==Documentation of tool use==
+In July 2011, a professional diver photographed a blackspot tuskfish bashing a clam on a rock to break the shell, apparently a use of the rock as a tool, the first documented example of tool use in [[Osteichthyes]].<ref name=tooluse>{{cite web|last=Brown|first=Mark|title=Diver captures first image of fish using tools|url=https://www.wired.com/2011/07/fish-tool-use/|work=Wired Magazine|publisher=Condé Nast Publications|accessdate=12 July 2011|date=July 11, 2011|quote="Tool use in fish, however, is much more rare, and there's never been any photo or video evidence to prove it -- until now."}}</ref>
+
+==Synonyms==
+These described species have been determined to be junior synonyms of ''C. schoenleinii'':
+* ''Cossyphus schoenleinii'' <small>Valenciennes, 1839</small>
+* ''Cossyphus cyanostolus'' <small>J. Richardson, 1846</small>
+* ''Choerodon cyanostolus'' <small>(J. Richardson, 1846)</small>
+* ''Cossyphus ommopterus'' <small>J. Richardson, 1846</small>
+* ''Choerops unimaculatus'' <small>Cartier, 1874</small>
+* ''Torresia australis'' <small>Castelnau, 1875</small>
+* ''Chaerops notatus'' <small>Alleyne & Macleay, 1877</small>
+* ''Torresia lineata'' <small>De Vis, 1885</small>
+* ''Choerops nyctemblema'' <small>D. S. Jordan & Evermann, 1902</small>
+* ''Choerodon rubidus'' <small>T. D. Scott, 1959</small>
+* ''Choerodon quadrifasciatus'' <small>M. J. Yu, 1968</small>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q521677}}
+
+{{DEFAULTSORT:Blackspot Tuskfish}}
+
+
+
+
+
+
+
+
+
+{{Labridae-stub}}

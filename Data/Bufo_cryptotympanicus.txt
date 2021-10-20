@@ -1,0 +1,37 @@
+{{Italic title}}
+{{Taxobox
+| name = ''Bufo cryptotympanicus''
+| image = 
+| status = NT 
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{Cite journal | author = Bain. R., Ohler | author2 = A., Lau | author3 = M.W.N. | author4 = Yuan, Z. | last-author-amp = yes | title = ''Bufo cryptotympanicus'' | journal = [[The IUCN Red List of Threatened Species]] | volume = 2004 | page = e.T54622A11176315 | publisher = [[IUCN]] | date = 2004 | url = http://www.iucnredlist.org/details/54622/0 | doi = 10.2305/IUCN.UK.2004.RLTS.T54622A11176315.en | access-date = 13 January 2018}}</ref>
+| regnum = [[Animal]]ia
+| phylum = [[Chordata]]
+| classis = [[Amphibia]]
+| ordo = [[Frog|Anura]]
+| familia = [[Bufonidae]]
+| genus = ''[[Bufo]]''
+| species = '''''B. cryptotympanicus'''''
+| binomial = ''Bufo cryptotympanicus''
+| binomial_authority = Liu & Hu, 1962
+| synonyms = 
+}}
+
+'''''Bufo cryptotympanicus''''' is a [[species]] of [[toad]] in the family [[Bufonidae]]. Known commonly as the '''earless toad''', it is found in southern [[China]] ([[Guangxi]] and [[Guangdong]] provinces) and northern [[Vietnam]] (on/near [[Fansipan|Mount Fansipan]]). Its natural [[habitat]]s are [[subtropical]] or [[tropical]] moist lowland [[forest]]s, [[river]]s, [[swamp]]s, freshwater [[marsh]]es, and intermittent freshwater marshes. It is threatened by [[habitat loss]].<ref name=IUCN/>
+
+Earless toad is about {{convert|68|mm|abbr=on}} in length.<ref>{{cite book |title=Atlas of Amphibians of China |last=Fei |first=L. |year=1999 |publisher=Henan Press of Science and Technology |location=Zhengzhou | language = Chinese |isbn=7-5349-1835-9 |page=126}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q1946179}}
+
+
+
+
+
+
+
+
+
+{{Bufonidae-stub}}

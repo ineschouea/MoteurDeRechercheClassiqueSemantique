@@ -1,0 +1,28 @@
+{{speciesbox
+| name = Cuban evening bat
+| image =
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name=iucn>{{cite iucn | last1= Solari | first1= S.| year= 2018 | title = ''Nycticeius cubanus'' | journal = [[IUCN Red List of Threatened Species]] | volume= 2018 | page = e.T136386A22013782 | publisher = [[IUCN]] | url = https://www.iucnredlist.org/species/136386/22013782 | accessdate = 28 January 2019 | doi = 10.2305/IUCN.UK.2018-2.RLTS.T136386A22013782.en}}</ref>
+| genus = Nycticeius
+| species = cubanus
+| authority = [[Juan Gundlach|Gundlach]], 1861 <ref>[https://www.biolib.cz/cz/taxon/id301803/ Biolib.CZ]</ref>
+| synonyms =
+}}
+
+The '''Cuban evening bat''' (''Nycticeius cubanus'') is a species of [[bat]] in the [[vesper bat]] family, Vespertilionidae,<ref name = MSW3>{{MSW3 Chiroptera | id = 13801925 | page = 462}}</ref> that is [[endemism|endemic]] to western [[Cuba]].<ref name=iucn/> It is a small bat, even smaller than [[Nycticeius|cogener]] ''[[Nycticeius humeralis]]''. It is [[insectivorous]], but otherwise little is known about its behavior and diet.<ref name=iucn />
+
+==References==
+{{Reflist}}
+
+{{Vespertilionidae|V.|N.}}
+
+{{Taxonbar|from=Q1831764}}
+
+
+
+
+
+
+
+
